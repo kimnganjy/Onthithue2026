@@ -1,0 +1,2202 @@
+{
+  "topic": "Thuế TNDN",
+  "total": 200,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Phạm vi điều chỉnh của Luật Thuế thu nhập doanh nghiệp 2025 bao gồm:",
+      "options": [
+        "Người nộp thuế, thu nhập chịu thuế, thu nhập được miễn thuế, căn cứ tính thuế, phương pháp tính thuế và ưu đãi thuế.",
+        "Chỉ người nộp thuế và thuế suất.",
+        "Chỉ ưu đãi thuế và miễn giảm thuế.",
+        "Chỉ thu nhập chịu thuế và thu nhập miễn thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Người nộp thuế thu nhập doanh nghiệp bao gồm:",
+      "options": [
+        "Tổ chức hoạt động sản xuất, kinh doanh có thu nhập chịu thuế.",
+        "Chỉ doanh nghiệp nhà nước.",
+        "Chỉ doanh nghiệp có vốn đầu tư nước ngoài.",
+        "Chỉ hợp tác xã."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Doanh nghiệp nước ngoài có cơ sở thường trú tại Việt Nam nộp thuế đối với:",
+      "options": [
+        "Thu nhập chịu thuế phát sinh tại Việt Nam và thu nhập chịu thuế phát sinh ngoài Việt Nam liên quan đến hoạt động của cơ sở thường trú.",
+        "Chỉ thu nhập phát sinh tại nước ngoài.",
+        "Chỉ thu nhập từ hoạt động đầu tư tài chính.",
+        "Chỉ thu nhập từ chuyển nhượng vốn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Cơ sở thường trú của doanh nghiệp nước ngoài không bao gồm:",
+      "options": [
+        "Nhà ở riêng của nhân viên.",
+        "Chi nhánh, văn phòng điều hành.",
+        "Địa điểm xây dựng, công trình xây dựng.",
+        "Nền tảng thương mại điện tử."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Thu nhập chịu thuế từ hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ được xác định bằng:",
+      "options": [
+        "Doanh thu trừ các khoản chi được trừ cộng thu nhập khác.",
+        "Tổng doanh thu không trừ chi phí.",
+        "Chỉ doanh thu từ bán hàng.",
+        "Chỉ thu nhập từ hoạt động tài chính."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Thu nhập được miễn thuế bao gồm:",
+      "options": [
+        "Thu nhập từ đánh bắt hải sản.",
+        "Thu nhập từ kinh doanh bất động sản.",
+        "Thu nhập từ hoạt động tài chính.",
+        "Thu nhập từ chuyển nhượng vốn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Kỳ tính thuế thu nhập doanh nghiệp được xác định theo:",
+      "options": [
+        "Năm dương lịch hoặc năm tài chính do doanh nghiệp lựa chọn.",
+        "Chỉ năm dương lịch.",
+        "Chỉ năm tài chính.",
+        "Theo quý."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "Căn cứ tính thuế thu nhập doanh nghiệp là:",
+      "options": [
+        "Thu nhập tính thuế và thuế suất.",
+        "Chỉ doanh thu.",
+        "Chỉ chi phí.",
+        "Chỉ lợi nhuận sau thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Thu nhập tính thuế được xác định bằng:",
+      "options": [
+        "Thu nhập chịu thuế - (thu nhập được miễn thuế + các khoản lỗ được kết chuyển).",
+        "Chỉ thu nhập chịu thuế.",
+        "Chỉ doanh thu.",
+        "Chỉ lợi nhuận trước thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Doanh nghiệp có nhiều hoạt động sản xuất, kinh doanh thì thu nhập chịu thuế là:",
+      "options": [
+        "Tổng thu nhập của tất cả các hoạt động.",
+        "Chỉ thu nhập từ hoạt động chính.",
+        "Chỉ thu nhập từ hoạt động có lãi.",
+        "Chỉ thu nhập từ hoạt động mới."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "Doanh thu để tính thu nhập chịu thuế bao gồm:",
+      "options": [
+        "Toàn bộ tiền bán hàng, tiền gia công, tiền cung ứng dịch vụ kể cả trợ giá, phụ thu, phụ trội.",
+        "Chỉ tiền đã thu được.",
+        "Chỉ tiền bán hàng.",
+        "Chỉ tiền cung ứng dịch vụ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Khoản chi được trừ khi xác định thu nhập chịu thuế phải đáp ứng điều kiện:",
+      "options": [
+        "Thực tế phát sinh liên quan đến hoạt động sản xuất, kinh doanh.",
+        "Chỉ cần có hóa đơn.",
+        "Không cần chứng từ.",
+        "Chỉ chi cho người lao động."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Khoản chi không được trừ khi xác định thu nhập chịu thuế bao gồm:",
+      "options": [
+        "Tiền phạt do vi phạm hành chính.",
+        "Chi lương cho người lao động.",
+        "Chi mua nguyên vật liệu.",
+        "Chi khấu hao tài sản cố định."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Thuế suất thuế thu nhập doanh nghiệp phổ thông là:",
+      "options": [
+        "20%.",
+        "15%.",
+        "17%.",
+        "25%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "Thuế suất 15% áp dụng cho doanh nghiệp có tổng doanh thu năm không quá:",
+      "options": [
+        "03 tỷ đồng.",
+        "05 tỷ đồng.",
+        "10 tỷ đồng.",
+        "50 tỷ đồng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "Thuế suất 17% áp dụng cho doanh nghiệp có tổng doanh thu năm từ trên 03 tỷ đến không quá:",
+      "options": [
+        "50 tỷ đồng.",
+        "100 tỷ đồng.",
+        "200 tỷ đồng.",
+        "500 tỷ đồng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Thuế suất đối với hoạt động thăm dò, khai thác tài nguyên quý hiếm là:",
+      "options": [
+        "50%.",
+        "40%.",
+        "30%.",
+        "25%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Phương pháp tính thuế thu nhập doanh nghiệp phổ biến là:",
+      "options": [
+        "Thu nhập tính thuế nhân với thuế suất.",
+        "Doanh thu nhân với thuế suất.",
+        "Chi phí nhân với thuế suất.",
+        "Lợi nhuận trước thuế nhân với thuế suất."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Doanh nghiệp được hưởng ưu đãi thuế theo:",
+      "options": [
+        "Ngành, nghề và địa bàn ưu đãi.",
+        "Chỉ theo quy mô doanh nghiệp.",
+        "Chỉ theo thời gian hoạt động.",
+        "Chỉ theo loại hình doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Ngành, nghề ưu đãi thuế bao gồm:",
+      "options": [
+        "Ứng dụng công nghệ cao.",
+        "Kinh doanh bất động sản.",
+        "Hoạt động tài chính ngân hàng.",
+        "Kinh doanh casino."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "Địa bàn ưu đãi thuế bao gồm:",
+      "options": [
+        "Địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn.",
+        "Chỉ các thành phố lớn.",
+        "Chỉ khu công nghiệp.",
+        "Chỉ vùng ven biển."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "Thuế suất ưu đãi 10% trong 15 năm áp dụng cho:",
+      "options": [
+        "Dự án đầu tư mới thuộc ngành công nghệ cao.",
+        "Mọi doanh nghiệp mới thành lập.",
+        "Chỉ doanh nghiệp nhà nước.",
+        "Chỉ doanh nghiệp có vốn đầu tư nước ngoài."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Thuế suất 10% áp dụng cho:",
+      "options": [
+        "Thu nhập của hợp tác xã hoạt động trong lĩnh vực nông nghiệp.",
+        "Thu nhập từ kinh doanh bất động sản.",
+        "Thu nhập từ hoạt động tài chính.",
+        "Thu nhập từ chuyển nhượng vốn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "Thuế suất 15% áp dụng cho:",
+      "options": [
+        "Thu nhập từ hoạt động chế biến nông sản không thuộc địa bàn ưu đãi.",
+        "Thu nhập từ hoạt động thăm dò dầu khí.",
+        "Thu nhập từ kinh doanh casino.",
+        "Thu nhập từ chuyển nhượng bất động sản."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Thuế suất 17% trong 10 năm áp dụng cho:",
+      "options": [
+        "Dự án đầu tư mới thuộc ngành sản xuất thép cao cấp.",
+        "Mọi doanh nghiệp mới thành lập.",
+        "Chỉ doanh nghiệp nhà nước.",
+        "Chỉ doanh nghiệp có vốn đầu tư nước ngoài."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Thời gian áp dụng thuế suất ưu đãi được tính từ:",
+      "options": [
+        "Năm đầu tiên dự án có doanh thu.",
+        "Năm thành lập doanh nghiệp.",
+        "Năm có lợi nhuận.",
+        "Năm kết thúc đầu tư."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "Miễn thuế tối đa 04 năm và giảm 50% số thuế phải nộp tối đa 09 năm tiếp theo áp dụng cho:",
+      "options": [
+        "Thu nhập của doanh nghiệp từ dự án đầu tư mới thuộc ngành công nghệ cao.",
+        "Mọi doanh nghiệp mới thành lập.",
+        "Chỉ doanh nghiệp nhà nước.",
+        "Chỉ doanh nghiệp có vốn đầu tư nước ngoài."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "Miễn thuế tối đa 02 năm và giảm 50% số thuế phải nộp tối đa 04 năm tiếp theo áp dụng cho:",
+      "options": [
+        "Thu nhập của doanh nghiệp từ dự án đầu tư mới tại địa bàn có điều kiện khó khăn.",
+        "Thu nhập từ kinh doanh bất động sản.",
+        "Thu nhập từ hoạt động tài chính.",
+        "Thu nhập từ chuyển nhượng vốn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Doanh nghiệp sản xuất, xây dựng, vận tải sử dụng nhiều lao động nữ được giảm thuế thu nhập doanh nghiệp bằng:",
+      "options": [
+        "Số chi thêm cho lao động nữ.",
+        "50% số thuế phải nộp.",
+        "Toàn bộ số thuế phải nộp.",
+        "Không được giảm thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Doanh nghiệp sử dụng nhiều lao động là người dân tộc thiểu số được giảm thuế bằng:",
+      "options": [
+        "Số chi thêm cho lao động là người dân tộc thiểu số.",
+        "50% số thuế phải nộp.",
+        "Toàn bộ số thuế phải nộp.",
+        "Không được giảm thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 31,
+      "question": "Doanh nghiệp thành lập mới từ hộ kinh doanh được miễn thuế trong:",
+      "options": [
+        "02 năm liên tục kể từ khi có thu nhập chịu thuế.",
+        "01 năm.",
+        "03 năm.",
+        "04 năm."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Doanh nghiệp có lỗ được chuyển lỗ sang năm sau tối đa:",
+      "options": [
+        "05 năm.",
+        "03 năm.",
+        "07 năm.",
+        "10 năm."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Doanh nghiệp được trích tối đa bao nhiêu % thu nhập tính thuế hàng năm để lập Quỹ phát triển khoa học và công nghệ:",
+      "options": [
+        "20%.",
+        "15%.",
+        "10%.",
+        "25%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Quỹ phát triển khoa học và công nghệ phải sử dụng ít nhất bao nhiêu % trong thời hạn 05 năm:",
+      "options": [
+        "70%.",
+        "50%.",
+        "80%.",
+        "90%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Ưu đãi thuế không áp dụng cho thu nhập từ:",
+      "options": [
+        "Chuyển nhượng vốn.",
+        "Sản xuất nông nghiệp.",
+        "Ứng dụng công nghệ cao.",
+        "Giáo dục đào tạo."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "Thuế suất 15% và 17% không áp dụng cho:",
+      "options": [
+        "Thu nhập từ chuyển nhượng bất động sản.",
+        "Thu nhập từ sản xuất nông nghiệp.",
+        "Thu nhập từ giáo dục đào tạo.",
+        "Thu nhập từ y tế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "Luật Thuế thu nhập doanh nghiệp số 67/2025/QH15 có hiệu lực kể từ ngày tháng năm nào:",
+      "options": [
+        "01/10/2025.",
+        "01/01/2025.",
+        "01/07/2025.",
+        "01/12/2025."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Luật Thuế thu nhập doanh nghiệp số 14/2008/QH12 hết hiệu lực kể từ:",
+      "options": [
+        "01/10/2025.",
+        "01/01/2025.",
+        "01/07/2025.",
+        "01/12/2025."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Doanh nghiệp có dự án đầu tư được hưởng ưu đãi theo quy định cũ được quyền:",
+      "options": [
+        "Lựa chọn hưởng ưu đãi theo quy định cũ hoặc mới.",
+        "Chỉ hưởng theo quy định cũ.",
+        "Chỉ hưởng theo quy định mới.",
+        "Không được hưởng ưu đãi."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Doanh nghiệp nước ngoài không có cơ sở thường trú tại Việt Nam nộp thuế đối với:",
+      "options": [
+        "Thu nhập chịu thuế phát sinh tại Việt Nam.",
+        "Thu nhập phát sinh toàn cầu.",
+        "Chỉ thu nhập từ đầu tư tài chính.",
+        "Chỉ thu nhập từ chuyển nhượng vốn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Thu nhập từ chuyển nhượng chứng chỉ giảm phát thải được:",
+      "options": [
+        "Miễn thuế.",
+        "Chịu thuế suất 20%.",
+        "Chịu thuế suất 15%.",
+        "Chịu thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Thu nhập từ hoạt động giáo dục nghề nghiệp cho người dân tộc thiểu số được:",
+      "options": [
+        "Miễn thuế.",
+        "Chịu thuế suất 20%.",
+        "Chịu thuế suất 15%.",
+        "Chịu thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Khoản tài trợ nhận được để sử dụng cho hoạt động từ thiện được:",
+      "options": [
+        "Miễn thuế.",
+        "Chịu thuế suất 20%.",
+        "Chịu thuế suất 15%.",
+        "Chịu thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Doanh nghiệp có từ 30% lao động là người khuyết tật được:",
+      "options": [
+        "Miễn thuế.",
+        "Chịu thuế suất 20%.",
+        "Chịu thuế suất 15%.",
+        "Chịu thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Thu nhập từ hoạt động sản xuất thử nghiệm được miễn thuế tối đa:",
+      "options": [
+        "03 năm.",
+        "02 năm.",
+        "04 năm.",
+        "05 năm."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Thu nhập từ việc thực hiện dịch vụ kỹ thuật trực tiếp phục vụ nông nghiệp được:",
+      "options": [
+        "Miễn thuế.",
+        "Chịu thuế suất 20%.",
+        "Chịu thuế suất 15%.",
+        "Chịu thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Khoản chênh lệch do đánh giá lại tài sản theo quy định của pháp luật để cổ phần hóa, sắp xếp lại doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ được:",
+      "options": [
+        "Miễn thuế.",
+        "Chịu thuế suất 20%.",
+        "Chịu thuế suất 15%.",
+        "Chịu thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Doanh nghiệp phải hạch toán riêng thu nhập được ưu đãi thuế với thu nhập không được ưu đãi, nếu không hạch toán riêng được thì xác định theo:",
+      "options": [
+        "Tỷ lệ doanh thu hoặc chi phí.",
+        "Chỉ doanh thu.",
+        "Chỉ chi phí.",
+        "Theo quyết định của cơ quan thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Thuế suất ưu đãi đối với dự án có thể được kéo dài thêm tối đa:",
+      "options": [
+        "15 năm.",
+        "10 năm.",
+        "05 năm.",
+        "20 năm."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Thời gian miễn thuế, giảm thuế được tính từ năm đầu tiên có thu nhập chịu thuế, nếu không có thu nhập trong 03 năm đầu thì tính từ:",
+      "options": [
+        "Năm thứ 4.",
+        "Năm thứ 5.",
+        "Năm thứ 5.",
+        "Năm thứ 2."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "Doanh nghiệp đầu tư mở rộng được hưởng ưu đãi thuế nếu:",
+      "options": [
+        "Nguyên giá tài sản cố định, công suất thiết kế tăng tối thiểu 20%.",
+        "Chỉ cần mở rộng quy mô.",
+        "Không cần đáp ứng tiêu chí.",
+        "Chỉ cần tăng doanh thu."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Ưu đãi thuế không áp dụng cho trường hợp đầu tư mở rộng do:",
+      "options": [
+        "Sáp nhập, mua lại doanh nghiệp.",
+        "Đầu tư mới.",
+        "Nâng cao công suất.",
+        "Đổi mới công nghệ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Doanh nghiệp chuyển giao công nghệ thuộc lĩnh vực ưu tiên cho địa bàn khó khăn được giảm:",
+      "options": [
+        "50% số thuế tính trên phần thu nhập từ chuyển giao công nghệ.",
+        "100% số thuế.",
+        "30% số thuế.",
+        "70% số thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "Thu nhập của Ngân hàng Phát triển Việt Nam từ hoạt động tín dụng đầu tư phát triển được:",
+      "options": [
+        "Miễn thuế.",
+        "Chịu thuế suất 20%.",
+        "Chịu thuế suất 15%.",
+        "Chịu thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Thu nhập của đơn vị sự nghiệp công lập từ cung cấp dịch vụ sự nghiệp công cơ bản được:",
+      "options": [
+        "Miễn thuế.",
+        "Chịu thuế suất 20%.",
+        "Chịu thuế suất 15%.",
+        "Chịu thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Phần thu nhập không chia của cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục để lại đầu tư phát triển được:",
+      "options": [
+        "Miễn thuế.",
+        "Chịu thuế suất 20%.",
+        "Chịu thuế suất 15%.",
+        "Chịu thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "Khoản chi cho nghiên cứu khoa học và phát triển công nghệ được:",
+      "options": [
+        "Trừ khi xác định thu nhập chịu thuế.",
+        "Không được trừ.",
+        "Chỉ được trừ 50%.",
+        "Chỉ được trừ nếu có văn bản chấp thuận."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Khoản chi phí liên quan đến giảm phát thải khí nhà kính được:",
+      "options": [
+        "Trừ khi xác định thu nhập chịu thuế.",
+        "Không được trừ.",
+        "Chỉ được trừ 50%.",
+        "Chỉ được trừ nếu có chứng nhận."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Khoản chi trả lãi tiền vay vượt mức quy định của Bộ luật Dân sự:",
+      "options": [
+        "Không được trừ.",
+        "Được trừ toàn bộ.",
+        "Được trừ 50%.",
+        "Được trừ nếu có hợp đồng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Thuế giá trị gia tăng đầu vào đã được khấu trừ:",
+      "options": [
+        "Không được tính vào chi phí được trừ.",
+        "Được tính toàn bộ.",
+        "Được tính 50%.",
+        "Được tính nếu có hóa đơn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Doanh nghiệp có hoạt động sản xuất, kinh doanh bị lỗ thì được:",
+      "options": [
+        "Bù trừ số lỗ vào thu nhập chịu thuế của hoạt động có thu nhập.",
+        "Không được bù trừ.",
+        "Chỉ được bù trừ 50% số lỗ.",
+        "Chỉ được bù trừ nếu có quyết định của cơ quan thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "Thu nhập từ chuyển nhượng dự án thăm dò, khai thác khoáng sản phải:",
+      "options": [
+        "Xác định riêng, không được bù trừ lỗ lãi với hoạt động khác.",
+        "Được bù trừ với mọi hoạt động.",
+        "Chỉ được bù trừ 50%.",
+        "Không phải kê khai riêng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "Doanh nghiệp Việt Nam đầu tư ở nước ngoài được trừ số thuế đã nộp ở nước ngoài nhưng không được vượt quá số thuế phải nộp tại Việt Nam tính theo:",
+      "options": [
+        "Quy định của pháp luật Việt Nam.",
+        "Quy định của nước ngoài.",
+        "Theo tỷ lệ 50%.",
+        "Theo thỏa thuận song phương."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Doanh nghiệp phải nộp thuế thu nhập doanh nghiệp bổ sung về tổng hợp thu nhập chịu thuế tối thiểu (IIR) thì số thuế bổ sung được:",
+      "options": [
+        "Trừ vào số thuế phải nộp tại Việt Nam.",
+        "Nộp riêng, không được trừ.",
+        "Chỉ được trừ 50%.",
+        "Được hoàn thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Thu nhập chịu thuế phát sinh tại Việt Nam của doanh nghiệp nước ngoài không có cơ sở thường trú là thu nhập:",
+      "options": [
+        "Có nguồn gốc từ Việt Nam.",
+        "Phát sinh toàn cầu.",
+        "Chỉ từ hoạt động đầu tư.",
+        "Chỉ từ chuyển nhượng vốn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Doanh nghiệp nước ngoài có cơ sở thường trú nộp thuế đối với thu nhập chịu thuế phát sinh tại Việt Nam không liên quan đến hoạt động của cơ sở thường trú theo quy định tại:",
+      "options": [
+        "Điểm c khoản 2 Điều 2.",
+        "Điểm a khoản 2 Điều 2.",
+        "Điểm b khoản 2 Điều 2.",
+        "Điểm d khoản 2 Điều 2."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Đại lý cho doanh nghiệp nước ngoài được coi là:",
+      "options": [
+        "Cơ sở thường trú.",
+        "Không phải cơ sở thường trú.",
+        "Chỉ là đại diện ủy quyền.",
+        "Chỉ là bên trung gian."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Thu nhập từ chuyển nhượng bất động sản của doanh nghiệp kinh doanh bất động sản:",
+      "options": [
+        "Là thu nhập chịu thuế.",
+        "Được miễn thuế.",
+        "Chịu thuế suất 10%.",
+        "Chịu thuế suất 15%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Thu nhập từ chuyển nhượng bất động sản (trừ doanh nghiệp kinh doanh bất động sản) được xếp vào:",
+      "options": [
+        "Thu nhập khác.",
+        "Thu nhập từ hoạt động sản xuất kinh doanh.",
+        "Thu nhập được miễn thuế.",
+        "Thu nhập không chịu thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Khoản nợ khó đòi đã xóa nay đòi được được xếp vào:",
+      "options": [
+        "Thu nhập khác.",
+        "Thu nhập khác.",
+        "Thu nhập miễn thuế.",
+        "Không phải kê khai."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 71,
+      "question": "Chênh lệch do đánh giá lại tài sản để góp vốn, điều chuyển khi sáp nhập được xếp vào:",
+      "options": [
+        "Thu nhập khác.",
+        "Thu nhập khác.",
+        "Thu nhập miễn thuế.",
+        "Không phải kê khai."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 72,
+      "question": "Thu nhập từ hoạt động sản xuất, kinh doanh ở nước ngoài của doanh nghiệp Việt Nam:",
+      "options": [
+        "Là thu nhập chịu thuế.",
+        "Được miễn thuế.",
+        "Chỉ chịu thuế ở nước ngoài.",
+        "Chỉ chịu thuế ở nước ngoài."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 73,
+      "question": "Thu nhập của đơn vị sự nghiệp công lập từ hoạt động cho thuê tài sản công:",
+      "options": [
+        "Là thu nhập chịu thuế.",
+        "Được miễn thuế.",
+        "Chỉ chịu thuế 50%.",
+        "Không phải kê khai."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 74,
+      "question": "Khoản trích trước vào chi phí nhưng không sử dụng hết mà doanh nghiệp không hạch toán điều chỉnh giảm chi phí được trừ thì được xếp vào:",
+      "options": [
+        "Thu nhập khác.",
+        "Chi phí được trừ.",
+        "Thu nhập miễn thuế.",
+        "Không phải kê khai."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 75,
+      "question": "Chênh lệch giữa thu về tiền phạt, tiền bồi thường do vi phạm hợp đồng kinh tế được xếp vào:",
+      "options": [
+        "Thu nhập khác.",
+        "Chi phí được trừ.",
+        "Thu nhập miễn thuế.",
+        "Không phải kê khai."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 76,
+      "question": "Các khoản tài trợ, tặng cho bằng tiền hoặc hiện vật nhận được được xếp vào:",
+      "options": [
+        "Thu nhập khác.",
+        "Chi phí được trừ.",
+        "Thu nhập miễn thuế.",
+        "Không phải kê khai."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 77,
+      "question": "Thu nhập từ hợp đồng hợp tác kinh doanh được xếp vào:",
+      "options": [
+        "Thu nhập khác.",
+        "Chi phí được trừ.",
+        "Thu nhập miễn thuế.",
+        "Không phải kê khai."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 78,
+      "question": "Khoản tài trợ nhận được sử dụng không đúng mục đích thì doanh nghiệp bị:",
+      "options": [
+        "Truy thu thuế và xử phạt.",
+        "Chỉ cảnh cáo.",
+        "Chỉ truy thu thuế.",
+        "Không bị xử lý."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 79,
+      "question": "Khoản chênh lệch do đánh giá lại tài sản để cổ phần hóa doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ được:",
+      "options": [
+        "Miễn thuế.",
+        "Chịu thuế suất 20%.",
+        "Chịu thuế suất 15%.",
+        "Chịu thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 80,
+      "question": "Thu nhập từ tiền lãi trái phiếu xanh được:",
+      "options": [
+        "Miễn thuế.",
+        "Chịu thuế suất 20%.",
+        "Chịu thuế suất 15%.",
+        "Chịu thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 81,
+      "question": "Phần thu nhập hình thành quỹ chung không chia của hợp tác xã được:",
+      "options": [
+        "Miễn thuế.",
+        "Chịu thuế suất 20%.",
+        "Chịu thuế suất 15%.",
+        "Chịu thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "Kỳ tính thuế đối với doanh nghiệp nước ngoài không có cơ sở thường trú thực hiện theo:",
+      "options": [
+        "Quy định của pháp luật về quản lý thuế.",
+        "Năm dương lịch.",
+        "Năm tài chính.",
+        "heo từng giao dịch."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 83,
+      "question": "Doanh nghiệp lựa chọn năm tài chính khác năm dương lịch phải thông báo với:",
+      "options": [
+        "Cơ quan thuế quản lý trực tiếp.",
+        "Bộ Tài chính.",
+        "UBND tỉnh.",
+        "Không cần thông báo."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 84,
+      "question": "Các khoản chi phải có đủ hóa đơn, chứng từ thanh toán không dùng tiền mặt, trừ:",
+      "options": [
+        "Các trường hợp đặc thù theo quy định của Chính phủ.",
+        "Mọi trường hợp.",
+        "Chỉ chi nhỏ hơn 1 triệu đồng.",
+        "Chỉ chi cho người lao động."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 85,
+      "question": "Khoản chi vượt mức quy định đối với chi phí quản lý kinh doanh do doanh nghiệp nước ngoài phân bổ cho cơ sở thường trú tại Việt Nam:",
+      "options": [
+        "Không được trừ.",
+        "Được trừ toàn bộ.",
+        "Được trừ 50%.",
+        "Được trừ nếu có văn bản giải trình."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 86,
+      "question": "Khoản trích lập dự phòng không đúng hoặc vượt mức quy định:",
+      "options": [
+        "Không được trừ.",
+        "Được trừ toàn bộ.",
+        "Được trừ 50%.",
+        "Được trừ nếu có quyết định của HĐQT."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 87,
+      "question": "Khoản trích khấu hao tài sản cố định không đúng hoặc vượt mức quy định:",
+      "options": [
+        "Không được trừ.",
+        "Được trừ toàn bộ.",
+        "Được trừ 50%.",
+        "Được trừ nếu có báo cáo kiểm toán."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 88,
+      "question": "Tiền lương của chủ doanh nghiệp tư nhân:",
+      "options": [
+        "Không được trừ.",
+        "Được trừ toàn bộ.",
+        "Được trừ 50%.",
+        "Được trừ nếu có hợp đồng lao động."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 89,
+      "question": "Phần chi trả lãi tiền vay tương ứng với phần vốn điều lệ còn thiếu:",
+      "options": [
+        "Không được trừ.",
+        "Được trừ toàn bộ.",
+        "Được trừ 50%.",
+        "Được trừ nếu có văn bản của ngân hàng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 90,
+      "question": "Phần chi phí được phép thu hồi vượt quá tỷ lệ quy định tại hợp đồng dầu khí:",
+      "options": [
+        "Không được tính vào chi phí được trừ.",
+        "Được tính toàn bộ.",
+        "Được tính 50%.",
+        "Được tính nếu có phê duyệt."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 91,
+      "question": "Khoản chi không tương ứng với doanh thu tính thuế:",
+      "options": [
+        "Không được trừ.",
+        "Được trừ toàn bộ.",
+        "Được trừ 50%.",
+        "Được trừ nếu có giải trình."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 92,
+      "question": "Chi về đầu tư xây dựng cơ bản trong giai đoạn đầu tư để hình thành tài sản cố định:",
+      "options": [
+        "Không được trừ.",
+        "Được trừ toàn bộ.",
+        "Được trừ 50%.",
+        "Được trừ khi hoàn thành."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Các khoản chi của hoạt động ngân hàng không đúng hoặc vượt mức quy định:",
+      "options": [
+        "Không được trừ.",
+        "Được trừ toàn bộ.",
+        "Được trừ 50%.",
+        "Được trừ nếu có quyết định của NHNN."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 94,
+      "question": "Doanh nghiệp có tổng doanh thu năm không quá 03 tỷ đồng xác định được doanh thu nhưng không xác định được chi phí thì thuế phải nộp tính theo:",
+      "options": [
+        "Tỷ lệ % trên doanh thu.",
+        "Thuế suất 20%.",
+        "Thuế suất 15%.",
+        "Thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "Hợp tác xã có hoạt động sản xuất, kinh doanh có thu nhập chịu thuế, hạch toán được doanh thu nhưng không xác định được chi phí thì thuế phải nộp tính theo:",
+      "options": [
+        "Tỷ lệ % trên doanh thu.",
+        "Thuế suất 20%.",
+        "Thuế suất 15%.",
+        "Thuế suất 17%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 96,
+      "question": "Trong cùng một thời gian, nếu doanh nghiệp được hưởng nhiều mức ưu đãi thuế khác nhau đối với cùng một khoản thu nhập thì doanh nghiệp được:",
+      "options": [
+        "Lựa chọn áp dụng mức ưu đãi thuế có lợi nhất.",
+        "Áp dụng mức ưu đãi cao nhất.",
+        "Áp dụng mức ưu đãi thấp nhất.",
+        "Không được hưởng ưu đãi."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 97,
+      "question": "Doanh nghiệp thành lập từ việc sáp nhập được kế thừa ưu đãi thuế của doanh nghiệp trước khi sáp nhập nếu:",
+      "options": [
+        "Tiếp tục đáp ứng các điều kiện ưu đãi.",
+        "Chỉ cần có quyết định sáp nhập.",
+        "Không cần đáp ứng điều kiện.",
+        "Không quy định."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 98,
+      "question": "Thủ tướng Chính phủ quyết định mức thuế suất cụ thể đối với hoạt động tìm kiếm, thăm dò và khai thác dầu khí căn cứ vào:",
+      "options": [
+        "Vị trí, điều kiện khai thác và trữ lượng mỏ.",
+        "Chỉ quy mô vốn đầu tư.",
+        "Chỉ thời gian khai thác.",
+        "Chỉ loại dầu khí."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 99,
+      "question": "Thuế suất đối với hoạt động thăm dò, khai thác tài nguyên quý hiếm ở địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn là:",
+      "options": [
+        "40%.",
+        "50%.",
+        "30%.",
+        "25%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 100,
+      "question": "Luật Thuế thu nhập doanh nghiệp số 67/2025/QH15 được Quốc hội khóa XV, kỳ họp thứ 9 thông qua ngày:",
+      "options": [
+        "14/6/2025.",
+        "01/10/2025.",
+        "14/7/2025",
+        "01/6/2025."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 101,
+      "question": "Theo Điều 2 Nghị định 320/2025/NĐ-CP, đối tượng nào sau đây thuộc diện người nộp thuế Thu nhập doanh nghiệp (TNDN):",
+      "options": [
+        "Hợp tác xã, liên hiệp hợp tác xã được thành lập theo quy định của Luật Hợp tác xã",
+        "Hộ kinh doanh cá thể",
+        "Cá nhân kinh doanh trên sàn thương mại điện tử",
+        "Người làm nghề tự do"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 102,
+      "question": "Doanh nghiệp nước ngoài cung cấp dịch vụ tại Việt Nam thông qua nền tảng số mà KHÔNG có cơ sở thường trú tại Việt Nam thì có phải nộp thuế TNDN không:",
+      "options": [
+        "Không phải nộp vì không có hiện diện vật lý tại Việt Nam",
+        "Phải nộp thuế đối với thu nhập chịu thuế phát sinh tại Việt Nam",
+        "Chỉ phải nộp thuế nếu người mua là doanh nghiệp nhà nước",
+        "Được miễn thuế TNDN trong 3 năm đầu"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 103,
+      "question": "Theo Điều 3, khoản thu nhập nào sau đây KHÔNG thuộc 'Thu nhập khác' của doanh nghiệp:",
+      "options": [
+        "Thu nhập từ tiền bản quyền sở hữu trí tuệ",
+        "Khoản nợ khó đòi đã xóa nay đòi được",
+        "Thu nhập từ hoạt động bán hàng hóa thuộc ngành, nghề đã đăng ký kinh doanh",
+        "Quà biếu, quà tặng bằng tiền hoặc hiện vật"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 104,
+      "question": "Doanh nghiệp nhận được một lô hàng quà tặng bằng hiện vật từ đối tác. Giá trị của khoản thu nhập này để tính thuế TNDN được xác định như thế nào:",
+      "options": [
+        "Bằng 0 vì đây là quà tặng không phải thanh toán tiền",
+        "Xác định bằng giá trị của hàng hóa, dịch vụ cùng loại hoặc tương đương tại thời điểm nhận",
+        "Xác định theo giá trị ghi trên sổ sách kế toán của bên tặng",
+        "Ấn định mức cố định là 10 triệu đồng/lần nhận"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "Trường hợp doanh nghiệp bán phế liệu, phế phẩm được tạo ra trong quá trình sản xuất các sản phẩm ĐANG hưởng ưu đãi thuế TNDN thì khoản thu nhập từ phế liệu này được xử lý thế nào:",
+      "options": [
+        "Phải chịu thuế suất phổ thông 20%",
+        "Được hưởng ưu đãi thuế thu nhập doanh nghiệp tương tự sản phẩm chính",
+        "Được miễn thuế hoàn toàn trong mọi trường hợp",
+        "Phải đóng phụ phí môi trường thay cho thuế TNDN"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 106,
+      "question": "Thu nhập từ sản phẩm chế biến từ nông sản, thủy sản được MIỄN thuế TNDN nếu tỷ lệ giá trị nguyên vật liệu (nông thủy sản) trên chi phí sản xuất đạt tối thiểu bao nhiêu:",
+      "options": [
+        "10% trở lên",
+        "20% trở lên",
+        "30% trở lên",
+        "50% trở lên"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 107,
+      "question": "Thu nhập từ việc thực hiện hợp đồng nghiên cứu khoa học, phát triển công nghệ được MIỄN thuế tối đa trong thời gian bao lâu:",
+      "options": [
+        "1 năm",
+        "3 năm",
+        "5 năm",
+        "Miễn thuế vĩnh viễn"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 108,
+      "question": "Để được miễn thuế TNDN, doanh nghiệp sử dụng lao động là người khuyết tật phải đáp ứng điều kiện nào:",
+      "options": [
+        "Từ 10% trở lên và có trên 10 lao động",
+        "Từ 20% trở lên và có trên 50 lao động",
+        "Từ 30% trở lên và có số lao động bình quân từ 20 người trở lên",
+        "Từ 50% trở lên, không xét tổng số lao động"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 109,
+      "question": "Khoản tài trợ nào sau đây KHÔNG được coi là thu nhập được miễn thuế của doanh nghiệp nhận tài trợ:",
+      "options": [
+        "Khoản tài trợ sử dụng cho hoạt động giáo dục tại Việt Nam",
+        "Khoản tài trợ từ doanh nghiệp có mối quan hệ liên kết để sử dụng cho nghiên cứu khoa học",
+        "Khoản tài trợ sử dụng cho hoạt động khắc phục thiên tai",
+        "Khoản hỗ trợ trực tiếp từ ngân sách nhà nước"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 110,
+      "question": "Cơ sở thực hiện xã hội hóa trong lĩnh vực giáo dục muốn được miễn thuế phần thu nhập không chia để lại đầu tư phát triển thì phải đáp ứng tỷ lệ phần thu nhập không chia trên thu nhập tính thuế tối thiểu là:",
+      "options": [
+        "10%",
+        "15%",
+        "25%",
+        "50%"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 111,
+      "question": "Trường hợp doanh nghiệp có hoạt động sản xuất, kinh doanh bị lỗ, doanh nghiệp được quyền bù trừ số lỗ này như thế nào:",
+      "options": [
+        "Bắt buộc phải bù trừ theo tỷ lệ phân bổ do cơ quan thuế chỉ định",
+        "Chỉ được bù trừ vào thu nhập của cùng một ngành nghề kinh doanh",
+        "Được bù trừ vào thu nhập chịu thuế của các hoạt động SXKD có thu nhập do doanh nghiệp tự lựa chọn",
+        "Được bù trừ trực tiếp vào tiền thuế phải nộp năm sau"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 112,
+      "question": "Khoản lỗ từ hoạt động nào sau đây KHÔNG được bù trừ với thu nhập từ hoạt động SXKD khác trong kỳ tính thuế:",
+      "options": [
+        "Lỗ từ hoạt động bán hàng hóa thông thường",
+        "Lỗ từ hoạt động cung cấp dịch vụ phần mềm",
+        "Lỗ từ hoạt động chuyển nhượng dự án đầu tư thăm dò, khai thác khoáng sản",
+        "Lỗ từ hoạt động xuất khẩu nông sản"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 113,
+      "question": "Thời gian chuyển lỗ tính liên tục tối đa của doanh nghiệp là bao nhiêu năm:",
+      "options": [
+        "Không quá 03 năm kể từ năm tiếp theo năm phát sinh lỗ",
+        "Không quá 05 năm kể từ năm tiếp theo năm phát sinh lỗ",
+        "Không quá 07 năm",
+        "Chuyển lỗ vô thời hạn"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 114,
+      "question": "Nếu doanh nghiệp kê khai, nộp thuế GTGT theo phương pháp KHẤU TRỪ, thì doanh thu để tính thu nhập chịu thuế TNDN được xác định thế nào:",
+      "options": [
+        "Doanh thu bao gồm cả thuế GTGT",
+        "Doanh thu không có thuế GTGT",
+        "Doanh thu cộng thêm 5% lợi nhuận định mức",
+        "Doanh thu sau khi trừ thuế TNCN"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "Đối với hoạt động cung ứng dịch vụ, thời điểm xác định doanh thu để tính thu nhập chịu thuế TNDN là khi nào:",
+      "options": [
+        "Thời điểm khách hàng thanh toán toàn bộ tiền dịch vụ",
+        "Thời điểm ký kết hợp đồng dịch vụ",
+        "Thời điểm hoàn thành việc cung ứng dịch vụ hoặc hoàn thành từng phần việc",
+        "Cuối ngày 31 tháng 12 hàng năm"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 116,
+      "question": "Khoản chi phí liên quan đến hoạt động nghiên cứu và phát triển (R&D) của doanh nghiệp được tính vào chi phí được trừ TỐI ĐA không quá mức nào:",
+      "options": [
+        "100% chi phí thực tế phát sinh",
+        "150% chi phí thực tế phát sinh",
+        "200% chi phí thực tế phát sinh",
+        "Không giới hạn"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 117,
+      "question": "Hóa đơn mua hàng có giá trị từ bao nhiêu trở lên BẮT BUỘC phải có chứng từ thanh toán không dùng tiền mặt mới được tính vào chi phí được trừ:",
+      "options": [
+        "Từ 2 triệu đồng",
+        "Từ 5 triệu đồng",
+        "Từ 10 triệu đồng",
+        "Từ 20 triệu đồng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "Doanh nghiệp giao nhân viên ứng tiền mua laptop 15 triệu đồng. Sau đó, doanh nghiệp hoàn trả 15 triệu BẰNG TIỀN MẶT. Khoản này có được tính vào chi phí hợp lý không:",
+      "options": [
+        "Có, vì nhân viên đã có hóa đơn VAT mua laptop",
+        "Có, nếu doanh nghiệp có quy chế tài chính cho phép",
+        "Không, vì công ty phải thanh toán lại cho nhân viên bằng dịch vụ thanh toán không dùng tiền mặt",
+        "Không, vì luật cấm nhân viên mua hộ TSCĐ"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 119,
+      "question": "Doanh nghiệp được tính vào chi phí được trừ đối với khoản chi tài trợ cho giáo dục trong trường hợp nào:",
+      "options": [
+        "Góp vốn cổ phần vào trường Đại học",
+        "Tài trợ học bổng trực tiếp cho sinh viên thuộc các cơ sở giáo dục đại học",
+        "Tài trợ tiền cho con của Tổng Giám đốc đi du học",
+        "Cho vay đóng góp xây trường"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Trong giai đoạn chưa đi vào hoạt động (chưa có doanh thu), doanh nghiệp chi tiền thuê đất làm trụ sở. Khoản này xử lý thế nào:",
+      "options": [
+        "Bị loại bỏ, không được tính chi phí",
+        "Được tính ngay vào chi phí được trừ khi xác định thu nhập chịu thuế",
+        "Cộng dồn vào nguyên giá TSCĐ",
+        "Phân bổ trong 10 năm"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 121,
+      "question": "Khoản tiền phạt nào KHÔNG ĐƯỢC tính vào chi phí được trừ khi xác định thuế TNDN:",
+      "options": [
+        "Bồi thường do giao hàng trễ hạn",
+        "Tiền phạt vi phạm luật giao thông của tài xế công ty",
+        "Đền bù thiệt hại do nhân viên làm hỏng máy đối tác",
+        "Bồi thường khách hàng do sản phẩm lỗi"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 122,
+      "question": "Mức giới hạn chi phí mua bảo hiểm nhân thọ cho người lao động được tính vào chi phí hợp lý là bao nhiêu:",
+      "options": [
+        "Không bị giới hạn",
+        "Tối đa 01 tháng lương bình quân/năm",
+        "Không vượt quá 05 triệu đồng/tháng/người",
+        "Không vượt quá 10 triệu đồng/tháng/người"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 123,
+      "question": "Để được tính chi phí BH nhân thọ cho người lao động, doanh nghiệp CÒN PHẢI đáp ứng điều kiện nào:",
+      "options": [
+        "Doanh nghiệp phải có lãi",
+        "Doanh nghiệp phải thực hiện đầy đủ nghĩa vụ về bảo hiểm bắt buộc (không nợ BHXH, BHYT)",
+        "Đóng cho 100% nhân viên D. Ký với công ty BH nhà nước"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 124,
+      "question": "Phần trích khấu hao đối với xe ô tô chở người dưới 9 chỗ (không kinh doanh vận tải) bị khống chế tối đa theo mức nguyên giá là:",
+      "options": [
+        "1 tỷ đồng",
+        "1,6 tỷ đồng",
+        "2 tỷ đồng",
+        "3 tỷ đồng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 125,
+      "question": "Công cụ, dụng cụ không đủ tiêu chuẩn là TSCĐ được phân bổ dần vào chi phí tối đa bao lâu:",
+      "options": [
+        "Không quá 01 năm",
+        "Không quá 02 năm",
+        "Không quá 03 năm",
+        "Theo thời gian khấu hao TSCĐ"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 126,
+      "question": "Nhà xưởng tạm dừng hoạt động 5 tháng để bảo trì. Khấu hao trong 5 tháng đó có được tính vào chi phí không:",
+      "options": [
+        "Không, vì không tạo ra doanh thu",
+        "Có, được tính do thời gian tạm dừng dưới 12 tháng",
+        "Chỉ được tính 50%",
+        "Cần công văn xin phép cơ quan thuế"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 127,
+      "question": "Doanh nghiệp mua Quyền sử dụng đất LÂU DÀI. Quyền sử dụng đất này có được trích khấu hao trừ thuế không:",
+      "options": [
+        "Phân bổ đều trong 50 năm",
+        "QSDĐ lâu dài KHÔNG ĐƯỢC trích khấu hao và phân bổ",
+        "Khấu hao trong 20 năm",
+        "Chỉ khấu hao chi phí san lấp"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 128,
+      "question": "Đến hạn quyết toán thuế (31/03), công ty A CHƯA thanh toán lương tháng 12 và KHÔNG trích lập quỹ dự phòng. Khoản lương này xử lý sao:",
+      "options": [
+        "Có, vì đã hạch toán sổ sách",
+        "Không được tính vào chi phí được trừ của năm đó",
+        "Được tính nếu có giấy hẹn nợ",
+        "Bị loại 50%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 129,
+      "question": "Mức trích lập Quỹ lương dự phòng TỐI ĐA không vượt quá bao nhiêu % quỹ tiền lương thực hiện:",
+      "options": [
+        "10%",
+        "15%",
+        "17%",
+        "20%"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 130,
+      "question": "Khoản chi trang phục BẰNG TIỀN cho người lao động vượt quá mức nào sẽ bị coi là chi phí không được trừ:",
+      "options": [
+        "3 triệu đồng/người/năm",
+        "5 triệu đồng/người/năm",
+        "10 triệu đồng/người/năm",
+        "Không bị giới hạn nếu có hóa đơn"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 131,
+      "question": "Tiền lương của ai KHÔNG được tính vào chi phí được trừ:",
+      "options": [
+        "Tổng Giám đốc làm thuê",
+        "Chủ doanh nghiệp tư nhân, Chủ công ty TNHH MTV (cá nhân)",
+        "Thành viên HĐQT trực tiếp điều hành",
+        "Trưởng ban kiểm soát"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 132,
+      "question": "Thuế suất thuế TNDN phổ thông hiện nay là bao nhiêu:",
+      "options": [
+        "15%",
+        "17%",
+        "20%",
+        "25%"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 133,
+      "question": "Doanh nghiệp có tổng doanh thu năm không quá 3 tỷ đồng áp dụng thuế suất TNDN là bao nhiêu:",
+      "options": [
+        "10%",
+        "15%",
+        "17%",
+        "20%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 134,
+      "question": "Doanh thu năm từ trên 3 tỷ đến không quá 50 tỷ áp dụng thuế suất TNDN bao nhiêu:",
+      "options": [
+        "10%",
+        "15%",
+        "17%",
+        "20%"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 135,
+      "question": "Nhà thầu nước ngoài cung cấp dịch vụ tại VN tính thuế TNDN theo tỷ lệ bao nhiêu trên doanh thu:",
+      "options": [
+        "1%",
+        "2%",
+        "5%",
+        "10%"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 136,
+      "question": "Nhà thầu nước ngoài nhận Tiền bản quyền tại Việt Nam chịu tỷ lệ thuế TNDN bao nhiêu:",
+      "options": [
+        "2%",
+        "5%",
+        "10%",
+        "20%"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 137,
+      "question": "Chuyển nhượng vốn 10 tỷ đồng bằng TIỀN MẶT, cơ quan thuế có quyền gì:",
+      "options": [
+        "Tịch thu tiền",
+        "Hủy hợp đồng",
+        "Có quyền ấn định lại giá chuyển nhượng",
+        "Phạt gấp 3 lần"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 138,
+      "question": "Thời điểm xác định thu nhập chuyển nhượng vốn là khi nào:",
+      "options": [
+        "Khi ký hợp đồng",
+        "Thời điểm chuyển quyền sở hữu vốn",
+        "Khi nhận đủ tiền",
+        "Cuối năm tài chính"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 139,
+      "question": "Kinh doanh BĐS thu tiền ứng trước theo tiến độ (chưa xác định được chi phí) phải tạm nộp thuế TNDN bao nhiêu:",
+      "options": [
+        "0,5%",
+        "1%",
+        "2%",
+        "Không nộp"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 140,
+      "question": "Dự án siêu lớn (vốn >12.000 tỷ, công nghệ cao) được áp dụng thuế suất ưu đãi bao nhiêu:",
+      "options": [
+        "15% toàn đời",
+        "10% trong 15 năm",
+        "5% trong 10 năm",
+        "Miễn thuế vĩnh viễn"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 141,
+      "question": "Thời gian Miễn thuế, Giảm thuế dự án đầu tư mới tính từ năm nào:",
+      "options": [
+        "Năm cấp phép B. Năm có doanh thu",
+        "Năm đầu tiên có thu nhập chịu thuế (Hoặc năm thứ 4 nếu 3 năm đầu lỗ)",
+        "Năm giải ngân xong"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 142,
+      "question": "Dự án MỞ RỘNG muốn hưởng ưu đãi độc lập thì nguyên giá TSCĐ phải tăng thêm tối thiểu bao nhiêu:",
+      "options": [
+        "10 tỷ",
+        "Từ 40 tỷ đồng (hoặc 20 tỷ nếu ở địa bàn ưu đãi)",
+        "100 tỷ D. Không quy định"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 143,
+      "question": "Doanh nghiệp >100 người, để được giảm thuế nhờ chi thêm cho lao động nữ thì tỷ lệ lao động nữ phải đạt:",
+      "options": [
+        "Dưới 50%",
+        "Trên 30%",
+        "100%",
+        "Chỉ được giảm 50%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 144,
+      "question": "Miễn thuế TNDN 2 năm liên tục áp dụng cho đối tượng mới thành lập nào:",
+      "options": [
+        "Mọi doanh nghiệp",
+        "Chi nhánh nước ngoài",
+        "Doanh nghiệp nhỏ và vừa thành lập từ Hộ kinh doanh",
+        "Khai khoáng"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 145,
+      "question": "Sử dụng sai Quỹ PT KHCN, tiền phạt chậm nộp tính theo lãi suất nào:",
+      "options": [
+        "Lãi suất NHNN",
+        "Lãi phạt 0.03%",
+        "Lãi suất trái phiếu kho bạc kỳ hạn 5 năm hoặc 10 năm",
+        "Lãi tiết kiệm"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 146,
+      "question": "Nếu một khoản thu nhập đồng thời đáp ứng nhiều mức ưu đãi thuế TNDN, doanh nghiệp được xử lý thế nào:",
+      "options": [
+        "Cộng dồn",
+        "CQT chỉ định mức thấp",
+        "Được tự lựa chọn áp dụng mức ưu đãi có lợi nhất",
+        "Mất ưu đãi"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 147,
+      "question": "Không hạch toán riêng được doanh thu ưu đãi và không ưu đãi, phân bổ thế nào:",
+      "options": [
+        "Mất ưu đãi",
+        "Phân bổ theo tỷ lệ Doanh thu hoặc Chi phí của hoạt động ưu đãi",
+        "Chia đôi 50/50",
+        "Mức khoán"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 148,
+      "question": "Nghị định 320/2025/NĐ-CP bắt đầu áp dụng từ thời điểm nào:",
+      "options": [
+        "Kỳ tính thuế năm 2024",
+        "Kỳ tính thuế năm 2025",
+        "Kỳ tính thuế 2026",
+        "Sau 45 ngày ký"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 149,
+      "question": "Kinh doanh hạ tầng BĐS thu tiền trước khi hoàn thành, chi phí tính thế nào:",
+      "options": [
+        "Trừ khi hoàn thành 100%",
+        "Tạm phân bổ và trích trước chi phí hạ tầng tương ứng doanh thu",
+        "Lấy giá đất lân cận",
+        "Khoán 50%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 150,
+      "question": "Chuyển nhượng tín chỉ carbon LẦN ĐẦU áp dụng thuế suất nào:",
+      "options": [
+        "20%",
+        "10%",
+        "Được miễn thuế TNDN",
+        "5%"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 151,
+      "question": "Nhà thầu nước ngoài cung cấp máy móc kèm dịch vụ lắp đặt, không tách riêng được giá trị, tỷ lệ thuế TNDN là:",
+      "options": [
+        "1%",
+        "2%",
+        "5%",
+        "10%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 152,
+      "question": "Tổ chức nước ngoài chuyển nhượng chứng khoán tại VN nộp thuế TNDN tỷ lệ:",
+      "options": [
+        "0,1% trên doanh thu bán",
+        "1%",
+        "2%",
+        "20% trên lợi nhuận"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 153,
+      "question": "Giá mua vốn chuyển nhượng do được thừa kế, biếu tặng xác định theo:",
+      "options": [
+        "Bằng 0",
+        "Giá trị sổ sách kế toán của tổ chức phát hành vốn lúc nhận",
+        "Giá thẩm định",
+        "Mệnh giá"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 154,
+      "question": "Chi phí nào ĐƯỢC tính vào chi phí chuyển nhượng vốn:",
+      "options": [
+        "Tiệc ăn mừng",
+        "Chi phí môi giới, thẩm định giá, dịch vụ pháp lý",
+        "Phạt giao thông",
+        "Khấu hao ô tô sếp"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 155,
+      "question": "Bán chung cư chưa hoàn thành, thu tiền tiến độ và ĐÃ hạch toán được chi phí, xử lý thuế thế nào:",
+      "options": [
+        "Tạm nộp 1%",
+        "Kê khai nộp thuế dựa trên chênh lệch Doanh thu - Chi phí ngay trong kỳ",
+        "Chờ bàn giao sổ",
+        "Tạm nộp 2%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 156,
+      "question": "Lãi sản xuất phần mềm 10 tỷ, lỗ BĐS 2 tỷ. Bù trừ thế nào:",
+      "options": [
+        "Không bù trừ",
+        "Được lấy lỗ BĐS bù trừ với lãi SXKD (còn 8 tỷ tính thuế)",
+        "Bù trừ 50%",
+        "Phần mềm lỗ không được bù BĐS"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 157,
+      "question": "Chi phí lãi vay để mua cổ phần (đầu tư tài chính) xử lý sao:",
+      "options": [
+        "Loại hoàn toàn",
+        "Tính chi phí kỳ này",
+        "Hạch toán vào giá trị khoản đầu tư (Vốn hóa)",
+        "Khấu trừ vào thuế"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 158,
+      "question": "Công ty thiếu 4 tỷ vốn điều lệ. Đi vay 5 tỷ lãi 10%. Chi phí lãi vay bị KHÔNG ĐƯỢC TRỪ là:",
+      "options": [
+        "0 đồng",
+        "100 triệu",
+        "400 triệu đồng",
+        "500 triệu"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 159,
+      "question": "Xe ô tô 5 chỗ giá 2,6 tỷ, trích khấu hao 260tr/năm. Phần khấu hao BỊ LOẠI là:",
+      "options": [
+        "0 đồng",
+        "100 triệu đồng",
+        "160 triệu",
+        "260 triệu"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 160,
+      "question": "Thuê nhà cá nhân 120tr/năm, công ty nộp thuế thay. Để tính chi phí hợp lệ, công ty CẦN:",
+      "options": [
+        "Hợp đồng",
+        "Hợp đồng + Chứng từ trả tiền",
+        "Hợp đồng, Chứng từ trả tiền và Chứng từ nộp thuế thay",
+        "Hóa đơn VAT của cá nhân"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 161,
+      "question": "Chi trang phục bằng HIỆN VẬT bị khống chế tối đa bao nhiêu:",
+      "options": [
+        "5 triệu",
+        "1 tháng lương",
+        "Không bị khống chế mức chi (nếu có hóa đơn)",
+        "10 triệu"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 162,
+      "question": "Tổng quỹ lương 4,8 tỷ. Chi nghỉ mát 500tr. Chi phí nghỉ mát ĐƯỢC TRỪ là:",
+      "options": [
+        "500 triệu",
+        "400 triệu đồng",
+        "0 đồng",
+        "250 triệu"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 163,
+      "question": "Tiền lương Giám đốc Công ty TNHH 1 thành viên (CÁ NHÂN làm chủ) tính chi phí sao:",
+      "options": [
+        "Tính nếu điều hành",
+        "Không được tính vào chi phí được trừ",
+        "Tính tối đa 30tr",
+        "Tính nếu có BHXH"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 164,
+      "question": "Tài trợ nào ĐƯỢC tính chi phí hợp lý:",
+      "options": [
+        "Du lịch CCB",
+        "Xây nhà tình nghĩa cho người nghèo",
+        "Làm phim quảng cáo",
+        "Học bổng con khách hàng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 165,
+      "question": "Máy móc 5 tỷ hỏng không sửa được, thanh lý 500tr (không bồi thường). Tổn thất 4,5 tỷ xử lý sao:",
+      "options": [
+        "Loại bỏ chi phí",
+        "Trừ lợi nhuận sau thuế",
+        "Được tính vào chi phí được trừ sau khi trừ thu hồi",
+        "Phân bổ 10 năm"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 166,
+      "question": "Phạt hành chính 200tr, bồi thường hợp đồng thu về 100tr. Bù trừ sao:",
+      "options": [
+        "Bù trừ còn phạt 100tr",
+        "Không bù trừ. 200tr loại chi phí, 100tr tính thu nhập khác",
+        "Bù trừ toàn bộ",
+        "Miễn thuế 100tr"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 167,
+      "question": "Trích dự phòng cao hơn mức Bộ Tài chính quy định. Phần vượt sẽ:",
+      "options": [
+        "Tính chi phí nếu có biên bản",
+        "Không được tính vào chi phí được trừ",
+        "Bị phạt tiền bằng phần trích",
+        "Bảo lưu năm sau"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 168,
+      "question": "Thuế suất ưu đãi 10% trong 15 năm KHÔNG áp dụng cho:",
+      "options": [
+        "Sản xuất phần mềm",
+        "Địa bàn ĐBKK",
+        "Kinh doanh chuỗi siêu thị, TTTM",
+        "Năng lượng tái tạo"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 169,
+      "question": "Xã hội hóa giáo dục ở thành phố (không ưu đãi địa bàn) áp dụng thuế suất: A. 20%",
+      "options": [
+        "15%",
+        "10% trong suốt thời gian hoạt động",
+        "Miễn thuế"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 170,
+      "question": "Doanh thu từ xuất bản sách (trừ sách miễn thuế) áp dụng thuế suất:",
+      "options": [
+        "20%",
+        "17%",
+        "15%",
+        "10%"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 171,
+      "question": "Trồng trọt tại Đồng bằng sông Hồng (không phải địa bàn khó khăn) thuế suất bao nhiêu:",
+      "options": [
+        "Miễn thuế",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 172,
+      "question": "Dự án Công nghệ cao (10% - 15 năm) được miễn giảm thời gian nào:",
+      "options": [
+        "Miễn 2, giảm 4",
+        "Miễn 4 năm, giảm 50% trong 9 năm",
+        "Miễn 5, giảm 10",
+        "Không miễn giảm"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 173,
+      "question": "Mở rộng nhà máy công suất tăng thêm 25%. Có hưởng ưu đãi mở rộng độc lập không:",
+      "options": [
+        "Không, do dưới 50%",
+        "Có, vì công suất tăng trên 20%",
+        "Không, phải gộp chung",
+        "Chỉ khi tăng nhân sự 25%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 174,
+      "question": "Trường hợp nào Doanh nghiệp được kế thừa Quỹ phát triển khoa học và công nghệ:",
+      "options": [
+        "Chỉ trong trường hợp chuyển đổi loại hình doanh nghiệp.",
+        "Chỉ trong trường hợp doanh nghiệp sáp nhập, hợp nhất, chia, tách.",
+        "Chỉ trong trường hợp chuyển đổi sở hữu.",
+        "Trong các trường hợp sáp nhập, hợp nhất, chia, tách, chuyển đổi chủ sở hữu, chuyển đổi loại hình doanh nghiệp"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 175,
+      "question": "Sử dụng Quỹ PT KHCN sai mục đích, chế tài là:",
+      "options": [
+        "Thu hồi + phạt 10%",
+        "Truy thu, chậm nộp, phạt 20% trên số thuế",
+        "Đình chỉ kinh doanh",
+        "Nhắc nhở hoàn tiền"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 176,
+      "question": "Thu nhập vừa ưu đãi 10% vừa 15% (do thuộc 2 điều kiện), áp dụng mức nào:",
+      "options": [
+        "Cộng chia đôi",
+        "10% (mức có lợi nhất)",
+        "15% bắt buộc",
+        "Đóng 20%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 177,
+      "question": "Không hạch toán riêng doanh thu ưu đãi và không ưu đãi, chia theo tỷ lệ nào:",
+      "options": [
+        "Quỹ lương",
+        "Vốn đầu tư",
+        "Tỷ lệ % Doanh thu hoặc Chi phí",
+        "Cưa đôi 50/50"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 178,
+      "question": "Dự án miễn 2 năm. Doanh thu từ 2021, Lỗ liên tục 3 năm, 2025 mới có lãi. 2025 có là năm miễn thuế đầu tiên:",
+      "options": [
+        "Có, do mới có lãi",
+        "Không, miễn thuế bắt đầu từ 2024 (năm thứ 4 có doanh thu)",
+        "Tự chọn",
+        "Mất ưu đãi"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 179,
+      "question": "Nghị định 320 thi hành đạo luật nào:",
+      "options": [
+        "Luật Quản lý thuế 108/2025",
+        "Luật Thuế TNDN 67/2025/QH15",
+        "Luật Thuế GTGT 48",
+        "Luật Doanh nghiệp 2020"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 180,
+      "question": "Doanh nghiệp đang hưởng ưu đãi cũ (trước 2025), sau 2025 xử lý sao:",
+      "options": [
+        "Bị cắt ưu đãi",
+        "Tiếp tục hưởng cho thời gian còn lại",
+        "Đóng phí chuyển đổi",
+        "Giữ 50%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 181,
+      "question": "Thu nhập nào thực hiện nhiệm vụ nhà nước được miễn thuế:",
+      "options": [
+        "Xây trụ sở trúng thầu",
+        "Cấp bù nhà nước, tín dụng chính sách",
+        "Bán đất công",
+        "In tài liệu UBND"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 182,
+      "question": "Thuế TNDN chuyển nhượng Bất động sản tính theo:",
+      "options": [
+        "2% giá chuyển nhượng",
+        "20% tính trên Thu nhập tính thuế (DT - CP)",
+        "Lũy tiến 5-35%",
+        "Khoán 10% bảng giá đất"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 183,
+      "question": "Công ty TM (ưu đãi 17%) bán đất lãi 5 tỷ. Thuế suất lô đất này là:",
+      "options": [
+        "17%",
+        "20% (Thuế suất phổ thông)",
+        "25%",
+        "10%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 184,
+      "question": "Khấu hao TSCĐ nào ĐƯỢC tính chi phí hợp lý:",
+      "options": [
+        "Máy đã khấu hao hết",
+        "Không có hóa đơn",
+        "Nhà xưởng, nhà ăn, y tế cho NLĐ",
+        "Biệt thự sếp"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 185,
+      "question": "Phụ cấp công tác ĐƯỢC tính chi phí khi:",
+      "options": [
+        "Chỉ cần hóa đơn",
+        "Khoán 500k/ngày",
+        "Quy định trong Quy chế nội bộ và đủ chứng từ",
+        "Công an xã xác nhận"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 186,
+      "question": "Lãi phạt thu hồi Quỹ KHCN dùng lãi suất trái phiếu kỳ hạn:",
+      "options": [
+        "1 năm",
+        "3 năm",
+        "5 năm hoặc 10 năm",
+        "15 năm"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 187,
+      "question": "Thu nhập nước ngoài đã nộp thuế, xử lý ở VN sao:",
+      "options": [
+        "Đánh thuế 20% lại",
+        "Được trừ số thuế nước ngoài, tối đa bằng thuế VN (20%)",
+        "Miễn toàn bộ",
+        "VN hoàn trả"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 188,
+      "question": "Mua thủy sản trực tiếp ngư dân không hóa đơn, chứng từ hợp lệ là:",
+      "options": [
+        "Không được trừ",
+        "Phiếu thu tay",
+        "Bảng kê thu mua hàng hóa do Giám đốc ký",
+        "UBND xã xác nhận"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 189,
+      "question": "Tài trợ nào CẤM tính vào chi phí:",
+      "options": [
+        "Y tế công",
+        "Học bổng",
+        "Đoàn thanh niên, Đảng bộ DN",
+        "Thể thao chuyên nghiệp bán vé"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 190,
+      "question": "Bồi thường hủy hợp đồng với đối tác, chi phí này:",
+      "options": [
+        "Không được trừ",
+        "Được tính vào chi phí được trừ",
+        "Phân bổ 3 năm",
+        "Cần đối tác cho phép"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 191,
+      "question": "Tiền điện tên Chủ nhà, công ty cần gì để tính chi phí:",
+      "options": [
+        "Chỉ cần Hóa đơn",
+        "Cấm tính chi phí",
+        "Hóa đơn chủ nhà + Hợp đồng thuê + Chứng từ trả tiền",
+        "Sang tên đồng hồ"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 192,
+      "question": "Sân golf mở rộng, TSCĐ tăng bao nhiêu để hưởng ưu đãi:",
+      "options": [
+        "20 tỷ",
+        "40 tỷ",
+        "Sân golf không hưởng ưu đãi mở rộng",
+        "100 tỷ"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 193,
+      "question": "Hạch toán chi phí phải tuân theo nguyên tắc kế toán nào:",
+      "options": [
+        "Tiền mặt",
+        "Phù hợp và Dồn tích",
+        "Thận trọng",
+        "Giá gốc"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 194,
+      "question": "Hộ kinh doanh lên Cty TNHH hưởng Miễn thuế 2 năm, điều kiện là:",
+      "options": [
+        "GĐ có bằng đại học",
+        "Thuộc quy mô Doanh nghiệp nhỏ và vừa",
+        "Vốn 10 tỷ",
+        "CN nặng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 195,
+      "question": "Thuế GTGT đầu vào ĐÃ KHẤU TRỪ có được tính chi phí TNDN:",
+      "options": [
+        "Có",
+        "Tính 50%",
+        "Không được tính",
+        "Tính nguyên giá"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 196,
+      "question": "FDI phân bổ phí quản lý Cty mẹ, điều kiện nào KHÔNG bắt buộc:",
+      "options": [
+        "BCTC Cty mẹ kiểm toán",
+        "Tỷ lệ Doanh thu",
+        "Không thu trùng",
+        "Hợp pháp hóa lãnh sự"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 197,
+      "question": "Tài trợ xây hạ tầng cộng đồng (cầu cống) không hoàn lại:",
+      "options": [
+        "Chịu thuế 20%",
+        "Miễn thuế",
+        "Thuế 10%",
+        "Nộp kho bạc"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 198,
+      "question": "Vé máy bay công tác mua bằng Tiền Mặt được trừ khi:",
+      "options": [
+        "Dưới 20tr",
+        "Mua qua thẻ cá nhân NLĐ + Quyết định công tác",
+        "Cấm tiền mặt",
+        "Hãng giá rẻ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 199,
+      "question": "Nhập khẩu bị phạt HS 20tr, truy thu Thuế NK 100tr. Khoản nào ĐƯỢC TRỪ:",
+      "options": [
+        "Cả 2",
+        "Chỉ 20tr phạt",
+        "Chỉ 100tr Thuế Nhập khẩu",
+        "Loại cả 2"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 200,
+      "question": "Lỗ chênh lệch tỷ giá nợ ngoại tệ cuối kỳ, hạch toán:",
+      "options": [
+        "Loại bỏ",
+        "Chi phí hoạt động tài chính được trừ",
+        "Chỉ tiền mặt",
+        "Trừ vốn chủ"
+      ],
+      "answer": "B"
+    }
+  ]
+}

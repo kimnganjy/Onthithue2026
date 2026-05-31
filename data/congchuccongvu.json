@@ -1,0 +1,556 @@
+{
+  "topic": "Công chức công vụ (50 câ.txt",
+  "total": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, biệt phái là gì:",
+      "options": [
+        "Việc công chức của cơ quan, tổ chức, đơn vị này được cử đến làm việc có thời hạn tại cơ quan, tổ chức, đơn vị khác ngoài phạm vi cơ quan quản lý theo yêu cầu nhiệm vụ.",
+        "Việc cán bộ, công chức được cơ quan có thẩm quyền quyết định chuyển từ cơ quan, tổ chức, đơn vị này đến làm việc ở cơ quan, tổ chức, đơn vị khác.",
+        "Việc công chức của cơ quan, tổ chức, đơn vị này được cử hoặc bổ nhiệm đến làm việc tại cơ quan, tổ chức, đơn vị khác theo yêu cầu, nhiệm vụ.",
+        "Việc cán bộ, công chức được cơ quan có thẩm quyền quyết định chuyển từ cơ quan, tổ chức, đơn vị này đến làm việc ở một vị trí cao hơn tại cơ quan, tổ chức, đơn vị khác."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, lần đầu tiên bổ sung cơ chế đặc thù nào:",
+      "options": [
+        "Trọng dụng nhân tài.",
+        "Kỷ luật công chức.",
+        "Bổ nhiệm lãnh đạo.",
+        "Đánh giá cạnh tranh."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Hình thức kỷ luật công chức nào đã bị bãi bỏ theo Luật Cán bộ, công chức số 80/2025/QH15:",
+      "options": [
+        "Giáng chức.",
+        "Cách chức.",
+        "Cảnh cáo.",
+        "Khiển trách."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Luật Cán bộ, công chức số 80/2025/QH15 quy định bao nhiêu hình thức kỷ luật đối với công chức:",
+      "options": [
+        "4.",
+        "5.",
+        "6.",
+        "7."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15 phạm vi điều chỉnh và đối tượng áp dụng là:",
+      "options": [
+        "Luật này quy định về cán bộ, công chức.",
+        "Bầu cử, tuyển dụng, sử dụng, quản lý cán bộ, công chức.",
+        "Nghĩa vụ, quyền của cán bộ, công chức và điều kiện bảo đảm thi hành công vụ.",
+        "Tất cả các đáp án trên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 6,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15 Đâu là nguyên tắc trong thi hành công vụ:",
+      "options": [
+        "Tuân thủ Hiến pháp và pháp luật.",
+        "Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức và cá nhân.",
+        "Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát.",
+        "Tất cả các đáp án trên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15 đâu là các nguyên tắc quản lý cán bộ công chức:",
+      "options": [
+        "Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.",
+        "Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng.",
+        "Cả A và B đều đúng.",
+        "Cả A và B đều sai."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng quy định trong Luật Cán bộ, công chức số 80/2025/QH15 là một trong những:",
+      "options": [
+        "Nguyên tắc tuyển dụng công chức.",
+        "Nguyên tắc trong thi hành công vụ.",
+        "Nguyên tắc quản lý cán bộ, công chức.",
+        "Nghĩa vụ của cán bộ, công chức là người đứng đầu."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Nguyên tắc nào không phải là nguyên tắc trong thi hành công vụ, quy định trong Luật Cán bộ, công chức số 80/2025/QH15:",
+      "options": [
+        "Tuân thủ Hiến pháp và pháp luật.",
+        "Thực hiện nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân và phân công, phân cấp rõ ràng.",
+        "Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân, bảo vệ lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức và cá nhân.",
+        "Công khai, minh bạch, đúng thẩm quyền và có sự kiểm tra, giám sát."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, “từ chức” được định nghĩa như thế nào:",
+      "options": [
+        "Là việc cán bộ, công chức được thôi giữ chức vụ, chức danh, khi chưa hết nhiệm kỳ hoặc chưa hết thời hạn bổ nhiệm.",
+        "Là việc cán bộ, công chức lãnh đạo, quản lý không được tiếp tục giữ chức vụ lãnh đạo, quản lý khi chưa hết nhiệm kỳ hoặc chưa hết thời hạn bổ nhiệm.",
+        "Là việc cán bộ, công chức lãnh đạo, quản lý đề nghị được thôi giữ chức vụ khi chưa hết nhiệm kỳ hoặc chưa hết thời hạn bổ nhiệm.",
+        "Là việc cán bộ, công chức lãnh đạo, quản lý tự nguyện xin thôi giữ chức vụ, chức danh khi chưa hết nhiệm kỳ hoặc chưa hết thời hạn bổ nhiệm."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15. Công chức được đánh giá theo nội dung nào sau đây:",
+      "options": [
+        "Phẩm chất chính trị, phẩm chất đạo đức, văn hóa công vụ; ý thức kỷ luật, kỷ cương trong thực thi công vụ; việc chấp hành quy định của pháp luật về công chức, công vụ và quy định của cơ quan, tổ chức, đơn vị.",
+        "Năng lực đổi mới, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung trong thực thi công vụ.",
+        "Kết quả thực hiện nhiệm vụ thông qua số lượng, chất lượng và tiến độ của sản phẩm theo vị trí việc làm.",
+        "Cả 3 ý trên đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 12,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15. Đánh giá công chức phải bảo đảm nguyên tắc nào sau đây:",
+      "options": [
+        "Cứng nhắc, một chiều, theo chỉ đạo trực tiếp.",
+        "Dân chủ, công khai, công bằng, minh bạch, khách quan, xuyên suốt, liên tục, đa chiều.",
+        "Tập trung vào hình thức, dựa trên bằng cấp.",
+        "Dựa trên mức độ thân thiện với đồng nghiệp."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15. Ai có thẩm quyền quyết định ký hợp đồng thực hiện nhiệm vụ của công chức:",
+      "options": [
+        "Bộ Tài chính.",
+        "Cơ quan quản lý công chức.",
+        "Cơ quan thanh tra.",
+        "Người đứng đầu tổ chức xã hội nghề nghiệp."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, cơ quan sử dụng công chức có trách nhiệm gì trong công tác đào tạo, bồi dưỡng:",
+      "options": [
+        "Tự tổ chức lớp học tại cơ quan.",
+        "Đăng ký khóa học tại Bộ Nội vụ.",
+        "Tạo điều kiện để cử công chức tham gia.",
+        "Chỉ đánh giá sau khi công chức hoàn thành khóa học."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, đâu không phải là hình thức kỷ luật đối với công chức:",
+      "options": [
+        "Khiển trách.",
+        "Bãi nhiệm.",
+        "Cảnh cáo.",
+        "Cách chức."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Theo quy định của Luật Cán bộ, công chức số 80/2025/QH15, phát biểu nào sau đây đúng về thời hạn xử lý kỷ luật đối với cán bộ, công chức:",
+      "options": [
+        "Là khoảng thời gian từ khi công chức thực hiện hành vi vi phạm kỷ luật đến khi có quyết định xử lý kỷ luật của cơ quan, tổ chức có thẩm quyền.",
+        "Thời hạn xử lý kỷ luật không quá 24 tháng.",
+        "Là khoảng thời gian từ khi phát hiện hành vi vi phạm kỷ luật của cán bộ, công chức đến khi có quyết định xử lý kỷ luật của cơ quan, tổ chức có thẩm quyền.",
+        "Thời hạn mà khi hết thời hạn đó thì cán bộ, công chức có hành vi vi phạm không bị xử lý kỷ luật."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Theo quy định của Luật Cán bộ, công chức số 80/2025/QH15, nghĩa vụ nào sau đây là nghĩa vụ của Cán bộ, công chức trong thi hành công vụ:",
+      "options": [
+        "Có ý thức tổ chức kỷ luật, nghiêm chỉnh chấp hành nội quy, quy chế của cơ quan, tổ chức, đơn vị.",
+        "Tự chủ, tự chịu trách nhiệm trong thi hành công vụ.",
+        "Nghiêm chỉnh chấp hành điều lệ của cơ quan, tổ chức.",
+        "Chấp hành nghiêm chỉnh quyết định của cấp trên trong mọi trường hợp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Luật Cán bộ, công chức số 80/2025/QH15 quy định nguyên tắc trong thi hành công vụ:",
+      "options": [
+        "Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.",
+        "Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
+        "Tuân thủ Hiến pháp và pháp luật.",
+        "Tất cả các đáp án trên."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Hình thức kỷ luật nào sau đây áp dụng với công chức:",
+      "options": [
+        "Cách chức, áp dụng đối với lãnh đạo, quản lý.",
+        "Bãi nhiệm.",
+        "Chuyển làm việc khác.",
+        "Miễn nhiệm."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, phương án nào dưới đây không phải là nghĩa vụ của cán bộ, công chức trong thực thi công vụ:",
+      "options": [
+        "Thực hiện đúng, đầy đủ và chịu trách nhiệm về kết quả thực hiện nhiệm vụ.",
+        "Bảo đảm tính hệ thống, thống nhất, liên tục, thông suốt, chuyên nghiệp, hiện đại và hiệu quả.",
+        "Chủ động, sáng tạo trong thực hiện nhiệm vụ, công vụ; phối hợp chặt chẽ với đồng nghiệp trong thi hành công vụ.",
+        "Giữ gìn đoàn kết trong cơ quan, tổ chức, đơn vị."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, nội dung nào sau đây là nguyên tắc tuân thủ trong công tác tuyển dụng cán bộ, công chức:",
+      "options": [
+        "Bảo đảm cạnh tranh, bình đẳng.",
+        "Bảo đảm công khai, minh bạch, khách quan và đúng pháp luật.",
+        "Ưu tiên tuyển dụng người có tài năng, người có công với nước, người dân tộc thiểu số.",
+        "Tất cả đáp án trên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 22,
+      "question": "Nghĩa vụ của cán bộ, công chức khi thi hành công vụ theo Luật Cán bộ, công chức số 80/2025/QH15:",
+      "options": [
+        "Giải quyết công việc theo yêu cầu của dân.",
+        "Liên hệ chặt chẽ với nhân dân, lắng nghe ý kiến và chịu sự giám sát của nhân dân.",
+        "Cán bộ, công chức lãnh đạo không chịu trách nhiệm về công vụ của cán bộ, công chức thuộc quyền.",
+        "Bảo vệ, quản lý và sử dụng hiệu quả, tiết kiệm tài sản công được giao."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 23,
+      "question": "Luật Cán bộ, công chức số 80/2025/QH15 quy định việc đánh giá, bố trí, sử dụng cán bộ, công chức phải căn cứ vào:",
+      "options": [
+        "Nguyên tắc công khai, minh bạch, khách quan và đúng pháp luật.",
+        "Phẩm chất chính trị, đạo đức, năng lực và kết quả, hiệu quả thực thi nhiệm vụ theo yêu cầu vị trí việc làm.",
+        "Nguyên tắc tập trung dân chủ, chế độ trách nhiệm cá nhân.",
+        "Quyền và nghĩa vụ của cán bộ, công chức trong thi hành công vụ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Đâu là nguyên tắc quản lý cán bộ, công chức quy định tại Luật Cán bộ, công chức số 80/2025/QH15:",
+      "options": [
+        "Bảo đảm sự kết hợp giữa con người và chức danh, vị trí việc làm.",
+        "Bảo đảm sự công bằng, dân chủ.",
+        "Bảo đảm sự lãnh đạo của Đảng Cộng sản, sự quản lý của Nhà nước.",
+        "Bảo đảm thứ bậc hành chính và sự phối hợp chặt chẽ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, nội dung nào không phải là nguyên tắc quản lý cán bộ, công chức:",
+      "options": [
+        "Bảo vệ lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, công dân.",
+        "Kết hợp giữa tiêu chuẩn chức danh, vị trí việc làm và chỉ tiêu biên chế.",
+        "Bảo đảm sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý của Nhà nước.",
+        "Thực hiện bình đẳng giới."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, đâu không phải là nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và Nhân dân:",
+      "options": [
+        "Tuyệt đối trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; bảo vệ danh dự Tổ quốc, lợi ích quốc gia, dân tộc.",
+        "Tôn trọng và bảo vệ quyền con người, quyền công dân, tận tụy phục vụ Nhân dân.",
+        "Liên hệ chặt chẽ với Nhân dân, tôn trọng, lắng nghe ý kiến và chịu sự giám sát của Nhân dân.",
+        "Đại diện quyền và lợi ích hợp pháp của nhân dân."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và nhân dân bao gồm mấy nghĩa vụ:",
+      "options": [
+        "02.",
+        "03.",
+        "04.",
+        "05."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, “Tuyệt đối trung thành với Đảng Cộng sản Việt Nam, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; bảo vệ danh dự Tổ quốc, lợi ích quốc gia, dân tộc” quy định tại:",
+      "options": [
+        "Nguyên tắc tuyển dụng công chức.",
+        "Nguyên tắc trong thi hành công vụ.",
+        "Nguyên tắc quản lý cán bộ, công chức.",
+        "Nghĩa vụ của cán bộ, công chức đối với Đảng, Nhà nước và nhân dân."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 29,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, ai trong số các đối tượng sau đây được coi là cán bộ:",
+      "options": [
+        "Công dân Việt Nam được bầu cử vào một chức vụ trong cơ quan Đảng Cộng sản Việt Nam ở cấp tỉnh, trong biên chế và hưởng lương từ ngân sách Nhà nước.",
+        "Sĩ quan thuộc Quân đội nhân dân, hưởng lương từ ngân sách nhà nước.",
+        "Công dân Việt Nam được tuyển dụng vào vị trí việc làm trong tổ chức cơ yếu, trong biên chế và hưởng lương từ ngân sách Nhà nước.",
+        "Công nhân công an, hưởng lương từ ngân sách nhà nước."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Khi thi hành công vụ, cán bộ, công chức được pháp luật bảo vệ như thế nào:",
+      "options": [
+        "Được bảo vệ và miễn trách nhiệm hoàn toàn.",
+        "Được pháp luật bảo vệ khi thi hành công vụ.",
+        "Được quyền miễn trừ khỏi mọi trách nhiệm pháp lý.",
+        "Được tư vấn pháp lý miễn phí."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Theo quy định của Luật Cán bộ, công chức số 80/2025/QH15, khi nào cơ quan có thẩm quyền có thể cho công chức thôi việc:",
+      "options": [
+        "Khi công chức có nguyện vọng chuyển công tác.",
+        "Khi công chức không hoàn thành nhiệm vụ hoặc không đáp ứng yêu cầu nhiệm vụ.",
+        "Khi công chức đạt thành tích xuất sắc.",
+        "Khi công chức hết thời hạn bổ nhiệm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, kết quả theo dõi, đánh giá, xếp loại chất lượng công chức có thể dẫn tới quyết định nào sau đây:",
+      "options": [
+        "Tăng lương không theo quy định pháp luật.",
+        "Bố trí vào vị trí việc làm thấp hơn.",
+        "Khởi tố hình sự công chức.",
+        "Đưa công chức đi công tác nước ngoài."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, cơ quan có thẩm quyền có thể thực hiện khen thưởng dựa trên:",
+      "options": [
+        "Nguyện vọng cá nhân của công chức.",
+        "Số năm kinh nghiệm công tác.",
+        "Kết quả theo dõi, đánh giá, xếp loại chất lượng công chức.",
+        "Đề nghị của đồng nghiệp."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, công chức làm việc trong các cơ quan, tổ chức nào sau đây:",
+      "options": [
+        "Tất cả đều đúng.",
+        "Các Hiệp hội Chính trị.",
+        "Các cơ quan của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam.",
+        "Các công ty cổ phần có vốn nhà nước."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, nguyên tắc trong thi hành công vụ là:",
+      "options": [
+        "Đúng thẩm quyền.",
+        "Minh bạch.",
+        "Công khai.",
+        "Tất cả đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 36,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, công chức được tuyển chọn theo hình thức nào:",
+      "options": [
+        "Bầu cử.",
+        "Tuyển dụng.",
+        "Bổ nhiệm.",
+        "Tất cả đều đúng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, có mấy nguyên tắc trong thi hành công vụ:",
+      "options": [
+        "05.",
+        "08.",
+        "07.",
+        "06."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, đâu không phải là nguyên tắc trong thi hành công vụ:",
+      "options": [
+        "Phân cấp rõ ràng.",
+        "Đúng thẩm quyền.",
+        "Công khai, minh bạch.",
+        "Có sự kiểm tra, giám sát."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, Nhà nước có cơ chế thu hút nguồn nhân lực chất lượng cao vào làm việc ở đâu:",
+      "options": [
+        "Doanh nghiệp nhà nước.",
+        "Cơ quan của Đảng, Nhà nước, Mặt trận Tổ quốc và các tổ chức chính trị - xã hội.",
+        "Công ty tư nhân và các tập đoàn quốc gia.",
+        "Tổ chức phi chính phủ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, người có tài năng trong hoạt công vụ là người:",
+      "options": [
+        "Có tư duy đổi mới, sáng tạo và đạt thành tích nổi bật trong công vụ.",
+        "Có bằng cấp chuyên sâu từ nước ngoài.",
+        "Là người có nhiều mối quan hệ xã hội.",
+        "Có năng lực làm việc độc lập và không cần hỗ trợ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "“Ngạch” được hiểu như thế nào theo quy định tại Luật Cán bộ, công chức:",
+      "options": [
+        "Vị trí việc làm tạm thời.",
+        "Tên gọi thể hiện thứ bậc về chuyên môn, nghiệp vụ của công chức.",
+        "Loại công việc đặc biệt trong nội bộ.",
+        "Tên gọi các chức danh trong tổ chức phi chính phủ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Nguyên tắc thi hành công vụ theo Luật Cán bộ, công chức số 80/2025/QH15 yêu cầu tôn trọng và bảo vệ điều gì:",
+      "options": [
+        "Lợi ích của cá nhân và doanh nghiệp.",
+        "Lợi ích của công chức và tập thể lao động.",
+        "Quyền con người, quyền công dân và lợi ích hợp pháp của tổ chức, cá nhân.",
+        "Lợi ích tài chính của cơ quan hành chính."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "Khái niệm “vị trí việc làm” được hiểu như thế nào:",
+      "options": [
+        "Chức vụ lãnh đạo cấp cao được phân bổ.",
+        "Công việc gắn với chức vụ, chức danh, ngạch công chức dựa trên chức năng, nhiệm vụ cụ thể.",
+        "Bảng mô tả công việc của từng cá nhân trong cơ quan.",
+        "Vị trí mang tính chất đặc thù, chỉ có ở các cơ quan Trung ương."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, cán bộ, công chức được giao quyền tương xứng với:",
+      "options": [
+        "Thâm niên công tác.",
+        "Năng lực cá nhân.",
+        "Nhiệm vụ được giao.",
+        "Ngạch, bậc lương đang giữ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, cán bộ, công chức phải có phẩm chất như thế nào trong đạo đức công vụ:",
+      "options": [
+        "Trung thực, nhân ái, sáng tạo.",
+        "Cần, kiệm, liêm, chính, chí công vô tư.",
+        "Dũng cảm, trách nhiệm, dân chủ.",
+        "Hiệu quả, công bằng, đoàn kết."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 46,
+      "question": "Một trong những yêu cầu đạo đức công vụ là cán bộ, công chức phải tu dưỡng và học tập như thế nào theo Luật Cán bộ, công chức số 80/2025/QH15:",
+      "options": [
+        "Theo kế hoạch bồi dưỡng hằng năm.",
+        "Khi được yêu cầu bởi cấp trên.",
+        "Tu dưỡng, học tập suốt đời.",
+        "Theo chương trình của đơn vị sự nghiệp."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 47,
+      "question": "Nguyên tắc tuyển dụng công chức theo Luật Cán bộ, công chức số 80/2025/QH15:",
+      "options": [
+        "Bảo đảm công khai, minh bạch, khách quan và đúng pháp luật.",
+        "Người được tuyển dụng phải đáp ứng ngay yêu cầu vị trí việc làm cần tuyển.",
+        "Bảo đảm cạnh tranh, bình đẳng.",
+        "Tất cả đáp án trên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 48,
+      "question": "Trường hợp nào sau đây được ưu tiên tuyển dụng công chức theo Luật Cán bộ, công chức số 80/2025/QH15:",
+      "options": [
+        "Người từng làm công chức, nay đã nghỉ việc.",
+        "Là người dân tộc thiểu số.",
+        "Người đang làm trong công ty nhà nước.",
+        "Cán bộ xã có bằng đại học nhưng chưa đủ tuổi theo quy định."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Căn cứ nào không thuộc nhóm căn cứ để xác định vị trí việc làm theo Luật Cán bộ, công chức số 80/2025/QH15:",
+      "options": [
+        "Mức độ hiện đại hóa công sở.",
+        "Ngạch công chức hiện có của đơn vị.",
+        "Chức năng, nhiệm vụ của cơ quan.",
+        "Mức độ phức tạp của ngành, lĩnh vực."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Theo Luật Cán bộ, công chức số 80/2025/QH15, vị trí việc làm không bao gồm nội dung nào sau đây:",
+      "options": [
+        "Tên gọi vị trí việc làm\t.",
+        "Khung năng lực của vị trí.",
+        "Tiêu chuẩn đạo đức của công chức.",
+        "Bản mô tả công việc."
+      ],
+      "answer": "C"
+    }
+  ]
+}

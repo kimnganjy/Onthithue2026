@@ -1,0 +1,620 @@
+{
+  "topic": "Thuế TNCN",
+  "total": 56,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Luật Thuế TNCN 109/2025/QH15, mức giảm trừ gia cảnh đối với bản thân người nộp thuế được nâng lên mức bao nhiêu:",
+      "options": [
+        "11 triệu đồng/tháng",
+        "15,5 triệu đồng/tháng",
+        "18 triệu đồng/tháng",
+        "20 triệu đồng/tháng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Mức giảm trừ gia cảnh cho MỖI người phụ thuộc theo Luật Thuế TNCN 109/2025/QH15 là bao nhiêu:",
+      "options": [
+        "4,4 triệu đồng/tháng",
+        "5,5 triệu đồng/tháng",
+        "6,2 triệu đồng/tháng",
+        "7,5 triệu đồng/tháng"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Đối với cá nhân kinh doanh (bao gồm bán hàng online, thương mại điện tử), ngưỡng doanh thu năm TỪ MỨC NÀO TRỞ XUỐNG sẽ được hoàn toàn MIỄN THUẾ TNCN:",
+      "options": [
+        "Từ 100 triệu đồng trở xuống",
+        "Từ 200 triệu đồng trở xuống",
+        "Từ 300 triệu đồng trở xuống",
+        "Từ 500 triệu đồng trở xuống"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "Biểu thuế lũy tiến từng phần áp dụng cho thu nhập từ tiền lương, tiền công theo Luật 109/2025/QH15 được rút gọn còn bao nhiêu bậc:",
+      "options": [
+        "3 Bậc",
+        "4 Bậc",
+        "5 Bậc",
+        "7 Bậc"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Theo Điều 3, nhóm tài sản mới nào sau đây LẦN ĐẦU TIÊN được đưa vào diện phải chịu thuế TNCN khi chuyển nhượng:",
+      "options": [
+        "Bất động sản hình thành trong tương lai",
+        "Vàng miếng, Tài sản số (Crypto), Biển số xe trúng đấu giá",
+        "Sổ tiết kiệm ngân hàng",
+        "Trái phiếu Chính phủ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Điểm mới đột phá tại Điều 11 cho phép người nộp thuế được giảm trừ thêm khoản chi phí nào trước khi tính thuế TNCN (theo mức trần quy định):",
+      "options": [
+        "Chi phí mua ô tô cá nhân",
+        "Chi phí du lịch, nghỉ dưỡng",
+        "Chi phí Y tế, Giáo dục của bản thân và người phụ thuộc",
+        "Chi phí mua bảo hiểm vật chất xe máy"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Theo quy định mới, Thu nhập từ việc nhận thưởng tại các CASINO được tính thuế TNCN như thế nào:",
+      "options": [
+        "Tính thuế 10% cho phần vượt 20 triệu đồng",
+        "Không áp dụng thuế TNCN (được loại trừ khỏi diện trúng thưởng)",
+        "Tính thuế 5% trên tổng số tiền nhận được",
+        "Tính thuế 35% do đây là thu nhập nhạy cảm"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Thuế suất đối với thu nhập từ việc chuyển nhượng Chứng khoán được quy định như thế nào:",
+      "options": [
+        "20% tính trên lợi nhuận (giá bán - giá mua)",
+        "5% tính trên tổng doanh thu",
+        "0,1% tính trực tiếp trên tổng giá bán (doanh thu chuyển nhượng)",
+        "Miễn thuế hoàn toàn"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Thu nhập từ việc chuyển nhượng Tín chỉ Carbon LẦN ĐẦU TIÊN được áp dụng mức thuế nào:",
+      "options": [
+        "Thuế suất 5%",
+        "Thuế suất 10%",
+        "Được miễn thuế TNCN",
+        "Tính vào thu nhập chịu thuế lũy tiến"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Đối với cá nhân kinh doanh CHO THUÊ TÀI SẢN (Cho thuê nhà, mặt bằng), cách tính thuế TNCN áp dụng như thế nào khi doanh thu trên 500 triệu:",
+      "options": [
+        "Toàn bộ doanh thu x 5%",
+        "(Tổng doanh thu - 500 triệu đồng) x 5%",
+        "Toàn bộ doanh thu x 10%",
+        "(Tổng doanh thu - Chi phí sửa nhà) x 10%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 11,
+      "question": "Theo Điều 20, cá nhân KHÔNG CƯ TRÚ (ví dụ. người nước ngoài đến VN làm việc ngắn hạn) có được tính giảm trừ gia cảnh khi nộp thuế TNCN không:",
+      "options": [
+        "Có, được giảm trừ như công dân Việt Nam",
+        "Chỉ được giảm trừ cho bản thân, không được giảm trừ người phụ thuộc",
+        "Không được tính giảm trừ gia cảnh",
+        "Được giảm trừ 50% mức của cá nhân cư trú"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "Thuế suất TNCN đối với thu nhập từ Tiền lương, tiền công của cá nhân KHÔNG CƯ TRÚ được áp dụng là bao nhiêu:",
+      "options": [
+        "Theo biểu thuế lũy tiến từng phần",
+        "5% cố định",
+        "10% cố định",
+        "20% cố định (phẳng)"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 13,
+      "question": "Ngưỡng chịu thuế đối với thu nhập từ Trúng thưởng, Nhận thừa kế, Quà tặng, Bản quyền theo Luật mới là bao nhiêu:",
+      "options": [
+        "Chỉ tính phần giá trị vượt trên 10 triệu đồng",
+        "Chỉ tính phần giá trị vượt trên 20 triệu đồng",
+        "Tính thuế từ đồng đầu tiên",
+        "Chỉ tính phần giá trị vượt trên 50 triệu đồng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Thuế suất áp dụng cho thu nhập từ Nhượng quyền thương mại (Franchise) là bao nhiêu:",
+      "options": [
+        "2%",
+        "5%",
+        "10%",
+        "20%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "Trường hợp người nộp thuế gặp thiên tai, hỏa hoạn, tai nạn, bệnh hiểm nghèo ảnh hưởng đến khả năng nộp thuế thì được xử lý ra sao:",
+      "options": [
+        "Được miễn thuế hoàn toàn vĩnh viễn",
+        "Được xét giảm thuế tương ứng với mức độ thiệt hại, nhưng không vượt quá số thuế phải nộp",
+        "Được nhà nước cấp tiền hỗ trợ đóng thuế",
+        "Chỉ được gia hạn nộp thuế 6 tháng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Cá nhân nhận thừa kế tài sản nào sau đây thì KHÔNG PHẢI nộp thuế TNCN (do thuộc diện miễn thuế Điều 4):",
+      "options": [
+        "Nhận thừa kế cổ phiếu từ đối tác kinh doanh",
+        "Nhận thừa kế Bất động sản giữa vợ với chồng, cha mẹ với con cái",
+        "Nhận thừa kế xe ô tô từ chú ruột",
+        "Nhận thừa kế tài khoản ngân hàng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Khoản phụ cấp, trợ cấp nào sau đây CỦA NGƯỜI LAO ĐỘNG bị tính vào thu nhập chịu thuế TNCN:",
+      "options": [
+        "Trợ cấp thôi việc, trợ cấp mất việc làm theo quy định",
+        "Tiền phụ cấp làm đêm, làm thêm giờ trả cao hơn mức bình thường",
+        "Tiền trợ cấp thai sản, bảo hiểm xã hội",
+        "Tiền công ty trả thay phí thẻ hội viên sân golf, thẻ gym"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 18,
+      "question": "Kỳ tính thuế TNCN đối với thu nhập từ việc Bán Bất động sản hoặc Trúng thưởng xổ số được áp dụng theo hình thức nào:",
+      "options": [
+        "Kỳ tính thuế theo Năm",
+        "Kỳ tính thuế theo Quý",
+        "Kỳ tính thuế theo Từng lần phát sinh",
+        "Do người nộp thuế tự chọn kỳ tính"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Việc đánh thuế thu nhập từ chuyển nhượng Vàng miếng, Tài sản số (Crypto) của người dân được áp dụng mức thuế suất nào:",
+      "options": [
+        "0,1% trên doanh thu chuyển nhượng",
+        "5% trên lợi nhuận",
+        "10% trên tổng giá trị",
+        "20% trên chênh lệch giá mua bán"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Trong trường hợp Startup (Khởi nghiệp sáng tạo), thu nhập của nhà đầu tư, chuyên gia hoặc sáng lập viên từ dự án khởi nghiệp này được hưởng chính sách gì:",
+      "options": [
+        "Đóng thuế lũy tiến ở mức cao nhất 35%",
+        "Được miễn thuế TNCN",
+        "Áp dụng thuế suất phẳng 10%",
+        "Được hoàn thuế vào cuối năm"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Thế nào là cá nhân cư trú theo quy định thuế TNCN:",
+      "options": [
+        "Có mặt tại Việt Nam từ 183 ngày trở lên trong năm dương lịch hoặc 12 tháng liên tục kể từ ngày đầu tiên có mặt tại Việt Nam",
+        "Có nơi ở thường xuyên tại Việt Nam (đăng ký thường trú hoặc thuê nhà theo hợp đồng ≥ 183 ngày)",
+        "Đáp ứng một trong hai điều kiện trên",
+        "Tất cả các điều kiện trên."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "Một cá nhân cư trú có thu nhập từ tiền lương tại Việt Nam và thu nhập từ đầu tư vốn ở nước ngoài. Theo quy định, thu nhập nào phải kê khai nộp thuế tại Việt Nam:",
+      "options": [
+        "Chỉ thu nhập phát sinh tại Việt Nam",
+        "Chỉ thu nhập phát sinh ở nước ngoài",
+        "Toàn bộ thu nhập toàn cầu (cả trong và ngoài Việt Nam)",
+        "Không phải kê khai"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Một cá nhân cư trú ký hợp đồng lao động 2 tháng với tổng thu nhập 15.000.000đ. Thuế TNCN bị khấu trừ là bao nhiêu:",
+      "options": [
+        "750.000đ",
+        "1.500.000đ",
+        "10% sau khi trừ bảo hiểm",
+        "Tính theo biểu thuế lũy tiến"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Ông C là cá nhân cư trú, có thu nhập từ chuyển nhượng bất động sản tại Việt Nam trị giá 2 tỷ đồng. Thuế TNCN phải nộp là bao nhiêu:",
+      "options": [
+        "40 triệu đồng",
+        "100 triệu đồng",
+        "200 triệu đồng",
+        "2% giá chuyển nhượng"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "question": "Anh A đăng ký người phụ thuộc vào tháng 7/2025. Người phụ thuộc thực tế đã phát sinh nghĩa vụ nuôi dưỡng từ tháng 3/2025. Thời gian giảm trừ gia cảnh được tính từ tháng nào:",
+      "options": [
+        "Tháng 3/2025",
+        "Tháng 7/2025",
+        "Tháng 8/2025",
+        "Tháng 1/2025"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Nếu cá nhân chưa kịp đăng ký người phụ thuộc trong năm, nhưng đến cuối năm mới bổ sung hồ sơ đầy đủ, thì thời gian giảm trừ gia cảnh được tính thế nào:",
+      "options": [
+        "Chỉ tính từ tháng nộp hồ sơ bổ sung",
+        "Không được giảm trừ",
+        "Được tính hồi tố từ tháng phát sinh nghĩa vụ nuôi dưỡng",
+        "Được tính từ đầu năm"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "Một cá nhân có 2 người phụ thuộc: con nhỏ sinh tháng 5/2026 và mẹ già bắt đầu phụ thuộc từ tháng 1/2026. Thời gian giảm trừ gia cảnh được tính như thế nào:",
+      "options": [
+        "Con nhỏ từ tháng 5/2026, mẹ từ tháng 1/2026",
+        "Cả hai từ tháng 1/2026",
+        "Cả hai từ tháng đăng ký với cơ quan thuế",
+        "Con nhỏ từ tháng 6/2026, mẹ từ tháng 2/2026"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "Nếu cá nhân có nhiều nguồn thu nhập từ tiền lương ở nhiều nơi, giảm trừ gia cảnh cho bản thân được áp dụng thế nào:",
+      "options": [
+        "Được giảm trừ nhiều lần theo số nguồn thu nhập",
+        "Chỉ được giảm trừ một lần duy nhất khi thực hiện quyết toán thuế TNCN",
+        "Được giảm trừ theo tỷ lệ phân bổ giữa các nguồn thu nhập",
+        "Không được giảm trừ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Khi thực hiện quyết toán thuế TNCN trên tờ khai 02/QTT-TNCN, giảm trừ gia cảnh cho bản thân có cần đăng ký với cơ quan thuế không:",
+      "options": [
+        "Có, phải đăng ký mới được hưởng",
+        "Không, được áp dụng tự động",
+        "Chỉ cần đăng ký khi có nhiều nguồn thu nhập",
+        "Chỉ cần đăng ký khi có người phụ thuộc"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Anh A có con 23 tuổi đang học văn bằng 2, có thu nhập thêm từ làm thêm là 800.000 đồng/tháng. Con này có được giảm trừ gia cảnh không:",
+      "options": [
+        "Có, vì đang học đại học và có thu nhập ≤ 1 triệu đồng/tháng",
+        "Không, vì học văn bằng 2 không được tính"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 31,
+      "question": "Trong trường hợp nào cháu vẫn còn cha mẹ nhưng được tính là người phụ thuộc để giảm trừ gia cảnh:",
+      "options": [
+        "Khi cha mẹ cháu mất khả năng lao động, không có thu nhập và người nộp thuế trực tiếp nuôi dưỡng",
+        "Khi cháu dưới 18 tuổi, dù cha mẹ còn sống",
+        "Khi cháu đang học đại học, không có thu nhập",
+        "Không bao giờ được tính"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Anh A làm việc tại Công ty X từ tháng 2/2025 đến hết năm, có thu nhập duy nhất tại đây. Anh A có được ủy quyền cho Công ty X quyết toán thuế TNCN không:",
+      "options": [
+        "Có",
+        "Không",
+        "Chỉ khi thu nhập trên 11 triệu đồng/tháng",
+        "Chỉ khi có người phụ thuộc"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Nếu cá nhân có thu nhập từ nhiều nơi trong năm, có được ủy quyền cho một tổ chức chi trả thu nhập quyết toán thay không:",
+      "options": [
+        "Có, nếu thu nhập ở nơi khác không đáng kể",
+        "Không, phải tự quyết toán",
+        "Có, nếu đăng ký với cơ quan thuế",
+        "Có, nếu thu nhập từ nơi khác dưới 1 triệu đồng/tháng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "Nếu cá nhân đủ điều kiện ủy quyền nhưng không thực hiện ủy quyền, thì trách nhiệm quyết toán thuế thuộc về ai:",
+      "options": [
+        "Cơ quan thuế",
+        "Tổ chức chi trả thu nhập",
+        "Cá nhân tự quyết toán",
+        "Không ai phải quyết toán"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "question": "Chứng từ khấu trừ thuế TNCN do ai cấp:",
+      "options": [
+        "Cơ quan thuế trực tiếp quản lý",
+        "Tổ chức, cá nhân chi trả thu nhập đã khấu trừ thuế",
+        "Người nộp thuế tự in",
+        "Ngân hàng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Trong trường hợp nào cá nhân cần chứng từ khấu trừ thuế TNCN:",
+      "options": [
+        "Khi tự quyết toán thuế với cơ quan thuế",
+        "Khi ủy quyền cho tổ chức chi trả thu nhập quyết toán thay",
+        "Khi kê khai thu nhập từ nhiều nguồn",
+        "Cả A và C"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 37,
+      "question": "Nếu cá nhân có thu nhập từ nhiều nơi, mỗi nơi khấu trừ thuế, thì chứng từ khấu trừ thuế được sử dụng thế nào:",
+      "options": [
+        "Chỉ cần một chứng từ duy nhất",
+        "Phải tổng hợp tất cả chứng từ khấu trừ từ các nơi chi trả thu nhập",
+        "Không cần chứng từ",
+        "Chỉ cần chứng từ nơi có thu nhập cao nhất"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Cá nhân có thu nhập từ nhiều nơi, nhưng có đăng ký giảm trừ gia cảnh tại một nơi, thì hồ sơ quyết toán nộp ở đâu:",
+      "options": [
+        "Cơ quan thuế quản lý tổ chức chi trả thu nhập nơi đăng ký giảm trừ gia cảnh",
+        "Cơ quan thuế nơi cư trú",
+        "Cơ quan thuế cấp tỉnh",
+        "Cơ quan thuế nơi có thu nhập cao nhất"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Cá nhân không cư trú có thu nhập tại Việt Nam thì hồ sơ quyết toán nộp ở đâu:",
+      "options": [
+        "Cơ quan thuế nơi cư trú",
+        "Cơ quan thuế quản lý tổ chức chi trả thu nhập tại Việt Nam",
+        "Cơ quan thuế cấp tỉnh",
+        "Không phải nộp hồ sơ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Nếu cá nhân cư trú có thu nhập từ tiền lương ở Nhật Bản, đã nộp thuế tại Nhật, khi quyết toán tại Việt Nam sẽ được xử lý thế nào:",
+      "options": [
+        "Nộp lại toàn bộ thuế tại Việt Nam",
+        "Được khấu trừ số thuế đã nộp tại Nhật theo hiệp định tránh đánh thuế hai lần",
+        "Không phải nộp thuế tại Việt Nam",
+        "Chỉ nộp phần thu nhập vượt mức giảm trừ gia cảnh"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Cá nhân cư trú có thu nhập ngoài Việt Nam phải kê khai thuế TNCN theo kỳ nào:",
+      "options": [
+        "Hàng tháng",
+        "Hàng quý",
+        "Hàng năm",
+        "Không phải kê khai"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Anh A là cá nhân cư trú, có thu nhập từ tiền lương tại Việt Nam và cổ tức từ công ty ở Singapore. Đối với phần thu nhập ở Singapore, anh A phải thực hiện thế nào:",
+      "options": [
+        "Không cần kê khai",
+        "Tự kê khai hàng quý tại cơ quan thuế nơi cư trú",
+        "Chỉ kê khai khi tổng thu nhập > 100 triệu đồng/năm",
+        "Chỉ kê khai khi có yêu cầu của cơ quan thuế"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Cá nhân có thu nhập từ một nơi, đã được tổ chức chi trả thu nhập thực hiện quyết toán thay. Cá nhân này có phải nộp hồ sơ quyết toán không:",
+      "options": [
+        "Có",
+        "Không",
+        "Chỉ khi có thu nhập ngoài Việt Nam",
+        "Chỉ khi có yêu cầu của cơ quan thuế"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Doanh nghiệp tổ chức chuyến du lịch cho toàn bộ nhân viên, chi phí được hạch toán chung, không ghi tên từng cá nhân. Khoản chi này có tính vào thu nhập chịu thuế TNCN không:",
+      "options": [
+        "Có",
+        "Không, vì là phúc lợi tập thể",
+        "Có, nếu vượt quá 1 triệu đồng/người",
+        "Có, nếu chi từ quỹ phúc lợi"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Nếu doanh nghiệp chi tiền mặt cho từng cá nhân để tự đi du lịch, khoản này được xử lý thế nào:",
+      "options": [
+        "Không tính vào thu nhập chịu thuế",
+        "Tính vào thu nhập chịu thuế TNCN của cá nhân",
+        "Chỉ tính nếu số tiền > 5 triệu đồng",
+        "Chỉ tính nếu cá nhân có thu nhập trên 11 triệu đồng/tháng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 46,
+      "question": "Cá nhân mắc bệnh hiểm nghèo có thu nhập từ tiền lương, tiền công thì khoản thu nhập này được xử lý thế nào:",
+      "options": [
+        "Vẫn phải nộp thuế theo biểu lũy tiến",
+        "Được miễn thuế TNCN đối với thu nhập từ tiền lương, tiền công và kinh doanh",
+        "Chỉ được giảm trừ gia cảnh",
+        "Chỉ miễn thuế nếu thu nhập dưới 11 triệu đồng/tháng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Cá nhân cư trú có thu nhập từ tiền lương tại Công ty A và thu nhập vãng lai tại Công ty B (thu nhập 100.000.000 đ và đã khấu trừ 10%). Cá nhân này có phải nộp hồ sơ quyết toán cho phần thu nhập vãng lai không:",
+      "options": [
+        "Có",
+        "Không",
+        "Chỉ khi thu nhập vãng lai > 100 triệu đồng/năm",
+        "Chỉ khi có người phụ thuộc"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "Anh A có thu nhập từ tiền lương tại Công ty X (được khấu trừ theo biểu lũy tiến) và thu nhập vãng lai tại Công ty Y (thu nhập 150.000.000 đồng và đã khấu trừ 10%). Khi quyết toán thuế TNCN, anh A phải làm gì:",
+      "options": [
+        "Chỉ quyết toán phần thu nhập tại Công ty X",
+        "Quyết toán cả hai nguồn thu nhập",
+        "Không cần quyết toán",
+        "Chỉ quyết toán nếu có người phụ thuộc"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Thu nhập từ đầu tư vốn nào sau đây phải chịu thuế TNCN :",
+      "options": [
+        "Lãi tiền gửi ngân hàng",
+        "Cổ tức từ góp vốn vào công ty cổ phần",
+        "Lợi tức từ trái phiếu Chính phủ",
+        "Lãi từ bảo hiểm nhân thọ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Nếu cá nhân nhận nhiều lần trúng thưởng trong năm, cách tính thuế thế nào:",
+      "options": [
+        "Cộng dồn tất cả các lần để tính thuế",
+        "Tính riêng từng lần, chỉ phần vượt 20 triệu đồng mới chịu thuế",
+        "Chỉ tính thuế nếu tổng năm > 100 triệu đồng",
+        "Không phải nộp thuế nếu dưới 11 triệu đồng/tháng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 51,
+      "question": "Người nước ngoài lần đầu đến Việt Nam ngày 15/6/2025, kỳ tính thuế đầu tiên của họ sẽ kết thúc vào thời điểm nào:",
+      "options": [
+        "31/12/2025",
+        "14/6/2026",
+        "30/6/2026",
+        "30/12/2026"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Vợ trong độ tuổi lao động nhưng mắc bệnh hiểm nghèo, không có khả năng lao động, có được tính là người phụ thuộc để giảm trừ gia cảnh không:",
+      "options": [
+        "Có, nếu vợ không có thu nhập hoặc thu nhập ≤ 1 triệu đồng/tháng",
+        "Không, vì vẫn trong độ tuổi lao động",
+        "Chỉ được tính nếu trên 55 tuổi",
+        "Chỉ được tính nếu có xác nhận của cơ quan thuế"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Trong trường hợp nào cá nhân được ủy quyền cho tổ chức chi trả thu nhập thực hiện quyết toán thuế TNCN thay mình:",
+      "options": [
+        "Khi có thu nhập từ nhiều nơi",
+        "Khi chỉ có thu nhập từ một nơi và ký hợp đồng lao động từ 3 tháng trở lên",
+        "Khi có thu nhập từ đầu tư vốn",
+        "Khi có thu nhập từ chuyển nhượng bất động sản"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "Chứng từ khấu trừ thuế TNCN có giá trị gì:",
+      "options": [
+        "Là căn cứ để xác định số thuế đã nộp",
+        "Là chứng minh thu nhập hợp pháp",
+        "Là giấy tờ thay thế hợp đồng lao động",
+        "Là giấy xác nhận giảm trừ gia cảnh"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Nếu cá nhân có thu nhập từ tiền lương, tiền công tại nhiều nơi nhưng không đăng ký giảm trừ gia cảnh, thì hồ sơ quyết toán nộp ở đâu:",
+      "options": [
+        "Cơ quan thuế nơi cư trú",
+        "Cơ quan thuế quản lý tổ chức chi trả thu nhập bất kỳ",
+        "Cơ quan thuế cấp tỉnh",
+        "Không được quyết toán"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Nguyên tắc tính thuế đối với cá nhân cư trú có thu nhập ngoài Việt Nam là gì:",
+      "options": [
+        "Nộp thuế theo biểu thuế lũy tiến từng phần đối với thu nhập từ tiền lương, tiền công",
+        "Nộp thuế theo thuế suất toàn phần đối với thu nhập từ đầu tư vốn, bản quyền, trúng thưởng…",
+        "Được trừ số thuế đã nộp ở nước ngoài theo quy định về tránh đánh thuế hai lần",
+        "Tất cả các ý trên"
+      ],
+      "answer": "D"
+    }
+  ]
+}

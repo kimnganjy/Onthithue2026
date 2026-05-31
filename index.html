@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trắc nghiệm Thuế</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Hệ thống luyện thi Thuế</h1>
+
+    <div id="setup">
+
+        <h2>Chọn chủ đề</h2>
+
+        <div class="topics">
+
+            <label><input type="checkbox" value="luatqlt"> Luật QLT</label>
+
+            <label><input type="checkbox" value="thuegtgt"> Thuế GTGT</label>
+
+            <label><input type="checkbox" value="thuetndn"> Thuế TNDN</label>
+
+            <label><input type="checkbox" value="thuetncn"> Thuế TNCN</label>
+
+            <label><input type="checkbox" value="congchuccongvu"> Công chức công vụ</label>
+
+            <label><input type="checkbox" value="hkd_cnkd"> HKD - CNKD</label>
+
+            <label><input type="checkbox" value="kekhaiktt"> Kê khai KTT</label>
+
+            <label><input type="checkbox" value="khieunaitocao"> Khiếu nại tố cáo</label>
+
+            <label><input type="checkbox" value="pcthamnhung"> PCTN</label>
+
+            <label><input type="checkbox" value="quychektnb"> Quy chế KTNB</label>
+
+            <label><input type="checkbox" value="quytrinhktra"> Quy trình kiểm tra</label>
+
+            <label><input type="checkbox" value="xuphatvphc"> Xử phạt VPHC</label>
+
+        </div>
+
+        <h2>Số câu</h2>
+
+        <select id="questionCount">
+            <option value="20">20 câu</option>
+            <option value="30">30 câu</option>
+            <option value="40">40 câu</option>
+            <option value="60">60 câu</option>
+        </select>
+
+        <button id="startBtn">
+            Bắt đầu
+        </button>
+
+    </div>
+
+    <div id="quizContainer" style="display:none;">
+
+        <div class="topbar">
+
+            <div id="timer">
+                00:00
+            </div>
+
+            <button id="submitBtn">
+                Nộp bài
+            </button>
+
+        </div>
+
+        <div id="questions"></div>
+
+    </div>
+
+    <div id="resultContainer" style="display:none;">
+
+        <h2>Kết quả</h2>
+
+        <div id="score"></div>
+
+        <div id="review"></div>
+
+        <button onclick="location.reload()">
+            Làm lại
+        </button>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

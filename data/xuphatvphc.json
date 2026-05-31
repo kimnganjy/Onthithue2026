@@ -1,0 +1,1326 @@
+{
+  "topic": "Xử phạt VPHC",
+  "total": 120,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Phạm vi điều chỉnh của Nghị định số 125/2020/NĐ-CP không áp dụng đối với vi phạm hành chính nào sau đây:",
+      "options": [
+        "Vi phạm về thuế đối với hàng hóa xuất khẩu, nhập khẩu do cơ quan hải quan quản lý.",
+        "Vi phạm về hóa đơn điện tử.",
+        "Vi phạm thủ tục đăng ký thuế của doanh nghiệp.",
+        "Vi phạm về khai thuế GTGT."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Hành vi nào không được coi là sử dụng hóa đơn không hợp pháp theo Điều 4 Nghị định số 125/2020/NĐ-CP:",
+      "options": [
+        "Hóa đơn giả.",
+        "Hóa đơn điện tử chưa có mã của cơ quan thuế (đối với trường hợp có mã).",
+        "Hóa đơn có ngày lập sau khi bên bán ngừng hoạt động nhưng cơ quan thuế chưa thông báo.",
+        "Hóa đơn khống (không có giao dịch thực tế)."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Thời hiệu xử phạt đối với hành vi vi phạm thủ tục thuế là bao lâu kể từ ngày thực hiện hành vi vi phạm:",
+      "options": [
+        "6 tháng.",
+        "1 năm.",
+        "2 năm.",
+        "5 năm."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Thời hiệu xử phạt đối với hành vi trốn thuế chưa đến mức truy cứu trách nhiệm hình sự là bao lâu:",
+      "options": [
+        "1 năm.",
+        "2 năm.",
+        "5 năm.",
+        "10 năm."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "question": "Khi người nộp thuế khai sai nhiều chỉ tiêu trên các hồ sơ thuế cùng một ngày, cách xử phạt là:",
+      "options": [
+        "Phạt riêng từng chỉ tiêu.",
+        "Chỉ bị xử phạt về một hành vi khai sai chỉ tiêu có khung phạt tiền cao nhất trong số các hành vi đã thực hiện.",
+        "Không phạt nếu tự khắc phục.",
+        "Phạt gấp đôi mức phạt cá nhân."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Mức phạt đối với hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp (không phải trốn thuế) là bao nhiêu:",
+      "options": [
+        "10% số tiền thiếu.",
+        "20% số tiền thiếu.",
+        "1 lần số tiền thiếu.",
+        "3 lần số tiền thiếu."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "question": "Hành vi nào bị phạt từ 1 đến 3 lần số tiền thuế trốn theo Điều 17 Nghị định số 125/2020/NĐ-CP:",
+      "options": [
+        "Khai sai dẫn đến thiếu thuế.",
+        "Trốn thuế (các hành vi cụ thể như không ghi sổ kế toán, sử dụng hóa đơn không hợp pháp...).",
+        "Chậm nộp hồ sơ khai thuế.",
+        "Không thông báo thay đổi thông tin đăng ký thuế."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Theo Điều 13 Nghị định số 125/2020/NĐ-CP, phạt cảnh cáo áp dụng đối với hành vi nộp hồ sơ khai thuế quá thời hạn bao nhiêu ngày và có tình tiết giảm nhẹ:",
+      "options": [
+        "Từ 1 đến 5 ngày.",
+        "Từ 1 đến 10 ngày.",
+        "Từ 1 đến 30 ngày.",
+        "Từ 31 đến 60 ngày."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Hành vi không lập hóa đơn khi bán hàng hóa, dịch vụ (trừ khuyến mại, biếu, tặng...) theo quy định từ 10 số hóa đơn đến dưới 20 số hóa đơn thì bị xử phạt ở mức nào:",
+      "options": [
+        "Từ 1.000.000 đồng đến 2.000.000 đồng.",
+        "Từ 2.000.000 đồng đến 10.000.000 đồng.",
+        "Từ 10.000.000 đồng đến 30.000.000 đồng.",
+        "Từ 30.000.000 đồng đến 50.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Theo Điều 28 Nghị định số 125/2020/NĐ-CP, mức phạt cho hành vi sử dụng hóa đơn không hợp pháp (không thuộc trường hợp khai sai/trốn thuế) là bao nhiêu:",
+      "options": [
+        "5.000.000 đồng đến 10.000.000 đồng.",
+        "10.000.000 đồng đến 20.000.000 đồng.",
+        "20.000.000 đồng đến 50.000.000 đồng.",
+        "50.000.000 đồng đến 100.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Biện pháp khắc phục hậu quả phổ biến cho vi phạm về hóa đơn là gì:",
+      "options": [
+        "Buộc nộp đủ thuế thiếu.",
+        "Buộc hủy hóa đơn.",
+        "Buộc điều chỉnh số lỗ.",
+        "Buộc nộp lợi bất hợp pháp."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Mức phạt tiền đối với tổ chức cao gấp bao nhiêu lần so với cá nhân (đối với vi phạm thủ tục thuế, hóa đơn thông thường):",
+      "options": [
+        "01 lần.",
+        "02 lần.",
+        "03 lần.",
+        "04 lần."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 13,
+      "question": "Theo Điều 6 Nghị định số 125/2020/NĐ-CP, vi phạm hành chính về hóa đơn được coi là quy mô lớn khi từ bao nhiêu số hóa đơn trở lên:",
+      "options": [
+        "5 số.",
+        "10 số.",
+        "20 số.",
+        "50 số."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Trường hợp nào không bị xử phạt vi phạm hành chính về thuế:",
+      "options": [
+        "Khai sai nhưng đã khai bổ sung và tự giác nộp đủ số tiền thuế trước khi cơ quan thuế công bố kiểm tra.",
+        "Chậm nộp hồ sơ khai thuế do bất khả kháng.",
+        "Sử dụng hóa đơn không hợp pháp nhưng bên bán có lỗi.",
+        "Cả A và B."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "question": "Thẩm quyền phạt tiền tối đa của Trưởng thuế cơ sở (Chi cục trưởng Chi cục Thuế cũ) đối với vi phạm thủ tục thuế là bao nhiêu:",
+      "options": [
+        "50.000.000 đồng.",
+        "100.000.000 đồng.",
+        "140.000.000 đồng.",
+        "160.000.000 đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Hành vi chậm thông báo thay đổi thông tin đăng ký thuế quá 91 ngày (làm thay đổi giấy chứng nhận đăng ký thuế) thì bị xử phạt bao nhiêu theo Điều 11 Nghị định số 125/2020/NĐ-CP:",
+      "options": [
+        "Từ 1.000.000 đồng đến 3.000.000 đồng.",
+        "Từ 3.000.000 đồng đến 5.000.000 đồng.",
+        "Từ 5.000.000 đồng đến 7.000.000 đồng.",
+        "Cảnh cáo."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Theo điểm đ khoản 1 Điều 16 Nghị định số 125/2020/NĐ-CP, sử dụng hóa đơn không hợp pháp để hạch toán mua vào nhưng lỗi thuộc bên bán và người mua đã hạch toán đầy đủ theo quy định thì xử phạt như thế nào:",
+      "options": [
+        "Phạt 20% số tiền thuế khai thiếu.",
+        "Phạt như trốn thuế.",
+        "Không phạt theo Điều 16 mà xử phạt theo Điều 28.",
+        "Không bị xử phạt theo Điều 16."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Thời hạn được coi là chưa bị xử phạt vi phạm hành chính về thuế, hóa đơn (nếu không tái phạm) là bao lâu sau khi chấp hành xong quyết định phạt tiền:",
+      "options": [
+        "06 tháng.",
+        "01 năm.",
+        "02 năm.",
+        "03 năm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Theo nguyên tắc tại khoản 4 Điều 7 Nghị định số 125/2020/NĐ-CP, khi có cả tình tiết tăng nặng và giảm nhẹ, thì xác định mức phạt tiền như thế nào:",
+      "options": [
+        "Giảm trừ lẫn nhau (01 tình tiết giảm nhẹ trừ 01 tình tiết tăng nặng).",
+        "Chỉ áp dụng 01 tình tiết tăng nặng.",
+        "Chỉ áp dụng 01 tình tiết giảm nhẹ.",
+        "Luôn phạt mức tối đa của khung tiền phạt."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Nghị định quy định xử phạt vi phạm hành chính về thuế, hóa đơn không áp dụng đối với trường hợp nào dưới đây:",
+      "options": [
+        "Vi phạm hành chính về phí, lệ phí.",
+        "Vi phạm hành chính về thuế đối với hàng hóa xuất khẩu, nhập khẩu do cơ quan hải quan quản lý thu.",
+        "Vi phạm quy định về thủ tục đăng ký thuế của các tổ chức thực hiện đăng ký thuế cùng với đăng ký doanh nghiệp.",
+        "Tất cả các phương án trên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 21,
+      "question": "Trừ các trường hợp quy định tại Điều 16, 17 và 18, mức phạt đối với cùng một hành vi vi phạm hành chính về thuế, hóa đơn được áp dụng như thế nào (bỏ khúc vàng):",
+      "options": [
+        "Mức phạt tiền đối với cá nhân bằng mức phạt tiền đối với tổ chức.",
+        "Mức phạt tiền đối với tổ chức bằng 02 lần mức phạt tiền đối với cá nhân.",
+        "Mức phạt tiền đối với cá nhân bằng 02 lần mức phạt tiền đối với tổ chức.",
+        "Mức phạt tiền đối với hộ kinh doanh bằng mức phạt tiền đối với tổ chức."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Trường hợp cùng một ngày, người nộp thuế chậm nộp nhiều hồ sơ khai thuế của cùng một sắc thuế thì bị xử phạt như thế nào:",
+      "options": [
+        "Phạt cộng dồn từng hành vi chậm nộp.",
+        "Chỉ bị xử phạt về một hành vi chậm nộp hồ sơ khai thuế có khung phạt tiền cao nhất.",
+        "Phạt hành vi có khung phạt tiền cao nhất cộng thêm tình tiết tăng nặng vi phạm nhiều lần.",
+        "Lập biên bản xử phạt đối với hành vi nộp chậm lâu nhất."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Hành vi trốn thuế bị coi là \"vi phạm hành chính có quy mô lớn\" khi số tiền thuế trốn từ bao nhiêu trở lên đối với các trường hợp chuyển hồ sơ vi phạm để xử phạt vi phạm hành chính:",
+      "options": [
+        "Từ 50.000.000 đồng trở lên.",
+        "Từ 100.000.000 đồng trở lên.",
+        "Từ 200.000.000 đồng trở lên.",
+        "Từ 500.000.000 đồng trở lên."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Thời hiệu xử phạt vi phạm hành chính về hóa đơn là bao lâu:",
+      "options": [
+        "01 năm.",
+        "02 năm.",
+        "05 năm.",
+        "10 năm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Thời hiệu xử phạt đối với hành vi trốn thuế chưa đến mức truy cứu trách nhiệm hình sự, hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp hoặc tăng số tiền thuế được hoàn là bao lâu:",
+      "options": [
+        "02 năm kể từ ngày thực hiện hành vi vi phạm.",
+        "03 năm kể từ ngày phát hiện hành vi vi phạm.",
+        "05 năm kể từ ngày thực hiện hành vi vi phạm.",
+        "10 năm kể từ ngày thực hiện hành vi vi phạm."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "Trường hợp nào dưới đây không bị xử phạt vi phạm hành chính về thuế, hóa đơn:",
+      "options": [
+        "Người nộp thuế chậm thực hiện thủ tục thuế, hóa đơn do sự cố kỹ thuật của hệ thống CNTT được thông báo trên Cổng thông tin điện tử của cơ quan thuế.",
+        "Vi phạm do thực hiện theo văn bản hướng dẫn, quyết định xử lý của cơ quan thuế ban hành trước đó.",
+        "Cá nhân trực tiếp quyết toán thuế TNCN chậm nộp hồ sơ quyết toán mà có phát sinh số tiền thuế được hoàn.",
+        "Tất cả các phương án trên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 27,
+      "question": "Hành vi \"Không thông báo tạm ngừng hoạt động kinh doanh\" bị áp dụng mức phạt tiền ở khung nào:",
+      "options": [
+        "Phạt cảnh cáo.",
+        "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng.",
+        "Phạt tiền từ 3.000.000 đồng đến 6.000.000 đồng.",
+        "Phạt tiền từ 6.000.000 đồng đến 10.000.000 đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Mức phạt đối với hành vi nộp hồ sơ khai thuế quá thời hạn từ 01 ngày đến 05 ngày và có tình tiết giảm nhẹ là gì:",
+      "options": [
+        "Phạt cảnh cáo.",
+        "Phạt tiền từ 500.000 đồng đến 1.500.000 đồng.",
+        "Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng.",
+        "Không bị xử phạt."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Hành vi cung cấp thông tin, tài liệu, sổ kế toán liên quan đến việc xác định nghĩa vụ thuế theo thông báo của cơ quan thuế quá thời hạn quy định từ 05 ngày làm việc trở lên thì bị phạt tiền ở mức nào:",
+      "options": [
+        "Phạt cảnh cáo.",
+        "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng.",
+        "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng.",
+        "Phạt tiền từ 3.000.000 đồng đến 5.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "Hành vi đăng ký thuế quá thời hạn quy định từ 01 ngày đến 10 ngày và có tình tiết giảm nhẹ thì bị áp dụng hình thức xử phạt nào:",
+      "options": [
+        "Phạt tiền từ 500.000 đồng đến 1.000.000 đồng.",
+        "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng.",
+        "Phạt tiền từ 3.000.000 đồng đến 6.000.000 đồng.",
+        "Phạt cảnh cáo."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 31,
+      "question": "Đối với quy định về thuế tối thiểu toàn cầu, hành vi không thông báo đơn vị hợp thành chịu trách nhiệm kê khai và danh sách các đơn vị hợp thành thuộc đối tượng áp dụng Nghị quyết 107/2023/QH15 thì bị xử phạt tiền ở mức nào:",
+      "options": [
+        "Từ 1.000.000 đồng đến 2.000.000 đồng.",
+        "Từ 3.000.000 đồng đến 6.000.000 đồng.",
+        "Từ 6.000.000 đồng đến 10.000.000 đồng.",
+        "Phạt cảnh cáo."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Mức phạt tiền đối với hành vi không thông báo thay đổi thông tin trong hồ sơ đăng ký thuế là bao nhiêu:",
+      "options": [
+        "Từ 1.000.000 đồng đến 3.000.000 đồng.",
+        "Từ 3.000.000 đồng đến 5.000.000 đồng.",
+        "Từ 5.000.000 đồng đến 7.000.000 đồng.",
+        "Từ 7.000.000 đồng đến 10.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 33,
+      "question": "Trường hợp nào sau đây không bị xử phạt hành vi vi phạm về thời hạn thông báo thay đổi thông tin trong đăng ký thuế:",
+      "options": [
+        "Cá nhân không kinh doanh đã được cấp MST thu nhập cá nhân chậm thay đổi thông tin theo thẻ căn cước.",
+        "Không thông báo thay đổi địa chỉ NNT do thay đổi địa giới hành chính theo Nghị quyết của Quốc hội.",
+        "Cơ quan chi trả thu nhập chậm thông báo khi cá nhân ủy quyền quyết toán thuế TNCN có thay đổi thông tin theo thẻ căn cước.",
+        "Tất cả các phương án trên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 34,
+      "question": "Hành vi khai sai, khai không đầy đủ các chỉ tiêu liên quan đến xác định nghĩa vụ thuế trong hồ sơ thuế (nhưng không dẫn đến thiếu số tiền thuế phải nộp hoặc không dẫn đến tăng số tiền thuế được miễn, giảm, hoàn) bị xử phạt bao nhiêu:",
+      "options": [
+        "Từ 500.000 đồng đến 1.500.000 đồng.",
+        "Từ 1.500.000 đồng đến 2.500.000 đồng.",
+        "Từ 5.000.000 đồng đến 8.000.000 đồng.",
+        "Từ 8.000.000 đồng đến 15.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 35,
+      "question": "Biện pháp khắc phục hậu quả áp dụng cho hành vi khai sai, khai không đầy đủ các chỉ tiêu liên quan đến xác định nghĩa vụ thuế trong hồ sơ thuế (nhưng không dẫn đến thiếu số tiền thuế phải nộp hoặc không dẫn đến tăng số tiền thuế được miễn, giảm, hoàn) là gì:",
+      "options": [
+        "Buộc khai lại và nộp bổ sung các tài liệu trong hồ sơ thuế.",
+        "Buộc điều chỉnh lại số lỗ, số thuế giá trị gia tăng đầu vào được khấu trừ chuyển kỳ sau (nếu có).",
+        "Buộc nộp đủ số tiền thuế thiếu, tiền chậm nộp tiền thuế.",
+        "Cả A và B."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 36,
+      "question": "Hành vi không nộp các phụ lục theo quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết kèm theo hồ sơ quyết toán thuế TNDN thì bị áp dụng khung phạt tiền nào:",
+      "options": [
+        "Từ 2.000.000 đồng đến 5.000.000 đồng.",
+        "Từ 5.000.000 đồng đến 8.000.000 đồng.",
+        "Từ 8.000.000 đồng đến 15.000.000 đồng.",
+        "Từ 15.000.000 đồng đến 25.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 37,
+      "question": "Nộp hồ sơ khai thuế quá thời hạn trên 90 ngày, có phát sinh số thuế phải nộp và người nộp thuế đã tự giác nộp đủ số tiền thuế, tiền chậm nộp trước thời điểm cơ quan thuế công bố quyết định kiểm tra thuế thì bị phạt ở mức nào:",
+      "options": [
+        "Phạt theo số tiền thuế trốn (1 đến 3 lần).",
+        "Từ 8.000.000 đồng đến 15.000.000 đồng.",
+        "Từ 15.000.000 đồng đến 25.000.000 đồng.",
+        "Phạt 20% trên số thuế phát sinh."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Tổ chức có hành vi \"Không cung cấp hoặc cung cấp không đầy đủ, không chính xác các thông tin, tài liệu, chứng từ, hoá đơn, sổ kế toán liên quan đến việc xác định nghĩa vụ thuế\" thì bị phạt tiền ở mức nào:",
+      "options": [
+        "Từ 1.000.000 đồng đến 2.000.000 đồng.",
+        "Từ 2.000.000 đồng đến 3.000.000 đồng.",
+        "Từ 3.000.000 đồng đến 5.000.000 đồng.",
+        "Từ 5.000.000 đồng đến 8.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Trong thời gian kiểm tra tại trụ sở người nộp thuế, hành vi tự ý tháo bỏ, thay đổi dấu hiệu niêm phong do cơ quan có thẩm quyền tạo lập hợp pháp thì bị xử phạt ở mức nào:",
+      "options": [
+        "Từ 2.000.000 đồng đến 5.000.000 đồng.",
+        "Từ 5.000.000 đồng đến 10.000.000 đồng.",
+        "Từ 10.000.000 đồng đến 15.000.000 đồng.",
+        "Bị truy cứu trách nhiệm hình sự."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Một vụ việc được gọi là đặc biệt nghiêm trọng khi có hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp hoặc tăng số tiền thuế được hoàn hoặc hành vi trốn thuế như thế nào:",
+      "options": [
+        "Liên tiếp từ ba kỳ tính thuế trở lên.",
+        "Có số thuế khai sai tương đối lớn tại một kỳ tính thuế.",
+        "Vừa có hành vi khai sai/trốn thuế và vi phạm về thủ tục thuế trong cùng một kỳ tính thuế.",
+        "Có hành vi vi phạm trong 02 kỳ tính thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Mức phạt đối với hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp hoặc tăng số tiền thuế được miễn, giảm, hoàn là bao nhiêu:",
+      "options": [
+        "Phạt 10% số tiền thuế khai thiếu hoặc cao hơn so với quy định.",
+        "Phạt 20% số tiền thuế khai thiếu hoặc cao hơn so với quy định.",
+        "Phạt từ 1 đến 3 lần số tiền thuế khai thiếu.",
+        "Phạt tiền từ 5.000.000 đồng đến 8.000.000 đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Trường hợp người nộp thuế có hành vi khai sai căn cứ tính thuế (thuộc khoản 1 Điều 16) nhưng không dẫn đến thiếu số thuế phải nộp, tăng số thuế được miễn, giảm hoặc chưa được hoàn thuế thì bị xử phạt theo quy định nào:",
+      "options": [
+        "Vẫn bị phạt 20% số tiền thuế khai thiếu do vi phạm nguyên tắc.",
+        "Phạt tiền từ 5.000.000 đồng đến 8.000.000 đồng (xử phạt vi phạm thủ tục hồ sơ thuế).",
+        "Không bị xử phạt.",
+        "Phạt cảnh cáo."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Doanh nghiệp sử dụng hoá đơn không hợp pháp để hạch toán làm giảm số tiền thuế phải nộp. Tuy nhiên, khi kiểm tra, doanh nghiệp chứng minh được lỗi vi phạm sử dụng hoá đơn không hợp pháp thuộc về bên bán hàng và doanh nghiệp đã hạch toán kế toán đầy đủ. Hành vi này bị xử lý như thế nào:",
+      "options": [
+        "Bị xử phạt về hành vi trốn thuế (phạt 1 đến 3 lần).",
+        "Bị xử phạt về hành vi sử dụng hóa đơn không hợp pháp (phạt tiền 20 - 50 triệu).",
+        "Bị xử phạt về hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp (phạt 20%).",
+        "Không bị xử phạt vi phạm hành chính."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Người nộp thuế có hành vi trốn thuế mà có từ một tình tiết giảm nhẹ trở lên thì bị phạt tiền ở mức nào:",
+      "options": [
+        "1 lần số thuế trốn.",
+        "1,5 lần số thuế trốn.",
+        "2 lần số thuế trốn.",
+        "Phạt 20% số tiền thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Mức phạt tiền tối đa đối với hành vi trốn thuế (khi người nộp thuế có từ ba tình tiết tăng nặng trở lên) là bao nhiêu:",
+      "options": [
+        "1,5 lần số tiền thuế trốn.",
+        "2 lần số tiền thuế trốn.",
+        "2,5 lần số tiền thuế trốn.",
+        "3 lần số tiền thuế trốn."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 46,
+      "question": "Nếu hành vi trốn thuế đã quá thời hiệu xử phạt (quá 05 năm), người nộp thuế có trách nhiệm khắc phục hậu quả như thế nào:",
+      "options": [
+        "Không phải nộp lại số tiền thuế trốn do đã hết thời hiệu.",
+        "Không bị xử phạt nhưng phải nộp đủ số tiền thuế trốn và tiền chậm nộp tính trên số tiền thuế trốn vào ngân sách nhà nước theo thời hạn quy định cụ thể.",
+        "Chỉ phải nộp lại số tiền thuế trốn, không tính tiền chậm nộp.",
+        "Chỉ tính tiền chậm nộp, không truy thu số tiền thuế trốn."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Ngân hàng thương mại không thực hiện trách nhiệm trích chuyển tiền từ tài khoản của người nộp thuế vào ngân sách nhà nước theo yêu cầu của cơ quan thuế (dù tài khoản còn đủ số dư) thì bị phạt như thế nào:",
+      "options": [
+        "Phạt tiền từ 10.000.000 đồng đến 16.000.000 đồng.",
+        "Phạt tiền từ 20.000.000 đồng đến 50.000.000 đồng.",
+        "Phạt tiền tương ứng với số tiền thuế, tiền chậm nộp, tiền phạt không trích chuyển.",
+        "Phạt tiền bằng 20% số tiền không trích chuyển."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "Tổ chức, cá nhân có liên quan thực hiện hành vi \"Cung cấp không chính xác thông tin liên quan đến tài khoản của người nộp thuế tại tổ chức tín dụng, kho bạc nhà nước theo yêu cầu của cơ quan thuế\" bị phạt tiền ở mức nào:",
+      "options": [
+        "Từ 2.000.000 đồng đến 6.000.000 đồng.",
+        "Từ 6.000.000 đồng đến 10.000.000 đồng.",
+        "Từ 10.000.000 đồng đến 16.000.000 đồng.",
+        "Bị thu hồi giấy phép kinh doanh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Tổ chức, cá nhân có hành vi \"Không cung cấp thông tin liên quan đến tiền lương, tiền công hoặc thu nhập của người nộp thuế do mình nắm giữ\" theo yêu cầu của cơ quan thuế bị xử phạt như thế nào:",
+      "options": [
+        "Phạt tiền từ 2.000.000 đồng đến 6.000.000 đồng.",
+        "Phạt tiền từ 6.000.000 đồng đến 10.000.000 đồng.",
+        "Phạt tiền từ 10.000.000 đồng đến 16.000.000 đồng.",
+        "Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 50,
+      "question": "Đối với tổ chức liên quan, hành vi \"Thông đồng, bao che người nộp thuế trốn thuế, không thực hiện quyết định cưỡng chế hành chính thuế\" (trừ hành vi của Ngân hàng thương mại không trích chuyển tiền) bị phạt tiền ở khung nào:",
+      "options": [
+        "Từ 2.000.000 đồng đến 6.000.000 đồng.",
+        "Từ 6.000.000 đồng đến 10.000.000 đồng.",
+        "Từ 10.000.000 đồng đến 16.000.000 đồng.",
+        "Từ 50.000.000 đồng đến 100.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 51,
+      "question": "Hành vi cho, bán hóa đơn thì bị áp dụng ở mức xử phạt nào:",
+      "options": [
+        "Từ 10.000.000 đồng đến 20.000.000 đồng.",
+        "Từ 20.000.000 đồng đến 50.000.000 đồng.",
+        "Từ 50.000.000 đồng đến 70.000.000 đồng.",
+        "Bị truy cứu trách nhiệm hình sự trong mọi trường hợp."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Hành vi lập hóa đơn không đúng thời điểm đối với hàng hóa cho, biếu, tặng hoặc hoàn trả hàng hóa 01 số hóa đơn thì bị xử lý như thế nào:",
+      "options": [
+        "Phạt cảnh cáo.",
+        "Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng.",
+        "Phạt tiền từ 5.000.000 đồng đến 15.000.000 đồng.",
+        "Không bị xử phạt."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Doanh nghiệp có hành vi không lập hóa đơn khi bán hàng hóa, cung cấp dịch vụ theo quy định từ 50 số hóa đơn trở lên thì bị xử phạt:",
+      "options": [
+        "Từ 30.000.000 đồng đến 50.000.000 đồng.",
+        "Từ 50.000.000 đồng đến 70.000.000 đồng.",
+        "Từ 60.000.000 đồng đến 80.000.000 đồng.",
+        "Từ 80.000.000 đồng đến 100.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "Lập hóa đơn điện tử khi chưa có thông báo chấp thuận của cơ quan thuế hoặc trước ngày cơ quan thuế chấp nhận việc sử dụng hóa đơn điện tử có mã hoặc không có mã, thì bị xử phạt ở khung nào:",
+      "options": [
+        "Từ 3.000.000 đồng đến 5.000.000 đồng.",
+        "Từ 4.000.000 đồng đến 8.000.000 đồng.",
+        "Từ 10.000.000 đồng đến 20.000.000 đồng.",
+        "Từ 20.000.000 đồng đến 50.000.000 đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Hành vi làm mất, cháy, hỏng hóa đơn đã lập (liên giao cho khách hàng) trong quá trình sử dụng, người bán đã kê khai, nộp thuế, có hồ sơ chứng minh việc mua bán và có tình tiết giảm nhẹ, thì bị xử phạt:",
+      "options": [
+        "Phạt cảnh cáo.",
+        "Từ 3.000.000 đồng đến 5.000.000 đồng.",
+        "Từ 4.000.000 đồng đến 8.000.000 đồng.",
+        "Từ 5.000.000 đồng đến 10.000.000 đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 56,
+      "question": "Trường hợp người mua làm mất hóa đơn do lỗi của bên thứ ba (ví dụ: bên vận chuyển giao nhận), nếu bên thứ ba thực hiện giao dịch với người mua thì ai là đối tượng bị xử phạt:",
+      "options": [
+        "Bên thứ ba.",
+        "Người mua.",
+        "Cả người mua và bên thứ ba.",
+        "Cả người mua, người bán và bên thứ ba cùng bị phạt."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 57,
+      "question": "Hành vi sử dụng hóa đơn không hợp pháp, sử dụng không hợp pháp hóa đơn (trừ các trường hợp được quy định là hành vi khai sai dẫn đến thiếu thuế hoặc trốn thuế) thì bị áp dụng mức phạt tiền nào:",
+      "options": [
+        "Từ 10.000.000 đồng đến 20.000.000 đồng.",
+        "Từ 20.000.000 đồng đến 50.000.000 đồng.",
+        "Từ 50.000.000 đồng đến 70.000.000 đồng.",
+        "Từ 1 đến 3 lần giá trị ghi trên hóa đơn."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 58,
+      "question": "Đối với vi phạm về chuyển dữ liệu hóa đơn điện tử, hành vi không  chuyển dữ liệu hóa đơn điện tử cho cơ quan thuế theo thời hạn quy định (quá hạn từ 11 ngày làm việc trở lên) thì bị phạt ở mức nào:",
+      "options": [
+        "Từ 2.000.000 đồng đến 5.000.000 đồng.",
+        "Từ 5.000.000 đồng đến 8.000.000 đồng.",
+        "Từ 10.000.000 đồng đến 20.000.000 đồng.",
+        "Từ 20.000.000 đồng đến 30.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 59,
+      "question": "Hành vi tiêu hủy hóa đơn quá thời hạn từ 01 ngày đến 10 ngày làm việc, kể từ ngày hết thời hạn tiêu hủy (trường hợp không có tình tiết giảm nhẹ) thì bị xử phạt bao nhiêu:",
+      "options": [
+        "Phạt cảnh cáo.",
+        "Từ 2.000.000 đồng đến 4.000.000 đồng.",
+        "Từ 4.000.000 đồng đến 8.000.000 đồng.",
+        "Từ 5.000.000 đồng đến 10.000.000 đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Doanh nghiệp lập hóa đơn bán hàng hóa, dịch vụ trong thời gian tạm ngừng hoạt động kinh doanh (trừ trường hợp lập hóa đơn giao cho khách hàng để thực hiện các hợp đồng đã ký trước ngày thông báo tạm ngừng) thì bị xử phạt ở khung nào:",
+      "options": [
+        "Từ 2.000.000 đồng đến 5.000.000 đồng.",
+        "Từ 4.000.000 đồng đến 8.000.000 đồng.",
+        "Từ 10.000.000 đồng đến 20.000.000 đồng.",
+        "Từ 20.000.000 đồng đến 50.000.000 đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 61,
+      "question": "Công chức thuế đang thi hành công vụ có quyền phạt tiền tối đa bao nhiêu đối với hành vi vi phạm thủ tục thuế của một tổ chức:",
+      "options": [
+        "Đến 5.000.000 đồng.",
+        "Đến 10.000.000 đồng.",
+        "Đến 20.000.000 đồng.",
+        "Không có thẩm quyền phạt tiền, chỉ được lập biên bản."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "Cục trưởng Cục Thuế có thẩm quyền phạt tiền tối đa bao nhiêu đối với các hành vi vi phạm hành chính về hóa đơn:",
+      "options": [
+        "Đến 50.000.000 đồng.",
+        "Đến 80.000.000 đồng.",
+        "Đến 100.000.000 đồng.",
+        "Đến 200.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "Hành vi vi phạm hành chính về thuế, hóa đơn của tổ chức thuộc trường hợp được quyền giải trình khi có mức tối đa của khung tiền phạt đối với hành vi đó từ bao nhiêu:",
+      "options": [
+        "15.000.000 đồng trở lên.",
+        "30.000.000 đồng trở lên.",
+        "50.000.000 đồng trở lên.",
+        "Tất cả các hành vi vi phạm đều được giải trình."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 64,
+      "question": "Trường hợp người nộp thuế chậm nộp hồ sơ khai thuế bằng phương thức điện tử thì cơ quan thuế phải lập và gửi biên bản vi phạm hành chính điện tử cho người nộp thuế trong thời hạn bao lâu:",
+      "options": [
+        "01 ngày làm việc kể từ ngày gửi thông báo chấp nhận hồ sơ.",
+        "03 ngày làm việc kể từ ngày gửi thông báo chấp nhận hồ sơ.",
+        "05 ngày làm việc kể từ ngày gửi thông báo chấp nhận hồ sơ.",
+        "07 ngày làm việc kể từ ngày gửi thông báo chấp nhận hồ sơ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 65,
+      "question": "Trong các trường hợp sau đây, trường hợp nào cơ quan thuế không ra quyết định xử phạt vi phạm hành chính nhưng vẫn phải áp dụng biện pháp khắc phục hậu quả (truy thu thuế, tiền chậm nộp...):",
+      "options": [
+        "Đã hết thời hiệu xử phạt vi phạm hành chính.",
+        "Cá nhân vi phạm đã chết, mất tích.",
+        "Không xác định được đối tượng vi phạm hành chính.",
+        "Tất cả các trường hợp trên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 66,
+      "question": "Khi tổ chức bị xử phạt vi phạm hành chính giải thể, phá sản (có căn cứ pháp lý rõ ràng) thì không thi hành nội dung nào trong quyết định xử phạt:",
+      "options": [
+        "Nội dung phạt tiền.",
+        "Biện pháp buộc nộp đủ số tiền thuế thiếu, tiền trốn.",
+        "Biện pháp buộc nộp tiền chậm nộp tiền thuế.",
+        "Tất cả các nội dung trên đều không được thi hành."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Tổ chức, cá nhân chậm nộp tiền phạt vi phạm hành chính về thuế, hóa đơn thì bị tính tiền chậm nộp tiền phạt theo mức nào:",
+      "options": [
+        "0,03%/ngày tính trên số tiền phạt chậm nộp.",
+        "0,05%/ngày tính trên số tiền phạt chậm nộp.",
+        "0,07%/ngày tính trên số tiền phạt chậm nộp.",
+        "Không tính tiền chậm nộp đối với tiền phạt."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Trường hợp cơ quan thuế gửi Quyết định xử phạt qua đường bưu chính bằng hình thức bảo đảm, nếu người vi phạm cố tình không nhận thì sau bao lâu (kể từ ngày gửi đến lần thứ ba bị trả lại) sẽ được coi là quyết định đã được giao:",
+      "options": [
+        "Sau thời hạn 03 ngày.",
+        "Sau thời hạn 05 ngày.",
+        "Sau thời hạn 07 ngày.",
+        "Sau thời hạn 10 ngày."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 69,
+      "question": "Mức miễn tiền phạt vi phạm hành chính về thuế, hóa đơn tối đa được quy định như thế nào:",
+      "options": [
+        "Tối đa bằng 50% số tiền phạt trong quyết định xử phạt.",
+        "Tối đa bằng số tiền phạt còn lại trong quyết định xử phạt và không quá giá trị tài sản, hàng hóa bị thiệt hại (sau khi trừ đi giá trị được bảo hiểm, bồi thường).",
+        "Tối đa bằng 100% giá trị tài sản thiệt hại, không xét đến bảo hiểm bồi thường.",
+        "Chỉ được miễn phần tiền chậm nộp tiền phạt."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "Theo điểm mới của Nghị định 310/2025/NĐ-CP (bổ sung khoản 10 Điều 2 Nghị định số 125/2020/NĐ-CP), trường hợp nào dưới đây được coi là sự kiện bất khả kháng dẫn đến việc người nộp thuế không thể tuân thủ đúng hạn:",
+      "options": [
+        "Thiên tai, thảm họa, dịch bệnh, hỏa hoạn, tai nạn bất ngờ.",
+        "Chiến tranh, bạo loạn, đình công.",
+        "Sự kiện xảy ra một cách khách quan không thể lường trước được và người nộp thuế không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép.",
+        "Tất cả các phương án trên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 71,
+      "question": "Tổ chức, cá nhân đăng ký thuế, khai, nộp thuế thay người nộp thuế nếu có hành vi vi phạm hành chính thì ai là người bị xử phạt theo Nghị định quy định về xử phạt VPHC về thuế, hóa đơn:",
+      "options": [
+        "Người nộp thuế của tổ chức, cá nhân kê khai, nộp thuế thay.",
+        "Tổ chức, cá nhân đăng ký thuế, khai, nộp thuế thay.",
+        "Cả người nộp thuế và tổ chức, cá nhân đăng ký thuế, khai, nộp thuế thay.",
+        "Không bị xử phạt do là tổ chức, cá nhân kê khai, nộp thuế thay."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "Trong cùng một ngày, người nộp thuế chậm nộp nhiều hồ sơ khai thuế, trong đó có cả hồ sơ thuộc trường hợp trốn thuế thì hồ sơ trốn thuế sẽ bị xử phạt như thế nào:",
+      "options": [
+        "Chỉ bị xử phạt về một hành vi chậm nộp hồ sơ khai thuế có khung phạt tiền cao nhất trong số các hành vi đã thực hiện.",
+        "Chỉ bị xử phạt về một hành vi chậm nộp hồ sơ khai thuế có khung phạt tiền cao nhất trong số các hành vi đã thực hiện và áp dụng tình tiết tăng nặng vi phạm nhiều lần.",
+        "Cộng dồn từng hành vi chậm nộp chia cho mức trung bình và áp dụng tình tiết tăng nặng do vi phạm nhiều lần.",
+        "Tách riêng để xử phạt về hành vi trốn thuế."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 73,
+      "question": "Khi người nộp thuế thực hiện nhiều hành vi lập hóa đơn không đúng thời điểm, nhưng vẫn còn trong thời hiệu xử phạt thì sẽ bị:",
+      "options": [
+        "Xử phạt đối với từng hành vi vi phạm về lập hóa đơn không đúng thời điểm.",
+        "Xử phạt chỉ với một hành vi lập hóa đơn không đúng thời điểm có khung tiền phạt tiền phạt tương ứng với số lượng hóa đơn đã lập không đúng quy định.",
+        "Xử phạt chỉ đối với một hành vi lập hóa đơn không đúng thời điểm theo khung phạt tiền cao nhất.",
+        "Xử phạt chỉ đối với một hành vi lập hóa đơn không đúng thời điểm theo khung tiền phạt cao nhất và áp dụng tình tiết tăng nặng do vi phạm nhiều lần."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 74,
+      "question": "Khi người nộp thuế khai sai nhiều chỉ tiêu trên một hồ sơ thuế, dẫn đến vừa vi phạm về thủ tục thuế và vừa phát sinh số tiền thuế phải nộp do khai sai thì bị xử phạt như thế nào:",
+      "options": [
+        "Bị xử phạt đối với cả hành vi vi phạm về thủ tục thuế và hành vi khai sai dẫn đến thiếu số thuế phải nộp.",
+        "Chỉ bị xử phạt về một hành vi khai sai chỉ tiêu trên hồ sơ thuế có khung tiền phạt cao nhất trong số các hành vi đã thực hiện.",
+        "Chỉ bị xử phạt về một hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp theo quy định.",
+        "Bị xử phạt đối với từng hành vi vi phạm về thủ tục thuế và áp dụng tình tiết tăng nặng, đồng thời buộc nộp đủ số tiền thuế khai thiếu phát sinh."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 75,
+      "question": "Đối với một hành vi vi phạm hành chính về thuế, nếu có một tình tiết tăng nặng hay giảm nhẹ thì mức tăng và giảm sẽ là bao nhiêu % trên mức tiền phạt trung bình khung:",
+      "options": [
+        "20% đối với mỗi tình tiết tăng nặng và giảm nhẹ.",
+        "20% đối với mỗi tình tiết tăng nặng và 10% đối với mỗi tình tiết giảm nhẹ.",
+        "10% đối với mỗi tình tiết tăng nặng và 5% đối với mỗi tình tiết giảm nhẹ.",
+        "10% đối với mỗi tình tiết tăng nặng và giảm nhẹ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 76,
+      "question": "Đối với một hành vi vi phạm hành chính về thuế, nếu người nộp thuế có 02 tình tiết tăng nặng trở lên thì bị áp dụng mức tiền phạt như thế nào:",
+      "options": [
+        "Áp dụng mức tối đa của khung tiền phạt.",
+        "Áp dụng mức trung bình của khung tiền phạt và tăng nặng đối với mỗi tình tiết vi phạm.",
+        "Áp dụng mức tối đa của khung tiền phạt và tăng nặng đối với mỗi tình tiết vi phạm.",
+        "Áp dụng mức tối đa của khung tiền phạt và 01 tình tiết tăng nặng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 77,
+      "question": "Đối với một hành vi vi phạm hành chính về thuế, nếu người nộp thuế có 02 tình tiết giảm nhẹ trở lên thì bị áp dụng mức tiền phạt như thế nào:",
+      "options": [
+        "Mức trung bình của khung tiền phạt và áp dụng giảm 10% đối với mỗi tình tiết giảm nhẹ.",
+        "Mức tối thiểu của khung tiền phạt.",
+        "Chỉ bị phạt cảnh cáo.",
+        "Không bị xử phạt."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "Hành vi nào trong các hành vi dưới đây được coi là vi phạm hành chính về hóa đơn đang được thực hiện:",
+      "options": [
+        "Không chuyển dữ liệu hóa đơn điện tử cho cơ quan thuế theo thời gian quy định.",
+        "Không nộp thông báo, báo cáo về hóa đơn gửi cơ quan thuế theo quy định.",
+        "Không hủy hóa đơn điện tử khi lập sai sót sau khi quá thời hạn cơ quan thuế thông báo cho ngưởi bán về việc kiểm tra sai, sót.",
+        "Cả A và B."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 79,
+      "question": "Thời điểm chấm dứt hành vi vi phạm về hóa đơn không thuộc trường hợp quy định tại điểm a khoản 6 Điều 1 NĐ số 310/2025/NĐ-CP (Sửa đổi điểm c khoản 1 Điều 8 NĐ số 125/2020/NĐ-CP) là:",
+      "options": [
+        "Ngày người có thẩm quyền thi hành công vụ phát hiện hành vi vi phạm.",
+        "Ngày người nộp thuế phát hiện hành vi vi phạm.",
+        "Ngày thực hiện hành vi vi phạm đó.",
+        "Ngày người nộp thuế thông báo với cơ quan thuế."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "Đối với hành vi mất, cháy, hỏng hóa đơn nhưng không xác định được ngày mất, cháy, hỏng thì thời điểm chấm dứt hành vi vi phạm là:",
+      "options": [
+        "Ngày phát hiện hóa đơn bị mất, cháy, hỏng.",
+        "Ngày thực hiện hành vi vi phạm đó.",
+        "Ngày người nộp thuế phát hiện hành vi nhưng không thông báo với cơ quan thuế.",
+        "Ngày người nộp thuế nộp thông báo, báo cáo về hóa đơn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 81,
+      "question": "Ngày thực hiện hành vi vi phạm để tính thời hiệu xử phạt đối với trường hợp khai sai dẫn đến tăng số tiền thuế được hoàn là:",
+      "options": [
+        "Ngày cuối cùng của thời hạn nộp hồ sơ khai thuế tại kỳ tính thuế thực hiện khai sai.",
+        "Ngày người nộp thuế nộp hồ sơ khai thuế.",
+        "Ngày người có thẩm quyền thi hành công vụ phát hiện hành vi vi phạm.",
+        "Ngày cơ quan có thẩm quyền ra quyết định hoàn thuế."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 82,
+      "question": "Ngày thực hiện hành vi vi phạm để tính thời hiệu xử phạt đối với hành vi không nộp hồ sơ đăng ký thuế là:",
+      "options": [
+        "Ngày người có thẩm quyền thi hành công vụ phát hiện hành vi vi phạm.",
+        "Ngày công chức thuế thông báo cho người nộp thuế về hành vi vi phạm.",
+        "Ngày người nộp thuế phát hiện hành vi vi phạm.",
+        "Ngày tiếp theo ngày hết thời hạn nộp hồ sơ đăng ký thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 83,
+      "question": "Đối với hành vi thông báo đơn vị hợp thành chịu trách nhiệm kê khai và danh sách các đơn vị hợp thành thuộc đối tượng áp dụng Nghị quyết 107/2023/QH15 quá thời gian quy định thì bị xử phạt như thế nào:",
+      "options": [
+        "Phạt cảnh cáo.",
+        "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng.",
+        "Từ 3.000.000 đồng đến 6.000.000 đồng.",
+        "Phạt cảnh cáo."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 84,
+      "question": "Trường hợp nào sau đây không bị xử phạt hành vi vi phạm về thời hạn thông báo thay đổi thông tin trong đăng ký thuế:",
+      "options": [
+        "Cơ quan chi trả thu nhập chậm thông báo khi các cá nhân ủy quyền quyết toán thuế TNCN có thay đổi thông tin theo thẻ căn cước, căn cước điện tử.",
+        "Không thông báo thay đổi thông tin địa chỉ người nộp thuế.",
+        "Thông báo thay đổi nội dung đăng ký thuế quá thời hạn quy định.",
+        "Các phương án trên đều sai."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 85,
+      "question": "Trước thời điểm cơ quan thuế công bố quyết định kiểm tra thuế mà người nộp thuế đã tự giác nộp đủ số tiền thuế, tiền chậm nộp đối với hành vi nộp hồ sơ khai thuế quá thời hạn trên 90 ngày thì bị xử phạt như thế nào nếu số tiền thuế phát sinh thấp hơn số tiền phạt nếu áp dụng theo mức quy định:",
+      "options": [
+        "Bị xử phạt theo mức tối thiểu của khung tiền phạt.",
+        "Phạt tiền từ 10.000.000 đồng đến 15.000.000 đồng.",
+        "Bằng số tiền thuế phát sinh trên hồ sơ khai thuế.",
+        "Bị xử phạt tối đa bằng số tiền thuế phát sinh phải nộp trên các hồ sơ khai thuế vi phạm nhưng không thấp hơn mức trung bình khung tiền phạt."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 86,
+      "question": "Biện pháp khắc phục hậu quả áp dụng cho hành vi vi phạm trong trường hợp người nộp thuế chậm nộp hồ sơ khai thuế dẫn đến chậm nộp tiền thuế là:",
+      "options": [
+        "Buộc cung cấp thông tin, tài liệu liên quan đến việc xác định nghĩa vụ thuế.",
+        "Buộc cung cấp sổ kế toán liên quan đến việc xác định nghĩa vụ thuế.",
+        "Buộc nộp đủ số tiền chậm nộp tiền thuế và cung cấp thông tin, tài liệu liên quan đến việc xác định nghĩa vụ thuế.",
+        "Buộc nộp đủ số tiền chậm nộp tiền thuế."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 87,
+      "question": "Trường hợp người nộp thuế được xác định có hành vi trốn thuế dẫn đến làm giảm số tiền thuế phải nộp nhưng do vi phạm lần đầu và đã được người nộp thuế khai bổ sung, nộp đủ số tiền thuế trước thời điểm ra quyết định xử phạt (cơ quan thuế đã lập biên bản ghi nhận xác định là hành vi khai sai dẫn đến thiếu thuế) thì bị xử phạt:",
+      "options": [
+        "Phạt 20% số tiền thuế khai thiếu.",
+        "Phạt tiền từ 6.000.000 đồng đến 10.000.000 đồng.",
+        "Phạt 01 lần số tiền thuế thiếu do khai sai.",
+        "Phạt 1,5 lần số tiền thuế trốn do khai sai."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 88,
+      "question": "Hành vi vi phạm nào bị áp dụng mức phạt tiền từ 20.000.000 đồng đến 50.000.000 đồng:",
+      "options": [
+        "Hành vi cho, bán hóa đơn.",
+        "Hành vi lập hóa đơn không đúng thời điểm từ 20 đến dưới 50 số hóa đơn.",
+        "Hành vi không lập hóa đơn từ 20 đến dưới 50 số hóa đơn.",
+        "Hành vi không lập hóa đơn từ 50 số hóa đơn trở lên."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 89,
+      "question": "Biện pháp khắc phục hậu quả áp dụng cho hành vi không lập hóa đơn khi bán hàng hóa, dịch vụ theo quy định là:",
+      "options": [
+        "Buộc cung cấp sổ kế toán có liên quan đến doanh thu của các hóa đơn chưa lập.",
+        "Buộc cung cấp thông tin đối với hành vi không lập hóa đơn.",
+        "Buộc giải trình và cung cấp các hồ sơ, tài liệu có liên quan đến việc bán hàng hóa dịch vụ đối với hóa đơn chưa lập.",
+        "Buộc lập hóa đơn."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 90,
+      "question": "Trường hợp nào bị áp dụng mức xử phạt từ 15.000.000 đồng đến 25.000.000 đồng nếu có phát sinh số thuế phải nộp và người nộp thuế đã tự giác nộp đủ số tiền thuế, tiền chậm nộp trước thời điểm cơ quan thuế công bố quyết định kiểm tra thuế:",
+      "options": [
+        "Nộp hồ sơ khai thuế quá thời hạn trên 90 ngày.",
+        "Nộp hồ sơ khai thuế quá thời hạn từ 61 đến 90 ngày.",
+        "Nộp hồ sơ khai thuế quá thời hạn từ 31 đến 60 ngày.",
+        "Không nộp hồ sơ khai thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 91,
+      "question": "Vi phạm hành chính có quy mô lớn theo điểm 1 khoản 1 Điều 10 Luật Xử lý vi phạm hành chính được định trong các trường hợp nào dưới đây:",
+      "options": [
+        "Thực hiện một hành vi trốn thuế, với số tiền từ 100.000.000 đồng trở lên đối với các trường hợp chuyển hồ sơ vi phạm để xử phạt vi phạm hành chính.",
+        "Thực hiện nhiều hành vi trốn thuế, với số tiền thuế trốn dưới 100.000.000 đồng.",
+        "Thực hiện một hành vi vi phạm hành chính về hóa đơn với số lượng từ 10 số hóa đơn trở lên.",
+        "Cả A và C."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 92,
+      "question": "Hành vi vi phạm nào khi bán hàng hóa, cung cấp dịch vụ mà người nộp thuế bị xử phạt từ 60.000.000 đồng đến 80.000.000 đồng:",
+      "options": [
+        "Không lập hóa đơn theo quy định từ 50 số hóa đơn trở lên.",
+        "Không lập hóa đơn theo quy định từ 20 số hóa đơn đến dưới 50 số hóa đơn.",
+        "Lập hóa đơn không đúng thời điểm từ 100 số hóa đơn trở lên.",
+        "Cho, bán hóa đơn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Hành vi vi phạm về hóa đơn nào sau đây, người nộp thuế bị xử phạt từ 4.000.000 đồng đến 8.000.000 đồng:",
+      "options": [
+        "Làm mất, cháy, hỏng hóa đơn đã lập sai, đã xóa bỏ và người bán đã lập hóa đơn khác thay thế.",
+        "Làm mất, cháy, hỏng hóa đơn đã lập (liên giao cho khách hàng) nhưng người bán đã kê khai, nộp thuế và có tình tiết giảm nhẹ.",
+        "Khai báo mất, cháy, hỏng hóa đơn quá thời hạn từ 01 đến 05 ngày.",
+        "Làm mất, cháy, hỏng hóa đơn mua của cơ quan thuế nhưng chưa lập."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 94,
+      "question": "Hành vi cung cấp giải pháp trong việc khởi tạo, kết nối nhận, truyền, nhận, lưu trữ và xử lý dữ liệu của hóa đơn điện tử không đảm bảo nguyên tắc thì bị xử phạt:",
+      "options": [
+        "Từ 4.000.000 đồng đến 8.000.000 đồng.",
+        "Từ 2.000.000 đồng đến 4.000.000 đồng.",
+        "Phạt cảnh báo.",
+        "Từ 5.000.000 đồng đến 8.000.000 đồng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "Trường hợp nào sau đây bị xử phạt hành vi không lập hóa đơn theo mức phạt tiền từ 2.000.000 đồng đến 10.000.000 đồng:",
+      "options": [
+        "Xuất hàng dưới các hình thức cho vay, cho mượn hoặc hoàn trả hàng hóa từ 10 số hóa đơn đến dưới 50 số hóa đơn.",
+        "Xuất hàng dưới các hình thức cho vay, cho mượn hoặc hoàn trả hàng hóa từ 50 số hóa đơn đến dưới 100 số hóa đơn.",
+        "Xuất hàng dưới các hình thức cho vay, cho mượn hoặc hoàn trả hàng hóa từ 100 số hóa đơn trở lên.",
+        "Xuất hàng dưới các hình thức cho vay, cho mượn hoặc hoàn trả hàng hóa từ 02 số hóa đơn đến dưới 10 số hóa đơn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 96,
+      "question": "Công ty A ủy quyền cho Đại lý thuế X thực hiện toàn bộ thủ tục đăng ký thuế, khai thuế và nộp thuế. Do lỗi phần mềm nội bộ của Đại lý thuế X, hồ sơ khai thuế GTGT tháng 02/2026 của Công ty A bị gửi chậm 10 ngày so với thời hạn quy định. Căn cứ Nghị định 310/2025/NĐ-CP, đối tượng bị lập biên bản và ra quyết định xử phạt vi phạm hành chính là:",
+      "options": [
+        "Công ty A (người nộp thuế).",
+        "Đại lý thuế X (bên được ủy quyền).",
+        "Cả Công ty A và Đại lý thuế X.",
+        "Không xử phạt vì lỗi phần mềm là sự kiện bất khả kháng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Trong đợt kiểm tra tại trụ sở Công ty A, cơ quan thuế phát hiện doanh nghiệp có hành vi không lập hóa đơn đối với 05 số hóa đơn bán hàng hóa trong các ngày khác nhau của tháng 02/2026. Tất cả các vi phạm này bị xử phạt trong một vụ việc vi phạm hành chính. Theo quy tắc xử phạt tại Nghị định số 310/2025/NĐ-CP, khung phạt tiền áp dụng là:",
+      "options": [
+        "Phạt 05 lần hành vi không lập hóa đơn với khung 1.000.000 - 2.000.000 đồng.",
+        "Chỉ bị xử phạt về một hành vi không lập hóa đơn với khung từ 2.000.000 đồng đến 10.000.000 đồng.",
+        "Chỉ bị xử phạt về một hành vi không lập hóa đơn với khung từ 2.000.000 đồng đến 10.000.000 đồng.",
+        "Chỉ phạt cảnh cáo vì vi phạm dưới 10 số hóa đơn."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Công ty A lập hóa đơn không đúng thời điểm đối với 120 số hóa đơn bán hàng trong một vụ việc bị phát hiện vào tháng 03/2026 (không có tình tiết tăng nặng, giảm nhẹ). Mức phạt tiền cụ thể áp dụng là:",
+      "options": [
+        "50.000.000 đồng.",
+        "54.000.000 đồng.",
+        "60.000.000 đồng.",
+        "70.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 99,
+      "question": "Công chức thuế B có thẩm quyền phạt tiền đến bao nhiêu đối với hành vi không lập hóa đơn khi bán hàng hóa, dịch vụ của hộ kinh doanh theo quy định tại điểm b, c khoản 3 Điều 24 Nghị định số 310/2025/NĐ-CP (sửa đổi, bổ sung khoản 3 Nghị định số 125/2020/NĐ-CP) là:",
+      "options": [
+        "Phạt tiền tối đa đến 20.000.000 đồng.",
+        "Không được phạt tiền, chỉ được lập biên bản.",
+        "Phạt tiền đến 10.000.000 đồng.",
+        "Phạt tiền tối đa đến 5.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 100,
+      "question": "Trường hợp người nộp thuế thực hiện hành vi khai sai chỉ tiêu trên hồ sơ khai thuế dẫn đến thiếu số tiền thuế phải nộp. Nhưng khi cơ quan thuế kiểm tra, người nộp thuế chứng minh được lỗi thuộc về bên bán hàng trong việc cung cấp hóa đơn không hợp pháp và người nộp thuế đã hạch toán đầy đủ. Mức xử phạt áp dụng theo Nghị định 310/2025/NĐ-CP là:",
+      "options": [
+        "Phạt tiền từ 1 đến 3 lần số thuế thiếu.",
+        "Phạt tiền từ 20.000.000 đồng đến 50.000.000 đồng.",
+        "Phạt 20% số tiền thuế khai thiếu.",
+        "Không bị xử phạt hành chính."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 101,
+      "question": "Công ty A có hành vi trốn thuế tại kỳ tính thuế tháng 01/2026, với số tiền thuế trốn là 150 triệu đồng. Trong quá trình xử lý, cơ quan thuế xác định Công ty A có 03 tình tiết tăng nặng và không có tình tiết giảm nhẹ. Theo nguyên tắc áp dụng mức tiền phạt tại Nghị định số 310/2025/NĐ-CP và Nghị định số 125/2020/NĐ-CP, mức phạt tiền đối với Công ty A là:",
+      "options": [
+        "1,5 lần số tiền thuế trốn.",
+        "2 lần số tiền thuế trốn.",
+        "2,5 lần số tiền thuế trốn.",
+        "3 lần số tiền thuế trốn."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 102,
+      "question": "Công ty A bị phát hiện có hành vi cung cấp không chính xác thông tin liên quan đến tiền lương và thu nhập của người lao động do Công ty chi trả theo yêu cầu của Đoàn kiểm tra. Mức phạt tiền đối với Công ty A theo Nghị định 310/2025/NĐ-CP là:",
+      "options": [
+        "Từ 2.000.000 đồng đến 6.000.000 đồng.",
+        "Từ 6.000.000 đồng đến 10.000.000 đồng.",
+        "Từ 10.000.000 đồng đến 16.000.000 đồng.",
+        "Phạt 20% trên số thu nhập bị khai sai."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 103,
+      "question": "Một Thuế cơ sở phát hiện Công ty A có hành vi lập 10 số hóa đơn không đúng thời điểm đối với hàng biếu, tặng; lập 05 số hóa đơn không đúng thời điểm đối với hàng hóa tiêu dùng nội bộ và lập 10 số hóa đơn không đúng thời điểm đối với hàng hóa bán ra. Tất cả xảy ra trong cùng một vụ việc kiểm tra. Cách xử phạt theo quy định tại Nghị định 310/2025/NĐ-CP là:",
+      "options": [
+        "Phạt tổng số 25 hóa đơn theo khung tiển phạt đối với hàng bán ra lập không đúng thời điểm.",
+        "Xử phạt theo khung tiền phạt tương ứng đối với 15 số hóa đơn (gồm 10 số hóa đơn hàng hóa biếu tặng và 05 số hóa đơn hàng hóa tiêu dùng nội bộ), đồng thời áp dụng khung phạt tương ứng đối với 10 số hóa đơn lập không đúng thời điểm khi bán hàng thông thường.",
+        "Chỉ phạt 10 số hóa đơn hàng bán thông thường vì có khung phạt cao hơn.",
+        "Phạt riêng lẻ từng số hóa đơn vi phạm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 104,
+      "question": "Công ty A có hành vi nộp hồ sơ khai thuế quá hạn 91 ngày trở lên nhưng không phát sinh số thuế phải nộp, Công ty A có 02 tình tiết giảm nhẹ. Mức phạt tiền cụ thể theo Nghị định 310/2025/NĐ-CP là:",
+      "options": [
+        "11.500.000 đồng.",
+        "9.200.000 đồng.",
+        "8.000.000 đồng.",
+        "Phạt cảnh cáo vì không phát sinh thuế."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 105,
+      "question": "Thẩm quyền xử phạt của Trưởng Thuế tỉnh X đối với các hành vi vi phạm về hóa đơn được quy định mức tối đa là bao nhiêu:",
+      "options": [
+        "50.000.000 đồng.",
+        "80.000.000 đồng.",
+        "100.000.000 đồng.",
+        "160.000.000 đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 106,
+      "question": "Trong trường hợp cùng một ngày người nộp thuế khai sai nhiều chỉ tiêu trên các hồ sơ thuế nhưng không dẫn đến thiếu thuế, hành vi này sẽ bị xử lý như thế nào theo nguyên tắc mới:",
+      "options": [
+        "Phạt riêng từng chỉ tiêu khai sai trên từng hồ sơ khai thuế.",
+        "Chỉ bị xử phạt về một hành vi khai sai chỉ tiêu có khung phạt tiền cao nhất trong số các hành vi đã thực hiện.",
+        "Bị xử phạt về một hành vi khai sai chỉ tiêu có khung phạt tiền cao nhất trong số các hành vi đã thực hiện và áp dụng tình tiết tăng nặng vi phạm nhiều lần.",
+        "Phạt cảnh cáo nếu người nộp thuế tự giác sửa đổi trong vòng 24 giờ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 107,
+      "question": "Đối với tổ chức vi phạm, hành vi \"Không cung cấp thông tin về tài khoản tại các tổ chức tín dụng, kho bạc nhà nước theo yêu cầu của cơ quan thuế\" sẽ bị phạt:",
+      "options": [
+        "Từ 2.000.000 đồng đến 6.000.000 đồng.",
+        "Từ 6.000.000 đồng đến 10.000.000 đồng.",
+        "Từ 10.000.000 đồng đến 16.000.000 đồng.",
+        "Phạt 20.000.000 đồng và phong tỏa tài khoản."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 108,
+      "question": "Công ty A vi phạm lập hóa đơn không đúng thời điểm đối với 45 số hóa đơn bán hàng. Công ty có 01 tình tiết tăng nặng (tái phạm). Mức phạt tiền cụ thể áp dụng là:",
+      "options": [
+        "22.500.000 đồng.",
+        "24.750.000 đồng.",
+        "30.000.000 đồng.",
+        "20.000.000 đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 109,
+      "question": "Trường hợp nào sau đây người nộp thuế thực hiện khai sai nhưng không bị xử phạt vi phạm hành chính về thuế theo Nghị định 310/2025/NĐ-CP:",
+      "options": [
+        "Khai sai nhưng đã nộp hồ sơ khai bổ sung sau khi cơ quan thuế công bố quyết định kiểm tra.",
+        "Khai sai do số học nhưng số thuế vẫn đúng.",
+        "Khai sai và đã tự giác khai bổ sung, nộp đủ số tiền thuế thiếu trước khi cơ quan thuế công bố quyết định kiểm tra tại trụ sở.",
+        "Khai sai nhưng doanh nghiệp đang trong tình trạng lỗ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 110,
+      "question": "Hành vi lập hóa đơn không đúng thời điểm đối với hàng hóa dùng để cho, biếu, tặng chỉ 01 số hóa đơn theo Nghị định 310/2025/NĐ-CP sẽ bị xử phạt:",
+      "options": [
+        "Phạt tiền 500.000 đồng.",
+        "Phạt cảnh cáo.",
+        "Không bị xử lý.",
+        "Phạt tiền từ 2.000.000 đồng đến 5.000.000 đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 111,
+      "question": "Trường hợp người nộp thuế nộp hồ sơ khai thuế quá hạn trên 90 ngày và có phát sinh số thuế phải nộp, nếu số tiền phạt tính theo khung (15-25 tr) lớn hơn số thuế phát sinh thì:",
+      "options": [
+        "Vẫn phải nộp đủ tiền phạt theo khung.",
+        "Số tiền phạt tối đa bằng số tiền thuế phát sinh phải nộp trên hồ sơ khai thuế.",
+        "Được miễn toàn bộ tiền phạt.",
+        "Phạt 20% trên số thuế phát sinh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 112,
+      "question": "Theo nguyên tắc chuyển tiếp, hành vi vi phạm hành chính về thuế đang được thực hiện từ năm 2025 và chỉ bị phát hiện sau ngày 16/01/2026 thì áp dụng văn bản nào để xử lý:",
+      "options": [
+        "Nghị định 125/2020/NĐ-CP.",
+        "Nghị định 310/2025/NĐ-CP.",
+        "Văn bản nào có mức phạt cao hơn thì áp dụng văn bản đó.",
+        "Văn bản nào có mức phạt thấp hơn thì áp dụng văn bản đó."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 113,
+      "question": "Công ty A nộp hồ sơ khai thuế GTGT tháng 01/2026 muộn 03 ngày so với thời hạn quy định (biết rằng ngày 20/2/2026 ngay ngày thứ 6). Tuy nhiên, trong thời gian này, Cổng thông tin điện tử nộp tờ khai có thông báo bảo trì hệ thống 48 giờ liên tục bao gồm cả ngày hạn chót nộp hồ sơ. Công ty X bị xử phạt:",
+      "options": [
+        "Phạt cảnh cáo vì nộp muộn dưới 05 ngày.",
+        "Phạt tiền mức tối thiểu của khung.",
+        "Không xử phạt vì đây là trường hợp bất khả kháng do lỗi hệ thống cơ quan thuế.",
+        "Chỉ tính tiền chậm nộp thuế, không phạt hành chính."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 114,
+      "question": "Một hộ kinh doanh nộp hồ sơ khai thuế quá hạn 45 ngày và có 01 tình tiết tăng nặng. Mức phạt tiền đối với hộ kinh doanh này là:",
+      "options": [
+        "7.150.000 đồng.",
+        "3.250.000 đồng.",
+        "3.575.000 đồng.",
+        "4.000.000 đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 115,
+      "question": "Nghị định 310/2025/NĐ-CP bãi bỏ việc xử phạt đối với hành vi nào sau đây liên quan đến hóa đơn để phù hợp với thực tế sử dụng hóa đơn điện tử:",
+      "options": [
+        "Lập hóa đơn sai thời điểm.",
+        "Các hành vi vi phạm về hóa đơn đặt in.",
+        "Sử dụng hóa đơn không hợp pháp.",
+        "Không chuyển dữ liệu hóa đơn điện tử cho cơ quan thuế."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 116,
+      "question": "Công ty A thực hiện lập hóa đơn không đúng thời điểm cho 01 số hóa đơn bán hàng thông thường. Mức phạt tiền áp dụng là:",
+      "options": [
+        "Phạt cảnh cáo.",
+        "1.000.000 đồng.",
+        "500.000 đồng.",
+        "1.500.000 đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 117,
+      "question": "Theo quy định tại Nghị định 310/2025/NĐ-CP, đối tượng nào dưới đây có quyền giải trình vi phạm hành chính về thuế, hóa đơn khi mức tối đa của khung hình phạt đối với hành vi đó từ 30.000.000 đồng trở lên:",
+      "options": [
+        "Cá nhân.",
+        "Tổ chức.",
+        "Hộ kinh doanh.",
+        "Tất cả các đối tượng vi phạm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "Công ty A thực hiện hành vi không lập hóa đơn khi bán hàng cho 55 khách hàng trong cùng một vụ việc. Mức phạt tiền áp dụng cho Công ty A theo quy định tại Nghị định 310/2025/NĐ-CP là:",
+      "options": [
+        "Từ 10.000.000 đồng đến 30.000.000 đồng.",
+        "Từ 30.000.000 đồng đến 50.000.000 đồng.",
+        "Từ 60.000.000 đồng đến 80.000.000 đồng.",
+        "Phạt 1 lần số thuế trốn."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 119,
+      "question": "Một tổ chức liên quan bị phát hiện có hành vi thông đồng, bao che người nộp thuế trốn thuế. Trong vụ việc này, tổ chức có 01 tình tiết giảm nhẹ. Khung phạt tiền quy định là từ 10.000.000 đồng đến 16.000.000 đồng. Mức phạt tiền cụ thể áp dụng là:",
+      "options": [
+        "13.000.000 đồng.",
+        "11.700.000 đồng.",
+        "10.000.000 đồng.",
+        "14.300.000 đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Công ty A có hành vi sử dụng hóa đơn không hợp pháp để khai thuế làm giảm số thuế phải nộp. Tuy nhiên, trước khi cơ quan thuế công bố quyết định kiểm tra, doanh nghiệp đã tự giác khai bổ sung và nộp đủ thuế, tiền chậm nộp. Cách xử lý là:",
+      "options": [
+        "Phạt trốn thuế 1 lần.",
+        "Phạt 20% số thuế thiếu.",
+        "Xử phạt hành vi sử dụng hóa đơn không hợp pháp với khung từ 20.000.000 đồng đến 50.000.000 đồng.",
+        "Không xử phạt."
+      ],
+      "answer": "C"
+    }
+  ]
+}

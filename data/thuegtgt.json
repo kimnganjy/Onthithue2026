@@ -1,0 +1,2074 @@
+{
+  "topic": "Thuế GTGT",
+  "total": 188,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Luật Thuế GTGT số 48/2024/QH15, thuế giá trị gia tăng là thuế tính trên:",
+      "options": [
+        "Giá trị tăng thêm của hàng hóa, dịch vụ phát sinh trong quá trình từ sản xuất, lưu thông đến tiêu dùng.",
+        "Giá bán chưa có thuế GTGT của hàng hóa, dịch vụ.",
+        "Giá mua vào của hàng hóa, dịch vụ.",
+        "Tổng doanh thu bán hàng hóa, dịch vụ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Đối tượng chịu thuế GTGT theo Luật số 48/2024/QH15 là:",
+      "options": [
+        "Hàng hóa, dịch vụ sử dụng cho sản xuất, kinh doanh và tiêu dùng ở Việt Nam.",
+        "Chỉ hàng hóa lưu thông trên thị trường.",
+        "Chỉ dịch vụ do doanh nghiệp trong nước cung cấp.",
+        "Tất cả tài sản cố định của doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Theo Luật 48/2024/QH15, người nộp thuế GTGT không bao gồm:",
+      "options": [
+        "Cá nhân không kinh doanh.",
+        "Cơ sở kinh doanh hàng hóa, dịch vụ chịu thuế.",
+        "Người nhập khẩu hàng hóa chịu thuế.",
+        "Nhà cung cấp nước ngoài có hoạt động thương mại điện tử với tổ chức, cá nhân tại Việt Nam."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Hàng hóa, dịch vụ nào sau đây thuộc đối tượng không chịu thuế GTGT theo Luật 48/2024/QH15:",
+      "options": [
+        "Sản phẩm cây trồng, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến hoặc chỉ qua sơ chế thông thường.",
+        "Máy móc, thiết bị nhập khẩu để tạo tài sản cố định của doanh nghiệp.",
+        "Hàng hóa xuất khẩu.",
+        "Dịch vụ du lịch theo hình thức lữ hành."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Mức thuế suất 0% áp dụng cho đối tượng nào:",
+      "options": [
+        "Hàng hóa, dịch vụ xuất khẩu.",
+        "Hàng hóa, dịch vụ phục vụ sản xuất nông nghiệp.",
+        "Dịch vụ y tế, dịch vụ giáo dục.",
+        "Hàng hóa, dịch vụ thiết yếu."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Mức thuế suất 5% áp dụng cho nhóm hàng hóa, dịch vụ nào sau đây:",
+      "options": [
+        "Nước sạch phục vụ sản xuất và sinh hoạt.",
+        "Xe ô tô dưới 9 chỗ ngồi.",
+        "Dịch vụ tài chính, ngân hàng.",
+        "Dịch vụ kinh doanh bất động sản."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Mức thuế suất 10% áp dụng cho đối tượng nào:",
+      "options": [
+        "Hàng hóa, dịch vụ không thuộc diện áp dụng thuế suất 0% và 5%.",
+        "Hàng hóa, dịch vụ xuất khẩu.",
+        "Hàng hóa, dịch vụ không chịu thuế.",
+        "Hàng hóa, dịch vụ thuộc diện ưu đãi đặc biệt."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 8,
+      "question": "Phương pháp tính thuế GTGT bao gồm:",
+      "options": [
+        "Phương pháp khấu trừ thuế và phương pháp tính trực tiếp.",
+        "Phương pháp khấu trừ thuế và phương pháp ấn định thuế.",
+        "Phương pháp tính trực tiếp trên doanh thu và phương pháp khoán thuế.",
+        "Phương pháp kê khai và phương pháp tự tính."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Cơ sở kinh doanh được áp dụng phương pháp khấu trừ thuế khi:",
+      "options": [
+        "Thực hiện đầy đủ chế độ kế toán, hóa đơn, chứng từ theo quy định.",
+        "Có doanh thu dưới 1 tỷ đồng/năm.",
+        "Là hộ, cá nhân kinh doanh.",
+        "Chỉ kinh doanh các mặt hàng không chịu thuế GTGT."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 10,
+      "question": "Theo phương pháp khấu trừ, số thuế GTGT phải nộp được xác định bằng:",
+      "options": [
+        "Thuế GTGT đầu ra trừ thuế GTGT đầu vào được khấu trừ.",
+        "Doanh thu nhân với thuế suất.",
+        "Giá trị gia tăng nhân với thuế suất.",
+        "Tổng doanh thu nhân với tỷ lệ phần trăm cố định."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "Giá tính thuế GTGT đối với hàng hóa do cơ sở kinh doanh bán ra là:",
+      "options": [
+        "Giá bán chưa có thuế GTGT.",
+        "Giá bán đã có thuế GTGT.",
+        "Giá thành sản xuất.",
+        "Giá thị trường tại thời điểm bán."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 12,
+      "question": "Giá tính thuế GTGT đối với hàng hóa nhập khẩu là:",
+      "options": [
+        "Trị giá tính thuế nhập khẩu cộng thuế nhập khẩu (nếu có), thuế tiêu thụ đặc biệt (nếu có), thuế bảo vệ môi trường (nếu có).",
+        "Giá mua tại nước xuất khẩu.",
+        "Giá CIF tại cửa khẩu nhập.",
+        "Giá bán dự kiến trên thị trường nội địa."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Thời điểm xác định thuế GTGT đối với hàng hóa bán ra là:",
+      "options": [
+        "Thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa cho người mua, không phân biệt đã thu tiền hay chưa.",
+        "Thời điểm thu được tiền từ người mua.",
+        "Thời điểm ký kết hợp đồng mua bán.",
+        "Thời điểm cuối kỳ kê khai thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 14,
+      "question": "Cơ sở kinh doanh được hoàn thuế GTGT trong trường hợp:",
+      "options": [
+        "Có số thuế GTGT đầu vào chưa được khấu trừ hết từ 300 triệu đồng trở lên đối với hàng hóa, dịch vụ xuất khẩu.",
+        "Có doanh thu thấp dưới 200 triệu đồng/năm.",
+        "Kinh doanh các mặt hàng không chịu thuế GTGT.",
+        "Chưa nộp tờ khai thuế GTGT đúng hạn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 15,
+      "question": "Hóa đơn GTGT được sử dụng bởi đối tượng nào:",
+      "options": [
+        "Cơ sở kinh doanh áp dụng phương pháp khấu trừ thuế.",
+        "Cơ sở kinh doanh áp dụng phương pháp tính trực tiếp.",
+        "Tất cả các cá nhân có phát sinh mua bán.",
+        "Chỉ các doanh nghiệp nhà nước."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "Theo Luật 48/2024/QH15, hành vi nào bị nghiêm cấm trong khấu trừ, hoàn thuế:",
+      "options": [
+        "Mua, bán, môi giới mua bán hóa đơn.",
+        "Lập hóa đơn cho các giao dịch có thật.",
+        "Kê khai thuế đầu vào thấp hơn thực tế.",
+        "Nộp thuế chậm so với thời hạn quy định."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Điều kiện để khấu trừ thuế GTGT đầu vào bao gồm:",
+      "options": [
+        "Có hóa đơn GTGT hợp pháp và có chứng từ thanh toán không dùng tiền mặt (trừ một số trường hợp đặc thù).",
+        "Chỉ cần có hóa đơn mua hàng.",
+        "Chỉ áp dụng cho hàng hóa nhập khẩu.",
+        "Không cần điều kiện, được khấu trừ toàn bộ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Thuế GTGT đầu vào của hàng hóa, dịch vụ sử dụng đồng thời cho hoạt động chịu thuế và không chịu thuế:",
+      "options": [
+        "Chỉ được khấu trừ phần sử dụng cho hoạt động chịu thuế.",
+        "Được khấu trừ toàn bộ.",
+        "Không được khấu trừ.",
+        "Được tính vào chi phí được trừ khi tính thuế TNDN."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 19,
+      "question": "Thuế GTGT đầu vào phát sinh trong tháng nào thì được kê khai, khấu trừ khi xác định số thuế phải nộp của tháng đó, số chưa khấu trừ hết:",
+      "options": [
+        "Được khấu trừ vào tháng, quý tiếp theo.",
+        "Bị mất quyền khấu trừ.",
+        "Được hoàn lại ngay lập tức.",
+        "Được chuyển sang năm sau mới được khấu trừ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Luật Thuế GTGT số 48/2024/QH15 có hiệu lực thi hành từ ngày:",
+      "options": [
+        "01/7/2025.",
+        "01/01/2025.",
+        "26/11/2024.",
+        "01/01/2026"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "Theo Luật 48/2024/QH15, đối tượng nào sau đây là người nộp thuế GTGT:",
+      "options": [
+        "Tổ chức, cá nhân sản xuất, kinh doanh tại Việt Nam mua dịch vụ từ tổ chức nước ngoài không có cơ sở thường trú tại Việt Nam.",
+        "Cá nhân mua hàng hóa để tiêu dùng cá nhân.",
+        "Tổ chức tín dụng nước ngoài không có hoạt động tại Việt Nam.",
+        "Các cơ quan hành chính nhà nước."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 22,
+      "question": "Hàng hóa nào sau đây được áp dụng thuế suất 5%:",
+      "options": [
+        "Phân bón, quặng để sản xuất phân bón, thuốc bảo vệ thực vật.",
+        "Xe ô tô dưới 9 chỗ ngồi.",
+        "Dịch vụ tài chính, ngân hàng.",
+        "Vàng thỏi, miếng chưa chế tác."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Dịch vụ nào sau đây thuộc đối tượng không chịu thuế GTGT:",
+      "options": [
+        "Dịch vụ y tế, dịch vụ thú y.",
+        "Dịch vụ tư vấn pháp luật.",
+        "Dịch vụ quảng cáo.",
+        "Dịch vụ vận tải hành khách công cộng bằng xe buýt."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 24,
+      "question": "Giá tính thuế GTGT đối với hàng hóa bán theo phương thức trả góp, trả chậm  là:",
+      "options": [
+        "Giá bán trả một lần chưa có thuế GTGT, không bao gồm lãi trả góp, lãi trả chậm.",
+        "Tổng số tiền khách hàng phải trả bao gồm cả gốc và lãi.",
+        "Giá bán đã có thuế GTGT tại thời điểm ký hợp đồng.",
+        "Giá trị vốn của hàng hóa."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 25,
+      "question": "Thuế suất 0% KHÔNG áp dụng đối với trường hợp nào:",
+      "options": [
+        "Chuyển nhượng vốn, dịch vụ tài chính phái sinh.",
+        "Hàng hóa xuất khẩu.",
+        "Dịch vụ xuất khẩu.",
+        "Vận tải quốc tế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Trường hợp cơ sở kinh doanh nhiều loại hàng hóa, dịch vụ có mức thuế suất khác nhau mà không xác định riêng được thì phải tính thuế theo:",
+      "options": [
+        "Mức thuế suất cao nhất của hàng hóa, dịch vụ mà cơ sở sản xuất, kinh doanh.",
+        "Mức thuế suất thấp nhất của hàng hóa, dịch vụ mà cơ sở sản xuất, kinh doanh.",
+        "Mức thuế suất bình quân gia quyền.",
+        "Mức thuế suất 10%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 27,
+      "question": "Phương pháp tính trực tiếp trên doanh thu áp dụng đối với đối tượng nào:",
+      "options": [
+        "Hộ, cá nhân sản xuất, kinh doanh không thực hiện hoặc thực hiện không đầy đủ chế độ kế toán, hóa đơn, chứng từ.",
+        "Doanh nghiệp có doanh thu từ 1 tỷ đồng/năm trở lên.",
+        "Cơ sở kinh doanh tự nguyện áp dụng.",
+        "Tất cả các hợp tác xã."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 28,
+      "question": "Tỷ lệ % để tính thuế GTGT theo phương pháp tính trực tiếp đối với hoạt động phân phối, cung cấp hàng hóa là:",
+      "options": [
+        "1%.",
+        "3%.",
+        "5%.",
+        "2%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 29,
+      "question": "Tỷ lệ % để tính thuế GTGT theo phương pháp tính trực tiếp đối với hoạt động dịch vụ, xây dựng không bao thầu nguyên vật liệu là:",
+      "options": [
+        "5%.",
+        "3%.",
+        "1%.",
+        "2%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 30,
+      "question": "Tỷ lệ % để tính thuế GTGT theo phương pháp tính trực tiếp đối với hoạt động sản xuất, vận tải, xây dựng có bao thầu nguyên vật liệu là:",
+      "options": [
+        "3%.",
+        "5%.",
+        "1%.",
+        "2%."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 31,
+      "question": "Thuế GTGT đầu vào của hàng hóa, dịch vụ sử dụng cho hoạt động tìm kiếm thăm dò, phát triển mỏ dầu khí:",
+      "options": [
+        "Được khấu trừ toàn bộ.",
+        "Không được khấu trừ.",
+        "Chỉ được khấu trừ 50%.",
+        "Được tính vào nguyên giá tài sản cố định."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 32,
+      "question": "Cơ sở kinh doanh nộp thuế theo phương pháp khấu trừ được hoàn thuế GTGT khi:",
+      "options": [
+        "Giải thể, phá sản có số thuế GTGT nộp thừa hoặc số thuế GTGT đầu vào chưa được khấu trừ hết.",
+        "Ngừng kinh doanh tạm thời.",
+        "Chuyển đổi loại hình doanh nghiệp.",
+        "Có doanh thu giảm so với cùng kỳ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Người nước ngoài, người Việt Nam định cư ở nước ngoài được hoàn thuế GTGT đối với:",
+      "options": [
+        "Hàng hóa mua tại Việt Nam mang theo khi xuất cảnh.",
+        "Dịch vụ sử dụng tại Việt Nam.",
+        "Tất cả hàng hóa, dịch vụ mua tại Việt Nam.",
+        "Hàng hóa nhập khẩu để sử dụng cá nhân."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Việc hoàn thuế GTGT đối với chương trình, dự án sử dụng vốn ODA không hoàn lại do ai thực hiện:",
+      "options": [
+        "Chủ chương trình, dự án hoặc nhà thầu chính, tổ chức do phía nhà tài trợ nước ngoài chỉ định.",
+        "Cơ quan tài chính địa phương.",
+        "Ngân hàng thương mại nơi mở tài khoản.",
+        "Cơ sở kinh doanh bán hàng hóa, dịch vụ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 35,
+      "question": "Điều kiện để cơ sở kinh doanh được hoàn thuế GTGT theo quy định tại khoản 1, 2, 3, 4 Điều 15 Luật Thuế GTGT số 48/2024/QH15 ngày 26/11/2024 là:",
+      "options": [
+        "Là cơ sở kinh doanh nộp thuế theo phương pháp khấu trừ, lập và lưu giữ sổ kế toán, chứng từ kế toán, có tài khoản ngân hàng theo MST.",
+        "Chỉ cần có hồ sơ đề nghị hoàn thuế.",
+        "Không cần điều kiện, tự động được hoàn.",
+        "Không cần điều kiện, tự động được hoàn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "Cơ sở kinh doanh thuộc diện hoàn thuế GTGT phải lập hồ sơ hoàn thuế và gửi đến:",
+      "options": [
+        "Cơ quan thuế có thẩm quyền tiếp nhận.",
+        "Ủy ban nhân dân cấp tỉnh.",
+        "Bộ Tài chính.",
+        "Ngân hàng nơi mở tài khoản."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 37,
+      "question": "Cơ quan thuế sau khi nhận hồ sơ hoàn thuế GTGT phải:",
+      "options": [
+        "Phân loại hồ sơ thuộc diện hoàn trước hoặc kiểm tra trước hoàn thuế và giải quyết theo quy định.",
+        "Hoàn thuế ngay mà không cần kiểm tra.",
+        "Chuyển hồ sơ cho cơ quan công an điều tra.",
+        "Yêu cầu bổ sung hồ sơ trong mọi trường hợp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Đối với hóa đơn thanh toán in sẵn giá thanh toán (tem, vé, thẻ), giá thanh toán đó:",
+      "options": [
+        "Đã bao gồm thuế GTGT.",
+        "Là giá chưa có thuế GTGT.",
+        "Không phản ánh thuế GTGT.",
+        "Được miễn thuế GTGT."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Thuế GTGT đầu vào của ô tô chở người từ 09 chỗ ngồi trở xuống:",
+      "options": [
+        "Được khấu trừ nếu sử dụng cho hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ chịu thuế GTGT, trừ một số trường hợp do Chính phủ quy định.",
+        "Không được khấu trừ trong mọi trường hợp.",
+        "Chỉ được khấu trừ 50%.",
+        "Được tính vào chi phí được trừ khi tính thuế TNDN."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Cơ sở kinh doanh không được hoàn thuế GTGT mà được kết chuyển số thuế chưa được khấu trừ của dự án đầu tư sang kỳ tiếp theo khi:",
+      "options": [
+        "Dự án đầu tư khai thác tài nguyên, khoáng sản (trừ dự án tìm kiếm thăm dò, phát triển mỏ dầu khí).",
+        "Dự án đầu tư mới trong giai đoạn đầu tư.",
+        "Dự án đầu tư sử dụng vốn ODA.",
+        "Dự án đầu tư vào lĩnh vực giáo dục."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Theo Luật 48/2024/QH15, nhà cung cấp nước ngoài không có cơ sở thường trú tại Việt Nam có hoạt động kinh doanh thương mại điện tử với tổ chức, cá nhân tại Việt Nam là:",
+      "options": [
+        "Người nộp thuế GTGT.",
+        "Không phải là người nộp thuế GTGT tại Việt Nam.",
+        "Chỉ phải nộp thuế tại nước ngoài.",
+        "Được miễn thuế GTGT."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Cơ sở kinh doanh áp dụng phương pháp khấu trừ thuế khi bán hàng hóa, dịch vụ mà trên hóa đơn GTGT không ghi khoản thuế GTGT thì thuế GTGT đầu ra được xác định bằng:",
+      "options": [
+        "Giá thanh toán ghi trên hóa đơn nhân với thuế suất thuế GTGT.",
+        "Không phải tính thuế GTGT đầu ra.",
+        "Giá thanh toán chia cho (1 + thuế suất) rồi nhân với thuế suất.",
+        "Giá thanh toán trừ đi giá vốn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 43,
+      "question": "Việc khấu trừ thuế GTGT đầu vào đối với hàng hóa, dịch vụ mua vào dưới hình thức ủy quyền cho tổ chức, cá nhân khác mà hóa đơn mang tên tổ chức, cá nhân được ủy quyền:",
+      "options": [
+        "Được thực hiện theo quy định do Chính phủ quy định chi tiết.",
+        "Không được khấu trừ.",
+        "Chỉ được khấu trừ 50%.",
+        "Được khấu trừ toàn bộ nếu có hợp đồng ủy quyền."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Cơ sở kinh doanh có dự án đầu tư đang trong giai đoạn đầu tư, số thuế GTGT đầu vào phát sinh được xử lý như thế nào:",
+      "options": [
+        "Được bù trừ với số thuế GTGT phải nộp của hoạt động sản xuất, kinh doanh đang thực hiện (nếu có).",
+        "Phải nộp toàn bộ số thuế GTGT đầu vào.",
+        "Được hoàn ngay toàn bộ số thuế GTGT đầu vào.",
+        "Được khấu trừ vào thuế GTGT đầu ra của dự án sau khi đi vào hoạt động."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 45,
+      "question": "Thời hạn nộp hồ sơ hoàn thuế GTGT đối với dự án đầu tư đã hoàn thành mà cơ sở kinh doanh chưa thực hiện hoàn thuế phát sinh trong giai đoạn đầu tư là:",
+      "options": [
+        "Trong thời hạn 01 năm kể từ ngày dự án đầu tư hoặc ngày giai đoạn, hạng mục đầu tư hoàn thành.",
+        "Trong thời hạn 06 tháng kể từ ngày hoàn thành.",
+        "Không có thời hạn, có thể nộp bất cứ lúc nào.",
+        "Trong thời hạn 03 tháng kể từ ngày hoàn thành."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Ngày dự án đầu tư hoàn thành được xác định là:",
+      "options": [
+        "Ngày phát sinh doanh thu của dự án đầu tư (không bao gồm doanh thu chạy thử, hoạt động tài chính, thanh lý nguyên vật liệu).",
+        "Ngày được cấp giấy chứng nhận hoàn thành công trình.",
+        "Ngày quyết toán dự án.",
+        "Ngày nghiệm thu toàn bộ dự án."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 47,
+      "question": "Cơ sở kinh doanh chỉ sản xuất hàng hóa, cung cấp dịch vụ chịu thuế suất 5% được hoàn thuế GTGT nếu có số thuế đầu vào chưa được khấu trừ hết từ 300 triệu đồng trở lên sau:",
+      "options": [
+        "12 tháng liên tục hoặc 04 quý liên tục.",
+        "06 tháng liên tục.",
+        "24 tháng liên tục.",
+        "Ngay khi phát sinh."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 48,
+      "question": "Thuế GTGT đầu vào của hàng hóa, dịch vụ bán cho tổ chức, cá nhân sử dụng vốn viện trợ nhân đạo, viện trợ không hoàn lại:",
+      "options": [
+        "Được khấu trừ toàn bộ.",
+        "Không được khấu trừ.",
+        "Chỉ được khấu trừ 50%.",
+        "Được tính vào chi phí được trừ khi tính thuế TNDN."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Hành vi \"tạo lập giao dịch mua, bán hàng hóa, cung cấp dịch vụ không có thật\" để được khấu trừ, hoàn thuế bị xử lý như thế nào:",
+      "options": [
+        "Bị nghiêm cấm và xử lý theo quy định của pháp luật.",
+        "Được chấp nhận nếu các bên có thỏa thuận.",
+        "Chỉ bị cảnh cáo.",
+        "Không bị xử lý nếu chưa gây thiệt hại."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Luật 48/2024/QH15 sửa đổi, bổ sung khoản 1 Điều 3 Luật Thuế thu nhập cá nhân về thu nhập từ kinh doanh, theo đó thu nhập từ kinh doanh không bao gồm thu nhập của hộ, cá nhân có doanh thu:",
+      "options": [
+        "Dưới mức quy định tại khoản 25 Điều 5 của Luật Thuế GTGT (200 triệu đồng/năm).",
+        "Trên 500 triệu đồng/năm.",
+        "Từ 200 triệu đồng đến 500 triệu đồng/năm.",
+        "Dưới 100 triệu đồng/năm."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 51,
+      "question": "Nghị định 181/2025/NĐ-CP quy định chi tiết thi hành một số điều của Luật nào:",
+      "options": [
+        "Luật Thuế giá trị gia tăng",
+        "Luật Thuế thu nhập doanh nghiệp",
+        "Luật Quản lý thuế",
+        "Luật Đầu tư"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Nghị định 181/2025/NĐ-CP có hiệu lực từ ngày nào:",
+      "options": [
+        "01/07/2025",
+        "01/01/2025",
+        "26/11/2024",
+        "18/02/2025"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Đối tượng nào sau đây thuộc phạm vi điều chỉnh của Nghị định này:",
+      "options": [
+        "Người nộp thuế tại khoản 1, 4 và khoản 5 Điều 4 Luật Thuế GTGT",
+        "Người nộp thuế thu nhập cá nhân",
+        "Tổ chức tín dụng",
+        "Doanh nghiệp nhà nước"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "Người nộp thuế GTGT theo Nghị định này bao gồm:",
+      "options": [
+        "Tổ chức được thành lập và đăng ký kinh doanh theo Luật Doanh nghiệp",
+        "Cá nhân không có hoạt động kinh doanh",
+        "Tổ chức từ thiện không kinh doanh",
+        "Cơ quan nhà nước không kinh doanh"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Dịch vụ nào sau đây không chịu thuế GTGT:",
+      "options": [
+        "Dịch vụ tang lễ do cơ sở có chức năng cung cấp",
+        "Dịch vụ du lịch",
+        "Dịch vụ tư vấn thiết kế",
+        "Dịch vụ cho thuê văn phòng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Phương pháp khấu trừ thuế GTGT áp dụng cho đối tượng nào:",
+      "options": [
+        "Cơ sở kinh doanh có doanh thu hằng năm từ 01 tỷ đồng trở lên",
+        "Hộ, cá nhân sản xuất, kinh doanh nhỏ",
+        "Tổ chức không kinh doanh",
+        "Doanh nghiệp mới thành lập chưa có doanh thu"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "Trường hợp nào sau đây không được khấu trừ thuế GTGT đầu vào:",
+      "options": [
+        "Tài sản cố định chuyên dùng phục vụ sản xuất sản phẩm quốc phòng, an ninh",
+        "Hàng hóa dùng để sản xuất hàng hóa chịu thuế GTGT",
+        "Dịch vụ mua vào để phục vụ kinh doanh chịu thuế",
+        "Hàng hóa nhập khẩu để xuất khẩu"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Thời điểm xác định thuế GTGT đối với hàng hóa xuất khẩu là:",
+      "options": [
+        "Thời điểm do người bán tự xác định nhưng chậm nhất không quá ngày làm việc tiếp theo kể từ ngày hàng hóa được thông quan",
+        "Khi ký hợp đồng xuất khẩu",
+        "Khi nhận được tiền thanh toán",
+        "Khi hàng hóa xuất xưởng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 59,
+      "question": "Thời điểm xác định thuế GTGT đối với hàng hóa nhập khẩu là:",
+      "options": [
+        "Thời điểm xác định thuế nhập khẩu",
+        "Khi hàng hóa cập cảng",
+        "Khi làm thủ tục hải quan",
+        "Khi thanh toán cho nhà cung cấp"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Hàng hóa xuất khẩu nào sau đây được áp dụng thuế suất 0%:",
+      "options": [
+        "Hàng hóa từ Việt Nam bán cho tổ chức, cá nhân ở nước ngoài và được tiêu dùng ở ngoài Việt Nam",
+        "Xăng, dầu mua tại nội địa bán cho cơ sở kinh doanh trong khu phi thuế quan",
+        "Thuốc lá, rượu, bia nhập khẩu sau đó xuất khẩu",
+        "Sản phẩm xuất khẩu là tài nguyên, khoáng sản khai thác chưa chế biến"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Điều kiện để áp dụng thuế suất 0% đối với hàng hóa xuất khẩu bao gồm:",
+      "options": [
+        "Có hợp đồng bán, gia công hàng hóa xuất khẩu; chứng từ thanh toán không dùng tiền mặt; tờ khai hải quan",
+        "Chỉ cần có hóa đơn bán hàng",
+        "Chỉ cần có hợp đồng xuất khẩu",
+        "Chỉ cần có chứng từ thanh toán"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 62,
+      "question": "Giá tính thuế GTGT đối với hàng hóa dùng để trao đổi, tiêu dùng nội bộ, biếu, tặng là:",
+      "options": [
+        "Giá tính thuế GTGT của hàng hóa, dịch vụ cùng loại hoặc tương đương tại thời điểm phát sinh",
+        "Giá vốn",
+        "Giá thị trường",
+        "Giá bán ra"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 63,
+      "question": "Giá tính thuế GTGT đối với hoạt động cho thuê tài sản là:",
+      "options": [
+        "Số tiền cho thuê chưa có thuế GTGT",
+        "Số tiền cho thuê đã có thuế GTGT",
+        "Giá trị tài sản",
+        "Giá thị trường"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Giá tính thuế GTGT đối với hoạt động xây dựng, lắp đặt là:",
+      "options": [
+        "Giá trị công trình, hạng mục công trình hay phần công việc thực hiện bàn giao chưa có thuế GTGT",
+        "Giá trị công trình đã có thuế GTGT",
+        "Giá nguyên vật liệu",
+        "Giá nhân công"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Giá tính thuế GTGT đối với hoạt động kinh doanh bất động sản là:",
+      "options": [
+        "Giá bán bất động sản chưa có thuế GTGT, trừ tiền sử dụng đất hoặc tiền thuê đất nộp ngân sách",
+        "Giá bán bất động sản đã có thuế GTGT",
+        "Giá trị quyền sử dụng đất",
+        "Giá xây dựng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Đối với hàng hóa, dịch vụ được sử dụng hóa đơn thanh toán ghi giá thanh toán là giá đã có thuế GTGT, giá tính thuế được xác định bằng:",
+      "options": [
+        "Giá thanh toán chia cho (1 + thuế suất)",
+        "Giá thanh toán nhân với thuế suất",
+        "Giá thanh toán trừ thuế GTGT",
+        "Giá thanh toán cộng thuế GTGT"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Thuế GTGT đầu vào của hàng hóa, dịch vụ sử dụng cho sản xuất, kinh doanh hàng hóa, dịch vụ chịu thuế GTGT được khấu trừ:",
+      "options": [
+        "Toàn bộ",
+        "Một phần",
+        "Không được khấu trừ",
+        "Chỉ khấu trừ khi có lãi"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Thuế GTGT đầu vào của hàng hóa, dịch vụ sử dụng đồng thời cho sản xuất, kinh doanh hàng hóa, dịch vụ chịu thuế và không chịu thuế thì:",
+      "options": [
+        "Chỉ được khấu trừ số thuế GTGT đầu vào của phần sử dụng cho hàng hóa, dịch vụ chịu thuế",
+        "Được khấu trừ toàn bộ",
+        "Không được khấu trừ",
+        "Được khấu trừ 50%"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Cơ sở kinh doanh được hoàn thuế GTGT nếu có số thuế GTGT đầu vào chưa được khấu trừ hết từ bao nhiêu trở lên đối với hàng hóa, dịch vụ xuất khẩu:",
+      "options": [
+        "300 triệu đồng",
+        "500 triệu đồng",
+        "1 tỷ đồng",
+        "100 triệu đồng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 70,
+      "question": "Cơ sở kinh doanh được hoàn thuế GTGT đối với dự án đầu tư khi số thuế GTGT đầu vào chưa được khấu trừ hết từ bao nhiêu trở lên:",
+      "options": [
+        "300 triệu đồng",
+        "500 triệu đồng",
+        "1 tỷ đồng",
+        "100 triệu đồng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 71,
+      "question": "Cơ sở kinh doanh chỉ sản xuất hàng hóa, cung cấp dịch vụ chịu thuế suất 5% được hoàn thuế GTGT nếu có số thuế GTGT đầu vào chưa khấu trừ hết từ bao nhiêu trở lên sau 12 tháng liên tục hoặc 04 quý liên tục:",
+      "options": [
+        "300 triệu đồng",
+        "500 triệu đồng",
+        "1 tỷ đồng",
+        "100 triệu đồng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 72,
+      "question": "Trường hợp nào sau đây được hoàn thuế GTGT:",
+      "options": [
+        "Cơ sở kinh doanh nộp thuế theo phương pháp khấu trừ có số thuế GTGT nộp thừa hoặc số thuế GTGT đầu vào chưa được khấu trừ hết khi giải thể, phá sản",
+        "Cá nhân kinh doanh nhỏ",
+        "Tổ chức không kinh doanh",
+        "Doanh nghiệp nộp thuế theo phương pháp trực tiếp"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 73,
+      "question": "Đối tượng nào sau đây được hoàn thuế GTGT khi mua hàng hóa, dịch vụ tại Việt Nam:",
+      "options": [
+        "Người nước ngoài, người Việt Nam định cư ở nước ngoài mang hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế",
+        "Người Việt Nam không xuất cảnh",
+        "Doanh nghiệp trong nước",
+        "Tổ chức tín dụng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 74,
+      "question": "Chương trình, dự án sử dụng vốn ODA không hoàn lại hoặc viện trợ không hoàn lại, viện trợ nhân đạo được hoàn thuế GTGT đối với:",
+      "options": [
+        "Số thuế GTGT đã trả cho hàng hóa, dịch vụ mua tại Việt Nam để phục vụ chương trình, dự án",
+        "Toàn bộ chi phí đầu tư",
+        "Thuế nhập khẩu",
+        "Thuế thu nhập doanh nghiệp"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 75,
+      "question": "Điều kiện để được hoàn thuế GTGT bao gồm:",
+      "options": [
+        "Cơ sở kinh doanh nộp thuế theo phương pháp khấu trừ, lập và lưu giữ sổ kế toán, chứng từ kế toán theo quy định",
+        "Chỉ cần có hóa đơn mua hàng",
+        "Chỉ cần có hợp đồng kinh tế",
+        "Chỉ cần có doanh thu lớn"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 76,
+      "question": "Nghị định 181/2025/NĐ-CP thay thế Nghị định nào sau đây:",
+      "options": [
+        "Nghị định số 209/2013/NĐ-CP",
+        "Nghị định số 123/2020/NĐ-CP",
+        "Nghị định số 65/2013/NĐ-CP",
+        "Nghị định số 100/2016/NĐ-CP"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 77,
+      "question": "Quy định về hoàn thuế GTGT đối với hoạt động sản xuất hàng hóa, cung cấp dịch vụ chịu thuế suất 5% áp dụng đối với số thuế GTGT đầu vào chưa được khấu trừ hết phát sinh từ khi nào:",
+      "options": [
+        "Kể từ ngày Nghị định này có hiệu lực thi hành",
+        "Kể từ ngày 01/01/2025",
+        "Kể từ ngày 26/11/2024",
+        "Kể từ ngày 18/02/2025"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 78,
+      "question": "Bộ nào có trách nhiệm quy định chi tiết các điều, khoản được giao tại Nghị định này:",
+      "options": [
+        "Bộ Tài chính",
+        "Bộ Công Thương",
+        "Bộ Kế hoạch và Đầu tư",
+        "Bộ Tư pháp"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 79,
+      "question": "Đối với dự án đầu tư đã được đầu tư trước ngày 01/7/2025 mà vẫn đang trong giai đoạn đầu tư, áp dụng quy định hoàn thuế nào:",
+      "options": [
+        "Quy định hoàn thuế đối với đầu tư tại Điều 30 Nghị định này",
+        "Quy định hoàn thuế tại Nghị định cũ",
+        "Không được hoàn thuế",
+        "Hoàn thuế theo quy định riêng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 80,
+      "question": "Hàng hóa nào sau đây khi xuất khẩu không được áp dụng thuế suất 0%:",
+      "options": [
+        "Chuyển giao công nghệ ra nước ngoài",
+        "Hàng thủ công mỹ nghệ",
+        "Nông sản",
+        "Hàng dệt may"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 81,
+      "question": "Dịch vụ nào sau đây khi xuất khẩu không được áp dụng thuế suất 0%:",
+      "options": [
+        "Dịch vụ tái bảo hiểm ra nước ngoài",
+        "Dịch vụ vận tải quốc tế",
+        "Dịch vụ xây dựng công trình ở nước ngoài",
+        "Dịch vụ phần mềm xuất khẩu"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "Giá tính thuế GTGT đối với dịch vụ cầm đồ là:",
+      "options": [
+        "Số tiền phải thu từ dịch vụ này chưa có thuế GTGT",
+        "Giá trị tài sản cầm đồ",
+        "Tiền lãi cho vay",
+        "Giá bán tài sản cầm đồ"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 83,
+      "question": "Giá tính thuế GTGT đối với dịch vụ kinh doanh ca-si-nô, trò chơi điện tử có thưởng là:",
+      "options": [
+        "Số tiền thu được trừ số tiền đã đổi trả cho khách không sử dụng hết và số tiền trả thưởng cho khách",
+        "Toàn bộ số tiền thu được",
+        "Số tiền trả thưởng cho khách",
+        "Số tiền đổi trả cho khách"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 84,
+      "question": "Giá tính thuế GTGT đối với dịch vụ kinh doanh đặt cược là:",
+      "options": [
+        "Số tiền thu được từ bán vé đặt cược trừ số tiền đã trả thưởng cho khách",
+        "Toàn bộ số tiền bán vé",
+        "Số tiền trả thưởng",
+        "Số tiền vé bán ra"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 85,
+      "question": "Thuế GTGT đầu vào phát sinh trong tháng, quý nào thì được kê khai, khấu trừ khi xác định số thuế phải nộp của tháng, quý đó:",
+      "options": [
+        "Đúng",
+        "Sai",
+        "Chỉ được khấu trừ khi thanh toán",
+        "Chỉ được khấu trừ khi xuất dùng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 86,
+      "question": "Cơ sở kinh doanh không được khấu trừ thuế GTGT đầu vào đối với ô tô chở người từ 09 chỗ ngồi trở xuống có trị giá vượt trên bao nhiêu:",
+      "options": [
+        "1,6 tỷ đồng (giá chưa có thuế GTGT)",
+        "2 tỷ đồng",
+        "1 tỷ đồng",
+        "3 tỷ đồng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 87,
+      "question": "Đối với ô tô chở người từ 09 chỗ ngồi trở xuống có trị giá vượt trên 1,6 tỷ đồng, số thuế GTGT đầu vào được khấu trừ tương ứng với phần trị giá:",
+      "options": [
+        "Đến 1,6 tỷ đồng",
+        "Toàn bộ giá trị",
+        "Trên 1,6 tỷ đồng",
+        "Không được khấu trừ"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 88,
+      "question": "Trường hợp cơ sở kinh doanh mua hàng hóa, dịch vụ có giá trị từ bao nhiêu trở lên phải có chứng từ thanh toán không dùng tiền mặt để được khấu trừ thuế GTGT đầu vào:",
+      "options": [
+        "05 triệu đồng",
+        "10 triệu đồng",
+        "20 triệu đồng",
+        "01 triệu đồng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 89,
+      "question": "Đối với hàng hóa, dịch vụ mua vào được thanh toán bằng hình thức bù trừ công nợ, cơ sở kinh doanh phải có:",
+      "options": [
+        "Biên bản đối chiếu số liệu và xác nhận giữa hai bên",
+        "Chỉ cần hợp đồng",
+        "Chỉ cần hóa đơn",
+        "Chỉ cần chứng từ thanh toán tiền mặt"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 90,
+      "question": "Hàng hóa xuất khẩu qua sàn thương mại điện tử ở nước ngoài, để được khấu trừ thuế GTGT đầu vào, cơ sở kinh doanh phải có tài liệu chứng minh:",
+      "options": [
+        "Việc đã xuất bán hàng hóa ở ngoài Việt Nam",
+        "Chỉ cần hợp đồng với sàn",
+        "Chỉ cần hóa đơn",
+        "Chỉ cần chứng từ thanh toán"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 91,
+      "question": "Đối với hàng hóa đã bán tại khu vực cách ly cho cá nhân đã làm thủ tục xuất cảnh, cơ sở kinh doanh phải có:",
+      "options": [
+        "Bảng kê hàng hóa đã bán cho khách xuất cảnh theo mẫu tại Phụ lục III",
+        "Chỉ cần hóa đơn",
+        "Chỉ cần hợp đồng",
+        "Chỉ cần chứng từ thanh toán"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 92,
+      "question": "Đối với sản phẩm nội dung thông tin số cung cấp cho bên nước ngoài, để được áp dụng thuế suất 0%, cơ sở kinh doanh phải có:",
+      "options": [
+        "Hồ sơ, tài liệu chứng minh tiêu dùng ở ngoài Việt Nam",
+        "Chỉ cần hợp đồng",
+        "Chỉ cần hóa đơn",
+        "Chỉ cần chứng từ thanh toán"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Đối với hàng hóa gia công chuyển tiếp để xuất khẩu, để được áp dụng thuế suất 0%, cần có:",
+      "options": [
+        "Hợp đồng gia công xuất khẩu và các phụ lục hợp đồng ký với nước ngoài",
+        "Chỉ cần hóa đơn",
+        "Chỉ cần phiếu chuyển tiếp",
+        "Chỉ cần tờ khai hải quan"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 94,
+      "question": "Nghị định 181/2025/NĐ-CP bãi bỏ quy định tại:",
+      "options": [
+        "Điều 2 Nghị định số 91/2014/NĐ-CP",
+        "Điều 1 Nghị định số 123/2020/NĐ-CP",
+        "Điều 5 Nghị định số 65/2013/NĐ-CP",
+        "Điều 10 Nghị định số 100/2016/NĐ-CP"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "Theo Điều 3 Nghị định 181/2025/NĐ-CP, tổ chức nào sau đây có trách nhiệm nộp thuế thay đối với hoạt động kinh doanh TMĐT của cá nhân trên sàn giao dịch:",
+      "options": [
+        "Người tiêu dùng mua hàng hóa",
+        "Tổ chức quản lý sàn giao dịch TMĐT có chức năng thanh toán",
+        "Ngân hàng thương mại",
+        "Doanh nghiệp vận chuyển"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 96,
+      "question": "Hàng hóa, dịch vụ nào sau đây thuộc đối tượng KHÔNG chịu thuế GTGT:",
+      "options": [
+        "Đồ chơi cho trẻ em",
+        "Sản phẩm phần mềm và dịch vụ phần mềm",
+        "Sản phẩm trồng trọt đã qua chế biến thành sản phẩm khác",
+        "Máy móc nông nghiệp"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Hàng hóa dùng để khuyến mại (hàng mẫu, tặng không thu tiền) thực hiện ĐÚNG quy định pháp luật thương mại, giá tính thuế GTGT là bao nhiêu:",
+      "options": [
+        "Bằng giá bán hàng hóa tương đương",
+        "Bằng giá vốn sản xuất",
+        "Được xác định bằng không (0)",
+        "Bằng 50% giá bán lẻ"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 98,
+      "question": "Hàng hóa dùng để khuyến mại nhưng KHÔNG đăng ký/thông báo với cơ quan quản lý thương mại theo quy định, giá tính thuế GTGT được xác định thế nào:",
+      "options": [
+        "Vẫn được xác định bằng không (0)",
+        "Tính như hàng hóa biếu, tặng (bằng giá bán của hàng hóa tương đương)",
+        "Bằng mức giá đã giảm",
+        "Bị tịch thu hàng hóa"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Khi tính thuế GTGT cho dự án kinh doanh bất động sản (nhận chuyển nhượng quyền sử dụng đất), 'giá đất được trừ' KHÔNG bao gồm khoản nào:",
+      "options": [
+        "Tiền sử dụng đất nộp ngân sách",
+        "Tiền thuê đất nộp ngân sách",
+        "Giá trị cơ sở hạ tầng",
+        "Giá nhận chuyển nhượng"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 100,
+      "question": "Thời điểm xác định thuế GTGT đối với hoạt động xây dựng, lắp đặt là khi nào:",
+      "options": [
+        "Khi chủ đầu tư thanh toán tiền",
+        "Thời điểm nghiệm thu, bàn giao công trình, hạng mục công trình, khối lượng xây dựng, lắp đặt hoàn thành",
+        "Khi quyết toán hợp đồng",
+        "Ngày cuối năm tài chính"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 101,
+      "question": "Bộ hồ sơ cơ bản BẮT BUỘC để hàng hóa xuất khẩu được áp dụng thuế suất 0% gồm những gì:",
+      "options": [
+        "Hợp đồng, Hóa đơn thương mại",
+        "Hợp đồng, Chứng từ TT qua ngân hàng, Tờ khai hải quan",
+        "Hóa đơn, Chứng từ thanh toán tiền mặt ngoại tệ",
+        "Chứng nhận xuất xứ (C/O)"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 102,
+      "question": "Nhóm hàng hóa nào sau đây được áp dụng thuế suất GTGT 5%:",
+      "options": [
+        "Thiết bị y tế có giấy phép, thuốc phòng chữa bệnh",
+        "Dịch vụ viễn thông",
+        "Thực phẩm chức năng",
+        "Bất động sản"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 103,
+      "question": "Doanh thu hằng năm từ mức nào trở lên thì cơ sở kinh doanh (không phải Hộ KD) BẮT BUỘC phải áp dụng phương pháp Khấu trừ thuế:",
+      "options": [
+        "Từ 500 triệu đồng",
+        "Từ 1 tỷ đồng trở lên",
+        "Từ 3 tỷ đồng",
+        "Từ 10 tỷ đồng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 104,
+      "question": "Để được khấu trừ thuế đầu vào, hóa đơn mua hàng có giá trị từ bao nhiêu trở lên BẮT BUỘC phải có chứng từ thanh toán không dùng tiền mặt:",
+      "options": [
+        "Từ 2 triệu đồng",
+        "Từ 5 triệu đồng trở lên",
+        "Từ 10 triệu đồng",
+        "Từ 20 triệu đồng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 105,
+      "question": "Mức doanh thu tối thiểu của số thuế đầu vào chưa được khấu trừ hết để cơ sở kinh doanh xuất khẩu được phép nộp hồ sơ xin HOÀN THUẾ là bao nhiêu:",
+      "options": [
+        "100 triệu đồng",
+        "300 triệu đồng",
+        "500 triệu đồng",
+        "1 tỷ đồng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 106,
+      "question": "Hoạt động duy tu di tích lịch sử bằng vốn đóng góp của nhân dân được MIỄN thuế GTGT nếu nguồn vốn này chiếm tối thiểu bao nhiêu phần trăm tổng vốn:",
+      "options": [
+        "30%",
+        "50% trở lên",
+        "70%",
+        "100%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 107,
+      "question": "Nếu hợp đồng chuyển giao công nghệ có kèm máy móc nhưng KHÔNG bóc tách được giá trị của từng phần thì tính thuế GTGT thế nào:",
+      "options": [
+        "Toàn bộ được miễn thuế",
+        "Toàn bộ phải chịu thuế GTGT",
+        "Tính thuế 50% giá trị",
+        "Tính thuế 5% toàn bộ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 108,
+      "question": "Luật cấm khấu trừ VAT đầu vào của hàng hóa KHÔNG chịu thuế GTGT. Ngoại lệ duy nhất cho quy tắc này là gì:",
+      "options": [
+        "Hàng tự sản xuất bán nội địa",
+        "Hàng hóa áp dụng mức thuế suất 0% quy định tại khoản 1 Điều 9 của Luật Thuế giá trị gia tăng",
+        "Hàng hóa bán cho dự án nhà nước",
+        "Không có ngoại lệ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 109,
+      "question": "Hàng nhập khẩu đang được miễn thuế nhập khẩu, sau đó thay đổi mục đích sử dụng dẫn đến bị truy thu thuế nhập khẩu. Trách nhiệm thuế GTGT thế nào:",
+      "options": [
+        "Phải nộp thuế GTGT bổ sung trên số tiền thuế nhập khẩu phải nộp",
+        "Không phải nộp thêm GTGT",
+        "Bị phạt nhưng không nộp GTGT bổ sung",
+        "Tính lại GTGT từ đầu cho cả lô hàng"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 110,
+      "question": "Hàng hóa xuất kho để chuyển nội bộ (phục vụ tiếp quá trình sản xuất kinh doanh) có tính thuế GTGT không:",
+      "options": [
+        "Phải tính theo giá thành",
+        "Không phải tính thuế GTGT",
+        "Tính theo giá thị trường",
+        "Tính 50% thuế suất"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 111,
+      "question": "Khi tính 'Giá đất được trừ' cho dự án xây nhà chung cư để bán, phần diện tích nào không được đưa vào mẫu số phân bổ:",
+      "options": [
+        "Diện tích căn hộ bán",
+        "Diện tích thương mại",
+        "Diện tích dùng chung như hành lang, cầu thang, tầng hầm, công trình xây dựng dưới mặt đất",
+        "Diện tích penthouse"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 112,
+      "question": "Tiền sử dụng đất dự án là 100 tỷ (trong đó có 20 tỷ tiền bồi thường giải phóng mặt bằng đã ứng trước). Giá đất được trừ khi tính thuế GTGT là:",
+      "options": [
+        "80 tỷ",
+        "100 tỷ đồng",
+        "120 tỷ",
+        "0 đồng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 113,
+      "question": "Giá tính thuế GTGT dịch vụ Casino được tính theo công thức nào:",
+      "options": [
+        "Tiền thu bán vé - Tiền trả thưởng",
+        "(Tiền đổi chip - Tiền khách trả lại - Tiền trả thưởng) đã có thuế TTĐB, chưa VAT",
+        "Toàn bộ tiền khách nạp",
+        "Doanh thu trừ chi phí hoạt động"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 114,
+      "question": "Công ty du lịch lữ hành bán tour quốc tế trọn gói 20 triệu. Chi phí vé máy bay và ăn ở nước ngoài là 12 triệu. Giá tính thuế GTGT được xác định thế nào:",
+      "options": [
+        "Tính VAT trên toàn bộ 20 triệu",
+        "Được giảm trừ 12 triệu chi phí nước ngoài ra khỏi doanh thu tính thuế",
+        "Chia ngược 20 triệu cho thuế suất",
+        "Tour quốc tế được hưởng thuế suất 0%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 115,
+      "question": "Khoản thu nào sau đây không được cộng vào giá tính thuế GTGT:",
+      "options": [
+        "Phí thu thêm ngoài giá",
+        "Phụ thu lễ tết",
+        "Tiền bồi thường thiệt hại, bồi thường thu hồi đất",
+        "Cước vận chuyển thu của khách"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 116,
+      "question": "Hợp đồng Xây dựng - Chuyển giao (BT) thanh toán bằng quỹ đất, giá đất được trừ xác định theo quy định nào:",
+      "options": [
+        "Bảng giá đất tỉnh ban hành",
+        "Giá trị quỹ đất được thanh toán theo quy định của pháp luật về đầu tư theo phương thức đối tác công tư",
+        "Giá thẩm định độc lập",
+        "Giá thỏa thuận hai bên"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 117,
+      "question": "Bán điện không tham gia thị trường điện (không cần đối soát số liệu), thời điểm xác định thuế chậm nhất là khi nào:",
+      "options": [
+        "Cuối năm",
+        "Không quá ngày 07 của tháng sau tháng phát sinh việc cung cấp điện hoặc không quá 07 ngày kể từ ngày kết thúc kỳ quy ước",
+        "Ngày xuất hóa đơn",
+        "Ngày khách thanh toán"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 118,
+      "question": "Dịch vụ nâng hạ container, bốc xếp tại cảng cung cấp trực tiếp cho Doanh nghiệp chế xuất áp dụng thuế suất nào:",
+      "options": [
+        "Thuế suất 10%",
+        "Thuế suất 0%",
+        "Thuế suất 5%",
+        "Không chịu thuế"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 119,
+      "question": "Dịch vụ cho thuê văn phòng cung cấp cho tổ chức ở trong Khu phi thuế quan có được áp dụng thuế suất 0% không:",
+      "options": [
+        "Có, vì cung cấp cho khu phi thuế quan",
+        "Không, áp dụng thuế suất thông thường",
+        "Được áp dụng mức 5%",
+        "Không chịu thuế"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Để dịch vụ sửa chữa tàu biển cho đối tác nước ngoài được hưởng thuế suất 0%, tàu biển đó phải làm thủ tục gì:",
+      "options": [
+        "Nhập khẩu chính thức",
+        "Đăng ký cờ Việt Nam",
+        "Thủ tục tạm nhập khẩu, tái xuất khẩu tại hải quan",
+        "Chỉ cần hợp đồng tiếng Anh"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 121,
+      "question": "Chi nhánh mới thành lập của một Doanh nghiệp đang nộp thuế theo phương pháp Khấu trừ sẽ phải áp dụng phương pháp nào:",
+      "options": [
+        "Bắt buộc tính trực tiếp",
+        "Tự chọn phương pháp",
+        "Phương pháp Khấu trừ (giống công ty mẹ)",
+        "Do cơ quan thuế quyết định"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 122,
+      "question": "Kết thúc năm dương lịch, giá trị gia tăng của cơ sở kinh doanh Vàng bạc bị âm (lỗ) thì số âm này được xử lý thế nào:",
+      "options": [
+        "Kết chuyển sang kỳ đầu tiên năm sau",
+        "Không được kết chuyển sang năm sau",
+        "Được cơ quan thuế hoàn tiền",
+        "Hạch toán giảm thuế TNCN"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 123,
+      "question": "Gạo vận chuyển bị hao hụt 15 tấn, định mức cho phép là 10 tấn. Khấu trừ thuế GTGT đầu vào như thế nào:",
+      "options": [
+        "Khấu trừ toàn bộ 15 tấn",
+        "Khấu trừ phần hao hụt không vượt định mức (10 tấn)",
+        "Không được khấu trừ gì",
+        "Khấu trừ 5 tấn"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 124,
+      "question": "Dự án mới đang xây dựng dự kiến sản xuất cả hàng chịu thuế và không chịu thuế. Thuế đầu vào máy móc dùng chung tạm khấu trừ theo tiêu chí nào:",
+      "options": [
+        "Chia đều 50/50",
+        "Theo tỷ lệ doanh thu dự kiến trong phương án kinh doanh",
+        "Cấm khấu trừ",
+        "Được khấu trừ 100%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 125,
+      "question": "Doanh nghiệp chuyển từ phương pháp Khấu trừ sang Trực tiếp. Thuế đầu vào chưa khấu trừ hết (hợp lệ) được xử lý ra sao:",
+      "options": [
+        "Bị tịch thu",
+        "Hoàn bằng tiền mặt",
+        "Được tính vào chi phí tính Thuế TNDN hoặc nguyên giá TSCĐ",
+        "Bảo lưu vĩnh viễn"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 126,
+      "question": "Tài sản cố định của tổ chức nào sau đây không bị cấm khấu trừ (tức là vẫn được khấu trừ đầu vào):",
+      "options": [
+        "Bệnh viện, cơ sở y tế",
+        "Ngân hàng thương mại",
+        "Doanh nghiệp kinh doanh Bất động sản",
+        "Doanh nghiệp sản xuất vũ khí"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 127,
+      "question": "Doanh nghiệp mua xe ô tô 5 chỗ giá 3 tỷ đồng (không dùng KD vận tải). Thuế suất 10%. Được khấu trừ đầu vào tối đa bao nhiêu:",
+      "options": [
+        "300 triệu đồng",
+        "160 triệu đồng",
+        "140 triệu đồng",
+        "0 đồng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 128,
+      "question": "Trước khi lập công ty, cổ đông chi hộ 10 triệu mua thiết bị (hóa đơn tên cổ đông). Sau khi thành lập, công ty cần làm gì để được khấu trừ tờ hóa đơn đó:",
+      "options": [
+        "Giám đốc trả tiền mặt cho cổ đông",
+        "Thanh toán lại 10 triệu cho cổ đông bằng CHUYỂN KHOẢN ngân hàng",
+        "Xin xuất lại hóa đơn",
+        "Chấp nhận mất khấu trừ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 129,
+      "question": "Cấn trừ nợ vay nước ngoài vào lô hàng xuất khẩu. Nếu tiền thanh toán bị dư ra (chênh lệch dương), số tiền đó phải xử lý sao để hưởng 0%:",
+      "options": [
+        "Thanh toán bằng tiền mặt xách tay",
+        "Phần chênh lệch phải có chứng từ thanh toán không dùng tiền mặt (chuyển khoản)",
+        "Phải mua thêm hàng cho hết nợ",
+        "Mất quyền hưởng 0%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 130,
+      "question": "Bên nước ngoài ủy quyền cho bên thứ 3 thanh toán tiền mua hàng cho doanh nghiệp Việt Nam. Sự việc này BẮT BUỘC phải ghi nhận ở đâu:",
+      "options": [
+        "Trong email xác nhận",
+        "Trong Hợp đồng xuất khẩu hoặc Phụ lục hợp đồng",
+        "Trong Tờ khai hải quan",
+        "Trong sao kê ngân hàng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 131,
+      "question": "Xuất khẩu hàng hóa qua sàn TMĐT Amazon ở nước ngoài. Ngoài tờ khai hải quan, doanh nghiệp cần cung cấp thêm tài liệu đặc thù gì để được khấu trừ:",
+      "options": [
+        "Giấy phép ĐKKD tại Mỹ",
+        "Tài liệu chứng minh việc giao hàng cho người mua ở nước ngoài",
+        "Hợp đồng thuê kho bãi",
+        "Chứng nhận kiểm dịch"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 132,
+      "question": "Số thuế GTGT được hoàn cho hàng hóa, dịch vụ xuất khẩu bị khống chế tối đa (mức chặn) là bao nhiêu:",
+      "options": [
+        "Không giới hạn",
+        "Không vượt quá 10% doanh thu hàng xuất khẩu của kỳ hoàn thuế",
+        "5% tổng tài sản",
+        "300 triệu đồng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 133,
+      "question": "Dự án đầu tư đã hoàn thành và phát sinh doanh thu. Hạn chót để nộp hồ sơ xin hoàn thuế cho giai đoạn xây dựng dự án là khi nào:",
+      "options": [
+        "Vào dịp quyết toán cuối năm",
+        "Trong thời hạn 01 năm kể từ ngày dự án đầu tư hoặc ngày giai đoạn đầu tư, hạng mục đầu tư hoàn thành",
+        "3 năm theo luật dân sự",
+        "Không giới hạn"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 134,
+      "question": "Dự án đầu tư thuộc lĩnh vực nào sau đây KHÔNG được phép hoàn thuế GTGT giai đoạn đầu tư (chỉ được kết chuyển khấu trừ):",
+      "options": [
+        "Dự án điện mặt trời",
+        "Dự án khai thác tài nguyên, khoáng sản",
+        "Dự án nhà ở xã hội",
+        "Dự án nông nghiệp công nghệ cao"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 135,
+      "question": "Cơ sở chuyên sản xuất hàng hóa chịu thuế suất 5% muốn xin hoàn thuế, cần có số thuế đọng trên 300 triệu trong thời gian thử thách bao lâu:",
+      "options": [
+        "3 tháng",
+        "6 tháng",
+        "12 tháng liên tục hoặc 04 quý liên tục",
+        "Chỉ cần đủ 300 triệu là được"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 136,
+      "question": "Nộp hồ sơ hoàn thuế, nhưng cơ quan thuế phát hiện Người xuất hóa đơn cho bạn chưa nộp tờ khai hoặc ĐANG NỢ thuế GTGT. Hóa đơn đó xử lý sao:",
+      "options": [
+        "Vẫn được hoàn bình thường do lỗi của người bán",
+        "Người mua KHÔNG ĐƯỢC hoàn thuế đối với tờ hóa đơn đó",
+        "Hồ sơ bị giam 3 năm",
+        "Người mua nộp phạt thay để được hoàn"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 137,
+      "question": "Nghị định 181/2025/NĐ-CP (về Thuế GTGT) chính thức có hiệu lực thi hành từ ngày nào:",
+      "options": [
+        "01/01/2025",
+        "01/07/2025",
+        "01/01/2026",
+        "05/03/2026"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 138,
+      "question": "Một tổ chức ngoại giao (Đại sứ quán) mua xe ô tô tại Việt Nam để sử dụng. Quyền lợi thuế GTGT của họ là gì:",
+      "options": [
+        "Mua xe giá 0 đồng tiền thuế từ đại lý",
+        "Đóng thuế lúc mua, sau đó làm hồ sơ XIN HOÀN THUẾ theo Điều 35",
+        "Không được hoàn thuế",
+        "Được miễn thuế nhập khẩu nhưng không miễn GTGT"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 139,
+      "question": "Dịch vụ đòi bồi thường bảo hiểm hưởng hoa hồng, giá tính thuế GTGT được xác định là:",
+      "options": [
+        "Toàn bộ tiền bồi thường",
+        "Giá bán chưa có thuế giá trị gia tăng",
+        "50% tiền bồi thường",
+        "Không chịu thuế"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 140,
+      "question": "Giao dịch Bán khoản phải thu, Bán chứng chỉ tiền gửi giữa hai doanh nghiệp chịu mức thuế suất GTGT nào:",
+      "options": [
+        "10%",
+        "5%",
+        "0%",
+        "Không chịu thuế GTGT"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 141,
+      "question": "Tổ hợp tác nộp thuế Khấu trừ quyết định chuyển đổi nâng cấp thành Hợp tác xã. Số thuế GTGT đầu vào chưa khấu trừ hết xử lý ra sao:",
+      "options": [
+        "Bị hủy bỏ hoàn toàn",
+        "Hợp tác xã ĐƯỢC KẾ THỪA số thuế đó để tiếp tục khấu trừ, hoàn thuế",
+        "Bị tịch thu 50%",
+        "Phải đóng mã số thuế cũ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 142,
+      "question": "Hàng xuất khẩu bị tiêu hủy ở nước ngoài (chất lượng kém), Biên bản tiêu hủy mang tên ai thì hợp lệ thay thế cho chứng từ thanh toán ngân hàng:",
+      "options": [
+        "Tên Hải quan Việt Nam",
+        "Ghi tên bên nhập khẩu (nếu họ đứng ra làm thủ tục tiêu hủy)",
+        "Phải là tên doanh nghiệp VN",
+        "Để trống tên"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 143,
+      "question": "Nghị định 181/2025/NĐ-CP được ban hành để thay thế toàn bộ cho Nghị định cũ nào trước đây:",
+      "options": [
+        "Nghị định 126/2020/NĐ-CP",
+        "Nghị định 209/2013/NĐ-CP (và các NĐ sửa đổi nó)",
+        "Nghị định 117/2025/NĐ-CP",
+        "Nghị định 68/2026/NĐ-CP"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 144,
+      "question": "Hàng hóa mua trả chậm trả góp trị giá 100tr, nếu đến kỳ hạn thanh toán mà doanh nghiệp VẪN CHƯA chuyển khoản qua ngân hàng thì xử lý thuế thế nào:",
+      "options": [
+        "Không phải làm gì cả",
+        "Bị phạt tù gian lận thuế",
+        "Tự giác kê khai điều chỉnh GIẢM số thuế GTGT đầu vào đã khấu trừ",
+        "Xin gia hạn với cơ quan thuế"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 145,
+      "question": "Cho thuê tài sản trả trước tiền thuê cho nhiều năm, giá tính thuế GTGT được xác định là khoản tiền nào:",
+      "options": [
+        "Phân bổ đều cho từng năm",
+        "Toàn bộ số tiền trả trước chưa có thuế GTGT",
+        "Số tiền trả trước đã có VAT",
+        "Doanh nghiệp tự chọn phân bổ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 146,
+      "question": "Cơ sở in thực hiện hợp đồng in bao thầu luôn cả giấy in. Giá tính thuế GTGT bao gồm:",
+      "options": [
+        "Chỉ tiền công in",
+        "Tiền công in và 50% tiền giấy",
+        "Bao gồm cả tiền công in và tiền giấy in chưa có thuế GTGT",
+        "Chỉ tiền giấy in"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 147,
+      "question": "Bán hàng hóa kèm theo Phiếu mua hàng (Voucher) cho lần mua sau. Giá tính thuế của giao dịch hiện tại là:",
+      "options": [
+        "Bao gồm giá trị voucher",
+        "Cưa đôi giá trị voucher",
+        "Không bao gồm giá trị phiếu mua hàng hóa",
+        "Miễn thuế toàn bộ"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 148,
+      "question": "Khoản thu nào sau đây KHÔNG được cộng vào doanh thu tính thuế GTGT:",
+      "options": [
+        "Phí thu thêm ngoài giá",
+        "Phụ thu lễ tết",
+        "Tiền bồi thường đất khi bị nhà nước thu hồi",
+        "Cước giao hàng tận nơi"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 149,
+      "question": "Dự án BT (Xây dựng - Chuyển giao) được thanh toán bằng quỹ đất. Giá đất được trừ khi tính thuế GTGT là:",
+      "options": [
+        "Bảng giá đất của Tỉnh",
+        "Giá trị quỹ đất được thanh toán theo quy định của pháp luật về đầu tư theo phương thức đối tác công tư",
+        "Doanh nghiệp tự thẩm định",
+        "Tiền sử dụng đất tự nguyện nộp"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 150,
+      "question": "Thời điểm tính thuế GTGT cho dịch vụ viễn thông bán thẻ cào trả trước là:",
+      "options": [
+        "Khi khách nạp thẻ",
+        "Khi khách dùng hết dung lượng",
+        "Thời điểm bán thẻ trả trước, thu cước phí hòa mạng",
+        "Ngày cuối tháng"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 151,
+      "question": "Thời điểm tính thuế GTGT của hoạt động bán Dầu thô là:",
+      "options": [
+        "Khi bơm dầu lên tàu",
+        "Khi bên mua và bên bán xác định được giá bán chính thức",
+        "Ngày giao hàng",
+        "Ngày cuối tháng"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 152,
+      "question": "Dịch vụ của ngành Hàng không được áp dụng thuế suất 0% là:",
+      "options": [
+        "Cung cấp suất ăn hàng không tại cảng hàng không quốc tế",
+        "Bán vé bay nội địa cho người nước ngoài",
+        "Quảng cáo trên máy bay",
+        "Sửa xe bus sân bay"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 153,
+      "question": "Hợp đồng vận tải quốc tế (Hà Nội - Hải Phòng - Bangkok). Thuế suất chặng nội địa (HN-HP) là:",
+      "options": [
+        "10%",
+        "5%",
+        "0% cho toàn bộ hợp đồng bao gồm chặng nội địa",
+        "Tách hóa đơn 2 loại"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 154,
+      "question": "Dịch vụ nào cung cấp cho Khu phi thuế quan KHÔNG được hưởng thuế suất 0%:",
+      "options": [
+        "Nâng hạ container",
+        "Suất ăn công nghiệp",
+        "Cho thuê văn phòng, đưa đón người lao động",
+        "Kiểm đếm hàng hóa"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 155,
+      "question": "Tàu biển của Mỹ vào Hải Phòng sửa chữA. Để xưởng sửa chữa hưởng thuế 0%, tàu Mỹ phải làm thủ tục gì:",
+      "options": [
+        "Nhập khẩu chính thức",
+        "Tạm nhập khẩu, tái xuất khẩu tại hải quan",
+        "Đăng ký cờ Việt Nam",
+        "Đóng thuế nhập khẩu"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 156,
+      "question": "Hàng hóa thuộc nhóm áp dụng thuế suất GTGT 5% là:",
+      "options": [
+        "Thực phẩm chức năng",
+        "Gỗ khai thác tự nhiên",
+        "Đồ chơi cho trẻ em",
+        "Giáo trình đại học"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 157,
+      "question": "Tổ chức nào KHÔNG được quyền tự nguyện đăng ký phương pháp Khấu trừ thuế GTGT:",
+      "options": [
+        "Doanh nghiệp mới thành lập mua sắm TSCĐ",
+        "Hộ kinh doanh cá thể",
+        "Hợp tác xã doanh thu 800tr",
+        "Tổ chức nước ngoài có doanh thu tại VN"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 158,
+      "question": "Cửa hàng bán vàng trang sức BẮT BUỘC áp dụng phương pháp tính thuế nào:",
+      "options": [
+        "Khấu trừ",
+        "Trực tiếp trên doanh thu",
+        "Tính trực tiếp trên Giá trị gia tăng (Giá bán - Giá mua)",
+        "Miễn thuế"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 159,
+      "question": "Dự án đầu tư vắt ngang qua mốc 01/07/2025, chính sách hoàn thuế tính sao:",
+      "options": [
+        "Bắt buộc xài luật cũ",
+        "Được quyền áp dụng quy định hoàn thuế của Nghị định 181 mới",
+        "Mất quyền hoàn",
+        "Nộp lại giấy phép"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 160,
+      "question": "Bán khoản phải thu (bán nợ) giữa hai công ty, thuế suất GTGT là:",
+      "options": [
+        "10%",
+        "5%",
+        "0%",
+        "Không chịu thuế GTGT"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 161,
+      "question": "Sản phẩm xuất khẩu là tài nguyên khoáng sản thô chưa chế biến áp dụng thuế suất nào:",
+      "options": [
+        "0%",
+        "Không chịu thuế GTGT (Không áp dụng 0% do hạn chế xuất khẩu)",
+        "5%",
+        "Miễn thuế"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 162,
+      "question": "Dịch vụ tang lễ (cho thuê xe tang, nhà tang lễ) áp dụng mức thuế suất nào:",
+      "options": [
+        "5%",
+        "Không chịu thuế GTGT",
+        "10%",
+        "0%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 163,
+      "question": "Mua hàng hóa của 1 người bán dưới 5 triệu đồng, nhưng mua 3 lần trong ngày (tổng 12 triệu). Thanh toán tiền mặt có được khấu trừ không:",
+      "options": [
+        "Được, vì mỗi hóa đơn đều dưới 5 triệu",
+        "Không được khấu trừ",
+        "Được khấu trừ 50%",
+        "Tùy cơ quan thuế"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 164,
+      "question": "Trường hợp nào được khấu trừ thuế GTGT của hàng hóa bị tổn thất không được bồi thường:",
+      "options": [
+        "Hàng hóa bị cháy do lỗi nhân viên",
+        "Hao hụt tự nhiên do tính chất lý hóa TRONG ĐỊNH MỨC",
+        "Mất cắp",
+        "Hao hụt vượt định mức"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 165,
+      "question": "Việc xác định doanh thu bán điện của các công ty phát điện trên thị trường điện chốt vào ngày nào:",
+      "options": [
+        "Ngày 15 hàng tháng",
+        "Chậm nhất là ngày cuối cùng của thời hạn kê khai, nộp thuế",
+        "Ngày giao điện",
+        "Ngày chốt công tơ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 166,
+      "question": "Doanh nghiệp cung cấp dịch vụ vận chuyển hành khách công cộng bằng xe buýt trong nội tỉnh. Dịch vụ này áp dụng mức thuế suất GTGT nào:",
+      "options": [
+        "0%",
+        "5%",
+        "10%",
+        "Thuộc đối tượng không chịu thuế GTGT"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 167,
+      "question": "Khi chia, tách, hợp nhất doanh nghiệp, việc điều chuyển tài sản cố định đang sử dụng giữa các đơn vị thành viên có phải tính thuế GTGT không:",
+      "options": [
+        "Phải tính thuế theo giá trị sổ sách",
+        "Không phải tính thuế GTGT",
+        "Phải tính thuế theo giá thị trường",
+        "Chỉ tính thuế 50% giá trị"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 168,
+      "question": "Doanh nghiệp sản xuất khép kín. Nếu sử dụng sản phẩm KHÔNG chịu thuế qua các khâu trung gian để sản xuất ra sản phẩm cuối cùng CHỊU thuế GTGT thì thuế đầu vào xử lý thế nào:",
+      "options": [
+        "Không được khấu trừ ở các khâu không chịu thuế",
+        "Được khấu trừ toàn bộ số thuế GTGT đầu vào tại các khâu",
+        "Chỉ được khấu trừ 50%",
+        "Phải phân bổ theo tỷ lệ doanh thu"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 169,
+      "question": "Hàng xuất khẩu sang Mỹ bị khách hàng từ chối nhận do giao trễ. Công ty tìm được khách B (cũng tại Mỹ) mua lại lô hàng. Để được hưởng thuế 0%, hồ sơ cần thêm gì:",
+      "options": [
+        "Lập tờ khai hải quan mới",
+        "Hồ sơ xuất khẩu ban đầu, công văn giải trình đổi khách và hồ sơ ký với khách mới",
+        "Mất quyền khấu trừ do sai tên khách hàng",
+        "Xin hải quan cấp lại tờ khai mới"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 170,
+      "question": "Doanh nghiệp mua hàng 20 triệu đồng. Thanh toán bằng cách nộp tiền vào tài khoản bên thứ ba mở tại Kho bạc Nhà nước để thực hiện quyết định cưỡng chế thu tiền. Việc này có hợp lệ để khấu trừ thuế không:",
+      "options": [
+        "Không hợp lệ",
+        "Được coi là thanh toán không dùng tiền mặt hợp lệ",
+        "Chỉ hợp lệ nếu dưới 10 triệu",
+        "Phải rút tiền mặt từ Kho bạc trả người bán"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 171,
+      "question": "Đối với dự án sử dụng vốn ODA không hoàn lại, Nhà thầu chính cung cấp hàng hóa cho dự án sẽ được xử lý thuế GTGT ra sao:",
+      "options": [
+        "Tự chịu chi phí thuế",
+        "Được HOÀN số thuế GTGT đã trả cho hàng hóa, dịch vụ mua tại Việt Nam phục vụ dự án",
+        "Được khấu trừ vào thuế TNDN",
+        "Mua hàng với giá 0 đồng thuế"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 172,
+      "question": "Cơ sở kinh doanh áp dụng chiết khấu thương mại cho khách hàng. Giá tính thuế GTGT được xác định là:",
+      "options": [
+        "Giá bán ban đầu chưa trừ chiết khấu",
+        "Giá bán ban đầu cộng thêm thuế GTGT",
+        "Giá bán đã chiết khấu thương mại dành cho khách hàng chưa có thuế giá trị gia tăng",
+        "Không được trừ chiết khấu"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 173,
+      "question": "Hàng hóa trao đổi của cư dân biên giới thuộc Danh mục quy định và nằm trong định mức miễn thuế nhập khẩu thì có phải nộp thuế GTGT không:",
+      "options": [
+        "Chịu mức thuế 5%",
+        "Chịu mức thuế 10%",
+        "Thuộc đối tượng KHÔNG chịu thuế GTGT",
+        "Được áp dụng thuế suất 0%"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 174,
+      "question": "Nghị định 359/2025/NĐ-CP được ban hành nhằm mục đích chính là sửa đổi, bổ sung nghị định nào sau đây:",
+      "options": [
+        "Nghị định 126/2020/NĐ-CP về Quản lý thuế",
+        "Nghị định 320/2025/NĐ-CP về Thuế TNDN",
+        "Nghị định 181/2025/NĐ-CP về Thuế GTGT",
+        "Nghị định 68/2026/NĐ-CP về Hộ kinh doanh"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 175,
+      "question": "Theo bổ sung mới tại Khoản 1 Điều 1 Nghị định 359 (bổ sung Khoản 1b Điều 4 NĐ 181), Doanh nghiệp A mua cà phê hạt chưa chế biến từ nông dân, sau đó bán lại cho Doanh nghiệp B. Giao dịch bán từ A cho B áp dụng mức thuế GTGT nào:",
+      "options": [
+        "Thuế suất 5%",
+        "Không phải kê khai, tính nộp thuế GTGT",
+        "Thuế suất 10%",
+        "Miễn thuế nhưng không được khấu trừ đầu vào"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 176,
+      "question": "Doanh nghiệp A (trong câu trên) khi bán cà phê hạt cho Doanh nghiệp B thuộc diện 'không phải kê khai, tính nộp thuế GTGT'. Vậy Doanh nghiệp A có được khấu trừ thuế GTGT đầu vào đối với các chi phí phục vụ việc kinh doanh lô cà phê này không:",
+      "options": [
+        "Không được khấu trừ",
+        "Chỉ được khấu trừ 50%",
+        "Được kê khai, khấu trừ thuế GTGT đầu vào",
+        "Phải tính vào chi phí Thuế TNDN"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 177,
+      "question": "Doanh nghiệp thương mại mua tôm tươi chưa chế biến, sau đó bán lại cho chị X (Cá nhân tiêu dùng). Giao dịch bán cho cá nhân tiêu dùng này chịu thuế suất GTGT bao nhiêu:",
+      "options": [
+        "Không phải kê khai, tính nộp thuế",
+        "Thuế suất 0%",
+        "Thuế suất 5%",
+        "Thuế suất 10%"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 178,
+      "question": "Trường hợp cơ sở kinh doanh nộp thuế GTGT theo phương pháp TRỰC TIẾP TRÊN DOANH THU thực hiện bán nông sản chưa chế biến (ở khâu thương mại). Cơ sở này phải nộp thuế theo tỷ lệ bao nhiêu trên doanh thu:",
+      "options": [
+        "0%",
+        "1%",
+        "5%",
+        "Không phải nộp"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 179,
+      "question": "Nếu Hợp tác xã A mua xoài tươi, sau đó CHẾ BIẾN thành Mứt xoài sấy dẻo đóng hộp và bán cho Siêu thị B. Giao dịch bán Mứt xoài này có được áp dụng chính sách 'Không phải kê khai, tính nộp thuế GTGT' của NĐ 359 không:",
+      "options": [
+        "Có, vì Mứt xoài có nguồn gốc từ nông sản",
+        "Có, vì bán cho doanh nghiệp (B2B)",
+        "Không, vì sản phẩm đã qua chế biến thành sản phẩm khác",
+        "Có, nhưng không được khấu trừ đầu vào"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 180,
+      "question": "Nghị định 359/2025/NĐ-CP đã BÃI BỎ nội dung nào sau đây từng được quy định tại Điều 37 của Nghị định 181/2025:",
+      "options": [
+        "Quy định về thời hạn nộp hồ sơ hoàn thuế 1 năm",
+        "Quy định bắt buộc phải có chứng từ thanh toán ngân hàng",
+        "Quy định cơ sở kinh doanh KHÔNG được hoàn thuế đối với hóa đơn mà người bán nợ thuế hoặc chưa nộp tờ khai",
+        "Quy định hoàn thuế đối với hàng hóa xuất khẩu"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 181,
+      "question": "Nhờ việc bãi bỏ Khoản 3 Điều 37 tại NĐ 181, hiện nay nếu một doanh nghiệp lập hồ sơ xin hoàn thuế GTGT, mà cơ quan thuế phát hiện có 1 tờ hóa đơn đầu vào do 'Công ty Ma' (đang nợ thuế và bỏ trốn) xuất bán. Nếu giao dịch mua bán là có thật và hợp pháp, doanh nghiệp mua có được hoàn thuế tờ hóa đơn đó không:",
+      "options": [
+        "Chắc chắn không được hoàn",
+        "Vẫn được giải quyết hoàn thuế theo quy định chung (không bị chặn tự động vì lỗi người bán nợ thuế)",
+        "Người mua phải nộp phạt thay mới được hoàn",
+        "Hồ sơ bị treo vô thời hạn"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 182,
+      "question": "Nghị định 359/2025/NĐ-CP chính thức có hiệu lực thi hành từ ngày nào:",
+      "options": [
+        "01/07/2025",
+        "01/01/2026",
+        "05/03/2026",
+        "Ký ban hành là có hiệu lực ngay"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 183,
+      "question": "Công ty C nộp hồ sơ xin hoàn thuế GTGT vào ngày 15/12/2025. Đến ngày 01/01/2026 (ngày NĐ 359 có hiệu lực), cơ quan thuế VẪN CHƯA ra quyết định hoàn thuế cho Công ty C. Vậy hồ sơ của Công ty C có được áp dụng quy định 'không chặn hoàn do người bán nợ thuế' của luật mới không:",
+      "options": [
+        "Không, vì nộp hồ sơ vào năm 2025 thì phải chịu luật 2025",
+        "Có, hồ sơ chưa có Quyết định hoàn thì được áp dụng ngay quy định bãi bỏ rào cản của luật mới",
+        "Phải rút hồ sơ nộp lại từ đầu mới được hưởng",
+        "Chỉ được áp dụng nếu số tiền xin hoàn dưới 1 tỷ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 184,
+      "question": "Điều khoản chuyển tiếp của Nghị định 359 có mục đích chính là gì đối với các doanh nghiệp đang chờ hoàn thuế:",
+      "options": [
+        "Kéo dài thời gian thanh tra thêm 6 tháng",
+        "Bắt buộc doanh nghiệp nộp lại giấy tờ chứng minh năng lực tài chính",
+        "Tạo điều kiện gỡ vướng ngay lập tức cho các hồ sơ đang bị 'tắc' do lỗi nợ thuế của đầu vào",
+        "Hủy bỏ toàn bộ các hồ sơ hoàn thuế nộp trong năm 2025"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 185,
+      "question": "Khái niệm 'Sản phẩm chỉ qua sơ chế thông thường' trong nông nghiệp (để áp dụng chính sách không kê khai nộp thuế) KHÔNG bao gồm hành động nào sau đây:",
+      "options": [
+        "Phơi, sấy khô",
+        "Bóc vỏ, tách hạt",
+        "Ướp lạnh, đông lạnh",
+        "Tẩm ướp gia vị, nấu chín đóng hộp"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 186,
+      "question": "Doanh nghiệp A mua tôm đông lạnh chưa chế biến từ doanh nghiệp B (giao dịch B2B), doanh nghiệp B xuất hóa đơn 'Không phải kê khai, tính nộp thuế GTGT'. Doanh nghiệp A sau đó bán lại lô tôm này cho nhà hàng X (Hộ kinh doanh). Doanh nghiệp A phải xuất hóa đơn với thuế suất bao nhiêu:",
+      "options": [
+        "Không phải kê khai tính nộp thuế",
+        "5%",
+        "10%",
+        "1%"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 187,
+      "question": "Ý nghĩa kinh tế lớn nhất của việc bổ sung Khoản 1b Điều 4 (Nông sản thương mại) vào Nghị định 181 là gì:",
+      "options": [
+        "Tăng mạnh nguồn thu ngân sách từ thuế nông nghiệp",
+        "Tránh việc các doanh nghiệp thương mại phải ứng vốn nộp thuế quá nhiều qua nhiều khâu trung gian, đồng thời chống gian lận hoàn thuế khống ở mảng nông sản",
+        "Cấm các hộ cá thể kinh doanh nông sản",
+        "Ép buộc mọi nông sản phải xuất khẩu"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 188,
+      "question": "Việc bãi bỏ Khoản 3 Điều 37 (Điều kiện người bán không nợ thuế) thể hiện nguyên tắc pháp lý nào trong quản lý nhà nước:",
+      "options": [
+        "Người mua phải làm thay việc của cơ quan điều tra",
+        "Người nộp thuế tự chịu trách nhiệm hoàn toàn về hành vi của đối tác",
+        "Doanh nghiệp chỉ chịu trách nhiệm về hành vi của chính mình; việc thu nợ thuế của người bán là trách nhiệm của Cơ quan quản lý nhà nước",
+        "Khuyến khích doanh nghiệp mua bán hóa đơn giả"
+      ],
+      "answer": "C"
+    }
+  ]
+}

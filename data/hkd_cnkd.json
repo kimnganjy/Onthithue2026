@@ -1,0 +1,1106 @@
+{
+  "topic": "HKD-CNKD",
+  "total": 100,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Nghị định 68/2026/NĐ-CP (đã được sửa đổi bởi Nghị định 141/2026/NĐ-CP), mức doanh thu năm từ bao nhiêu trở xuống thì hộ kinh doanh không chịu thuế GTGT:",
+      "options": [
+        "100 triệu đồng.",
+        "200 triệu đồng.",
+        "500 triệu đồng.",
+        "1 tỷ đồng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 2,
+      "question": "Hộ kinh doanh có doanh thu trên 1 tỷ đồng/năm áp dụng phương pháp tính thuế GTGT nào:",
+      "options": [
+        "Phương pháp tính trực tiếp theo doanh thu bằng tỷ lệ % nhân (x) doanh thu.",
+        "Phương pháp khấu trừ thuế.",
+        "Phương pháp tính thuế khoán.",
+        "Phương pháp tính theo thu nhập chịu thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "question": "Cá nhân cư trú có hoạt động kinh doanh có doanh thu năm bao nhiêu trở xuống thì không phải nộp thuế TNCN:",
+      "options": [
+        "Từ 100 triệu đồng trở xuống.",
+        "Từ 200 triệu đồng trở xuống.",
+        "Từ 500 triệu đồng trở xuống.",
+        "Từ 1 tỷ đồng trở xuống."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "question": "Theo Điều 4 Nghị định 68/2026/NĐ-CP (đã được sửa đổi bởi Nghị định 141/2026/NĐ-CP), phương pháp tính thuế TNCN theo thuế suất nhân doanh thu áp dụng cho cá nhân kinh doanh có doanh thu năm trong khoảng nào:",
+      "options": [
+        "Trên 500 triệu đến 01 tỷ đồng.",
+        "Trên 1 tỷ đồng đến 03 tỷ đồng.",
+        "Trên 500 triệu đến 03 tỷ đồng.",
+        "Trên 3 tỷ đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Doanh thu để xác định thuế TNCN đối với hoạt động cho thuê tài sản được tính như thế nào:",
+      "options": [
+        "Số tiền bên thuê trả một lần duy nhất.",
+        "Số tiền bên thuê trả từng kỳ theo hợp đồng thuê.",
+        "Giá trị tài sản cho thuê tại thời điểm ký hợp đồng.",
+        "Lợi nhuận sau khi trừ phí bảo trì tài sản."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "question": "Thời điểm xác định doanh thu đối với hoạt động bán hàng hóa là khi nào:",
+      "options": [
+        "Khi ký hợp đồng mua bán.",
+        "Khi người mua đặt cọc tiền.",
+        "Khi chuyển giao quyền sở hữu, quyền sử dụng hàng hóa cho người mua.",
+        "Khi người mua thanh toán toàn bộ giá trị đơn hàng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Các khoản thanh toán từng lần có giá trị từ bao nhiêu trở lên phải có chứng từ thanh toán không dùng tiền mặt để được tính vào chi phí được trừ:",
+      "options": [
+        "Từ 2 triệu đồng trở lên.",
+        "Từ 05 triệu đồng trở lên.",
+        "Từ 10 triệu đồng trở lên.",
+        "Từ 20 triệu đồng trở lên."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Khoản chi nào sau đây KHÔNG được trừ khi xác định thu nhập tính thuế TNCN:",
+      "options": [
+        "Chi phí nguyên vật liệu.",
+        "Chi phí khấu hao tài sản cố định phục vụ kinh doanh.",
+        "Các khoản chi phí phục vụ nhu cầu cá nhân, gia đình.",
+        "Chi phí tiền lương trả cho người lao động."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Trường hợp hộ kinh doanh hoạt động trước năm 2026 tự xác định doanh thu năm từ 01 tỷ đồng trở xuống, thời hạn thông báo doanh thu thực tế cho cơ quan thuế là khi nào:",
+      "options": [
+        "Ngày 31 tháng 12 năm hiện tại.",
+        "Chậm nhất là ngày 31 tháng 01 của năm dương lịch tiếp theo.",
+        "Chậm nhất là ngày 31 tháng 3 của năm dương lịch tiếp theo.",
+        "Ngày 20 tháng 01 năm tiếp theo."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 10,
+      "question": "Thời hạn nộp hồ sơ khai thuế đối với trường hợp khai thuế theo quý là khi nào:",
+      "options": [
+        "Ngày 20 của tháng đầu quý tiếp theo.",
+        "Ngày cuối cùng của quý đó.",
+        "Chậm nhất là ngày cuối cùng của tháng đầu tiên của quý tiếp theo.",
+        "Chậm nhất là ngày 30 của quý tiếp theo."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Hộ kinh doanh có doanh thu tính thuế GTGT hằng năm bao nhiêu thì bắt buộc áp dụng hóa đơn điện tử có mã của cơ quan thuế:",
+      "options": [
+        "Từ 500 triệu đồng trở lên.",
+        "Trên 01 tỷ đồng.",
+        "Từ 1 tỷ đồng trở lên.",
+        "Từ 5 tỷ đồng trở lên."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Theo Điều 13, hộ kinh doanh có trách nhiệm thông báo cho cơ quan thuế thông tin gì liên quan đến thanh toán:",
+      "options": [
+        "Tên ngân hàng nơi mở tài khoản.",
+        "Số dư cuối kỳ của các tài khoản.",
+        "Tất cả các số tài khoản và số hiệu ví điện tử liên quan đến sản xuất, kinh doanh.",
+        "Danh sách các khách hàng đã thanh toán qua ngân hàng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Cơ quan nào có trách nhiệm hỗ trợ chủ quản nền tảng thương mại điện tử thực hiện khấu trừ, nộp thuế thay:",
+      "options": [
+        "Bộ Công an.",
+        "Bộ Thông tin và Truyền thông.",
+        "Bộ Tài chính và Bộ Công Thương.",
+        "Ngân hàng Nhà nước Việt Nam."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Thời hạn nộp hồ sơ quyết toán thuế TNCN theo năm chậm nhất là ngày nào (trừ trường hợp cá nhân trực tiếp quyết toán):",
+      "options": [
+        "Ngày 31 tháng 12 hàng năm.",
+        "Ngày 31 tháng 01 năm sau.",
+        "Ngày 31 tháng 3 của năm dương lịch tiếp theo.",
+        "Ngày 20 tháng 4 năm sau."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Địa điểm khai thuế đối với cá nhân cho thuê bất động sản là ở đâu:",
+      "options": [
+        "Tại nơi cá nhân đăng ký thường trú.",
+        "Tại cơ quan thuế nơi có bất động sản cho thuê.",
+        "Tại cơ quan thuế nơi cá nhân có thu nhập cao nhất.",
+        "Tại Thuế tỉnh nơi cá nhân cư trú."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Doanh thu đối với hoạt động xây dựng, lắp đặt bao thầu nguyên vật liệu được xác định như thế nào:",
+      "options": [
+        "Chỉ bao gồm tiền công xây dựng.",
+        "Giá trị công trình bao gồm cả giá trị nguyên vật liệu, máy móc, thiết bị.",
+        "Giá trị công trình không bao gồm thuế GTGT.",
+        "Chỉ tính trên phần lợi nhuận định mức."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 17,
+      "question": "Đối tượng nào có trách nhiệm khấu trừ, khai thay và nộp thay thuế cho hộ kinh doanh trên nền tảng thương mại điện tử có chức năng thanh toán:",
+      "options": [
+        "Người mua hàng.",
+        "Cơ quan thuế.",
+        "Chủ quản nền tảng thương mại điện tử.",
+        "Ngân hàng cung cấp ví điện tử."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 18,
+      "question": "Khi kiểm tra, làm việc trực tiếp tại hộ kinh doanh, cơ quan thuế phải thực hiện điều gì theo Điều 16 Nghị định 68/2026/NĐ-CP:",
+      "options": [
+        "Đến kiểm tra bất ngờ không báo trước.",
+        "Phải thông báo trước, tránh gây ảnh hưởng đến hoạt động bình thường.",
+        "Chỉ kiểm tra vào ngày nghỉ.",
+        "Yêu cầu hộ kinh doanh tạm ngừng hoạt động để kiểm tra."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 19,
+      "question": "Hộ kinh doanh có doanh thu năm bao nhiêu thì thực hiện khai thuế GTGT theo tháng:",
+      "options": [
+        "Trên 10 tỷ đồng.",
+        "Trên 20 tỷ đồng.",
+        "Trên 50 tỷ đồng.",
+        "Trên 100 tỷ đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 20,
+      "question": "Quyền nào sau đây của hộ kinh doanh được quy định tại Điều 13 Nghị định 68/2026/NĐ-CP:",
+      "options": [
+        "Quyền yêu cầu cơ quan thuế hướng dẫn, giải đáp thắc mắc về thuế.",
+        "Quyền tự ấn định mức thuế phải nộp.",
+        "Quyền từ chối cung cấp hóa đơn khi bán hàng.",
+        "Quyền không nộp thuế khi kinh doanh lỗ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "Việc áp dụng mức trừ 01 tỷ đồng cho cá nhân có nhiều địa điểm kinh doanh được thực hiện như thế nào:",
+      "options": [
+        "Mỗi địa điểm được trừ 01 tỷ đồng.",
+        "Tổng mức trừ không vượt quá 01 tỷ đồng/năm đối với toàn bộ hoạt động kinh doanh.",
+        "Chỉ được trừ tại địa điểm có doanh thu cao nhất.",
+        "Chỉ được trừ nếu tất cả địa điểm có doanh thu trên 01 tỷ đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 22,
+      "question": "Theo Nghị định 68/2026/NĐ-CP, việc cơ quan thuế tự động tạo lập tờ khai thuế từ hệ thống thông tin quản lý thuế có ý nghĩa gì:",
+      "options": [
+        "Cơ quan thuế sẽ chịu trách nhiệm thay cho người nộp thuế.",
+        "Nhằm hỗ trợ người nộp thuế nhưng không thay thế trách nhiệm khai thuế của họ.",
+        "Để người nộp thuế không cần phải kiểm tra lại dữ liệu.",
+        "Để thay thế hoàn toàn sổ kế toán của hộ kinh doanh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 23,
+      "question": "Theo Điều 4 Nghị định số 68/2026/NĐ-CP, phương pháp tính thuế TNCN theo \"thu nhập tính thuế nhân (x) thuế suất\" áp dụng bắt buộc cho đối tượng nào:",
+      "options": [
+        "Hộ kinh doanh mới thành lập.",
+        "Cá nhân kinh doanh có doanh thu năm trên 03 tỷ đồng.",
+        "Cá nhân kinh doanh có doanh thu từ 01 tỷ đến 3 tỷ đồng.",
+        "Chỉ áp dụng đối với cá nhân kinh doanh có doanh thu năm trên 50 tỷ đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Tại sao tiền lương của chủ hộ kinh doanh không được tính vào chi phí được trừ khi xác định thuế TNCN:",
+      "options": [
+        "Vì chủ hộ không có hợp đồng lao động.",
+        "Vì chủ hộ không đóng bảo hiểm bắt buộc.",
+        "Vì đây thực chất là thu nhập từ kinh doanh của chính cá nhân đó, không phải chi phí thuê ngoài.",
+        "Vì chủ hộ đã được trừ mức 01 tỷ đồng doanh thu không chịu thuế."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 25,
+      "question": "Trường hợp hộ kinh doanh có doanh thu 1,5 tỷ đồng/năm và đang tính thuế TNCN theo phương pháp thuế suất nhân doanh thu, nếu năm sau doanh thu đạt 3,5 tỷ đồng thì phải làm gì:",
+      "options": [
+        "Tiếp tục giữ nguyên phương pháp cũ.",
+        "Phải chuyển sang phương pháp tính thuế theo thu nhập tính thuế nhân thuế suất từ năm kế sau năm doanh thu đạt 3,5 tỷ đồng.",
+        "Được tự lựa chọn một trong hai phương pháp.",
+        "Lựa chọn phương pháp và đề nghị cơ quan thuế chấp thuận."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "question": "Trường hợp tổ chức đi thuê bất động sản của cá nhân và có thỏa thuận nộp thuế thay thì ai là người khai thuế:",
+      "options": [
+        "Cá nhân cho thuê tài sản.",
+        "Tổ chức đi thuê có trách nhiệm khai thuế thay.",
+        "Cả tổ chức và cá nhân cùng khai.",
+        "Cơ quan thuế tự tính và gửi thông báo cho tổ chức."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Khoản chi phí lãi vay vốn kinh doanh trả cho đối tượng không phải tổ chức tín dụng được tính vào chi phí được trừ như thế nào:",
+      "options": [
+        "Tính theo lãi suất thực tế thỏa thuận.",
+        "Không vượt quá mức quy định tại Bộ luật Dân sự.",
+        "Không vượt quá 150% lãi suất cơ bản của Ngân hàng Nhà nước.",
+        "Không được tính vào chi phí được trừ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Hộ kinh doanh có nhiều cửa hàng trên cùng một tỉnh thì việc khai thuế được thực hiện như thế nào:",
+      "options": [
+        "Khai thuế riêng biệt tại từng địa điểm cửa hàng.",
+        "Khai thuế tổng hợp chung trên 01 hồ sơ khai thuế nộp cho cơ quan thuế quản lý trực tiếp trụ sở chính.",
+        "Chỉ khai thuế cho cửa hàng có doanh thu lớn nhất.",
+        "Khai thuế tại nơi cư trú của chủ hộ kinh doanh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 29,
+      "question": "Ý nghĩa của việc hộ kinh doanh lập Bảng kê hàng tồn kho tại thời điểm 31/12/2025 khi chuyển sang phương pháp kê khai là gì:",
+      "options": [
+        "Để cơ quan thuế xác nhận nguồn gốc hàng hóa.",
+        "Làm căn cứ xác định chi phí được trừ khi tính thuế TNCN cho kỳ tính thuế năm 2026.",
+        "Để nộp thuế bổ sung cho số hàng tồn kho này.",
+        "Để được miễn thuế GTGT cho số hàng tồn kho."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Trách nhiệm của Ủy ban nhân dân cấp xã trong quản lý thuế theo Nghị định số 68/2026/NĐ-CP là gì:",
+      "options": [
+        "Trực tiếp tổ chức thu tiền thuế của các hộ kinh doanh trên địa bàn.",
+        "Phối hợp rà soát danh sách, nắm bắt tình hình hoạt động và tuyên truyền pháp luật thuế.",
+        "Thành lập Hội đồng tư vấn thuế để hỗ trợ việc xác định mức thuế.",
+        "Cấp mã số thuế cho hộ kinh doanh mới thành lập."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Trường hợp hộ kinh doanh tạm ngừng hoạt động không trọn quý (đối với khai thuế theo quý) thì nghĩa vụ nộp hồ sơ khai thuế như thế nào:",
+      "options": [
+        "Được miễn hoàn toàn việc nộp hồ sơ khai thuế.",
+        "Vẫn phải nộp hồ sơ khai thuế cho quý đó.",
+        "Chỉ cần gửi thông báo tạm ngừng, không cần khai thuế.",
+        "Nộp hồ sơ khai thuế sau khi hoạt động trở lại."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Điểm khác biệt lớn nhất về thuế GTGT giữa hộ kinh doanh có doanh thu từ 01 tỷ đồng trở xuống và trên 01 tỷ đồng là gì:",
+      "options": [
+        "Một bên nộp thuế theo quý, một bên nộp thuế theo tháng.",
+        "Một bên không thuộc đối tượng chịu thuế, một bên thuộc đối tượng chịu thuế.",
+        "Một bên không phải dùng hóa đơn điện tử, một bên phải dùng hóa đơn điện tử.",
+        "Một bên không phải nộp hồ sơ khai thuế, một bên phải nộp hồ sơ khai thuế."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Theo Điều 16 Nghị định số 68/2026/NĐ-CP, cơ quan thuế không được yêu cầu hộ kinh doanh cung cấp thông tin gì:",
+      "options": [
+        "Sổ kế toán của năm hiện tại.",
+        "Hóa đơn đầu vào của hàng hóa.",
+        "Thông tin, hồ sơ đã có trong hệ thống hoặc đã được cơ quan khác xác nhận.",
+        "Thông tin về tài khoản ngân hàng liên quan đến SXKD."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Doanh thu tính thuế đối với cá nhân làm đại lý bán đúng giá bảo hiểm, xổ số được xác định là gì:",
+      "options": [
+        "Tổng số tiền bán bảo hiểm, xổ số.",
+        "Tiền hoa hồng được hưởng theo hợp đồng đại lý.",
+        "Doanh thu sau khi trừ đi số tiền nộp về công ty.",
+        "Chênh lệch giữa giá mua và giá bán."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Khi nào hộ kinh doanh phải thông báo thay đổi thông tin địa điểm kinh doanh với cơ quan thuế:",
+      "options": [
+        "Sau 30 ngày kể từ khi thay đổi.",
+        "Trong thời hạn 10 ngày làm việc kể từ ngày thay đổi thông tin.",
+        "Khi có đợt kiểm tra thuế định kỳ.",
+        "Cuối năm dương lịch."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Ông A có 01 cửa hàng tạp hóa tại phường Long Châu tỉnh Vĩnh Long. Năm 2026, tổng doanh thu của cửa hàng là 950 triệu đồng. Ông A phải thực hiện nghĩa vụ thuế gì:",
+      "options": [
+        "Khai và nộp thuế GTGT, TNCN hàng quý.",
+        "Không phải nộp thuế GTGT, TNCN nhưng phải thông báo doanh thu thực tế chậm nhất là 31/01/2027.",
+        "Phải nộp thuế GTGT theo tỷ lệ % nhưng miễn thuế TNCN.",
+        "Không cần thực hiện bất kỳ thủ tục nào với cơ quan thuế."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Một hộ kinh doanh có doanh thu năm 2026 dự kiến là 2,5 tỷ đồng. Hộ này muốn tính thuế TNCN dựa trên doanh thu trừ chi phí thực tế có được không:",
+      "options": [
+        "Không, bắt buộc tính theo thuế suất nhân doanh thu vì doanh thu không vượt quá 3 tỷ.",
+        "Được, nếu hộ kinh doanh lựa chọn áp dụng phương pháp thu nhập tính thuế nhân (x) thuế suất.",
+        "Chỉ được áp dụng nếu có trên 10 lao động.",
+        "Chỉ được áp dụng từ năm 2027 trở đi."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Bà B cho thuê nhà với giá 50 triệu đồng/tháng. Hợp đồng thuê từ tháng 01/2026 đến hết tháng 12/2026. Bà B lựa chọn khai thuế một lần theo năm. Thời hạn nộp hồ sơ khai thuế của bà B là khi nào:",
+      "options": [
+        "Ngày 31/12/2026.",
+        "Ngày 31/03/2027.",
+        "Chậm nhất là ngày 31/01/2027.",
+        "Ngày 20/01/2027."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 39,
+      "question": "Hộ kinh doanh C có doanh thu năm 2025 là 800 triệu đồng. Doanh thu 6 tháng đầu năm 2026 là 750 triệu đồng. Đến tháng 9/2026, doanh thu lũy kế đạt 1,2 tỷ đồng. Năm 2026 hộ kinh doanh C phải thực hiện khai thuế như thế nào:",
+      "options": [
+        "Chỉ thông báo doanh thu vào cuối năm.",
+        "Chuyển sang khai thuế theo quý, kể từ quý III/2026.",
+        "Khai thuế các quý I,II,III/2026.",
+        "Thông báo doanh thu 6 tháng và khai thuế quý III/2026."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Cá nhân D kinh doanh quần áo qua mạng xã hội (không có chức năng thanh toán trực tuyến). Doanh thu năm đạt 1,5 tỷ đồng. Cá nhân D phải làm gì:",
+      "options": [
+        "Đợi sàn TMĐT khấu trừ thuế.",
+        "Tự kê khai, nộp thuế theo quy định tại cơ quan thuế nơi cư trú.",
+        "Không phải nộp thuế GTGT, thuế TNCN.",
+        "Ủy quyền cho đơn vị vận chuyển (Shipper) thu hộ và nộp thuế vào ngân sách."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 41,
+      "question": "Hộ kinh doanh E mua 01 xe ô tô 5 chỗ đứng tên cá nhân chủ hộ để đi lại phục vụ cho cá nhân, gia đình. Khoản chi phí xăng xe, bảo dưỡng này được xử lý thế nào:",
+      "options": [
+        "Được trừ toàn bộ vào chi phí kinh doanh.",
+        "Không được tính vào chi phí được trừ khi xác định thu nhập tính thuế TNCN.",
+        "Được trừ 50% dựa trên định mức.",
+        "Được trừ nếu có hóa đơn GTGT mang tên hộ kinh doanh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Một cá nhân mới ra kinh doanh từ tháng 4/2026, đến hết tháng 6/2026 doanh thu thực tế là 600 triệu đồng. Cá nhân này cần thực hiện thủ tục gì:",
+      "options": [
+        "Khai thuế quý II/2026.",
+        "Thông báo doanh thu thực tế phát sinh từ tháng 4/2026 đến hết tháng 6/2026 cho cơ quan thuế chậm nhất ngày 31/7/2026.",
+        "Nộp thuế TNCN tạm tính 1%.",
+        "Đăng ký sử dụng hóa đơn điện tử ngay lập tức."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Doanh nghiệp X thuê văn phòng của ông Y với giá 1,2 tỷ đồng/năm. Trong hợp đồng thỏa thuận doanh nghiệp X khai và nộp thuế thay cho ông Y. Doanh nghiệp X nộp hồ sơ khai thuế khi nào:",
+      "options": [
+        "Khai thuế 2 lần trong năm tính thuế, lần 1 chậm nhất là 31/7 của năm tính thuế, lần 2 chậm nhất là 31/01 của năm dương lịch tiếp theo.",
+        "Theo kỳ thanh toán tiền thuê bất động sản quy định trong hợp đồng.",
+        "Khai thuế 1 lần theo năm tính thuế, chậm nhất là 31/01 của năm dương lịch tiếp theo.",
+        "Khi kết thúc hợp đồng thuê văn phòng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 44,
+      "question": "Hộ kinh doanh A có trụ sở chính tại phường Thanh Đức nhưng có thêm 02 cửa hàng tại phường Long Châu và phường Tân Hạnh (cùng tỉnh Vĩnh Long). Việc nộp thuế TNCN thực hiện thế nào nếu hộ nộp thuế theo phương pháp thu nhập tính thuế:",
+      "options": [
+        "Nộp thuế theo từng phường nơi có cửa hàng.",
+        "Nộp thuế TNCN tại trụ sở chính (phường Thanh Đức).",
+        "Nộp thuế tập trung tại phường nơi cửa hàng có doanh thu cao nhất.",
+        "Nộp thuế theo địa điểm kinh doanh nào cũng được."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 45,
+      "question": "Một hộ kinh doanh bán hàng trả chậm trong 12 tháng. Tổng giá bán trả tiền một lần là 100 triệu, tổng tiền khách phải trả (cả lãi) là 112 triệu. Doanh thu tính thuế là bao nhiêu:",
+      "options": [
+        "112 triệu đồng.",
+        "100 triệu đồng.",
+        "12 triệu đồng (tiền lãi).",
+        "Phân bổ đều mỗi tháng 9,33 triệu đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 46,
+      "question": "Hộ kinh doanh H phát sinh chi phí tiền lương cho nhân viên là 20 triệu đồng trong tháng 5/2026 nhưng đến tháng 7/2026 mới thực chi và có chứng từ thanh toán. Khoản chi này được tính vào chi phí quý nào:",
+      "options": [
+        "Quý II/2026 dựa trên thời điểm phát sinh.",
+        "Quý III/2026.",
+        "Không được trừ vì chậm chi trả.",
+        "Tùy lựa chọn của hộ kinh doanh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Cá nhân K kinh doanh trên sàn TMĐT có trụ sở tại nước ngoài, sàn này thực hiện khấu trừ 1,5% thuế trên mỗi đơn hàng. Cuối năm tổng doanh thu của K là 700 triệu đồng. K được xử lý số thuế đã nộp như thế nào:",
+      "options": [
+        "Không được hoàn lại vì đã nộp vào ngân sách.",
+        "Được làm thủ tục hoàn trả hoặc bù trừ số thuế nộp thừa vì doanh thu năm không vượt quá 01 tỷ đồng.",
+        "Được trừ vào doanh thu của năm tiếp theo.",
+        "Sàn TMĐT có trách nhiệm hoàn lại tiền cho cá nhân K."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 48,
+      "question": "Hộ kinh doanh M có doanh thu năm 2026 là 1,2 tỷ đồng. Trong năm, hộ này có nhu cầu xuất hóa đơn lẻ cho khách hàng nhưng chưa đăng ký hóa đơn điện tử. Thủ tục cần làm là gì:",
+      "options": [
+        "Khai và nộp thuế trước khi được cơ quan thuế cấp hóa đơn điện tử theo từng lần phát sinh.",
+        "Mua hóa đơn giấy tại cơ quan thuế.",
+        "Tự lập hóa đơn bán lẻ không cần mã của cơ quan thuế.",
+        "Không được phép xuất hóa đơn trong trường hợp này."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Ông P có 2 căn nhà cho thuê tại 2 tỉnh khác nhau (mỗi căn được lập 01 hợp đồng cho thuê), giá cho thuê mỗi căn là 600 triệu đồng/năm. Tổng doanh thu 1,2 tỷ đồng. Ông P được trừ 01 tỷ đồng khi tính thuế TNCN như thế nào:",
+      "options": [
+        "Trừ mỗi căn 500 triệu đồng.",
+        "Lựa chọn 01 hoặc một số hợp đồng để trừ nhưng tổng không quá 01 tỷ đồng.",
+        "Chỉ được trừ cho căn nhà tại nơi ông cư trú.",
+        "Không được trừ vì tổng doanh thu đã vượt ngưỡng 01 tỷ đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Hộ kinh doanh Q bị phạt 5 triệu đồng do vi phạm hợp đồng kinh tế với đối tác và 2 triệu đồng phạt chậm nộp thuế. Các khoản này có được trừ khi tính thuế TNCN không:",
+      "options": [
+        "Được trừ khoản phạt vi phạm hợp đồng.",
+        "Được trừ khoản phạt chậm nộp thuế.",
+        "Cả hai khoản này đều không được trừ.",
+        "Cả hai khoản này đều được trừ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 51,
+      "question": "Cá nhân X có doanh thu kinh doanh năm 2026 đạt 3,5 tỷ đồng. Theo quy định, X phải áp dụng phương pháp tính thuế TNCN nào và điều kiện duy trì ra sao:",
+      "options": [
+        "Doanh thu nhân thuế suất, ổn định trong 2 năm.",
+        "Thu nhập tính thuế nhân thuế suất, ổn định trong 02 năm liên tục.",
+        "Áp dụng phương pháp tính thuế TNCN nào cũng được.",
+        "Tự lựa chọn một trong hai phương pháp mỗi quý."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Một hộ kinh doanh đang áp dụng phương pháp tính thuế TNCN bằng thuế suất x doanh thu (doanh thu dưới 3 tỷ). Đến tháng 10/2026, doanh thu lũy kế đạt 3,2 tỷ đồng. Việc chuyển đổi phương pháp tính thuế TNCN được thực hiện khi nào:",
+      "options": [
+        "Ngay từ tháng 10/2026.",
+        "Từ quý IV/2026.",
+        "Từ năm tiếp theo (năm 2027).",
+        "Không phải chuyển đổi nếu năm sau doanh thu lại dưới 3 tỷ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 53,
+      "question": "Bà Lan có doanh thu từ cửa hàng tạp hóa 860 triệu đồng và doanh thu cho thuê nhà 240 triệu đồng trong năm 2026. Tổng doanh thu là 1,1 tỷ đồng. Nghĩa vụ thuế TNCN của bà Lan được xác định như thế nào:",
+      "options": [
+        "Không nộp thuế TNCN vì mỗi loại hình đều dưới 01 tỷ đồng.",
+        "Tính và nộp thuế TNCN trên phần doanh thu sau khi trừ 01 tỷ đồng.",
+        "Tính và nộp thuế trên toàn bộ doanh thu 1,1 tỷ đồng.",
+        "Chỉ nộp thuế đối với hoạt động cho thuê nhà."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 54,
+      "question": "Hộ kinh doanh A có doanh thu năm 2025 là 900 triệu đồng. Tháng 5/2026, doanh thu lũy kế trong năm của hộ đạt 750 triệu đồng. Hộ A phải thực hiện nghĩa vụ hóa đơn điện tử như thế nào:",
+      "options": [
+        "Tại thời điểm doanh thu đạt 750 triệu đồng chưa bắt buộc phải đăng ký sử dụng HĐĐT.",
+        "Phải áp dụng ngay hóa đơn điện tử từ tháng 5/2026.",
+        "Đăng ký sử dụng hóa đơn điện tử trong vòng 30 ngày kể từ khi doanh thu đạt 750 triệu đồng.",
+        "Đầu năm 2027 mới phải đăng ký sử dụng HĐĐT."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Phân tích trách nhiệm nộp thuế TNCN của hộ kinh doanh có doanh thu 4 tỷ đồng/năm, chi phí thực tế liên quan đến SXKD (có hóa đơn) là 3,8 tỷ đồng. Lựa chọn nào sau đây là đúng:",
+      "options": [
+        "Nộp 1% trên doanh thu 4 tỷ đồng.",
+        "Bắt buộc nộp thuế TNCN trên thu nhập tính thuế (4 tỷ - 3,8 tỷ = 200 triệu) nhân thuế suất 17%.",
+        "Được miễn thuế vì lợi nhuận sau thuế thấp hơn 01 tỷ đồng.",
+        "Nộp thuế TNCN trên thu nhập tính thuế (4 tỷ - 3,8 tỷ = 200 triệu) nhân thuế suất 15%."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 56,
+      "question": "Trong trường hợp hộ kinh doanh nộp thuế theo phương pháp thu nhập tính thuế, hồ sơ khai thuế quý I/2026 cần lưu ý điểm gì đặc biệt liên quan đến chuyển tiếp từ năm 2025:",
+      "options": [
+        "Không cần nộp thêm tài liệu gì ngoài tờ khai.",
+        "Phải nộp báo cáo tài chính năm 2025.",
+        "Phải gửi kèm Bảng kê hàng tồn kho, máy móc thiết bị tại thời điểm 31/12/2025.",
+        "Phải nộp chứng từ nộp thuế khoán của năm 2025."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 57,
+      "question": "Cá nhân cư trú kinh doanh trên sàn TMĐT nước ngoài không có văn phòng tại Việt Nam. Sàn không khấu trừ thuế. Cá nhân này kê khai thuế tại đâu là đúng quy định:",
+      "options": [
+        "Không cần kê khai vì sàn ở nước ngoài.",
+        "Kê khai tại Thuế tỉnh nơi sàn đặt trụ sở chính.",
+        "Kê khai tại cơ quan thuế quản lý nơi cá nhân cư trú (nơi ở hiện tại; nơi thường trú hoặc tạm trú).",
+        "Kê khai tại Cục Thuế."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 58,
+      "question": "Một hộ kinh doanh mới thành lập tháng 5/2026, đến 31/12/2026 doanh thu đạt 1,5 đồng (trong đó: Doanh thu lũy kế từ tháng 5/2026 đến tháng 9/2026 là 01 tỷ đồng). HKD phải thực hiện:",
+      "options": [
+        "Thông báo doanh thu chậm nhất 31/01/2027.",
+        "Thực hiện khai thuế theo quý kể từ quý IV/2026.",
+        "Chỉ cần khai quyết toán vào tháng 3/2027.",
+        "Được miễn thuế cho năm đầu tiên thành lập."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 59,
+      "question": "Nếu hộ kinh doanh phát hiện kê khai sai doanh thu của Quý I/2026 và thực hiện khai bổ sung vào tháng 8/2026, thời hạn nộp thuế cho phần chênh lệch được tính như thế nào:",
+      "options": [
+        "Là ngày nộp hồ sơ khai bổ sung.",
+        "Là thời hạn nộp hồ sơ khai thuế của kỳ tính thuế có sai sót (Quý I/2026).",
+        "Được gia hạn thêm 30 ngày kể từ ngày khai bổ sung.",
+        "Theo thông báo ấn định thuế của cơ quan thuế."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Đánh giá tính pháp lý của việc cơ quan thuế tiếp nhận Bảng kê hàng tồn kho từ năm 2025 chuyển sang 2026 của hộ kinh doanh:",
+      "options": [
+        "Là bằng chứng xác nhận hàng hóa có nguồn gốc hợp pháp.",
+        "Giúp hộ kinh doanh hợp thức hóa số hàng không có hóa đơn trước đó.",
+        "Chỉ phục vụ quản lý thuế, không có giá trị xác nhận hoặc hợp thức hóa nguồn gốc xuất xứ hàng hóa.",
+        "Là căn cứ để hộ kinh doanh được hoàn thuế GTGT đầu vào."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 61,
+      "question": "Trường hợp hộ kinh doanh có doanh thu 100 tỷ đồng/năm thì việc khai thuế GTGT và tạm nộp thuế TNCN được thực hiện theo chu kỳ nào:",
+      "options": [
+        "Khai thuế GTGT theo quý, tạm nộp thuế TNCN theo năm.",
+        "Khai thuế GTGT theo tháng, khai tạm nộp thuế TNCN theo tháng trên cùng hồ sơ.",
+        "Cả hai loại thuế đều khai theo quý.",
+        "Khai thuế GTGT theo tháng nhưng TNCN theo quý."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Phân tích trường hợp cá nhân cho thuê bất động sản có doanh thu 1,2 tỷ đồng/năm. Hợp đồng ký từ 2024, năm 2025 đã nộp thuế theo quy định cũ. Sang năm 2026, việc xử lý tiền thuế thực hiện thế nào:",
+      "options": [
+        "Tiếp tục nộp như năm 2025 cho đến khi hết hợp đồng.",
+        "Được điều chỉnh mức doanh thu không chịu thuế lên 01 tỷ đồng và xử lý tiền thuế nộp thừa (nếu có).",
+        "Phải thanh lý hợp đồng cũ để ký hợp đồng mới mới được áp dụng Nghị định 68.",
+        "Không được điều chỉnh vì hợp đồng phát sinh trước năm 2026."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Khi cơ quan thuế phát hiện hộ kinh doanh che giấu doanh thu trong thời gian nộp thuế khoán (năm 2024, 2025), việc xử lý được thực hiện theo nguyên tắc nào:",
+      "options": [
+        "Bỏ qua vì đã chuyển sang phương pháp kê khai từ năm 2026.",
+        "Chỉ xử phạt hành chính, không truy thu thuế.",
+        "Vẫn xác định lại nghĩa vụ thuế và xử phạt vi phạm hành chính theo quy định.",
+        "Chỉ xử lý nếu doanh thu che giấu trên 1 tỷ đồng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Một cá nhân không cư trú kinh doanh trên sàn TMĐT tại Việt Nam có doanh thu 1,6 tỷ đồng. Trách nhiệm khai thuế của cá nhân này như thế nào:",
+      "options": [
+        "Phải quyết toán thuế TNCN vào cuối năm như cá nhân cư trú.",
+        "Tự kê khai, nộp thuế theo Nghị định 117 và không phải thông báo doanh thu năm hay quyết toán thuế TNCN theo Điều 8, 10 Nghị định 68.",
+        "Được miễn thuế vì là người nước ngoài.",
+        "Chỉ nộp thuế nếu có thời gian lưu trú trên 90 ngày."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 65,
+      "question": "Hộ kinh doanh đang nộp thuế theo thu nhập thực tế (doanh thu trên 3 tỷ). Nếu năm sau doanh thu giảm xuống còn 2 tỷ, hộ có được chuyển ngay sang phương pháp thuế suất x doanh thu không:",
+      "options": [
+        "Được chuyển ngay từ quý đầu tiên của năm sau.",
+        "Phải thực hiện ổn định phương pháp cũ trong 02 năm liên tục trước khi chuyển đổi.",
+        "Chỉ được chuyển nếu có sự đồng ý bằng văn bản của cơ quan thuế.",
+        "Không được chuyển vì doanh thu năm sau vẫn trên 1 tỷ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 66,
+      "question": "Theo Thông tư 18/2026/TT-BTC, mẫu biểu nào được sử dụng để thông báo về việc thành lập địa điểm kinh doanh:",
+      "options": [
+        "Mẫu số 01/TB-ĐĐKD.",
+        "Mẫu số 02/TB-ĐĐKD.",
+        "Mẫu số 01/BK-STK.",
+        "Mẫu số 01/CNKD."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Mẫu số 01/BK-STK dùng để kê khai nội dung nào sau đây:",
+      "options": [
+        "Kê khai doanh thu hàng tháng.",
+        "Thông báo số tài khoản ngân hàng hoặc số hiệu ví điện tử.",
+        "Thông báo tạm ngừng kinh doanh.",
+        "Quyết toán thuế thu nhập cá nhân."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Đối với hộ kinh doanh có mức doanh thu năm thuộc đối tượng không chịu thuế GTGT, không phải nộp thuế TNCN thì mẫu hồ sơ khai thuế/thông báo doanh thu năm là mẫu nào:",
+      "options": [
+        "Mẫu số 01/CNKD.",
+        "Mẫu số 02/CNKD-TNCN-QTT.",
+        "Mẫu số 01/TKN-CNKD.",
+        "Mẫu số 01/BĐS."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 69,
+      "question": "Theo quy định tại Thông tư 18/2026/TT-BTC, hồ sơ khai thuế đối với hoạt động cho thuê bất động sản (trừ kinh doanh lưu trú) sử dụng mẫu nào:",
+      "options": [
+        "Mẫu số 01/CNKD.",
+        "Mẫu số 01/BĐS.",
+        "Mẫu số 01/TCKT.",
+        "Mẫu số 01/XSBHDC."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "Mẫu số 02/CNKD-TNCN-QTT là tờ khai dành cho đối tượng nào:",
+      "options": [
+        "Hộ kinh doanh nộp thuế theo phương pháp khoán.",
+        "Hộ kinh doanh, cá nhân kinh doanh thực hiện nộp thuế TNCN trên thu nhập tính thuế (quyết toán năm).",
+        "Cá nhân cho thuê bất động sản.",
+        "Tổ chức khai thay, nộp thuế thay cho cá nhân."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 71,
+      "question": "Khi có thay đổi thông tin về số tài khoản ngân hàng phục vụ kinh doanh, hộ kinh doanh phải nộp hồ sơ cho cơ quan nào:",
+      "options": [
+        "Ngân hàng nơi mở tài khoản.",
+        "Ủy ban nhân dân cấp xã.",
+        "Cơ quan thuế quản lý trực tiếp.",
+        "Sở Tài chính."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 72,
+      "question": "Tờ khai thuế đối với doanh nghiệp xổ số, bảo hiểm, bán hàng đa cấp trả tiền hoa hồng cho đại lý sử dụng mẫu biểu nào:",
+      "options": [
+        "Mẫu số 01/CNKD.",
+        "Mẫu số 01/XSBHDC.",
+        "Mẫu số 01/TCKT.",
+        "Mẫu số 01/TKN-CNKD."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "Mẫu hồ sơ nào được dùng để tổ chức khai thuế thay, nộp thuế thay cho cá nhân cho thuê bất động sản:",
+      "options": [
+        "Mẫu số 01/BĐS.",
+        "Mẫu số 01/CNKD.",
+        "Mẫu số 01/TCKT.",
+        "Mẫu số 02/CNKD-TNCN-QTT."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 74,
+      "question": "Theo Thông tư 18/2026/TT-BTC, thông tin về \"Ví điện tử\" liên quan đến sản xuất kinh doanh có bắt buộc phải thông báo với cơ quan thuế không:",
+      "options": [
+        "Không, chỉ cần thông báo số tài khoản ngân hàng.",
+        "Có, phải thông báo theo mẫu số 01/BK-STK.",
+        "Chỉ thông báo khi có yêu cầu thanh tra.",
+        "Chỉ thông báo nếu ví điện tử có số dư trên 100 triệu đồng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "Chỉ tiêu \"Mã định danh khoản phải nộp (ID)\" xuất hiện trong mẫu biểu nào sau đây:",
+      "options": [
+        "Mẫu 01/TB-ĐĐKD.",
+        "Mẫu 01/TKN-CNKD và Mẫu 02/CNKD-TNCN-QTT.",
+        "Mẫu 01/BK-STK.",
+        "Mẫu 02/TB-ĐĐKD."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 76,
+      "question": "Cơ quan nào ban hành Thông báo mẫu số 02/TB-ĐĐKD về việc cập nhật thông tin địa điểm kinh doanh:",
+      "options": [
+        "Hộ kinh doanh.",
+        "Cơ quan thuế quản lý trực tiếp.",
+        "Sở Tài chính.",
+        "Hội đồng tư vấn thuế xã/phường."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "Phụ lục Bảng kê chi tiết bất động sản cho thuê (Mẫu số 01/BK-BĐS) được gửi kèm theo tờ khai nào:",
+      "options": [
+        "Tờ khai mẫu số 01/BĐS.",
+        "Tờ khai mẫu số 01/CNKD.",
+        "Tờ khai mẫu số 01/TCKT.",
+        "Tờ khai mẫu số 01/XSBHDC."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 78,
+      "question": "Trong tờ khai 01/CNKD, mục \"Kỳ tính thuế\" bao gồm các lựa chọn nào:",
+      "options": [
+        "Tháng, quý, năm.",
+        "Năm, 6 tháng đầu năm, 6 tháng cuối năm.",
+        "Tháng, quý, lần phát sinh.",
+        "6 tháng đầu năm, 6 tháng cuối năm, lần phát sinh."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 79,
+      "question": "Mẫu số 01/BK-KTHTKD là phụ lục dùng để làm gì:",
+      "options": [
+        "Bảng kê chi tiết hộ kinh doanh, cá nhân kinh doanh (dành cho tổ chức khai thay).",
+        "Bảng kê hóa đơn đầu ra của hộ kinh doanh.",
+        "Bảng kê tài sản cố định.",
+        "Bảng kê tiền lương nhân viên."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 80,
+      "question": "Theo mẫu số 01/TB-ĐĐKD, người nộp thuế có thể thông báo nội dung nào sau đây:",
+      "options": [
+        "Thành lập, thay đổi thông tin, tạm ngừng hoặc chấm dứt hoạt động địa điểm kinh doanh.",
+        "Đăng ký mã số thuế cá nhân cho chủ hộ.",
+        "Đề nghị miễn giảm thuế do thiên tai.",
+        "Đăng ký tham gia nộp thuế điện tử."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 81,
+      "question": "Khi kê khai mẫu số 01/CNKD đối với hộ kinh doanh có nhiều địa điểm kinh doanh cố định, việc phản ánh doanh thu và số thuế phải nộp được thực hiện theo nguyên tắc nào:",
+      "options": [
+        "Chỉ kê khai tổng doanh thu của tất cả các địa điểm tại trụ sở chính mà không cần phân tách chi tiết.",
+        "Phải kê khai chi tiết doanh thu và số thuế phát sinh tương ứng của từng địa điểm kinh doanh trên cùng một hồ sơ khai thuế.",
+        "Mỗi địa điểm kinh doanh phải lập một tờ khai mẫu 01/CNKD riêng biệt để nộp cho cơ quan thuế quản lý địa bàn đó.",
+        "Tùy vào sự lựa chọn của hộ kinh doanh, có thể gộp chung hoặc tách riêng tùy theo quy mô của từng cửa hàng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 82,
+      "question": "Ý nghĩa của chỉ tiêu \"Lần đầu\" và \"Bổ sung lần thứ...\" trên các mẫu tờ khai là gì:",
+      "options": [
+        "Để xác định số lần người nộp thuế đến cơ quan thuế.",
+        "Để phân biệt tờ khai chính thức gửi lần đầu và các tờ khai thay thế khi người nộp thuế phát hiện sai sót trong số liệu đã gửi.",
+        "Để xác định số lần nộp hồ sơ.",
+        "Để xác định mức độ uy tín của hộ kinh doanh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Khi cá nhân hợp tác kinh doanh với tổ chức, việc khai thuế được thực hiện như thế nào theo mẫu biểu của Thông tư 18/2026/TT-BTC:",
+      "options": [
+        "Cá nhân tự khai theo mẫu 01/CNKD.",
+        "Tổ chức khai thay và nộp thuế thay theo mẫu số 01/TCKT.",
+        "Tổ chức khai mẫu 01/XSBHDC.",
+        "Cả cá nhân và tổ chức cùng khai chung một mẫu."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "Tại sao trong mẫu 01/BK-STK lại yêu cầu trạng thái tài khoản (đóng/khai lần đầu/thay đổi thông tin):",
+      "options": [
+        "Để ngân hàng thu phí hộ cơ quan thuế.",
+        "Để cơ quan thuế theo dõi biến động và quản lý dòng tiền phục vụ sản xuất kinh doanh của hộ kinh doanh.",
+        "Để xác định số dư tài khoản của hộ kinh doanh vào cuối năm.",
+        "Để cấp hạn mức thấu chi cho hộ kinh doanh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 85,
+      "question": "Việc sử dụng mẫu 02/TB-ĐĐKD của cơ quan thuế nhằm mục đích gì đối với người nộp thuế:",
+      "options": [
+        "Để xử phạt người nộp thuế nếu kê khai sai.",
+        "Để xác nhận kết quả cập nhật thông tin và hướng dẫn xử lý nếu hồ sơ có lỗi.",
+        "Để yêu cầu người nộp thuế đến trụ sở cơ quan thuế làm việc.",
+        "Để thông báo số thuế phải nộp của địa điểm kinh doanh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 86,
+      "question": "Trong mẫu 01/BĐS, chỉ tiêu \"Tiền phạt, tiền bồi thường\" (nếu có) được cộng vào đâu để tính thuế TNCN:",
+      "options": [
+        "Không tính thuế TNCN đối với khoản này.",
+        "Cộng vào doanh thu để xác định thu nhập tính thuế TNCN từ hoạt động cho thuê tài sản.",
+        "Tính vào thuế giá trị gia tăng.",
+        "Trừ vào chi phí trước khi tính thuế."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 87,
+      "question": "Ý nghĩa của việc tích chọn vào ô \"Trường hợp đề nghị cấp hóa đơn điện tử có mã của cơ quan thuế theo lần phát sinh\" trên mẫu 01/CNKD là gì:",
+      "options": [
+        "Để đăng ký sử dụng hóa đơn điện tử hàng tháng.",
+        "Để hộ kinh doanh được cấp hóa đơn lẻ cho từng giao dịch bán hàng.",
+        "Để cơ quan thuế tự động xuất hóa đơn cho khách hàng của hộ.",
+        "Để được miễn thuế đối với hóa đơn đó."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Đối với cá nhân làm đại lý xổ số, bảo hiểm nộp thuế theo phương pháp thuế suất nhân doanh thu, tại sao họ vẫn dùng mẫu 01/TKN-CNKD khi đề nghị hoàn thuế:",
+      "options": [
+        "Vì đây là mẫu duy nhất có mục đề nghị hoàn thuế.",
+        "Vì mẫu này dùng cho cá nhân trực tiếp ký hợp đồng đại lý chưa được khấu trừ đủ hoặc cần xác định lại nghĩa vụ năm để hoàn thuế.",
+        "Vì đại lý xổ số được xem như hộ kinh doanh có doanh thu dưới 01 tỷ đồng.",
+        "Để thay thế cho quyết toán thuế thu nhập cá nhân mẫu 02/QTT-TNCN."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Cấu trúc của mẫu 01/TCKT (Tờ khai của tổ chức khai thay) được thiết kế để quản lý các loại hình nào:",
+      "options": [
+        "Hợp tác kinh doanh với cá nhân và thuê bất động sản của cá nhân.",
+        "Bán lẻ hàng hóa và cung cấp dịch vụ ăn uống.",
+        "Vận tải hành khách và vận tải hàng hóa.",
+        "Xuất khẩu hàng hóa và ủy thác xuất khẩu."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 90,
+      "question": "Điểm cần lưu ý khi kê khai mẫu 01/BK-BĐS đối với cá nhân có nhiều bất động sản cho thuê là gì:",
+      "options": [
+        "Chỉ kê khai bất động sản có giá trị lớn nhất.",
+        "Phải kê khai chi tiết địa chỉ, thông tin hợp đồng và doanh thu của từng bất động sản.",
+        "Chỉ kê khai các bất động sản trong cùng một tỉnh.",
+        "Gộp chung tất cả doanh thu vào một dòng duy nhất."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 91,
+      "question": "Hộ kinh doanh A thay đổi địa chỉ địa điểm kinh doanh nhưng không thay đổi trụ sở chính. Hộ A cần nộp những mẫu biểu nào theo Thông tư 18:",
+      "options": [
+        "Chỉ cần nộp mẫu 01/CNKD kỳ gần nhất.",
+        "Nộp Thông báo mẫu số 01/TB-ĐĐKD (tích chọn Thay đổi thông tin).",
+        "Nộp mẫu 01/BK-STK để cập nhật lại ngân hàng.",
+        "Nộp mẫu 02/CNKD-TNCN-QTT."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "Ông Bình cho công ty X thuê nhà với giá 90 triệu/tháng. Trong hợp đồng thỏa thuận công ty X có trách nhiệm khai thuế thay, nộp thuế thay. Công ty X phải sử dụng mẫu biểu nào để khai thuế cho ông Bình:",
+      "options": [
+        "Mẫu 01/BĐS đứng tên ông Bình.",
+        "Mẫu 01/CNKD đứng tên công ty X.",
+        "Mẫu 01/TCKT và Phụ lục 02/BK-BĐS đính kèm.",
+        "Mẫu 01/XSBHDC."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 93,
+      "question": "Một cá nhân kinh doanh có doanh thu năm 2026 là 400 triệu đồng. Theo mẫu 01/TKN-CNKD, cá nhân này phải nộp hồ sơ này vào thời điểm nào:",
+      "options": [
+        "Hàng tháng cùng tờ khai thuế.",
+        "Hàng quý.",
+        "Chậm nhất là ngày 31/01 của năm dương lịch tiếp theo.",
+        "Ngay khi có phát sinh đơn hàng đầu tiên."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 94,
+      "question": "Hộ kinh doanh C phát hiện tờ khai quý I/2026 (mẫu 01/CNKD) đã nộp bị sai doanh thu dẫn đến thiếu thuế. Hộ C phải xử lý như thế nào trên mẫu biểu:",
+      "options": [
+        "Nộp lại một tờ khai mới y hệt tờ cũ.",
+        "Gửi lại mẫu 01/CNKD, tích vào ô [03] \"Bổ sung lần thứ 1\".",
+        "Chờ đến kỳ nộp thuế quý II rồi cộng dồn vào.",
+        "Gọi điện nhờ cán bộ thuế sửa hộ trên hệ thống."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 95,
+      "question": "Chị Hoa mở thêm một ví điện tử Momo để khách hàng thanh toán tiền mua hàng tại cửa hàng. Chị Hoa phải làm gì để đúng quy định tại Thông tư 18:",
+      "options": [
+        "Không cần làm gì vì ví điện tử liên kết với ngân hàng đã khai báo.",
+        "Khai bổ sung mẫu số 01/BK-STK (tích chọn Khai lần đầu cho số hiệu ví mới).",
+        "Chụp ảnh màn hình ví gửi cho cán bộ thuế qua Zalo.",
+        "Ghi số hiệu ví vào phần ghi chú của tờ khai 01/CNKD tháng sau."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 96,
+      "question": "Khi điền mẫu số 01/BK-STK, hộ kinh doanh có 2 tài khoản ngân hàng và 1 ví MoMo dùng cho bán hàng online thì phải kê khai như thế nào:",
+      "options": [
+        "Chỉ khai 1 tài khoản chính.",
+        "Khai đầy đủ cả 3 (2 tài khoản ngân hàng và 1 số hiệu ví điện tử) vào các dòng tương ứng trên bảng kê.",
+        "Khai tài khoản ngân hàng vào mẫu 01, còn ví điện tử khai vào mẫu khác.",
+        "Không cần khai ví điện tử."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Hộ kinh doanh X có số thuế nộp thừa là 10 triệu đồng nhưng hiện vẫn còn nợ tiền phạt chậm nộp 2 triệu đồng. Việc kê khai vào các chỉ tiêu từ [44] đến [56] trên mẫu 01/TKN-CNKD giúp hộ kinh doanh X giải quyết vấn đề gì:",
+      "options": [
+        "Để được xóa nợ hoàn toàn khoản tiền phạt chậm nộp 2 triệu đồng.",
+        "Để thực hiện bù trừ 2 triệu từ số tiền nộp thừa sang khoản nợ phạt, số còn lại (8 triệu) sẽ tiếp tục xử lý nộp thừa hoặc hoàn trả.",
+        "Để chứng minh với cơ quan thuế rằng hộ kinh doanh luôn chấp hành tốt pháp luật.",
+        "Để đề nghị cơ quan thuế không tính tiền chậm nộp đối với khoản nợ 2 triệu đồng đó."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Doanh nghiệp bảo hiểm Y trả hoa hồng cho 100 đại lý là cá nhân trong quý I/2026. Doanh nghiệp Y cần lập hồ sơ khai thuế như thế nào:",
+      "options": [
+        "Lập 100 tờ khai mẫu 01/CNKD cho từng cá nhân.",
+        "Lập Tờ khai 01/XSBHDC và đính kèm danh sách chi tiết các đại lý tại Phụ lục 01/BK-XSBHDC.",
+        "Chỉ cần chuyển khoản tiền thuế vào kho bạc và ghi nội dung nộp thay.",
+        "Lập mẫu 01/TCKT."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Một hộ kinh doanh nộp thuế theo phương pháp kê khai (doanh thu trên 1 tỷ đồng) vừa mở thêm một quầy hàng tại phường kháC. Hộ kinh doanh phải gửi mẫu nào:",
+      "options": [
+        "Mẫu số 01/CNKD (tờ khai bổ sung).",
+        "Mẫu số 01/TB-ĐĐKD (tích chọn \"Thành lập địa điểm kinh doanh\").",
+        "Mẫu số 01/BK-STK.",
+        "Mẫu số 01/TKN-CNKD.."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 100,
+      "question": "Ông Nam là cá nhân cho thuê nhà nhưng đang cư trú tại nước ngoài, không thể trực tiếp thực hiện các thủ tục thuế. Ông Nam ủy quyền cho cháu là anh Bắc thực hiện khai và nộp thuế thay. Hồ sơ khai thuế do anh Bắc lập phải thực hiện như thế nào:",
+      "options": [
+        "Anh Bắc ký tên vào tờ khai mẫu 01/BĐS với tư cách là Người nộp thuế.",
+        "Anh Bắc sử dụng tài khoản thuế điện tử của mình để nộp tờ khai 01/CNKD.",
+        "Anh Bắc sử dụng tờ khai mẫu 01/BĐS, ghi thông tin vào mục [07] (Tổ chức/cá nhân khai thay) và đính kèm Văn bản ủy quyền theo quy định.",
+        "Anh Bắc phải lập tờ khai mẫu 01/TCKT dành cho tổ chức khai thay để nộp cho cơ quan thuế."
+      ],
+      "answer": "C"
+    }
+  ]
+}

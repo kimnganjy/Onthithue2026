@@ -1,0 +1,2202 @@
+{
+  "topic": "Quy trình kiểm tra (200 câ.txt",
+  "total": 200,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quyết định 970/QĐ-TCT do cơ quan nào ban hành:",
+      "options": [
+        "Tổng cục Thuế.",
+        "Bộ Tài chính.",
+        "Chính phủ.",
+        "Thanh tra Chính phủ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "question": "Quy trình kiểm tra thuế ban hành kèm theo Quyết định 970/QĐ-TCT áp dụng cho đối tượng nào sau đây:",
+      "options": [
+        "Chỉ áp dụng cho bộ phận kiểm soát nội bộ.",
+        "Chỉ áp dụng cho người nộp thuế.",
+        "Các doanh nghiệp có vốn đầu tư nước ngoài.",
+        "Cơ quan thuế các cấp và công chức thuế."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 3,
+      "question": "Quyết định 970/QĐ-TCT có hiệu lực thi hành kể từ ngày nào:",
+      "options": [
+        "Ngày 14/07/2023.",
+        "Ngày 01/01/2023.",
+        "Ngày 19/10/2020.",
+        "Ngày 01/01/2024."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 4,
+      "question": "Việc kiểm tra tại trụ sở cơ quan thuế bao gồm các hình thức nào:",
+      "options": [
+        "Kiểm tra hồ sơ khai thuế trên hệ thống công nghệ thông tin.",
+        "Kiểm tra sổ sách kế toán trực tiếp tại doanh nghiệp.",
+        "Kiểm tra kho bãi của người nộp thuế.",
+        "Kiểm tra tình hình sản xuất thực tế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Theo quy trình, việc kiểm tra hồ sơ thuế tại trụ sở cơ quan thuế được thực hiện như thế nào:",
+      "options": [
+        "Thực hiện thường xuyên trên hệ thống cơ sở dữ liệu của ngành Thuế.",
+        "Chỉ thực hiện khi có đơn tố cáo.",
+        "Mỗi năm chỉ được kiểm tra một lần.",
+        "Chỉ kiểm tra khi doanh nghiệp yêu cầu."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 6,
+      "question": "Tiêu chí để lựa chọn người nộp thuế kiểm tra tại trụ sở người nộp thuế chủ yếu dựa trên yếu tố nào:",
+      "options": [
+        "Theo đề nghị của chính quyền địa phương.",
+        "Quy mô vốn điều lệ của doanh nghiệp.",
+        "Số lượng hóa đơn doanh nghiệp đã sử dụng.",
+        "Phân tích rủi ro và lựa chọn ngẫu nhiên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 7,
+      "question": "Thẩm quyền ban hành Quyết định kiểm tra thuế tại trụ sở người nộp thuế thuộc về ai:",
+      "options": [
+        "Trưởng đoàn kiểm tra.",
+        "Trưởng phòng Kiểm tra.",
+        "Thủ trưởng cơ quan thuế các cấp.",
+        "Đội trưởng Đội kiểm tra."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "question": "Thời hạn kiểm tra tại trụ sở người nộp thuế được ghi cụ thể trong văn bản nào:",
+      "options": [
+        "Phiếu phân tích.",
+        "Kế hoạch kiểm tra năm.",
+        "Quyết định kiểm tra thuế.",
+        "Quy chế hoạt động của đơn vị."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "question": "Trưởng đoàn kiểm tra có trách nhiệm gì trong việc thực hiện quyết định kiểm tra:",
+      "options": [
+        "Quyết định miễn thuế cho doanh nghiệp.",
+        "Thay mặt Trưởng Thuế ký kết luận kiểm tra.",
+        "Có quyền thay đổi thành viên đoàn kiểm tra.",
+        "Tổ chức, chỉ đạo các thành viên đoàn kiểm tra thực hiện đúng nội dung quyết định kiểm tra."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 10,
+      "question": "Thành viên đoàn kiểm tra khi thực hiện kiểm tra thuế có nhiệm vụ, quyền hạn gì khi thực hiện Quyết định kiểm tra:",
+      "options": [
+        "Thực hiện nhiệm vụ theo sự phân công của trưởng đoàn kiểm tra thuế.",
+        "Yêu cầu người nộp thuế cung cấp thông tin, tài liệu, giải trình về vấn đề liên quan đến nội dung kiểm tra thuế được trưởng đoàn phân công thực hiện kiểm tra.",
+        "Báo cáo kết quả thực hiện nhiệm vụ được giao với trưởng đoàn kiểm tra thuế.",
+        "Tất cả đáp án đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 11,
+      "question": "Khi thực hiện kiểm tra tại trụ sở người nộp thuế, Đoàn kiểm tra phải có ít nhất bao nhiêu thành viên:",
+      "options": [
+        "Ít nhất 03 thành viên.",
+        "Chỉ cần 01 thành viên là Trưởng đoàn.",
+        "Ít nhất 02 thành viên (bao gồm Trưởng đoàn).",
+        "Ít nhất 04 thành viên."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "Thời hạn gửi Quyết định kiểm tra cho người nộp thuế là bao nhiêu ngày kể từ ngày ký:",
+      "options": [
+        "Trong thời hạn 03 ngày làm việc.",
+        "Trong thời hạn 04 ngày làm việc.",
+        "Trong thời hạn 05 ngày làm việc.",
+        "Trong thời hạn 07 ngày làm việc."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "Người nộp thuế có quyền gì khi nhận được Quyết định kiểm tra:",
+      "options": [
+        "Được yêu cầu cơ quan thuế dời thời hạn kiểm tra đến khi người nộp thuế chuẩn bị xong sổ sách kế toán.",
+        "Được tự ý thay đổi thời gian kiểm tra mà không cần xin phép.",
+        "Được giải thích về nội dung kiểm tra và từ chối cung cấp thông tin không liên quan.",
+        "Được chọn thành viên đoàn kiểm tra theo ý muốn."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Trước khi ban hành Quyết định kiểm tra tại trụ sở người nộp thuế, bộ phận kiểm tra phải lập văn bản nào:",
+      "options": [
+        "Dự thảo Quyết định xử phạt.",
+        "Lập tờ trình ban hành Quyết định kiểm tra.",
+        "Lập biên bản phân công công việc cho thành viên đoàn.",
+        "Phiếu phân tích, đánh giá rủi ro xác định nội dung, thời kỳ rủi ro."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 15,
+      "question": "Việc thay đổi, bổ sung thành viên đoàn kiểm tra phải được thực hiện bằng văn bản nào:",
+      "options": [
+        "Quyết định của Thủ trưởng cơ quan thuế ban hành quyết định kiểm tra.",
+        "Giấy giới thiệu của Trưởng đoàn.",
+        "Biên bản họp đoàn kiểm tra.",
+        "Biên bản phân công công việc."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 16,
+      "question": "Trường hợp người nộp thuế có văn bản đề nghị hoãn thời gian kiểm tra, lý do phải như thế nào:",
+      "options": [
+        "Doanh nghiệp đang trong kỳ nghỉ du lịch tập thể.",
+        "Chỉ cần doanh nghiệp thấy chưa sẵn sàng.",
+        "Phải là lý do bất khả kháng hoặc lý do chính đáng được Thủ trưởng cơ quan thuế chấp thuận.",
+        "Do lãnh đạo doanh nghiệp đi vắng không lý do."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Việc kiểm tra thuế tại trụ sở người nộp thuế thường tập trung vào nội dung nào:",
+      "options": [
+        "Nội dung, sắc thuế có mức độ rủi ro cao.",
+        "Đời sống sinh hoạt của nhân viên doanh nghiệp.",
+        "Việc doanh nghiệp tham gia các hoạt động từ thiện.",
+        "Cách sắp xếp văn phòng của doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 18,
+      "question": "Biên bản kiểm tra thuế phải được lập dựa trên cơ sở nào:",
+      "options": [
+        "Kết quả kinh doanh của các doanh nghiệp cùng ngành.",
+        "Ước tính số thuế phải nộp của doanh nghiệp.",
+        "Ý kiến chủ quan của Trưởng đoàn kiểm tra.",
+        "Số liệu và tình hình được phản ánh trong biên bản kiểm tra từng phần việc mà trưởng đoàn kiểm tra đã giao cho từng thành viên trong đoàn thực hiện."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 19,
+      "question": "Thời hạn ký biên bản kiểm tra kể từ ngày kết thúc kiểm tra tại trụ sở người nộp thuế là bao nhiêu ngày làm việc:",
+      "options": [
+        "Trong thời hạn 05 ngày làm việc.",
+        "Ngay trong ngày kết thúc.",
+        "Sau 10 ngày làm việc.",
+        "Tùy theo thỏa thuận giữa hai bên."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Ai là người trực tiếp ký Biên bản kiểm tra thuế:",
+      "options": [
+        "Trưởng đoàn kiểm tra và đại diện hợp pháp của người nộp thuế.",
+        "Tất cả thành viên đoàn kiểm tra và đại diện hợp pháp của người nộp thuế.",
+        "Người giám sát và đại diện hợp pháp của người nộp thuế.",
+        "Trưởng đoàn kiểm tra và Kế toán trưởng doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 21,
+      "question": "Trường hợp người nộp thuế không ký biên bản kiểm tra thì xử lý thế nào:",
+      "options": [
+        "Ban hành ngay Quyết định xử phạt mà không cần ký.",
+        "Báo cáo lại Người giám sát và huỷ bỏ kết quả kiểm tra.",
+        "Trưởng đoàn kiểm tra lập biên bản vi phạm hành chính và báo cáo người ban hành quyết định kiểm tra để xử lý theo quy định.",
+        "Đợi đến khi người nộp thuế đồng ý ký mới thôi."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "Đâu là căn cứ để ban hành Kết luận kiểm tra thuế:",
+      "options": [
+        "Biên bản kiểm tra thuế.",
+        "Biên bản xác nhận số liệu.",
+        "Báo cáo kết quả kiểm tra.",
+        "Biên bản phân công công việc."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 23,
+      "question": "Thời hạn ban hành Kết luận kiểm tra kể từ ngày ký biên bản kiểm tra là bao lâu:",
+      "options": [
+        "Trong thời hạn 30 ngày.",
+        "Trong thời hạn 05 ngày làm việc.",
+        "Trong thời hạn 07 ngày làm việc.",
+        "Không quy định thời hạn."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Quyết định xử phạt vi phạm hành chính về thuế (nếu có) được ban hành dựa trên văn bản nào:",
+      "options": [
+        "Biên bản phân công công việc.",
+        "Biên bản xác nhận số liệu.",
+        "Báo cáo kết quả kiểm tra.",
+        "Biên bản kiểm tra thuế."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 25,
+      "question": "Việc lưu trữ hồ sơ kiểm tra thuế được thực hiện tại đâu:",
+      "options": [
+        "Tại bộ phận được giao nhiệm vụ lưu trữ của cơ quan thuế theo quy định.",
+        "Tại nhà riêng của Trưởng đoàn kiểm tra.",
+        "Do thư ký đoàn kiểm tra tự lưu.",
+        "Tại Phòng kiểm tra, tổ kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 26,
+      "question": "Hình thức kiểm tra hồ sơ thuế tại trụ sở cơ quan thuế áp dụng đối với các loại hồ sơ nào:",
+      "options": [
+        "Chỉ áp dụng loại thuế khai theo tháng, quý.",
+        "Tất cả các hồ sơ thuế do người nộp thuế gửi đến cơ quan thuế.",
+        "Chỉ áp dụng loại thuế khai theo năm.",
+        "Chỉ áp dụng loại thuế khai từng lần phát sinh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Ngoài các nội dung rủi ro theo từng trường hợp, khi trình ban hành Quyết định kiểm tra, công chức thuế được giao nhiệm vụ kiểm tra thuế có thể thực hiện thu thập dữ liệu trên Hệ thống ứng dụng công nghệ thông tin của ngành thuế, phân tích rủi ro từ phân tích nghiệp vụ, thông tin từ ………………, thu thập thông tin từ bên thứ 3 để xác định thêm nội dung, phạm vi kiểm tra thuế (nếu có):",
+      "options": [
+        "Cơ quan công an.",
+        "Thực tế công tác quản lý thuế.",
+        "Ngân hàng thương mại.",
+        "Cơ quan báo chí."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Kết quả kiểm tra hồ sơ thuế tại trụ sở cơ quan thuế được xử lý như thế nào nếu phát hiện sai sót:",
+      "options": [
+        "Bãi bỏ mã số thuế của doanh nghiệp.",
+        "Ấn định thuế ngay lập tức mà không cần hỏi.",
+        "Chuyển hồ sơ sang cơ quan Công an ngay.",
+        "Thông báo cho người nộp thuế giải trình, bổ sung thông tin, tài liệu."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 29,
+      "question": "Thời hạn để người nộp thuế giải trình, bổ sung thông tin sau khi nhận được thông báo của cơ quan thuế là bao nhiêu ngày:",
+      "options": [
+        "Trong thời hạn 05 ngày làm việc.",
+        "Trong thời hạn 07 ngày làm việc.",
+        "Trong thời hạn 10 ngày làm việc kể từ ngày cơ quan thuế ban hành thông báo về việc giải trình hoặc bổ sung thông tin, tài liệu.",
+        "Trong thời hạn 10 ngày kể từ ngày ban hành thông báo."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "Nếu người nộp thuế giải trình đúng và đầy đủ các nội dung nghi vấn thì cơ quan thuế xử lý thế nào:",
+      "options": [
+        "Tiếp tục yêu cầu giải trình, bổ sung lần 2.",
+        "Vẫn ra quyết định kiểm tra tại trụ sở người nộp thuế.",
+        "Yêu cầu doanh nghiệp nộp một khoản phí thẩm định.",
+        "Chấp nhận nội dung giải trình."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 31,
+      "question": "Đâu là quyền của người nộp thuế khi cơ quan quản lý thuế kiểm tra thuế tại trụ sở người nộp thuế:",
+      "options": [
+        "Được giải trình về những vấn đề có liên quan đến nội dung kiểm tra và bảo lưu ý kiến.",
+        "Khiếu nại, khởi kiện.",
+        "Từ chối cung cấp thông tin, tài liệu không liên quan đến nội dung kiểm tra.",
+        "Tất cả đáp án đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 32,
+      "question": "Việc phân tích rủi ro trong kiểm tra thuế được thực hiện bằng công cụ nào:",
+      "options": [
+        "Các ứng dụng công nghệ thông tin và bộ tiêu chí đánh giá rủi ro của ngành Thuế.",
+        "Bằng cách bốc thăm ngẫu nhiên thủ công.",
+        "Theo kinh nghiệm quản lý của công chức thuế.",
+        "Dựa trên số lượng nhân viên của doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 33,
+      "question": "Quyết định kiểm tra thuế bao gồm những nội dung chủ yếu nào:",
+      "options": [
+        "Đối tượng, nội dung, phạm vi, thời hạn kiểm tra và thành phần đoàn kiểm tra.",
+        "Đối tượng, nội dung, phạm vi, thời hạn kiểm tra.",
+        "Đối tượng, nội dung kiểm tra.",
+        "Thời hạn kiểm tra và thành phần đoàn kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 34,
+      "question": "Việc phân tích rủi ro trong kiểm tra thuế được thực hiện bằng công cụ nào:",
+      "options": [
+        "Dựa trên doanh thu và thời gian hoạt động của người nộp thuế.",
+        "Bằng cách bốc thăm ngẫu nhiên thủ công.",
+        "Theo số nộp phát sinh trong năm của người nộp thuế.",
+        "Các ứng dụng công nghệ thông tin và bộ tiêu chí đánh giá rủi ro của ngành Thuế."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 35,
+      "question": "Đoàn kiểm tra có được quyền niêm phong tài liệu của người nộp thuế không:",
+      "options": [
+        "Có, khi có căn cứ cho rằng người nộp thuế có vi phạm pháp luật trong lĩnh vực thuế.",
+        "Không bao giờ được phép.",
+        "Chỉ được niêm phong khi có sự đồng ý của Tòa án.",
+        "Được niêm phong tất cả tài liệu kể cả tài liệu cá nhân của nhân viên."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 36,
+      "question": "Mục đích chính của Quyết định 970/QĐ-TCT là gì:",
+      "options": [
+        "Giảm số lượng cán bộ thuế.",
+        "Tăng cường hiệu quả quản lý thuế.",
+        "Miễn kiểm tra đối với hộ kinh doanh nhỏ.",
+        "Thay thế toàn bộ Luật Quản lý thuế."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Việc công bố Quyết định kiểm tra tại trụ sở người nộp thuế phải được thực hiện khi nào:",
+      "options": [
+        "Chậm nhất là 10 ngày làm việc kể từ ngày ban hành quyết định.",
+        "Chậm nhất là 05 ngày làm việc kể từ ngày ban hành quyết định.",
+        "Chậm nhất là 03 ngày làm việc kể từ ngày ban hành quyết định.",
+        "Chỉ công bố khi doanh nghiệp yêu cầu."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 38,
+      "question": "Ai có trách nhiệm ghi Nhật ký đoàn kiểm tra:",
+      "options": [
+        "Trưởng đoàn kiểm tra và thành viên Đoàn kiểm tra.",
+        "Người giám sát Đoàn kiểm tra.",
+        "Cán bộ văn thư cơ quan thuế.",
+        "Đại diện pháp luật Người nộp thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 39,
+      "question": "Nhật ký đoàn kiểm tra dùng để ghi chép nội dung gì:",
+      "options": [
+        "Ghi chép số lượng thành viên đoàn kiểm tra.",
+        "Ghi chép diễn biến, các nội dung công việc thực hiện hàng ngày của đoàn kiểm tra.",
+        "Ghi chép các sắc thuế cần kiểm tra.",
+        "Ghi chép nhận xét cá nhân của Trưởng đoàn về thành viên đoàn kiểm tra."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 40,
+      "question": "Lý do nào sau đây được coi là chính đáng để tạm dừng kiểm tra:",
+      "options": [
+        "Khi thành viên bị trùng lịch kiểm tra.",
+        "Khi hết thời hạn kiểm tra mà Đoàn chưa kiểm tra xong.",
+        "Cần chờ kết quả trả lời từ các cơ quan chức năng hoặc sự kiện bất khả kháng.",
+        "Trưởng đoàn kiểm tra nghỉ phép."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "question": "Việc tạm dừng kiểm tra tại trụ sở người nộp thuế phải được thực hiện bằng văn bản nào:",
+      "options": [
+        "Thông báo tạm dừng kiểm tra của Thủ trưởng cơ quan thuế.",
+        "Tin nhắn điện thoại của Trưởng đoàn.",
+        "Lời nói trực tiếp tại buổi làm việc.",
+        "Biên bản họp của doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 42,
+      "question": "Theo quy trình, việc kiểm tra hồ sơ thuế tại trụ sở cơ quan thuế được thực hiện như thế nào:",
+      "options": [
+        "Chỉ thực hiện khi có đơn tố cáo.",
+        "Thực hiện thường xuyên trên hệ thống cơ sở dữ liệu của ngành Thuế.",
+        "Mỗi năm chỉ được kiểm tra một lần.",
+        "Chỉ kiểm tra khi doanh nghiệp yêu cầu."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 43,
+      "question": "Thời gian tạm dừng kiểm tra có được tính vào thời hạn kiểm tra ghi trong Quyết định không:",
+      "options": [
+        "Không tính vào thời hạn kiểm tra.",
+        "Có tính vào thời hạn kiểm tra.",
+        "Tùy theo quyết định của Trưởng đoàn.",
+        "Chỉ tính 50% thời gian."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 44,
+      "question": "Người nộp thuế có trách nhiệm gì trong việc cung cấp hồ sơ:",
+      "options": [
+        "Có quyền từ chối cung cấp mọi tài liệu gốc.",
+        "Chỉ cung cấp những gì doanh nghiệp thấy có lợi.",
+        "Cung cấp đầy đủ, kịp thời, chính xác các hồ sơ, tài liệu liên quan đến nội dung kiểm tra.",
+        "Yêu cầu đoàn kiểm tra phải tự khai thác trên hệ thống sổ sách của Người nộp thuế."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Tiêu chí để lựa chọn người nộp thuế kiểm tra tại trụ sở người nộp thuế chủ yếu dựa trên yếu tố nào:",
+      "options": [
+        "Phân tích rủi ro và lựa chọn ngẫu nhiên.",
+        "Quy mô vốn điều lệ của doanh nghiệp.",
+        "Số lượng hóa đơn doanh nghiệp đã sử dụng.",
+        "Theo đề nghị của chính quyền địa phương."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 46,
+      "question": "Việc bãi bỏ Quyết định kiểm tra được thực hiện khi nào:",
+      "options": [
+        "Khi người nộp thuế xin gia hạn vì bận việc riêng.",
+        "Khi người nộp thuế đã giải thể, phá sản hoặc không còn hoạt động tại địa chỉ kinh doanh.",
+        "Khi Trưởng đoàn kiểm tra trong thời gian nghỉ phép.",
+        "Khi doanh nghiệp có sự thay đổi kế toán trưởng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Nguyên tắc kiểm tra thuế là:",
+      "options": [
+        "Không cản trở hoạt động bình thường của người nộp thuế.",
+        "Không công nhận các giao dịch liên kết không theo nguyên tắc giao dịch độc lập làm giảm nghĩa vụ thuế của doanh nghiệp.",
+        "Ưu tiên kiểm tra trực tuyến, từ xa trên dữ liệu điện tử.",
+        "Tất cả đáp án đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 48,
+      "question": "Việc kiểm tra thuế đột xuất được thực hiện trong trường hợp nào:",
+      "options": [
+        "Có thông tin vi phạm, tố cáo hoặc theo chỉ đạo của cấp trên.",
+        "Theo kế hoạch đã định sẵn từ đầu năm.",
+        "Doanh nghiệp mới thành lập.",
+        "Khi cơ quan thuế thu ngân sách chưa đạt chỉ tiêu kế hoạch được giao."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Cơ quan thuế thực hiện lựa chọn người nộp thuế để lập kế hoạch, chuyên đề kiểm tra tại trụ sở của người nộp thuế thì việc lựa chọn qua phân tích đánh giá tuân thủ pháp luật thuế và phân loại mức độ rủi ro của người nộp thuế phải đảm bảo:",
+      "options": [
+        "Không dưới 90%.",
+        "Không dưới 95%.",
+        "Không dưới 97%.",
+        "Không đáp án nào đúng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 50,
+      "question": "Cơ quan thuế thực hiện lựa chọn người nộp thuế để lập kế hoạch, chuyên đề kiểm tra tại trụ sở của người nộp thuế thì việc lựa chọn ngẫu nhiên phải đảm bảo:",
+      "options": [
+        "Không quá 90%.",
+        "Không quá 10%.",
+        "Không quá 5%.",
+        "Không đáp án nào đúng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 51,
+      "question": "Hồ sơ kiểm tra thuế bàn giao cho bộ phận lưu trữ bao gồm những gì:",
+      "options": [
+        "Quyết định kiểm tra, biên bản, kết luận, nhật ký và các văn bản tài liệu liên quan.",
+        "Chỉ cần giao biên bản kiểm tra và quyết định xử phạt.",
+        "Chỉ cần bản mềm lưu trên máy tính.",
+        "Các hóa đơn gốc của doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 52,
+      "question": "Cơ quan thuế cấp trên có quyền kiểm tra việc thực hiện quy trình kiểm tra của cơ quan thuế cấp dưới không:",
+      "options": [
+        "Có quyền kiểm tra định kỳ hoặc đột xuất.",
+        "Không có quyền can thiệp vào công việc của cấp dưới.",
+        "Chỉ được kiểm tra khi cấp dưới yêu cầu.",
+        "Chỉ được kiểm tra khi có khiếu nại của doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Hồ sơ kiểm tra thuế bàn giao cho bộ phận lưu trữ bao gồm những gì:",
+      "options": [
+        "Chỉ cần bản mềm lưu trên máy tính.",
+        "Chỉ cần quyết định và biên bản.",
+        "Quyết định kiểm tra, biên bản, kết luận, nhật ký và các văn bản tài liệu liên quan.",
+        "Các hóa đơn gốc của doanh nghiệp."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "Thời hạn bàn giao hồ sơ kiểm tra cho bộ phận lưu trữ là bao lâu:",
+      "options": [
+        "Trong thời hạn 01 năm kể từ ngày ký Quyết định xử phạt hoặc Kết luận kiểm tra.",
+        "Ngay sau khi ký Quyết định xử phạt.",
+        "Ngay sau khi Người nộp thuế đã chấp hành quyết định xử phạt.",
+        "Không cần bàn giao."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 55,
+      "question": "Theo Quy trình 970, Ai là người bàn giao hồ sơ kiểm tra cho bộ phận lưu trữ:",
+      "options": [
+        "Thành viên đoàn kiểm tra.",
+        "Thư ký đoàn kiểm tra.",
+        "Trưởng đoàn kiểm tra.",
+        "Người giám sát."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 56,
+      "question": "Khi kiểm tra hồ sơ thuế tại trụ sở cơ quan thuế phát hiện có dấu hiệu vi phạm và cơ quan thuế đã ban hành thông báo giải trình, bổ sung thông tin tài liệu đến lần thứ hai nhưng người nộp thuế không tự giác điều chỉnh, bước tiếp theo là gì:",
+      "options": [
+        "Đề xuất kiểm tra tại trụ sở người nộp thuế.",
+        "Bỏ qua hồ sơ đó để kiểm tra hồ sơ khai thuế của doanh nghiệp khác.",
+        "Phạt tiền ngay mà không cần thông báo.",
+        "Công khai tên doanh nghiệp lên tivi."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 57,
+      "question": "Đối tượng nào được ưu tiên giảm tần suất kiểm tra thuế:",
+      "options": [
+        "Người nộp thuế mới thành lập dưới 1 tháng.",
+        "Người nộp thuế có số nộp ngân sách lớn.",
+        "Người nộp thuế tuân thủ tốt pháp luật thuế và được đánh giá rủi ro thấp.",
+        "Người nộp thuế không phát sinh doanh thu."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 58,
+      "question": "Việc kiểm tra thuế đối với doanh nghiệp thuộc loại \"Rủi ro cao\" được thực hiện như thế nào:",
+      "options": [
+        "Chỉ kiểm tra khi doanh nghiệp chuẩn bị giải thể.",
+        "Được miễn kiểm tra trong 5 năm.",
+        "Chỉ kiểm tra qua hồ sơ khai thuế.",
+        "Được đưa vào kế hoạch kiểm tra hàng năm hoặc kiểm tra đột xuất."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 59,
+      "question": "Trưởng đoàn kiểm tra có quyền thay đổi nội dung kiểm tra ghi trong Quyết định không:",
+      "options": [
+        "Không, muốn thay đổi phải trình Thủ trưởng cơ quan thuế ban hành Quyết định sửa đổi, bổ sung.",
+        "Có quyền tự thay đổi nếu thấy cần thiết.",
+        "Được thay đổi nếu người nộp thuế đồng ý.",
+        "Chỉ được thay đổi về thời gian làm việc."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Ý kiến giải trình của người nộp thuế được ghi vào đâu trong biên bản kiểm tra:",
+      "options": [
+        "Ghi vào mục “Ý kiến của doanh nghiệp” trên mẫu biên bản kiểm tra.",
+        "Không được ghi vào biên bản.",
+        "Ghi vào một tờ giấy nháp rời.",
+        "Ghi vào nhật ký đoàn kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 61,
+      "question": "Dự thảo biên bản kiểm tra phải được công bố công khai trước đoàn kiểm tra và người nộp thuế khi nào:",
+      "options": [
+        "Khi công bố quyết định kiểm tra.",
+        "Khi kết thúc kiểm tra tại trụ sở người nộp thuế",
+        "Khi thành viên hoàn thành nội dung công việc được phân công.",
+        "Không đáp án nào đúng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Biên bản công khai và bàn giao dự thảo biên bản kiểm tra phải được lập khi nào:",
+      "options": [
+        "Khi xác nhận số liệu với người nộp thuế.",
+        "Khi bàn giao dự thảo biên bản kiểm tra cho người nộp thuế.",
+        "Khi thành viên hoàn thành nội dung công việc được phân công.",
+        "Khi công bố quyết định kiểm tra."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Việc điều chỉnh kế hoạch kiểm tra thuế hàng năm do ai quyết định:",
+      "options": [
+        "Thủ trưởng cơ quan thuế cấp ban hành kế hoạch đó.",
+        "Trưởng đoàn kiểm tra.",
+        "Trưởng phòng kiểm tra.",
+        "Tổ trưởng tổ kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Việc điều chỉnh kế hoạch kiểm tra thuế năm của Thuế cơ sở thuộc Thuế tỉnh X do ai quyết định:",
+      "options": [
+        "Tổ trưởng tổ kiểm tra.",
+        "Trưởng thuế cơ sở X.",
+        "Trưởng phòng kiểm tra.",
+        "Trưởng thuế tỉnh X."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 65,
+      "question": "Việc ký kết biên bản kiểm tra thuế bằng phương thức điện tử có được chấp nhận không:",
+      "options": [
+        "Có, nếu cơ quan thuế và người nộp thuế đáp ứng các điều kiện về chữ ký số và giao dịch điện tử.",
+        "Không, bắt buộc phải ký bằng bút mực xanh.",
+        "Chỉ chấp nhận cho doanh nghiệp nước ngoài.",
+        "Chỉ chấp nhận đối với người nộp thuế kinh doanh thương mại điện tử."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 66,
+      "question": "Tài liệu nào sau đây là căn cứ để lập Kế hoạch kiểm tra thuế năm:",
+      "options": [
+        "Danh sách người nộp thuế có rủi ro cao từ hệ thống quản lý rủi ro.",
+        "Danh sách các doanh nghiệp đóng trên địa bàn trung tâm.",
+        "Theo đề xuất của các doanh nghiệp trong ngành.",
+        "Bốc thăm ngẫu nhiên toàn bộ doanh nghiệp trong tỉnh."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 67,
+      "question": "Việc điều chỉnh kế hoạch kiểm tra thuế hàng năm do ai quyết định:",
+      "options": [
+        "Trưởng đoàn kiểm tra.",
+        "Kế toán trưởng cơ quan thuế.",
+        "Thủ trưởng cơ quan thuế cấp ban hành kế hoạch đó.",
+        "Trưởng phòng kiểm tra."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 68,
+      "question": "Trường hợp cần xác minh thông tin tại các bên liên quan, Đoàn kiểm tra thực hiện như thế nào:",
+      "options": [
+        "Trình Lãnh đạo thuế ban hành văn bản yêu cầu các bên liên quan cung cấp thông tin hoặc phối hợp xác minh.",
+        "Mang quyết định thành lập đoàn kiểm tra đến trụ sở bên liên quan để liên hệ đề nghị cung cấp.",
+        "Yêu cầu doanh nghiệp được kiểm tra tự làm đề nghị xác minh.",
+        "Không được phép xác minh bên ngoài."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 69,
+      "question": "Kiểm tra thuế tại trụ sở người nộp thuế có được thực hiện vào ngày nghỉ không:",
+      "options": [
+        "Có thể linh hoạt lịch làm việc giữa đoàn kiểm tra và người nộp thuế miễn cộng dồn không quá 10 ngày kiểm tra ghi trên quyết định kiểm tra.",
+        "Không, thời gian kiểm tra là 10 ngày làm việc.",
+        "Tùy ý đoàn kiểm tra quyết định.",
+        "Do doanh nghiệp yêu cầu để tránh giờ hành chính."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "Trường hợp cần xác minh thông tin tại các bên liên quan, Đoàn kiểm tra thực hiện như thế nào:",
+      "options": [
+        "Không được phép xác minh bên ngoài.",
+        "Mang quyết định thành lập đoàn kiểm tra đến trụ sở bên liên quan để liên hệ đề nghị cung cấp.",
+        "Yêu cầu doanh nghiệp được kiểm tra tự làm đề nghị xác minh.",
+        "Trình Lãnh đạo thuế ban hành văn bản yêu cầu các bên liên quan cung cấp thông tin hoặc phối hợp xác minh."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 71,
+      "question": "Mẫu biên bản kiểm tra thuế được quy định tại đâu:",
+      "options": [
+        "Ban hành kèm theo Quy trình kiểm tra thuế tại Quyết định 970.",
+        "Do mỗi Cục Thuế tự in.",
+        "Theo mẫu của Bộ Công an.",
+        "Không có mẫu cố định."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 72,
+      "question": "Sau khi ký biên bản kiểm tra, thời hạn tối đa để ban hành quyết định xử phạt (trường hợp không giải trình) là:",
+      "options": [
+        "05 ngày làm việc.",
+        "07 ngày làm việc.",
+        "10 ngày làm việc.",
+        "15 ngày làm việc."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "Người nộp thuế có quyền khiếu nại Quyết định kiểm tra thuế không:",
+      "options": [
+        "Có quyền khiếu nại theo quy định của pháp luật về khiếu nại.",
+        "Không có quyền khiếu nại, phải chấp hành tuyệt đối.",
+        "Chỉ được khiếu nại sau khi đã nộp phạt xong.",
+        "Chỉ được khiếu nại với Trưởng đoàn kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 74,
+      "question": "Mục tiêu của việc kiểm tra thuế đối với các giao dịch liên kết là gì:",
+      "options": [
+        "Chống chuyển giá và thất thu ngân sách.",
+        "Giúp các công ty đa quốc gia chuyển tiền ra nước ngoài.",
+        "Khuyến khích doanh nghiệp vay vốn lẫn nhau.",
+        "Chỉ để thống kê số liệu."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 75,
+      "question": "Quyền và thời hạn giải trình của người nộp thuế được thể hiện ở:",
+      "options": [
+        "Mẫu biên bản kiểm tra (mẫu số 12/QTKT) ban hành kèm theo Quy trình 970.",
+        "Mẫu biên bản kiểm tra (mẫu số 10/QTKT) ban hành kèm theo Quy trình 970.",
+        "Mẫu biên bản kiểm tra (mẫu số 12/QTKT) ban hành kèm theo Thông tư số 80/2021/TT-BTC.",
+        "Mẫu biên bản kiểm tra (mẫu số 10/QTKT) ban hành kèm theo Thông tư số 80/2021/TT-BTC."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 76,
+      "question": "Quy trình kiểm tra thuế 970 thay thế cho quy trình nào trước đây:",
+      "options": [
+        "Quy trình quản lý nợ thuế.",
+        "Quy trình thanh tra thuế.",
+        "Quy trình kiểm tra thuế ban hành kèm theo Quyết định số 746/QĐ-TCT ngày 20/04/2015.",
+        "Quyết định 05/2021/TT-TTCP."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 77,
+      "question": "Thủ trưởng cơ quan thuế ký kết luận kiểm tra dựa trên văn bản nào của đoàn kiểm tra:",
+      "options": [
+        "Biên bản kiểm tra.",
+        "Đơn xin giảm nhẹ của doanh nghiệp.",
+        "Nhật ký đoàn kiểm tra.",
+        "Ý kiến của bộ phận bảo vệ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 78,
+      "question": "Thành viên đoàn kiểm tra có trách nhiệm báo cáo kết quả báo cáo kết quả thực hiện nhiệm vụ được giao cho ai:",
+      "options": [
+        "Trưởng phòng kiểm tra.",
+        "Trưởng đoàn kiểm tra.",
+        "Người giám sát.",
+        "Thư ký đoàn kiểm tra."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "Nếu công chức thuế vi phạm quy trình kiểm tra sẽ bị xử lý như thế nào:",
+      "options": [
+        "Bị xử lý kỷ luật hoặc truy cứu trách nhiệm hình sự tùy theo mức độ vi phạm.",
+        "Không bị xử lý vì là người nhà nhà nước.",
+        "Bị nhắc nhở nội bộ.",
+        "Được khen thưởng vì đã làm việc."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 80,
+      "question": "Việc kiểm tra hồ sơ tại trụ sở cơ quan thuế có tính vào số lần kiểm tra tại doanh nghiệp không:",
+      "options": [
+        "Không.",
+        "Có.",
+        "Chỉ tính nếu phát hiện sai phạm.",
+        "Tùy theo Cục trưởng quyết định."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 81,
+      "question": "Cơ quan thuế thực hiện kiểm tra lại đối với các vụ việc đã được kết luận, ban hành quyết định về xử lý vi phạm hành chính về quản lý thuế trong trường hợp nào:",
+      "options": [
+        "Khi có sai lầm trong việc áp dụng pháp luật khi xử lý vi phạm hành chính về quản lý thuế, kết luận kiểm tra.",
+        "Khi quyết định kiểm tra được ban hành trái thẩm quyền.",
+        "Khi có vi phạm về trình tự, thủ tục trong quá trình tiến hành kiểm tra dẫn đến sai lệch về nội dung của kết luận kiểm tra, quyết định về xử lý vi phạm hành chính về quản lý thuế.",
+        "Tất cả đáp án đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 82,
+      "question": "Thời hiệu kiểm tra lại là …….. kể từ ngày ký kết luận kiểm tra, quyết định về xử lý vi phạm hành chính về quản lý thuế:",
+      "options": [
+        "01 năm.",
+        "02 năm.",
+        "05 năm.",
+        "Vô thời hạn."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Sau khi ký biên bản kiểm tra, thời hạn tối đa để ban hành quyết định xử phạt (trường hợp không giải trình) là:",
+      "options": [
+        "05 ngày làm việc.",
+        "10 ngày làm việc.",
+        "15 ngày làm việc.",
+        "07 ngày làm việc."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 84,
+      "question": "Quyết định xử phạt phải gửi cho người nộp thuế chậm nhất là bao nhiêu ngày làm việc kể từ ngày ban hành:",
+      "options": [
+        "02 ngày làm việc.",
+        "03 ngày làm việc.",
+        "05 ngày làm việc.",
+        "07 ngày làm việc."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 85,
+      "question": "Đoàn kiểm tra thuế có nhiệm vụ gì đối với việc tuyên truyền pháp luật:",
+      "options": [
+        "Hướng dẫn, giải đáp các vướng mắc về chính sách thuế cho người nộp thuế trong quá trình kiểm tra.",
+        "Không thuộc chức năng, nhiệm vụ.",
+        "Chỉ tuyên truyền khi có văn bản hỏi chính sách của người nộp thuế.",
+        "Chỉ tuyên truyền cho những doanh nghiệp có số truy thu lớn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 86,
+      "question": "Theo Quy trình 970, Người báo cáo với người ra quyết định kiểm tra về kết quả kiểm tra là:",
+      "options": [
+        "Trưởng phòng kiểm tra.",
+        "Người giám sát.",
+        "Trưởng đoàn kiểm tra.",
+        "Thành viên đoàn kiểm tra."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 87,
+      "question": "Chậm nhất ………… kể từ ngày ký biên bản kiểm tra thuế, Trưởng đoàn kiểm tra phải báo cáo Lãnh đạo bộ phận kiểm tra thuế để trình Thủ trưởng cơ quan thuế về kết quả kiểm tra thuế và dự thảo Quyết định xử phạt vi phạm hành chính về thuế hoặc Kết luận kiểm tra thuế:",
+      "options": [
+        "02 ngày làm việc.",
+        "03 ngày làm việc.",
+        "05 ngày làm việc.",
+        "07 ngày làm việc."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Việc gia hạn thời gian kiểm tra tại trụ sở người nộp thuế được thực hiện tối đa bao nhiêu lần cho một cuộc kiểm tra:",
+      "options": [
+        "01 lần.",
+        "Không giới hạn số lần.",
+        "03 lần.",
+        "05 lần."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 89,
+      "question": "Theo Quy trình 970, tổng thời gian gia hạn kiểm tra tối đa là bao nhiêu ngày làm việc:",
+      "options": [
+        "Không quá 10 ngày làm việc đối với kiểm tra tại trụ sở người nộp thuế.",
+        "Tối đa 30 ngày.",
+        "Tối đa 60 ngày.",
+        "Tùy ý Trưởng đoàn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 90,
+      "question": "Nhật ký đoàn kiểm tra phải được lưu cùng với hồ sơ kiểm tra tại đâu:",
+      "options": [
+        "Tại hồ sơ lưu trữ chính thức của cơ quan thuế.",
+        "Tại bàn làm việc của Trưởng đoàn.",
+        "Tại sổ tay cá nhân của thành viên đoàn.",
+        "Tại doanh nghiệp bị kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 91,
+      "question": "Hình thức \"Kiểm tra hồ sơ thuế tại trụ sở cơ quan thuế\" có áp dụng cho cá nhân kinh doanh không:",
+      "options": [
+        "Có áp dụng cho tất cả các đối tượng nộp thuế.",
+        "Chỉ áp dụng cho doanh nghiệp lớn.",
+        "Chỉ áp dụng cho người nước ngoài.",
+        "Không áp dụng cho cá nhân."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 92,
+      "question": "Khi kiểm tra thuế, nếu phát hiện người nộp thuế có dấu hiệu tẩu tán tài sản, đoàn kiểm tra nên làm gì:",
+      "options": [
+        "Báo cáo ngay Thủ trưởng cơ quan thuế để áp dụng các biện pháp ngăn chặn theo pháp luật.",
+        "Báo cáo Thủ trưởng cơ quan thuế hủy quyết định kiểm tra.",
+        "Đợi đến khi kết thúc kiểm tra mới báo cáo.",
+        "Không đáp án nào đúng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 93,
+      "question": "Việc gia hạn thời gian kiểm tra tại trụ sở người nộp thuế được thực hiện tối đa bao nhiêu lần cho một cuộc kiểm tra:",
+      "options": [
+        "02 lần trong năm.",
+        "Không giới hạn số lần.",
+        "01 lần.",
+        "05 lần."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 94,
+      "question": "Một cuộc kiểm tra thuế được coi là kết thúc khi nào:",
+      "options": [
+        "Khi đã ký Kết luận kiểm tra hoặc Quyết định xử lý kết quả kiểm tra.",
+        "Khi đoàn kiểm tra rời khỏi trụ sở doanh nghiệp.",
+        "Khi doanh nghiệp nộp hết tiền phạt.",
+        "Khi hết thời hạn 10 ngày."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 95,
+      "question": "Cục Công nghệ thông tin có trách nhiệm gì trong Quy trình 970:",
+      "options": [
+        "Chuẩn bị cơ sở hạ tầng tin học và các ứng dụng hỗ trợ thực hiện quy trình.",
+        "Đi kiểm tra trực tiếp cùng đoàn kiểm tra.",
+        "Thay mặt Cục trưởng ký quyết định kiểm tra.",
+        "Theo dõi việc chấp hành quyết định xử phạt của người nộp thuế."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 96,
+      "question": "Đoàn kiểm tra thuế có nhiệm vụ gì đối với việc tuyên truyền pháp luật:",
+      "options": [
+        "Không thuộc chức năng, nhiệm vụ.",
+        "Hướng dẫn, giải đáp các vướng mắc về chính sách thuế cho người nộp thuế trong quá trình kiểm tra.",
+        "Chỉ tuyên truyền khi có văn bản hỏi chính sách của người nộp thuế.",
+        "Chỉ tuyên truyền cho những doanh nghiệp có số truy thu lớn."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Theo Quyết định 970/QĐ-TCT, khi lập kế hoạch kiểm tra năm, việc lựa chọn người nộp thuế qua phân tích, đánh giá rủi ro phải đảm bảo tỷ lệ tối thiểu là bao nhiêu:",
+      "options": [
+        "Không dưới 80%.",
+        "Không dưới 85%.",
+        "Không dưới 90%.",
+        "Phải đạt 100%."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 98,
+      "question": "Việc kiểm tra thuế đối với hồ sơ hoàn thuế thuộc loại \"Kiểm tra trước, hoàn thuế sau\" được thực hiện tại đâu:",
+      "options": [
+        "Tại trụ sở người nộp thuế.",
+        "Tại trụ sở cơ quan thuế.",
+        "Tại ngân hàng của người nộp thuế.",
+        "Tại kho hàng của đối tác doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 99,
+      "question": "Công chức thuế không được làm gì trong quá trình kiểm tra:",
+      "options": [
+        "Sách nhiễu, gây khó khăn cho người nộp thuế.",
+        "Giải thích chính sách thuế cho người nộp thuế.",
+        "Đối chiếu hóa đơn chứng từ.",
+        "Lập biên bản kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 100,
+      "question": "Ý nghĩa cuối cùng của việc ban hành Quy trình 970 là gì:",
+      "options": [
+        "Không để làm gì cả.",
+        "Để có thêm văn bản cho đủ bộ hồ sơ pháp lý.",
+        "Để thay đổi mẫu con dấu của ngành Thuế.",
+        "Thống nhất cách thức thực hiện kiểm tra thuế trong toàn ngành, đảm bảo tính minh bạch và hiệu quả."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 101,
+      "question": "Tại sao quy trình kiểm tra thuế lại nhấn mạnh việc áp dụng quản lý rủi ro trong việc lập kế hoạch kiểm tra:",
+      "options": [
+        "Để đảm bảo tính khách quan và tập trung nguồn lực vào những đối tượng có khả năng vi phạm cao.",
+        "Để giảm bớt số lượng công chức phải đi làm việc tại doanh nghiệp.",
+        "Vì hệ thống máy tính tự động làm thay con người.",
+        "Để gây áp lực lên các doanh nghiệp mới thành lập."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 102,
+      "question": "Việc kiểm tra hồ sơ thuế tại trụ sở cơ quan thuế khác với kiểm tra tại trụ sở người nộp thuế ở điểm cơ bản nào:",
+      "options": [
+        "Kiểm tra tại trụ sở cơ quan thuế chủ yếu dựa trên dữ liệu sẵn có và không ban hành Quyết định kiểm tra.",
+        "Kiểm tra tại trụ sở cơ quan thuế được quyền thu giữ chứng từ gốc.",
+        "Kiểm tra tại trụ sở người nộp thuế không cần lập biên bản.",
+        "Kiểm tra tại trụ sở cơ quan thuế chỉ áp dụng cho cá nhân."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 103,
+      "question": "Khi phát hiện hồ sơ khai thuế có nội dung chưa rõ ràng, tại sao cơ quan thuế phải ban hành Thông báo giải trình trước khi quyết định kiểm tra tại trụ sở người nộp thuế:",
+      "options": [
+        "Để tạo điều kiện cho người nộp thuế tự rà soát, bổ sung thông tin và giảm chi phí tuân thủ.",
+        "Vì cơ quan thuế không có đủ thẩm quyền để kiểm tra ngay.",
+        "Để kéo dài thời gian quản lý hồ sơ.",
+        "Theo yêu cầu của bộ phận kế toán doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 104,
+      "question": "Mục đích của việc quy định thời hạn 03 ngày làm việc để gửi Quyết định kiểm tra cho người nộp thuế là gì:",
+      "options": [
+        "Đảm bảo người nộp thuế có thời gian chuẩn bị hồ sơ và biết trước lịch làm việc của cơ quan nhà nước.",
+        "Để doanh nghiệp có thời gian tẩu tán tài liệu vi phạm.",
+        "Để bưu điện kịp thời chuyển phát nhanh.",
+        "Để đoàn kiểm tra có thời gian đi mua sắm trang thiết bị."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 105,
+      "question": "Tại sao quy trình kiểm tra thuế lại nhấn mạnh việc áp dụng quản lý rủi ro trong việc lập kế hoạch kiểm tra:",
+      "options": [
+        "Để gây áp lực lên các doanh nghiệp mới thành lập.",
+        "Để giảm bớt số lượng công chức phải đi làm việc tại doanh nghiệp.",
+        "Vì hệ thống máy tính tự động làm thay con người.",
+        "Để đảm bảo tính khách quan và tập trung nguồn lực vào những đối tượng có khả năng vi phạm cao."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 106,
+      "question": "Việc phối hợp với các cơ quan chức năng (như Công an, Ngân hàng) trong quy trình kiểm tra nhằm mục đích gì:",
+      "options": [
+        "Để xác minh các dòng tiền nghi vấn và thu thập bằng chứng khách quan mà cơ quan thuế không tự làm được.",
+        "Để đe dọa người nộp thuế.",
+        "Để tăng số lượng người tham gia đoàn kiểm tra.",
+        "Để chia sẻ trách nhiệm."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 107,
+      "question": "Nếu trong quá trình kiểm tra hồ sơ tại cơ quan thuế, người nộp thuế tự giác nộp tờ khai bổ sung và nộp đủ tiền thuế thiếu, xử lý thế nào:",
+      "options": [
+        "Đề xuất kiểm tra tại trụ sở vì không chắc doanh nghiệp khai đúng.",
+        "Sẽ kiểm tra tiếp hồ sơ khai thuế khác để có số thuế tăng thu.",
+        "Yêu cầu doanh nghiệp phải hủy tờ khai bổ sung đó.",
+        "Chấp nhận hồ sơ bổ sung và thường sẽ không tiến hành kiểm tra tại trụ sở người nộp thuế về nội dung đó nữa."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 108,
+      "question": "Thời hạn tạm giữ tài liệu, tang vật liên quan đến hành vi trốn thuế là bao nhiêu ngày làm việc:",
+      "options": [
+        "10 ngày làm việc.",
+        "15 ngày làm việc.",
+        "20 ngày làm việc.",
+        "30 ngày."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 109,
+      "question": "Người nộp thuế gửi văn bản xin hoãn kiểm tra với lý do Giám đốc bệnh phải chuyển cấp cứu và không có người ủy quyền. Thời gian xin hoãn là 20 ngày. Thủ trưởng cơ quan thuế xử lý như thế nào:",
+      "options": [
+        "Ban hành văn bản thông báo chấp nhận hoãn thời gian kiểm tra.",
+        "Vẫn yêu cầu đoàn kiểm tra xuống làm việc với kế toán trưởng.",
+        "Ban hành văn bản bãi bỏ quyết định kiểm tra.",
+        "Ra quyết định xử phạt vì hành vi cản trở kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 110,
+      "question": "Người nộp thuế gửi văn bản xin hoãn kiểm tra với lý do nhà xưởng của doanh nghiệp bị cháy nặng. Thời gian xin hoãn là 30 ngày. Thủ trưởng cơ quan thuế xử lý như thế nào:",
+      "options": [
+        "Ban hành văn bản thông báo chấp nhận hoãn thời gian kiểm tra.",
+        "Vẫn yêu cầu đoàn kiểm tra xuống làm việc với kế toán trưởng.",
+        "Ban hành văn bản bãi bỏ quyết định kiểm tra.",
+        "Ra quyết định xử phạt vì hành vi cản trở kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 111,
+      "question": "Theo Quy trình 970, trường hợp người nộp thuế đã thực hiện giải trình và khai bổ sung hồ sơ thuế theo Thông báo yêu cầu của cơ quan thuế, kết quả kiểm tra hồ sơ tại trụ sở cơ quan thuế được ghi nhận như thế nào:",
+      "options": [
+        "Lập biên bản kiểm tra thuế tại trụ sở người nộp thuế.",
+        "Ban hành Kết luận kiểm tra thuế ngay lập tức.",
+        "Ghi nhận kết quả kiểm tra vào Hệ thống ứng dụng công nghệ thông tin của ngành Thuế.",
+        "Ban hành Quyết định xử phạt vi phạm hành chính về thuế."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 112,
+      "question": "Ý nghĩa của việc \"Công bố quyết định kiểm tra\" tại trụ sở người nộp thuế là gì:",
+      "options": [
+        "Chính thức bắt đầu thời gian kiểm tra thực tế và xác định trách nhiệm phối hợp của người nộp thuế.",
+        "Để đoàn kiểm tra giới thiệu thành viên đoàn với người nộp thuế.",
+        "Chỉ là một thủ tục bắt buộc theo quy trình.",
+        "Để doanh nghiệp chuẩn bị tiền nộp phạt."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 113,
+      "question": "Nếu trong quá trình kiểm tra hồ sơ tại cơ quan thuế, người nộp thuế tự giác nộp tờ khai bổ sung sau thông báo đề nghị giải trình lần 2 và nộp đủ tiền thuế thiếu, xử lý thế nào:",
+      "options": [
+        "Vẫn đề xuất kiểm tra tại trụ sở vì không chắc doanh nghiệp đã khai đúng.",
+        "Sẽ kiểm tra tiếp hồ sơ khai thuế khác để có số thuế tăng thu.",
+        "Yêu cầu doanh nghiệp phải hủy tờ khai bổ sung đó.",
+        "Chấp nhận hồ sơ bổ sung và thường sẽ không tiến hành kiểm tra tại trụ sở người nộp thuế về nội dung đó nữa."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 114,
+      "question": "Người nộp thuế gửi văn bản xin hoãn kiểm tra với lý do nhà xưởng của doanh nghiệp bị cháy nặng. Thời gian xin hoãn là 30 ngày. Thủ trưởng cơ quan thuế xử lý như thế nào:",
+      "options": [
+        "Ban hành văn bản thông báo chấp nhận hoãn thời gian kiểm tra.",
+        "Vẫn yêu cầu đoàn kiểm tra xuống làm việc với kế toán trưởng.",
+        "Ban hành văn bản bãi bỏ quyết định kiểm tra.",
+        "Ra quyết định xử phạt vì hành vi cản trở kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 115,
+      "question": "Tại sao người nộp thuế có quyền từ chối cung cấp những tài liệu không liên quan đến nội dung kiểm tra:",
+      "options": [
+        "Để bảo vệ bí mật kinh doanh và đảm bảo đoàn kiểm tra thực hiện đúng phạm vi quyết định đã ban hành.",
+        "Để gây khó khăn cho đoàn kiểm tra.",
+        "Vì doanh nghiệp không có đủ máy photo.",
+        "Vì tài liệu đó thường là tài liệu sai phạm."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 116,
+      "question": "Trường hợp Thủ trưởng cơ quan thuế đã ký Quyết định kiểm tra tại trụ sở người nộp thuế (kiểm tra từ hồ sơ thuế), nhưng trước khi công bố quyết định, NNT đã giải trình chứng minh số thuế khai là đúng và nộp đủ số tiền thuế nộp thì:",
+      "options": [
+        "Vẫn tiến hành công bố quyết định để ghi nhận sự tự giác của NNT.",
+        "Chuyển hồ sơ sang bộ phận thanh tra để hậu kiểm nội dung giải trình.",
+        "Trong vòng 05 ngày làm việc, Trưởng đoàn báo cáo Lãnh đạo bộ phận trình Thủ trưởng cơ quan thuế ban hành Quyết định bãi bỏ Quyết định kiểm tra.",
+        "Tạm dừng cuộc kiểm tra trong thời gian 30 ngày để theo dõi."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 117,
+      "question": "Tại sao Quy trình 970 yêu cầu phải lập biên bản vi phạm hành chính nếu người nộp thuế không ký biên bản kiểm tra:",
+      "options": [
+        "Để có cơ sở cưỡng chế và thực hiện các bước xử lý tiếp theo theo đúng trình tự Luật Xử lý vi phạm hành chính.",
+        "Để dọa người nộp thuế phải ký ngay lập tức.",
+        "Để đoàn kiểm tra có thêm hồ sơ gửi cho Tòa án.",
+        "Vì biên bản kiểm tra không còn giá trị sau 24 giờ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 118,
+      "question": "Khi điều chỉnh giảm kế hoạch kiểm tra thì đối tượng được giảm trước là:",
+      "options": [
+        "Rủi ro cao.",
+        "Rủi ro trung bình.",
+        "Rủi ro thấp.",
+        "Doanh nghiệp mới thành lập."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 119,
+      "question": "Biên bản kiểm tra thuế là căn cứ để ban hành:",
+      "options": [
+        "Thông báo thuế.",
+        "Kết luận kiểm tra hoặc Quyết định xử phạt.",
+        "Giấy mời.",
+        "Công văn nhắc nhở."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 120,
+      "question": "Sự khác biệt giữa \"Kiểm tra định kỳ\" và \"Kiểm tra đột xuất\" theo Quy trình 970 là gì:",
+      "options": [
+        "Kiểm tra định kỳ dựa trên kế hoạch phê duyệt từ đầu năm, đột xuất dựa trên dấu hiệu vi phạm hoặc tin tố cáo.",
+        "Kiểm tra định kỳ chỉ làm 1 ngày, đột xuất làm 10 ngày.",
+        "Kiểm tra đột xuất không cần ban hành quyết định.",
+        "Kiểm tra định kỳ không bao giờ bị phạt tiền."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 121,
+      "question": "Tại sao trong biên bản kiểm tra phải ghi rõ các căn cứ pháp lý áp dụng cho từng sai sót của người nộp thuế:",
+      "options": [
+        "Để đảm bảo tính thuyết phục, đúng luật và giúp người nộp thuế hiểu rõ mình sai ở quy định nào.",
+        "Để biên bản trông dài và chuyên nghiệp hơn.",
+        "Để lãnh đạo dễ đọc hồ sơ.",
+        "Để tránh việc bị người nộp thuế kiện ra tòa vì áp dụng sai luật."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 122,
+      "question": "Khi điều chỉnh bổ sung người nộp thuế vào kế hoạch kiểm tra, nguyên tắc lựa chọn là:",
+      "options": [
+        "Chọn ngẫu nhiên.",
+        "Chọn từ thấp lên cao.",
+        "Chọn từ rủi ro cao xuống.",
+        "Chọn theo đề xuất doanh nghiệp."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 123,
+      "question": "Theo Quy trình 970, người nộp thuế có thời gian bao nhiêu ngày để xem xét, có ý kiến phản hồi đối với dự thảo biên bản kiểm tra trước khi thực hiện ký biên bản kiểm tra thuế chính thức:",
+      "options": [
+        "01 ngày làm việc.",
+        "03 ngày làm việc.",
+        "05 ngày làm việc.",
+        "07 ngày làm việc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 124,
+      "question": "Tại sao quy trình quy định không được kiểm tra quá 01 lần/năm về cùng một sắc thuế tại một doanh nghiệp (trừ trường hợp đột xuất):",
+      "options": [
+        "Nhằm giảm bớt sự phiền hà và tạo môi trường kinh doanh ổn định cho người nộp thuế.",
+        "Vì cơ quan thuế không có đủ người để làm nhiều lần.",
+        "Vì số liệu thuế mỗi năm chỉ thay đổi một lần.",
+        "Theo yêu cầu của Hiệp hội doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 125,
+      "question": "Thời gian tạm dừng kiểm tra do bất khả kháng:",
+      "options": [
+        "Được tính vào thời hạn kiểm tra.",
+        "Không tính vào thời hạn kiểm tra.",
+        "Tính 50% thời gian.",
+        "Do trưởng đoàn quyết định."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 126,
+      "question": "Việc quy định mẫu biểu thống nhất trong quy trình kiểm tra thuế giúp ích gì cho công tác quản lý:",
+      "options": [
+        "Tạo sự đồng bộ, chuyên nghiệp và thuận tiện cho việc tổng hợp số liệu trên toàn quốc.",
+        "Để công chức không phải sáng tạo ra mẫu mới.",
+        "Để người nộp thuế dễ nhận diện cơ quan thuế.",
+        "Để giảm chi phí in ấn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 127,
+      "question": "Việc tạm đình chỉ kiểm tra thuế khi có sự kiện bất khả kháng (như thiên tai) nhằm mục đích gì:",
+      "options": [
+        "Đảm bảo tính nhân văn của pháp luật và chia sẻ khó khăn thực tế của doanh nghiệp.",
+        "Để kéo dài thời gian kiểm tra đến khi có lợi cho cơ quan thuế.",
+        "Vì hồ sơ tài liệu của doanh nghiệp đã bị ướt hoặc hỏng.",
+        "Để tránh việc đoàn kiểm tra bị gặp nguy hiểm."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 128,
+      "question": "Tại sao Quy trình 970 yêu cầu phải bảo mật thông tin của người nộp thuế trong quá trình kiểm tra:",
+      "options": [
+        "Để bảo vệ lợi ích hợp pháp và uy tín kinh doanh của doanh nghiệp trước các đối thủ cạnh tranh.",
+        "Để công chức thuế không bị lộ thông tin cá nhân.",
+        "Vì thông tin thuế là bí mật tuyệt đối của quốc gia.",
+        "Để tránh việc doanh nghiệp bị đòi nợ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 129,
+      "question": "Tại sao phải kiểm tra việc sử dụng hóa đơn điện tử trong quy trình kiểm tra thuế hiện nay:",
+      "options": [
+        "Vì hóa đơn điện tử là nguồn dữ liệu chính để đối chiếu doanh thu và chi phí hợp lệ của doanh nghiệp.",
+        "Vì công chức thuế có thể dễ dàng kết xuất dữ liệu hóa đơn điện tử.",
+        "Để khuyến khích doanh nghiệp mua thêm phần mềm hóa đơn.",
+        "Để kiểm tra xem doanh nghiệp có biết dùng máy tính không."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 130,
+      "question": "Tại sao biên bản kiểm tra thuế phải được ký nháy vào từng trang tài liệu đính kèm:",
+      "options": [
+        "Để tránh việc thay đổi, đánh tráo nội dung biên bản.",
+        "Để công chức và doanh nghiệp ghi nhớ nội dung lâu hơn.",
+        "Theo yêu cầu của bộ phận lưu trữ văn thư.",
+        "Không ký nháy từng trang cũng không sao."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 131,
+      "question": "Mục đích của việc kiểm tra tại trụ sở người nộp thuế đối với các doanh nghiệp lỗ liên tục nhiều năm là gì:",
+      "options": [
+        "Để xác định thực chất của khoản lỗ và ngăn chặn hành vi chuyển giá hoặc giấu doanh thu.",
+        "Để giúp doanh nghiệp tìm ra cách kinh doanh có lãi.",
+        "Để yêu cầu doanh nghiệp đóng cửa nếu không có tiền nộp thuế.",
+        "Để thu hồi mã số thuế của doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 132,
+      "question": "Trước khi công bố Quyết định kiểm tra, Trưởng đoàn kiểm tra phải phân công các thành viên trong đoàn thực hiện kiểm tra từng phần việc theo nội dung ghi trong Quyết định kiểm tra theo mẫu nào của Quy trình 970/QĐ-TCT:",
+      "options": [
+        "Mẫu số 04/QTKT.\t\t\t\tB. Mẫu số 05/QTKT.",
+        "Mẫu số 06/QTKT.\t\t\t\tD. Mẫu số 07/QTKT."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 133,
+      "question": "Theo Quy trình 970/QĐ-TCT về xây dựng kế hoạch kiểm tra thì Tổng cục Thuế (nay là Cục Thuế) ban hành văn bản hướng dẫn xây dựng kế hoạch kiểm tra trước ngày bao nhiêu hàng năm:",
+      "options": [
+        "15/10.\t\t\t\t\t\tB. 01/11.",
+        "25/10.\t\t\t\t\t\tD. 05/11."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 134,
+      "question": "Cơ quan thuế đã gửi Thông báo kế hoạch kiểm tra năm 2025 từ đầu năm, thời gian kiểm tra dự kiến là Quý 3/2025. Khi cơ quan thuế ban hành quy định kiểm tra thì người nộp thuế gửi văn bản xin hoãn kiểm tra với lý do Công ty chưa hoàn thiện sổ sách kế toán. Thời gian xin hoãn là 10 ngày. Thủ trưởng cơ quan thuế xử lý như thế nào:",
+      "options": [
+        "Ban hành Thông báo không chấp nhận hoãn do không thuộc trường hợp được hoãn theo quy định.",
+        "Ban hành Thông báo chấp nhận hoãn cho người nộp thuế.",
+        "Ban hành văn bản bãi bỏ quyết định kiểm tra.",
+        "Ra quyết định xử phạt vì hành vi cản trở kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 135,
+      "question": "Lãnh đạo bộ phận được giao nhiệm vụ kiểm tra thuế tại trụ sở cơ quan thuế trình Thủ trưởng cơ quan thuế ký duyệt phân công Danh sách người nộp thuế thuộc kế hoạch kiểm tra tại trụ sở cơ quan thuế cho:",
+      "options": [
+        "Một công chức trực tiếp theo dõi giám sát doanh nghiệp.",
+        "Từng Tổ kiểm tra thuế: tối thiểu 02 người/01 Tổ kiểm tra/01 người nộp thuế.",
+        "Cho từng công chức trực tiếp theo dõi giám sát doanh nghiệp.",
+        "Cho công chức được phân công theo dõi trên ứng dụng TMS."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 136,
+      "question": "Danh sách người nộp thuế được lựa chọn để kiểm tra hồ sơ thuế tại trụ sở cơ quan thuế không trùng lặp với:",
+      "options": [
+        "Danh sách người nộp thuế thuộc kế hoạch thanh tra tại trụ sở người nộp thuế của cơ quan thuế.",
+        "Danh sách người nộp thuế thuộc kế hoạch kiểm tra tại trụ sở người nộp thuế của cơ quan thuế.",
+        "Danh sách người nộp thuế thuộc kế hoạch kiểm tra, chuyên đề kiểm tra tại trụ sở người nộp thuế của cơ quan thuế và cơ quan quản lý cấp trên.",
+        "Danh sách người nộp thuế thuộc kế hoạch thanh tra, kiểm tra tại trụ sở người nộp thuế của cơ quan thuế và cơ quan quản lý cấp trên."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 137,
+      "question": "Việc đối chiếu dữ liệu giữa cơ quan Thuế và Hải quan giúp ích gì cho công tác kiểm tra:",
+      "options": [
+        "Phát hiện các sai lệch về giá trị hàng hóa nhập khẩu, xuất khẩu và tình trạng hoàn thuế GTGT bất hợp pháp.",
+        "Để biết thông tin nợ thuế xuất nhập khẩu của người nộp thuế.",
+        "Để biết doanh nghiệp có nhập hàng từ nước nào nhiều nhất.",
+        "Để tính lại tỷ giá ngoại tệ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 138,
+      "question": "Tại sao khi kết thúc kiểm tra, Trưởng đoàn phải báo cáo kết quả bằng văn bản cho Thủ trưởng cơ quan thuế:",
+      "options": [
+        "Để Thủ trưởng nắm bắt tình hình và có cơ sở ban hành Kết luận kiểm tra hoặc Quyết định xử phạt đúng quy định.",
+        "Để Thủ trưởng biết đoàn đã làm việc vất vả như thế nào.",
+        "Để báo cáo kết quả thu ngân sách hàng tháng.",
+        "Vì đây là quy trình báo cáo hành chính thông thường."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 139,
+      "question": "Việc lưu giữ Nhật ký đoàn kiểm tra tại hồ sơ lưu trữ có tác dụng gì sau này:",
+      "options": [
+        "Phục vụ công tác kiểm tra lại quy trình làm việc của đoàn và làm bằng chứng giải trình khi có khiếu nại.",
+        "Để các đoàn kiểm tra sau có tài liệu tham khảo.",
+        "Để tính toán thời gian đi công tác của cán bộ.",
+        "Để biết được thông tin thành viên đoàn kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 140,
+      "question": "Trong Quy trình 970, việc \"Kiểm tra sau hoàn thuế\" được thực hiện khi nào:",
+      "options": [
+        "Khi số tiền hoàn thuế quá lớn vượt quá thẩm quyền của cơ quan thuế.",
+        "Khi doanh nghiệp yêu cầu được kiểm tra lại.",
+        "Khi người nộp thuế thuộc diện rủi ro thấp đã được hoàn thuế trước theo quy định để hậu kiểm tính chính xác.",
+        "Khi doanh nghiệp chuẩn bị giải thể hoặc chuyển địa điểm."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 141,
+      "question": "Phạm vi áp dụng Quy trình kiểm tra thuế ban hành kèm theo Quyết định 970/QĐ-TCT ngày 14/7/2023 của Tổng cục Thuế là:",
+      "options": [
+        "Kiểm tra hồ sơ thuế tại trụ sở cơ quan thuế.",
+        "Kiểm tra thuế tại trụ sở của người nộp thuế.",
+        "Thanh tra thuế tại trụ sở của người nộp thuế.",
+        "Kiểm tra hồ sơ thuế tại trụ sở cơ quan thuế; Kiểm tra thuế tại trụ sở của người nộp thuế."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 142,
+      "question": "Kết thúc kiểm tra phần công việc được giao, thành viên đoàn kiểm tra phải lập …..…. với đại diện người nộp thuế (theo mẫu số …… ban hành kèm theo quy trình này). Thành viên đoàn kiểm tra chịu trách nhiệm về tính chính xác, trung thực, khách quan của biên bản xác nhận số liệu kiểm tra:",
+      "options": [
+        "Biên bản xác nhận số liệu/09/QTKT.",
+        "Biên bản công bố quyết định kiểm tra/09/QTKT.",
+        "Dự thảo biên bản kiểm tra/09/QTKT.",
+        "Biên bản giám sát/09/QTKT."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 143,
+      "question": "Tại sao quy trình yêu cầu đoàn kiểm tra phải rà soát các biên bản kiểm tra của các cơ quan khác (như Kiểm toán, Thanh tra Chính phủ) trước đó:",
+      "options": [
+        "Để tránh việc xử lý chồng chéo, mâu thuẫn hoặc bỏ sót các sai phạm đã được chỉ ra.",
+        "Để xem các cơ quan khác có phạt nặng hơn mình không.",
+        "Để học tập cách viết biên bản của các cơ quan đó.",
+        "Để không phải kiểm tra lại những gì họ đã làm."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 144,
+      "question": "Việc kiểm tra các giao dịch với bên liên kết nhằm chống hành vi gì phổ biến nhất:",
+      "options": [
+        "Chống hành vi mua hàng giá rẻ từ nước ngoài.",
+        "Chống hành vi vay mượn tiền trái phép.",
+        "Chống hành vi tuyển dụng người nhà vào làm việc.",
+        "Chống hành vi \"chuyển giá\" nhằm mục đích giảm số thuế phải nộp tại Việt Nam."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 145,
+      "question": "Tại sao Quy trình 970 lại yêu cầu ứng dụng triệt để dữ liệu hóa đơn điện tử trong kiểm tra tại cơ quan thuế:",
+      "options": [
+        "Giúp tự động đối chiếu doanh thu, chi phí một cách chính xác mà không cần đến trực tiếp doanh nghiệp.",
+        "Để tiết kiệm giấy in cho cơ quan thuế.",
+        "Để doanh nghiệp thấy rằng cơ quan thuế rất hiện đại.",
+        "Để giảm bớt số lượng công chức thuế làm công tác thủ công."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 146,
+      "question": "Thành viên đoàn kiểm tra phải lập biên bản bác xác nhận số liệu với người nộp thuế khi nào:",
+      "options": [
+        "Khi thúc kiểm tra phần công việc được giao.",
+        "Khi Trưởng đoàn có yêu cầu.",
+        "Trước khi công bố quyết định kiểm tra.",
+        "Sau khi Người nộp thuế ký biên bản kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 147,
+      "question": "Tại sao khi có thay đổi về nội dung kiểm tra, Thủ trưởng cơ quan thuế phải ký Quyết định điều chỉnh bổ sung:",
+      "options": [
+        "Đảm bảo tính pháp lý của cuộc kiểm tra và là căn cứ để người nộp thuế thực hiện cung cấp hồ sơ theo nội dung kiểm tra bổ sung.",
+        "Để doanh nghiệp biết đoàn kiểm tra rất cẩn thận.",
+        "Vì Trưởng đoàn không có con dấu riêng để tự ký.",
+        "Để tính thêm thời gian làm việc cho đoàn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 148,
+      "question": "Việc kiểm tra thuế đối với các doanh nghiệp có vốn đầu tư nước ngoài (FDI) có điểm gì cần chú ý hơn:",
+      "options": [
+        "Chú trọng kiểm tra các giao dịch xuyên biên giới, bản chất các khoản chi phí quản lý phí và phí bản quyền.",
+        "Kiểm tra xem họ có nói tiếng Việt tốt không.",
+        "Kiểm tra xem họ có đóng góp cho địa phương không.",
+        "Chỉ kiểm tra khi họ xin chuyển lợi nhuận về nước."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 149,
+      "question": "Biên bản kiểm tra thuế được lập theo mẫu số ….. ban hành kèm theo quy trình này. Căn cứ để lập biên bản kiểm tra là …… và tình hình được phản ánh trong biên bản kiểm tra từng phần việc mà trưởng đoàn kiểm tra đã giao cho……. trong đoàn thực hiện:",
+      "options": [
+        "10/QTKT/tờ khai của người nộp thuế/từng thành viên.",
+        "10/QTKT/ biên bản xác nhận số liệu/từng thành viên.",
+        "10/QTKT/ biên bản con/từng thành viên.",
+        "10/QTKT/ số liệu/từng thành viên."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 150,
+      "question": "Việc công chức thuế sử dụng Thẻ ngành khi làm việc tại doanh nghiệp thể hiện điều gì:",
+      "options": [
+        "Thể hiện tư cách pháp lý và thực thi công vụ theo đúng quy định của Nhà nước.",
+        "Để doanh nghiệp biết đó là cán bộ thuế thật chứ không phải giả.",
+        "Để được ưu tiên khi đi lại tại doanh nghiệp.",
+        "Để chụp ảnh lưu hồ sơ kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 151,
+      "question": "Kết quả kiểm tra tại biên bản kiểm tra phải được …. trong đoàn kiểm tra trước khi …… với người nộp thuế:",
+      "options": [
+        "Thống nhất/công bố công khai.",
+        "Xử lý/gửi đến.",
+        "Báo cáo/làm việc.",
+        "Không đáp án nào đúng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 152,
+      "question": "Theo quy định tại Quy trình 970, Cơ quan thuế đã gửi Thông báo kế hoạch kiểm tra năm 2026 từ đầu năm, thời gian kiểm tra dự kiến là Quý 2/2026. Khi cơ quan thuế ban hành quyết định kiểm tra thì Người nộp thuế gửi văn bản xin hoãn kiểm tra với lý do người đại diện pháp luật đi nghỉ mát. Thời gian xin hoãn là 10 ngày. Thủ trưởng cơ quan thuế xử lý như thế nào:",
+      "options": [
+        "Ban hành Thông báo không chấp nhận hoãn do không thuộc trường hợp được hoãn theo quy định.",
+        "Ban hành Thông báo chấp nhận hoãn cho người nộp thuế.",
+        "Ban hành văn bản bãi bỏ quyết định kiểm tra.",
+        "Ra quyết định xử phạt vì hành vi cản trở kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 153,
+      "question": "Trường hợp người nộp thuế cung cấp tài liệu sau 06 giờ làm việc kể từ khi nhận yêu cầu của đoàn kiểm tra thì:",
+      "options": [
+        "Không xử lý.",
+        "Nhắc nhở.",
+        "Lập biên bản vi phạm hành chính.",
+        "Phạt tiền mà không cần lập biên bản vi phạm hành chính."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 154,
+      "question": "Trường hợp người nộp thuế không nhận Quyết định xử phạt khi giao trực tiếp thì:",
+      "options": [
+        "Hủy quyết định.",
+        "Lập biên bản có xác nhận chính quyền địa phương và coi là đã giao.",
+        "Gửi lại sau 30 ngày.",
+        "Chuyển sang cơ quan điều tra."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 155,
+      "question": "Tại sao quy trình yêu cầu các thành viên đoàn phải ký vào các biên bản xác nhận số liệu:",
+      "options": [
+        "Xác định trách nhiệm cá nhân của từng công chức đối với phần việc mình được phân công kiểm tra.",
+        "Để biên bản trông có nhiều chữ ký hơn.",
+        "Để doanh nghiệp không thể kiện riêng lẻ từng cán bộ.",
+        "Để chứng minh thành viên đó có đi làm việc."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 156,
+      "question": "Cơ quan thuế đã gửi Thông báo kế hoạch kiểm tra năm 2026 từ đầu năm, thời gian kiểm tra dự kiến là Quý 2/2025. Khi cơ quan thuế ban hành quyết định kiểm tra thì Người nộp thuế gửi văn bản xin hoãn kiểm tra với lý do bộ phận kế toán cần thêm thời gian hoàn thiện sổ sách. Thời gian xin hoãn là 15 ngày. Thủ trưởng cơ quan thuế xử lý như thế nào:",
+      "options": [
+        "Ban hành Thông báo không chấp nhận hoãn do không thuộc trường hợp được hoãn theo quy định.",
+        "Ban hành Thông báo chấp nhận hoãn cho người nộp thuế.",
+        "Ban hành văn bản bãi bỏ quyết định kiểm tra.",
+        "Ra quyết định xử phạt vì hành vi cản trở kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 157,
+      "question": "Kể từ ngày 01/07/2026, thời gian kiểm tra tại trụ sở người nộp thuế theo quy định là bao nhiêu ngày kể từ ngày công bố quyết định kiểm tra:",
+      "options": [
+        "10 ngày làm việc.",
+        "20 ngày làm việc.",
+        "20 ngày.",
+        "15 ngày làm việc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 158,
+      "question": "Theo Quy trình 970, trong quá trình kiểm tra tại trụ sở người nộp thuế, xác định trường hợp phạm vi kiểm tra lớn, nội dung phức tạp hoặc xác định cần thiết phải gia hạn kiểm tra để xử lý nội dung vướng mắc có khả năng xảy ra khiếu nại thì trưởng đoàn kiểm tra phải báo cáo người ban hành Quyết định kiểm tra chậm nhất bao nhiêu ngày làm việc, trước khi kết thúc thời gian kiểm tra tại trụ sở người nộp thuế:",
+      "options": [
+        "Báo ngay.",
+        "Chậm nhất 01 ngày làm việc.",
+        "Chậm nhất 02 ngày làm việc.",
+        "Chậm nhất 03 ngày làm việc."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 159,
+      "question": "Trưởng đoàn có các nhiệm vụ, quyền hạn gì khi thực hiện quyết định kiểm tra:",
+      "options": [
+        "Tổ chức, chỉ đạo các thành viên đoàn kiểm tra thực hiện đúng nội dung quyết định kiểm tra.",
+        "Yêu cầu người nộp thuế cung cấp thông tin, tài liệu, giải trình về vấn đề liên quan đến nội dung kiểm tra thuế.",
+        "Lập biên bản kiểm tra thuế.",
+        "Tất cả đáp án đều đúng. 0707449825"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 160,
+      "question": "Trong quá trình kiểm tra, nếu đoàn phát hiện doanh nghiệp có hành vi trốn thuế với số tiền ước tính 500 triệu đồng và có dấu hiệu dùng chứng từ giả. Đoàn kiểm tra phải làm gì:",
+      "options": [
+        "Trình Thủ trưởng cơ quan thuế thực hiện các thủ tục chuyển hồ sơ sang cơ quan điều tra theo quy định của pháp luật tố tụng hình sự.",
+        "Tiếp tục kiểm tra và ra quyết định xử phạt vi phạm hành chính gấp 3 lần.",
+        "Thỏa thuận với doanh nghiệp nộp lại tiền trốn thuế để không bị khởi tố.",
+        "Chỉ ghi nhận vào biên bản và chuyển bộ phận quản lý nợ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 161,
+      "question": "Tại sao khi có ý kiến khác nhau giữa các thành viên đoàn kiểm tra về một sai sót, Trưởng đoàn phải là người quyết định và chịu trách nhiệm:",
+      "options": [
+        "Đảm bảo tính thống nhất trong biên bản kiểm tra và duy trì kỷ luật của đoàn công tác.",
+        "Vì Trưởng đoàn là người có quyền lực nhất.",
+        "Vì Trưởng đoàn thường có trình độ cao hơn.",
+        "Để tránh việc tranh cãi kéo dài làm mất thời gian của doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 162,
+      "question": "Do sai sót trong khâu đánh máy, Quyết định kiểm tra ghi sai địa chỉ trụ sở doanh nghiệp. Đoàn kiểm tra xử lý như thế nào:",
+      "options": [
+        "Trình Thủ trưởng cơ quan thuế ban hành Quyết định sửa đổi, bổ sung Quyết định kiểm tra.",
+        "Dùng bút gạch đi và sửa lại bằng tay, sau đó đóng dấu treo.",
+        "Cứ tiến hành kiểm tra vì mã số thuế vẫn đúng.",
+        "Hủy bỏ quyết định cũ và ký lại quyết định mới với số mới."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 163,
+      "question": "Đoàn kiểm tra phát hiện doanh nghiệp trốn thuế bằng cách không xuất hóa đơn bán hàng cho khách lẻ. Để chứng minh, đoàn cần thu thập thêm chứng từ gì từ doanh nghiệp:",
+      "options": [
+        "Sổ chi tiết tiền mặt, sao kê ngân hàng cá nhân của giám đốc (nếu có dấu hiệu), phiếu xuất kho và các phần mềm bán hàng nội bộ.",
+        "Danh sách khách hàng đã mua hàng.",
+        "Giấy phép kinh doanh của doanh nghiệp.",
+        "Bằng cấp của nhân viên bán hàng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 164,
+      "question": "Tại sao khi phát hiện dấu hiệu tội phạm hình sự, cơ quan thuế phải chuyển hồ sơ sang Công an mà không tự xử lý:",
+      "options": [
+        "Vì Công an có nhiều người làm việc hơn.",
+        "Để chia sẻ trách nhiệm với cơ quan điều tra.",
+        "Vì cơ quan thuế không có thẩm quyền điều tra, khởi tố và xử lý các hành vi tội phạm theo Bộ luật Hình sự.",
+        "Để doanh nghiệp sợ hơn và nộp tiền ngay."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 165,
+      "question": "Tại buổi ký biên bản công bố quyết định kiểm tra, Giám đốc đi vắng và ủy quyền cho Phó giám đốc làm việc với Đoàn và ký thay biên bản công bố. Phó giám đốc có được ký biên bản công bố quyết định kiểm tra thuế không:",
+      "options": [
+        "Được, nếu có văn bản ủy quyền hợp pháp của người đại diện theo pháp luật của doanh nghiệp.",
+        "Không được, bắt buộc phải là Giám đốc hoặc Kế toán trưởng.",
+        "Được, nhưng phải có thêm chữ ký của bảo vệ doanh nghiệp làm chứng.",
+        "Không được, vì Phó giám đốc không phải là người đại diện pháp luật."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 166,
+      "question": "Khi gửi Quyết định kiểm tra qua đường bưu điện, sau 10 ngày bưu điện trả lại với lý do \"người nhận không có tại địa chỉ\". Bước tiếp theo cơ quan thuế nên làm gì:",
+      "options": [
+        "Thực hiện thủ tục phối hợp xác minh tình trạng hoạt động của người nộp thuế tại địa chỉ đã đăng ký và xử lý theo quy định về doanh nghiệp bỏ địa chỉ kinh doanh.",
+        "Coi như đã gửi xong và xuống doanh nghiệp kiểm tra đột xuất.",
+        "Đăng tin tìm doanh nghiệp trên báo Hải quan.",
+        "Hủy bỏ quyết định kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 167,
+      "question": "Tại sao khi phát hiện dấu hiệu tội phạm hình sự, cơ quan thuế phải chuyển hồ sơ sang Công an mà không tự xử lý:",
+      "options": [
+        "Vì cơ quan thuế không có thẩm quyền điều tra, khởi tố và xử lý các hành vi tội phạm theo Bộ luật Hình sự.",
+        "Để chia sẻ trách nhiệm với cơ quan công an.",
+        "Vì Công an có nhiều người làm việc hơn.",
+        "Để doanh nghiệp sợ hơn và nộp tiền ngay."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 168,
+      "question": "Khi kiểm tra thuế, nếu phát hiện người nộp thuế có dấu hiệu tẩu tán tài sản, đoàn kiểm tra nên làm gì:",
+      "options": [
+        "Để doanh nghiệp tự do tẩu tán.",
+        "Báo cáo ngay Thủ trưởng cơ quan thuế để áp dụng các biện pháp ngăn chặn theo pháp luật.",
+        "Giúp doanh nghiệp chuyển tài sản đi nơi khác.",
+        "Đợi đến khi kết thúc kiểm tra mới báo cáo."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 169,
+      "question": "Việc gia hạn thời gian kiểm tra tại trụ sở người nộp thuế được thực hiện tối đa bao nhiêu lần cho một cuộc kiểm tra:",
+      "options": [
+        "01 lần.",
+        "Không giới hạn số lần.",
+        "02 lần.",
+        "05 lần."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 170,
+      "question": "Một cuộc kiểm tra đã có Quyết định xử phạt vi phạm hành chính nhưng doanh nghiệp vẫn không đồng ý và khởi kiện ra Tòa án. Trong thời gian Tòa án thụ lý, doanh nghiệp có phải nộp tiền thuế truy thu không:",
+      "options": [
+        "Vẫn phải nộp tiền theo Quyết định xử lý/xử phạt trừ khi có quyết định tạm đình chỉ của cơ quan có thẩm quyền.",
+        "Được hoãn nộp tiền cho đến khi có bản án cuối cùng của Tòa.",
+        "Chỉ phải nộp 50% số tiền.",
+        "Cơ quan thuế phải trả lại toàn bộ hồ sơ cho doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 171,
+      "question": "Một cuộc kiểm tra đã có Quyết định xử phạt vi phạm hành chính nhưng doanh nghiệp vẫn không đồng ý và khởi kiện ra Tòa án. Trong thời gian Tòa án thụ lý, doanh nghiệp có phải nộp tiền thuế truy thu không:",
+      "options": [
+        "Được hoãn nộp tiền cho đến khi có bản án cuối cùng của Tòa.",
+        "Chỉ phải nộp 60% số tiền.",
+        "Vẫn phải nộp tiền theo Quyết định xử lý/xử phạt trừ khi có quyết định tạm đình chỉ của cơ quan có thẩm quyền.",
+        "Cơ quan thuế phải trả lại toàn bộ hồ sơ cho doanh nghiệp."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 172,
+      "question": "Thời gian kiểm tra tại trụ sở doanh nghiệp là 10 ngày làm việc. Nếu đoàn làm việc xong trong 04 ngày làm việc, đoàn có được kết thúc cuộc kiểm tra sớm không:",
+      "options": [
+        "Không, bắt buộc phải thực hiện đủ 10 ngày làm việc ghi trên quyết định kiểm tra.",
+        "Được, đoàn lập biên bản xác nhận số liệu từng thành viên và thực hiện các bước lập biên bản kiểm tra theo quy định.",
+        "Phải xin ý kiến người giám sát.",
+        "Phải xin ý kiến người ban hành quyết định kiểm tra."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 173,
+      "question": "Tại sao trong hồ sơ kiểm tra phải lưu trữ cả các bản dự thảo biên bản ban đầu:",
+      "options": [
+        "Để làm bằng chứng nếu công chức thay đổi số liệu bất hợp pháp.",
+        "Để tận dụng các tờ giấy đã in sai.",
+        "Để cho các đoàn sau thấy quá trình làm việc của đoàn trước.",
+        "Phục vụ công tác kiểm soát nội bộ và minh bạch hóa quá trình hình thành kết quả kiểm tra cuối cùng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 174,
+      "question": "Một doanh nghiệp có rủi ro về thuế rất cao nhưng không nằm trong kế hoạch kiểm tra năm. Cơ quan thuế có được kiểm tra tại trụ sở người nộp thuế không:",
+      "options": [
+        "Đợi đến năm sau mới đưa vào kế hoạch.",
+        "Không bao giờ được phép kiểm tra ngoài kế hoạch.",
+        "Được, nếu thực hiện điều chỉnh bổ sung kế hoạch kiểm tra và được cấp có thẩm quyền phê duyệt.",
+        "Theo dõi thêm và đưa vào kế hoạch năm sau."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 175,
+      "question": "Một doanh nghiệp có rủi ro về hóa đơn rất cao nhưng không nằm trong kế hoạch kiểm tra năm. Cơ quan thuế có được kiểm tra tại trụ sở người nộp thuế không:",
+      "options": [
+        "Được, nếu thực hiện điều chỉnh bổ sung kế hoạch kiểm tra và được cấp có thẩm quyền phê duyệt.",
+        "Không bao giờ được phép kiểm tra ngoài kế hoạch.",
+        "Đợi đến năm sau mới đưa vào kế hoạch.",
+        "Theo dõi thêm và đưa vào kế hoạch năm sau."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 176,
+      "question": "Trong buổi làm việc cuối cùng tại doanh nghiệp, đoàn kiểm tra yêu cầu doanh nghiệp ký \"Biên bản xác nhận số liệu\" trước khi lập \"dự thảo Biên bản kiểm tra\". Việc này có đúng quy trình không:",
+      "options": [
+        "Đúng, để thống nhất số liệu, giúp việc lập biên bản kiểm tra chính thức thuận lợi và chính xác hơn.",
+        "Sai, Quy trình 970 không quy định loại biên bản xác nhận số liệu này.",
+        "Sai, chỉ được ký một loại biên bản duy nhất là biên bản kiểm tra.",
+        "Đúng, nhưng biên bản xác nhận số liệu này có giá trị thay thế biên bản kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 177,
+      "question": "Đoàn kiểm tra phát hiện doanh nghiệp có nhiều hóa đơn đầu vào mua từ các doanh nghiệp có chủ sở hữu là người thân của Giám đốc doanh nghiệp. Đoàn cần tập trung kiểm tra điều gì:",
+      "options": [
+        "Phạt doanh nghiệp tội \"quan hệ gia đình trong kinh doanh\".",
+        "Vẫn kiểm tra bình thường vì pháp luật không cấm.",
+        "Yêu cầu doanh nghiệp cung cấp hộ khẩu của cả gia đình Giám đốc.",
+        "Kiểm tra tính thực tế của giao dịch, giá bán có phù hợp giá thị trường không và có hiện tượng nâng khống chi phí không."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 178,
+      "question": "Một doanh nghiệp bị kiểm tra thuế đột xuất do có đơn tố cáo nặc danh. Khi kiểm tra, đoàn không thấy sai phạm như đơn tố cáo nhưng lại thấy sai phạm ở nội dung khác. Đoàn xử lý thế nào:",
+      "options": [
+        "Ghi nhận tất cả các sai phạm phát hiện được vào biên bản kiểm tra và xử lý theo quy định của pháp luật thuế.",
+        "Chỉ được xử lý nội dung có trong đơn tố cáo.",
+        "Bỏ qua các sai phạm khác để đảm bảo \"đúng mục đích\" cuộc kiểm tra đột xuất.",
+        "Hủy bỏ đơn tố cáo và kết thúc cuộc kiểm tra ngay."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 179,
+      "question": "Theo quy trình, việc bàn giao hồ sơ kiểm tra cho bộ phận lưu trữ bao gồm những tài liệu gì là quan trọng nhất:",
+      "options": [
+        "Chỉ cần bản gốc biên bản kiểm tra và quyết định xử phạt.",
+        "Toàn bộ hồ sơ từ khâu phân tích, trình ban hành quyết định, biên bản làm việc, bằng chứng, nhật ký cho đến kết luận và quyết định xử lý.",
+        "Các hóa đơn gốc của doanh nghiệp đã thu giữ.",
+        "Danh thiếp của Giám đốc doanh nghiệp."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 180,
+      "question": "Việc phối hợp với các cơ quan chức năng (như Công an, Ngân hàng) trong quy trình kiểm tra nhằm mục đích gì:",
+      "options": [
+        "Để đe dọa người nộp thuế.",
+        "Để tăng số lượng người tham gia đoàn kiểm tra.",
+        "Để xác minh các dòng tiền nghi vấn và thu thập bằng chứng khách quan mà cơ quan thuế không tự làm được.",
+        "Để chia sẻ trách nhiệm."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 181,
+      "question": "Nếu trong quá trình kiểm tra hồ sơ tại cơ quan thuế, người nộp thuế tự giác nộp tờ khai bổ sung và nộp đủ tiền thuế thiếu, xử lý thế nào:",
+      "options": [
+        "Đề xuất kiểm tra tại trụ sở vì không chắc doanh nghiệp khai đúng.",
+        "Sẽ kiểm tra tiếp hồ sơ khai thuế khác để có số thuế tăng thu.",
+        "Chấp nhận hồ sơ bổ sung và thường sẽ không tiến hành kiểm tra tại trụ sở người nộp thuế về nội dung đó nữa.",
+        "Yêu cầu doanh nghiệp phải hủy tờ khai bổ sung đó."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 182,
+      "question": "Khi phát hiện hồ sơ khai thuế có nội dung chưa rõ ràng, tại sao cơ quan thuế phải ban hành Thông báo giải trình trước khi quyết định kiểm tra tại trụ sở người nộp thuế:",
+      "options": [
+        "Vì cơ quan thuế không có đủ thẩm quyền để kiểm tra ngay.",
+        "Để kéo dài thời gian quản lý hồ sơ.",
+        "Theo yêu cầu của bộ phận kế toán doanh nghiệp.",
+        "Để người nộp thuế tự rà soát, bổ sung thông tin và giảm chi phí tuân thủ."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 183,
+      "question": "Ai là người có nhiệm vụ lập biên bản kiểm tra tại trụ sở người nộp thuế:",
+      "options": [
+        "Thủ trưởng ký ban hành quyết định kiểm tra.",
+        "Thành viên đoàn kiểm tra.",
+        "Thư ký đoàn kiểm tra.",
+        "Trưởng đoàn kiểm tra."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 184,
+      "question": "Trong quá trình kiểm tra, nếu đoàn phát hiện doanh nghiệp có hành vi trốn thuế với số tiền ước tính 800 triệu đồng và có dấu hiệu dùng chứng từ giả. Đoàn kiểm tra phải làm gì:",
+      "options": [
+        "Trình Thủ trưởng cơ quan thuế thực hiện các thủ tục chuyển hồ sơ sang cơ quan điều tra theo quy định của pháp luật tố tụng hình sự.",
+        "Tiếp tục kiểm tra và ra quyết định xử phạt vi phạm hành chính gấp 3 lần.",
+        "Thỏa thuận với doanh nghiệp nộp lại tiền trốn thuế để không bị khởi tố.",
+        "Chỉ ghi nhận vào biên bản và chuyển bộ phận quản lý nợ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 185,
+      "question": "Cơ quan thuế ban hành quyết định kiểm tra tại trụ sở doanh nghiệp A. Doanh nghiệp gửi văn bản xin hoãn 15 ngày với lý do Kế toán trưởng đang tham gia khóa đào tạo chứng chỉ ngắn hạn tại nước ngoài. Thủ trưởng cơ quan thuế xử lý như thế nào:",
+      "options": [
+        "Ban hành Thông báo không chấp nhận hoãn do không thuộc trường hợp bất khả kháng hoặc lý do chính đáng theo quy định.",
+        "Ban hành Thông báo chấp nhận hoãn cho doanh nghiệp.",
+        "Ban hành văn bản bãi bỏ quyết định kiểm tra vì thiếu nhân sự làm việc.",
+        "Yêu cầu doanh nghiệp đình chỉ khóa học của Kế toán trưởng để phục vụ kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 186,
+      "question": "Trưởng đoàn kiểm tra và thành viên đoàn kiểm tra phải thực hiện các yêu cầu về ……..theo quy định của pháp luật và Quy chế giám sát hoạt động của đoàn kiểm tra thuế do Tổng cục trưởng Tổng cục Thuế ban hành.",
+      "options": [
+        "Giám sát đoàn kiểm tra.",
+        "Những điều đảng viên không được làm.",
+        "Chuyên môn.",
+        "Chấp hành nội quy."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 187,
+      "question": "Đối với trường hợp Quyết định được giao trực tiếp mà cá nhân, tổ chức vi phạm cố tình không nhận Quyết định thì Người có thẩm quyền lập biên bản về việc …………. và được coi là Quyết định đã được giao:",
+      "options": [
+        "Không nhận Quyết định có xác nhận của chính quyền địa phương",
+        "Không nhận Quyết định xử phạt.",
+        "Người nộp thuế chấp hành quyết định xử phạt.",
+        "Đã giao quyết định xử phạt nhưng người nộp thuế không nhận quyết định."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 188,
+      "question": "Trường hợp trong quá trình kiểm tra thuế hoặc khi kết thúc kiểm tra mà phát hiện hành vi trốn thuế có dấu hiệu tội phạm thì trong thời hạn ……. kể từ ngày phát hiện hành vi vi phạm, Trưởng đoàn kiểm tra có trách nhiệm báo cáo Lãnh đạo bộ phận kiểm tra thuế trình Thủ trưởng cơ quan thuế xem xét chuyển hồ sơ sang cơ quan điều tra theo quy định của pháp luật:",
+      "options": [
+        "5 (năm) ngày làm việc.",
+        "5 (năm) ngày.",
+        "10 (mười) ngày làm việc.",
+        "10 (mười) ngày."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 189,
+      "question": "Đối với trường hợp Quyết định được giao trực tiếp mà cá nhân, tổ chức vi phạm cố tình không nhận Quyết định thì Người có thẩm quyền lập biên bản về việc …………. và được coi là Quyết định đã được giao:",
+      "options": [
+        "Người nộp thuế chấp hành quyết định xử phạt.",
+        "Không nhận Quyết định xử phạt.",
+        "Không nhận Quyết định có xác nhận của chính quyền địa phương.",
+        "Đã giao quyết định xử phạt nhưng người nộp thuế không nhận quyết định."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 190,
+      "question": "Trưởng đoàn kiểm tra và thành viên đoàn kiểm tra phải thực hiện các yêu cầu về ……..theo quy định của pháp luật và Quy chế giám sát hoạt động của đoàn kiểm tra thuế do Tổng cục trưởng Tổng cục Thuế ban hành.",
+      "options": [
+        "Nội quy, quy chế của cơ quan, đơn vị.",
+        "Giám sát đoàn kiểm tra.",
+        "Chuyên môn.",
+        "Chấp hành nội quy."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 191,
+      "question": "Theo Quy trình 970, trong quá trình kiểm tra tại trụ sở người nộp thuế, xác định trường hợp phạm vi kiểm tra lớn, nội dung phức tạp hoặc xác định cần thiết phải gia hạn kiểm tra để xử lý nội dung vướng mắc có khả năng xảy ra khiếu nại thì trưởng đoàn kiểm tra phải báo cáo người ban hành Quyết định kiểm tra chậm nhất bao nhiêu ngày làm việc, trước khi kết thúc thời gian kiểm tra tại trụ sở người nộp thuế:",
+      "options": [
+        "Báo ngay.",
+        "Chậm nhất 02 ngày làm việc.",
+        "Chậm nhất 03 ngày làm việc.",
+        "Chậm nhất 01 ngày làm việc."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 192,
+      "question": "Do sai sót trong khâu đánh máy, Quyết định kiểm tra ghi sai địa chỉ trụ sở doanh nghiệp X. Đoàn kiểm tra xử lý như thế nào:",
+      "options": [
+        "Trình Thủ trưởng cơ quan thuế ban hành Quyết định sửa đổi, bổ sung Quyết định kiểm tra.",
+        "Điện thoại báo cho doanh nghiệp chỗ sai sót.",
+        "Cứ tiến hành kiểm tra vì mã số thuế vẫn đúng.",
+        "Hủy bỏ quyết định cũ và ký lại quyết định mới với số mới."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 193,
+      "question": "Khi gửi Quyết định kiểm tra qua đường bưu điện, sau 10 ngày bưu điện trả lại với lý do \"người nhận không có tại địa chỉ\". Bước tiếp theo cơ quan thuế nên làm gì:",
+      "options": [
+        "Đăng tin tìm doanh nghiệp trên báo Hải quan.",
+        "Coi như đã gửi xong và xuống doanh nghiệp kiểm tra đột xuất.",
+        "Thực hiện thủ tục phối hợp xác minh tình trạng hoạt động của người nộp thuế tại địa chỉ đã đăng ký và xử lý theo quy định về doanh nghiệp bỏ địa chỉ kinh doanh sau đó trình ban hành hủy quyết định kiểm tra sau khi có Thông báo người nộp thuế không hoạt động tại địa chỉ đăng ký.",
+        "Hủy bỏ quyết định kiểm tra."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 194,
+      "question": "Sau khi ký biên bản kiểm tra, Trưởng đoàn phải báo cáo Lãnh đạo bộ phận về dự thảo Kết luận/Quyết định xử phạt trong bao lâu:",
+      "options": [
+        "01 ngày làm việc.",
+        "02 ngày làm việc.",
+        "03 ngày làm việc.",
+        "05 ngày làm việc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 195,
+      "question": "Ai là người có nhiệm vụ lập biên bản kiểm tra tại",
+      "options": [
+        "Thủ trưởng ký ban hành quyết định kiểm tra.",
+        "Thành viên đoàn kiểm tra.",
+        "Trưởng đoàn kiểm tra.",
+        "Thư ký đoàn kiểm tra."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 196,
+      "question": "Tại sao khi kiểm tra tại doanh nghiệp, đoàn không được phép tự ý mang chứng từ gốc ra khỏi trụ sở doanh nghiệp:",
+      "options": [
+        "Vì đoàn không có xe để chở hồ sơ về.",
+        "Vì hồ sơ doanh nghiệp thường rất nặng.",
+        "Tránh việc mất mát, hư hỏng hồ sơ và đảm bảo tính minh bạch trong việc xử lý tài liệu tại hiện trường.",
+        "Vì doanh nghiệp sợ đoàn sẽ làm mất thông tin mật."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 197,
+      "question": "Theo quy trình, việc bàn giao hồ sơ kiểm tra cho bộ phận lưu trữ bao gồm những tài liệu gì là quan trọng nhất:",
+      "options": [
+        "Toàn bộ hồ sơ từ khâu phân tích, trình ban hành quyết định, biên bản làm việc, bằng chứng, nhật ký cho đến kết luận và quyết định xử lý.",
+        "Chỉ cần bản gốc biên bản kiểm tra và quyết định xử phạt.",
+        "Các hóa đơn gốc của doanh nghiệp đã thu giữ.",
+        "Danh thiếp của Giám đốc doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 198,
+      "question": "Một cuộc kiểm tra đã có Quyết định xử phạt vi phạm hành chính nhưng doanh nghiệp vẫn không đồng ý và khởi kiện ra Tòa án. Trong thời gian Tòa án thụ lý, doanh nghiệp có phải nộp tiền thuế truy thu không:",
+      "options": [
+        "Cơ quan thuế phải trả lại toàn bộ hồ sơ cho doanh nghiệp.",
+        "Vẫn phải nộp tiền theo Quyết định xử lý/xử phạt trừ khi có quyết định tạm đình chỉ của cơ quan có thẩm quyền.",
+        "Được hoãn nộp tiền cho đến khi có bản án cuối cùng của Tòa.",
+        "Chỉ phải nộp 50% số tiền."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 199,
+      "question": "Trong quá trình chuẩn bị công bố quyết định kiểm tra, Người nộp thuế có văn bản xin lùi thời gian kiểm tra 07 ngày với lý do Doanh nghiệp đang tập trung đón tiếp đoàn khách hàng lớn để ký kết hợp đồng xuất khẩu. Thủ trưởng cơ quan thuế xử lý như thế nào:",
+      "options": [
+        "Ra quyết định bãi bỏ cuộc kiểm tra và đưa doanh nghiệp vào danh sách kiểm tra năm sau.”",
+        "Chấp nhận hoãn để tạo điều kiện cho doanh nghiệp phát triển sản xuất kinh doanh.",
+        "Chỉ chấp nhận hoãn nếu doanh nghiệp nộp trước 50% số thuế dự kiến truy thu.",
+        "Ban hành Thông báo không chấp nhận hoãn do lý do nêu trên không được coi là lý do chính đáng để hoãn kiểm tra thuế."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 200,
+      "question": "Theo Quy trình 970, Đoàn kiểm tra và người nộp thuế có thể thực hiện kiểm tra bằng phương thức giao dịch điện tử, làm việc trực tuyến (online) trong điều kiện nào:",
+      "options": [
+        "Chỉ áp dụng cho các tập đoàn đa quốc gia có vốn đầu tư nước ngoài.",
+        "Khi doanh nghiệp có văn bản từ chối tiếp đoàn kiểm tra tại trụ sở.",
+        "Khi cơ sở dữ liệu và ứng dụng CNTT của cả hai bên đáp ứng được yêu cầu làm việc trực tuyến.",
+        "Khi địa bàn doanh nghiệp đóng trụ sở đang có mưa bão lớn."
+      ],
+      "answer": "C"
+    }
+  ]
+}

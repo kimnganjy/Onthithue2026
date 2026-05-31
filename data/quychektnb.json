@@ -1,0 +1,1106 @@
+{
+  "topic": "Quy chế KTNB",
+  "total": 100,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quyết định ban hành Quy trình kiểm tra nội bộ ngành thuế số 3196/QĐ-CT có hiệu lực thi hành kể từ ngày nào:",
+      "options": [
+        "01/01/2025",
+        "07/10/2025",
+        "15/10/2025",
+        "30/12/2025"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 2,
+      "question": "Theo Quy trình kiểm tra nội bộ ngành thuế, đối tượng nào chịu trách nhiệm thi hành việc thực hiện quy trình tại Thuế cơ sở:",
+      "options": [
+        "Trưởng ban Ban Kiểm tra.",
+        "Lãnh đạo Cục Thuế.",
+        "Trưởng Thuế cơ sở.",
+        "Công chức bộ phận thanh tra."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "question": "Mục đích của việc ban hành Quy trình kiểm tra nội bộ ngành thuế là gì:",
+      "options": [
+        "Để cắt giảm biên chế cán bộ ngành thuế.",
+        "Để thay thế hoạt động thanh tra người nộp thuế.",
+        "Chuẩn hoá các nội dung, các bước công việc và đảm bảo hoạt động kiểm tra nội bộ tại cơ quan Thuế các cấp được thực hiện theo đúng quy định của pháp luật theo nguyên tắc quản lý rủi ro bằng phương thức điện tử hóa.",
+        "Chỉ để kiểm tra việc chi tiêu tài chính của ngành."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Cơ quan ban hành văn bản hướng dẫn lập kế hoạch kiểm tra nội bộ năm gửi Thuế tỉnh, thành phố trước ngày 15/10 hàng năm là đơn vị nào:",
+      "options": [
+        "Cục Thuế.",
+        "Tổng cục Thuế.",
+        "Bộ Tài chính.",
+        "Thuế tỉnh, thành phố."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "question": "Trong công tác lập kế hoạch kiểm tra nội bộ hàng năm, Thuế cơ sở phải lập kế hoạch trình lãnh đạo phê duyệt trước ngày nào:",
+      "options": [
+        "30/10 hàng năm",
+        "01/11 hàng năm",
+        "15/11 hàng năm",
+        "30/11 hàng năm"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Theo quy trình kiểm tra nội bộ ngành thuế, thời hạn để Trưởng đoàn kiểm tra nội bộ thực hiện công bố quyết định kiểm tra nội bộ chậm nhất là bao nhiêu ngày kể từ ngày ký ban hành quyết định kiểm tra nội bộ:",
+      "options": [
+        "07 ngày làm việc.",
+        "10 ngày làm việc.",
+        "15 ngày làm việc.",
+        "30 ngày làm việc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "question": "Mẫu biểu số 12/KTNB trong quy trình được dùng cho mục đích gì:",
+      "options": [
+        "Biên bản công bố quyết định kiểm tra.",
+        "Nhật ký Đoàn kiểm tra nội bộ.",
+        "Phiếu yêu cầu giải trình.",
+        "Quyết định niêm phong tài liệu."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Việc gia hạn thời gian kiểm tra nội bộ được thực hiện tối đa bao nhiêu lần cho mỗi cuộc kiểm tra:",
+      "options": [
+        "01 lần",
+        "02 lần",
+        "03 lần",
+        "Không quy định số lần"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 9,
+      "question": "Ai là người có thẩm quyền ký ban hành Quyết định kiểm tra nội bộ theo kế hoạch hoặc đột xuất:",
+      "options": [
+        "Trưởng ban Ban Kiểm tra.",
+        "Trưởng đoàn kiểm tra nội bộ.",
+        "Thủ trưởng cơ quan Thuế.",
+        "Chánh Thanh tra Bộ Tài chính."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Biên bản tổng hợp kết quả kiểm tra nội bộ phải được ký với đơn vị kiểm tra trong thời hạn bao nhiêu ngày kể từ ngày kết thúc cuộc kiểm tra nội bộ:",
+      "options": [
+        "02 ngày làm việc",
+        "03 ngày làm việc",
+        "05 ngày làm việc",
+        "07 ngày làm việc"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 11,
+      "question": "Khi tiến hành kiểm kê tài sản phục vụ kiểm tra nội bộ, Đoàn kiểm tra phải sử dụng mẫu biểu quyết định nào:",
+      "options": [
+        "Mẫu số 15/KTNB",
+        "Mẫu số 16/KTNB",
+        "Mẫu số 17/KTNB",
+        "Mẫu số 19/KTNB"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 12,
+      "question": "Trường hợp thay đổi Trưởng đoàn kiểm tra nội bộ, cơ quan Thuế phải sử dụng mẫu biểu nào sau đây:",
+      "options": [
+        "Mẫu số 05/KTNB",
+        "Mẫu số 06/KTNB",
+        "Mẫu số 07/KTNB",
+        "Mẫu số 08/KTNB"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 13,
+      "question": "Báo cáo kết quả kiểm tra nội bộ phải được Trưởng đoàn kiểm tra nội bộ thực hiện chậm nhất bao nhiêu ngày kể từ ngày kết thúc kiểm tra nội bộ tại đơn vị:",
+      "options": [
+        "05 ngày làm việc.",
+        "10 ngày làm việc.",
+        "15 ngày làm việc.",
+        "20 ngày làm việc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 14,
+      "question": "Kết luận kiểm tra nội bộ phải được người ra quyết định kiểm tra xem xét ban hành chậm nhất trong thời hạn bao nhiêu ngày kể từ ngày nhận được báo cáo kết quả kiểm tra nội bộ:",
+      "options": [
+        "05 ngày làm việc.",
+        "10 ngày làm việc.",
+        "15 ngày làm việc.",
+        "30 ngày làm việc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 15,
+      "question": "Thời hạn để Trưởng đoàn kiểm tra bàn giao hồ sơ cuộc kiểm tra nội bộ cho bộ phận lưu trữ là bao nhiêu ngày kể từ ngày ban hành kết luận kiểm tra nội bộ:",
+      "options": [
+        "15 ngày",
+        "30 ngày",
+        "60 ngày",
+        "90 ngày"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "Khi phát hiện dấu hiệu tội phạm, thời hạn để người ký quyết định kiểm tra nội bộ ban hành văn bản chuyển hồ sơ vụ việc sang cơ quan điều tra là bao nhiêu ngày kể từ ngày nhận được báo cáo:",
+      "options": [
+        "02 ngày làm việc.",
+        "03 ngày làm việc.",
+        "05 ngày làm việc.",
+        "07 ngày làm việc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 17,
+      "question": "Mẫu biểu nào dùng để theo dõi và báo cáo kết quả thực hiện kết luận kiểm tra nội bộ:",
+      "options": [
+        "Mẫu số 30/KTNB.",
+        "Mẫu số 32/KTNB.",
+        "Mẫu số 34/KTNB.",
+        "Mẫu số 39/KTNB."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 18,
+      "question": "Việc nhập toàn bộ dữ liệu của cuộc kiểm tra nội bộ vào ứng dụng kiểm tra nội bộ phải hoàn thành chậm nhất bao nhiêu ngày kể từ ngày Thủ trưởng cơ quan Thuế phê duyệt báo cáo thực hiện kết luận kiểm tra nội bộ của đơn vị được kiểm tra:",
+      "options": [
+        "01 ngày làm việc.",
+        "02 ngày làm việc.",
+        "03 ngày làm việc.",
+        "05 ngày làm việc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Theo quy trình kiểm tra nội bộ ngành thuế, thời hạn nộp báo cáo kế hoạch kiểm tra nội bộ năm của Thuế tỉnh, thành phố về Cục Thuế là ngày nào:",
+      "options": [
+        "Trước ngày 15/10",
+        "Trước ngày 30/10",
+        "Trước ngày 15/11",
+        "Trước ngày 30/11 hàng năm"
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 20,
+      "question": "Quyết định số 3195/QĐ-CT của Cục trưởng Cục Thuế được ký ban hành vào ngày tháng năm nào:",
+      "options": [
+        "30/05/2025",
+        "30/06/2025",
+        "07/10/2025",
+        "08/10/2025"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 21,
+      "question": "Theo Điều 2 Quyết định số 3195/QĐ-CT, Quy chế kiểm tra nội bộ ngành thuế mới thay thế văn bản nào sau đây:",
+      "options": [
+        "Quyết định số 381/QĐ-BTC ngày 26/02/2025",
+        "Quyết định số 970/QĐ-TCT ngày 14/07/2023",
+        "Quyết định số 188/QĐ-TCT ngày 27/02/2018",
+        "Quyết định số 1375/QĐ-CT ngày 30/06/2025"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "Phạm vi điều chỉnh của Quy chế kiểm tra nội bộ ngành thuế ban hành kèm theo Quyết định số 3195/QĐ-CT KHÔNG bao gồm hoạt động nào sau đây:",
+      "options": [
+        "Kế hoạch kiểm tra nội bộ và thực hiện kiểm tra nội bộ.",
+        "Nhiệm vụ, quyền hạn của Trưởng Đoàn kiểm tra nội bộ.",
+        "Hoạt động kiểm tra an toàn kho quỹ, kiểm soát chi.",
+        "Tổ chức thực hiện kết luận kiểm tra nội bộ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 23,
+      "question": "Theo Điều 3 Quy chế kiểm tra nội bộ ngành thuế, \"Ngày làm việc\" được định nghĩa như thế nào:",
+      "options": [
+        "Là ngày liên tục kể cả ngày lễ và ngày nghỉ.",
+        "Là ngày làm việc không tính ngày lễ, ngày nghỉ theo chế độ.",
+        "Là ngày được cơ quan Thuế quy định trong kế hoạch.",
+        "Là ngày từ thứ Hai đến thứ Bảy hàng tuần."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 24,
+      "question": "Trong hoạt động kiểm tra nội bộ, việc nào sau đây phải được bảo mật tuyệt đối theo Điều 4 Quy chế kiểm tra nội bộ ngành thuế:",
+      "options": [
+        "Quyết định kiểm tra nội bộ đã công bố.",
+        "Việc kiểm tra nội bộ đột xuất trước khi công bố.",
+        "Biên bản tổng hợp kết quả kiểm tra đã ký.",
+        "Kết luận kiểm tra đã được công khai."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Ai là người có thẩm quyền ký kết luận kiểm tra nội bộ theo quy định tại Điều 6 Quy chế kiểm tra nội bộ ngành thuế:",
+      "options": [
+        "Trưởng đoàn kiểm tra nội bộ.",
+        "Trưởng bộ phận thực hiện chức năng kiểm tra nội bộ.",
+        "Thủ trưởng cơ quan Thuế (Người ra quyết định kiểm tra).",
+        "Người giám sát Đoàn kiểm tra nội bộ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 26,
+      "question": "Theo Điều 14 Quy chế kiểm tra nội bộ ngành thuế, đối tượng nào sau đây KHÔNG được tham gia đoàn kiểm tra nội bộ:",
+      "options": [
+        "Người đã có 10 năm kinh nghiệm làm công tác thuế.",
+        "Người đang giữ chức vụ lãnh đạo tại đơn vị khác.",
+        "Người đang trong thời gian bị xem xét xử lý kỷ luật.",
+        "Người không thuộc biên chế của bộ phận kiểm tra."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 27,
+      "question": "Theo Điều 15 Quy chế kiểm tra nội bộ ngành thuế, công chức được Cục trưởng Cục Thuế cử làm Trưởng Đoàn kiểm tra nội bộ phải đáp ứng tiêu chuẩn về ngạch công chức như thế nào:",
+      "options": [
+        "Chuyên viên hoặc tương đương trở lên.",
+        "Chuyên viên chính hoặc tương đương trở lên.",
+        "Chuyên viên cao cấp.",
+        "Không quy định ngạch công chức cụ thể."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 28,
+      "question": "Thời hạn thực hiện một cuộc kiểm tra nội bộ diện rộng, phức tạp được quy định tại Điều 26 Quy chế kiểm tra nội bộ ngành thuế là bao nhiêu ngày làm việc:",
+      "options": [
+        "Không quá 20 ngày làm việc.",
+        "Không quá 30 ngày làm việc.",
+        "Không quá 45 ngày làm việc.",
+        "Không quá 60 ngày làm việc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "Quyết định kiểm tra nội bộ phải được gửi cho đơn vị được kiểm tra trong thời hạn bao nhiêu ngày kể từ ngày ban hành (trừ trường hợp đột xuất):",
+      "options": [
+        "01 ngày làm việc.",
+        "02 ngày làm việc.",
+        "03 ngày làm việc.",
+        "05 ngày làm việc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 30,
+      "question": "Tại Thuế cơ sở, công chức được cử làm Trưởng đoàn kiểm tra nội bộ phải giữ chức vụ tối thiểu là gì:",
+      "options": [
+        "Chuyên viên chính.",
+        "Phó Tổ trưởng trở lên.",
+        "Tổ trưởng trở lên.",
+        "Trưởng Thuế cơ sở."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 31,
+      "question": "Theo Điều 19 Quy chế kiểm tra nội bộ ngành thuế, kế hoạch kiểm tra nội bộ năm của Cục Thuế phải được gửi các đơn vị thuộc Cục Thuế, Thuế tỉnh, thành phố trước ngày nào hàng năm:",
+      "options": [
+        "01/10",
+        "15/10",
+        "30/10",
+        "31/12"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Nhiệm vụ nào sau đây thuộc về thành viên Đoàn kiểm tra nội bộ theo Điều 16 Quy chế kiểm tra nội bộ ngành thuế:",
+      "options": [
+        "Ký kết luận kiểm tra nội bộ.",
+        "Lập biên bản làm việc, biên bản chi tiết kết quả kiểm tra phần việc được phân công.",
+        "Phê duyệt kế hoạch kiểm tra chi tiết của Đoàn.",
+        "Thay đổi thành viên khác trong Đoàn khi cần thiết."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "Theo Điều 18 Quy chế kiểm tra nội bộ ngành thuế, nghĩa vụ của đối tượng được kiểm tra nội bộ bao gồm nội dung nào:",
+      "options": [
+        "Từ chối cung cấp hồ sơ rủi ro cao.",
+        "Ký biên bản kiểm tra nội bộ theo quy định.",
+        "Thay đổi Trưởng đoàn kiểm tra nếu thấy không phù hợp.",
+        "Tự ý tiêu hủy tài liệu khi thấy có sai phạm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 34,
+      "question": "Khi bãi bỏ cuộc kiểm tra nội bộ, người tiến hành kiểm tra có trách nhiệm gì theo Điều 6 Quy chế kiểm tra nội bộ ngành thuế:",
+      "options": [
+        "Chuyển hồ sơ cho cơ quan Công an ngay lập tức.",
+        "Hủy bỏ các biện pháp đã áp dụng theo thẩm quyền trong quá trình kiểm tra.",
+        "Tiếp tục kiểm tra cho đến khi có kết quả cuối cùng.",
+        "Thu hồi toàn bộ kinh phí cuộc kiểm tra."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Mẫu biểu số liệu báo cáo định kỳ kiểm tra nội bộ được thực hiện như thế nào theo Điều 34 Quy chế kiểm tra nội bộ ngành thuế:",
+      "options": [
+        "Gửi báo cáo giấy định kỳ hàng tháng.",
+        "Kết xuất biểu số liệu trên ứng dụng Kiểm tra nội bộ.",
+        "Chụp ảnh hồ sơ gửi qua hòm thư điện tử.",
+        "Đơn vị được kiểm tra tự nhập số liệu báo cáo."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 36,
+      "question": "Nhiệm vụ ban hành quy định về hệ thống bộ tiêu chí đánh giá rủi ro kiểm tra nội bộ thuộc thẩm quyền của ai theo Điều 7 Quy chế kiểm tra nội bộ ngành thuế:",
+      "options": [
+        "Trưởng Thuế tỉnh, thành phố.",
+        "Cục trưởng Cục Thuế.",
+        "Trưởng ban Ban Kiểm tra.",
+        "Bộ trưởng Bộ Tài chính."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Thời gian chốt số liệu báo cáo Quý I của công tác kiểm tra nội bộ được tính như thế nào theo Điều 33 Quy chế kiểm tra nội bộ ngành thuế:",
+      "options": [
+        "Từ 01/01 đến 31/03",
+        "Từ ngày 15 tháng 12 năm trước đến ngày 14 tháng 3 năm báo cáo",
+        "Từ ngày 01 tháng 12 năm trước đến ngày 28 tháng 2 năm báo cáo",
+        "Theo năm tài chính từ 01/01 đến 31/12"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 38,
+      "question": "Trưởng Đoàn kiểm tra nội bộ có nhiệm vụ gì sau đây:",
+      "options": [
+        "Tổ chức, chỉ đạo các thành viên Đoàn kiểm tra nội bộ thực hiện đúng nội dung, phạm vi, thời hạn ghi trong quyết định kiểm tra.",
+        "Thông báo kết thúc việc kiểm tra nội bộ trực tiếp tại đơn vị được kiểm tra nội bộ cho người được kiểm tra.",
+        "Lập và bàn giao hồ sơ kiểm tra nội bộ hoặc phân công thành viên đoàn kiểm tra nội bộ lập và bàn giao hồ sơ kiểm tra nội bộ.",
+        "Tất cả đáp án đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 39,
+      "question": "Trưởng Đoàn kiểm tra nội bộ có quyền niêm phong tài liệu của người được kiểm tra hay không:",
+      "options": [
+        "Có quyền niêm phong tài liệu khi có căn cứ cho rằng người được kiểm tra có vi phạm pháp luật.",
+        "Được quyền niêm phong trong mọi tình huống.",
+        "Không được quyền niêm phong.",
+        "Quyền niêm phong tài liệu chỉ áp dụng đối với Trưởng đoàn thanh tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Thành viên Đoàn kiểm tra nội bộ có nhiệm vụ quyền hạn: Thực hiện nhiệm vụ theo sự phân công của Trưởng Đoàn kiểm tra nội bộ, báo cáo Trưởng Đoàn kiểm tra nội bộ về ...........được giao và chịu trách nhiệm trước pháp luật và Trưởng đoàn kiểm tra nội bộ về tính chính xác, trung thực, khách quan của nội dung đã báo cáo. Kiến nghị việc xử lý những vấn đề có liên quan đến nội dung kiểm tra",
+      "options": [
+        "Tình hình, tiến độ, kết quả thực hiện nhiệm vụ.",
+        "Số liệu đối với nội dung công việc.",
+        "Các kiến nghị đề xuất xử lý đối với nội dung công việc được giao.",
+        "Tình hình vi phạm của người được kiểm tra."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 41,
+      "question": "Hoạt động nào sau đây thuộc phạm vi điều chỉnh của Quy chế kiểm tra nội bộ:",
+      "options": [
+        "Kiểm soát chi ngân sách.",
+        "Kiểm tra an toàn kho quỹ.",
+        "Kế hoạch và thực hiện kiểm tra nội bộ ngành Thuế.",
+        "Kiểm tra phê duyệt quyết toán cấp trên đối với cấp dưới."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 42,
+      "question": "\"Kiểm tra nội bộ ngành thuế\" được định nghĩa là hoạt động kiểm tra của:",
+      "options": [
+        "Cơ quan Thuế đối với người nộp thuế.",
+        "Thanh tra Chính phủ đối với ngành Thuế.",
+        "Cơ quan Thuế các cấp đối với cơ quan Thuế cấp dưới và các đơn vị trực thuộc cơ quan Thuế các cấp.",
+        "Công an đối với công chức thuế."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "Nguyên tắc nào sau đây là nguyên tắc hoạt động kiểm tra nội bộ:",
+      "options": [
+        "Tự do thực hiện theo ý chí của Trưởng đoàn.",
+        "Ưu tiên kiểm tra đột xuất hơn kế hoạch.",
+        "Tuân theo quy định pháp luật, đúng chức năng, thẩm quyền, trình tự, thủ tục.",
+        "Không cần bảo mật kế hoạch đột xuất."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "Kiểm tra nội bộ đột xuất được thực hiện trong trường hợp nào sau đây:",
+      "options": [
+        "Khi có yêu cầu kiểm tra nội bộ của cấp trên có thẩm quyền.",
+        "Khi nhận được thông tin, tài liệu, chứng cứ về dấu hiệu vi phạm pháp luật của công chức, cơ quan Thuế và có cơ sở để thẩm tra, xác minh.",
+        "Phục vụ các yêu cầu quản lý về chuyên môn của Thủ trưởng cơ quan Thuế",
+        "Tất cả các đáp án đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 45,
+      "question": "Trường hợp qua kiểm tra nội bộ phát hiện vụ việc vi phạm pháp luật có dấu hiệu tội phạm thì chuyển hồ sơ vụ việc cho cơ quan điều tra có thẩm quyền để xử lý theo quy định của .................",
+      "options": [
+        "Luật cán bộ công chức.",
+        "Luật quản lý thuế.",
+        "Luật xử phạt vi phạm hành chính.",
+        "Bộ Luật tố tụng hình sự."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 46,
+      "question": "Bước đầu tiên của quy trình kiểm tra nội bộ là:",
+      "options": [
+        "Lập báo cáo.",
+        "Xây dựng kế hoạch kiểm tra nội bộ.",
+        "Xử lý vi phạm.",
+        "Công khai kết luận."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 47,
+      "question": "Đâu là nguyên tắc lựa chọn đơn vị lập kế hoạch kiểm tra:",
+      "options": [
+        "Đơn vị có nhiều thông tin phản ánh trên các phương tiện thông tin đại chúng về hạn chế, tồn tại trong công tác quản lý thuế.",
+        "Đơn vị có đơn tố cáo, phản ánh về công tác quản lý thuế, về công chức thuế, về thực thi công vụ.",
+        "Đơn vị có số lượng doanh nghiệp bỏ địa chỉ kinh doanh lớn.",
+        "Đáp án A và B đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 48,
+      "question": "Nội dung kiểm tra nội bộ \"Quản lý nợ và cưỡng chế nợ thuế\" tập trung vào việc gì:",
+      "options": [
+        "Kiểm tra việc phân loại nợ và thực hiện các biện pháp cưỡng chế theo đúng quy định.",
+        "Kiểm tra trình độ chuyên môn của công chức nợ.",
+        "Kiểm tra cơ sở vật chất của bộ phận nợ.",
+        "Kiểm tra lịch trực của bộ phận Một cửa."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 49,
+      "question": "Trong quá trình kiểm tra nội bộ xác định trường hợp phạm vi kiểm tra lớn, nội dung phức tạp hoặc xác định cần thiết phải gia hạn kiểm tra để xử lý nội dung vướng mắc có khả năng xảy ra khiếu nại thì chậm nhất ..................... Trưởng đoàn kiểm tra nội bộ phải báo cáo người giám sát (nếu có) để trình Lãnh đạo cơ quan Thuế ra quyết định gia hạn kiểm tra nội bộ, việc gia hạn kiểm tra nội bộ không quá 01 lần, thời gian gia hạn kiểm tra nội bộ không quá thời hạn của cuộc kiểm tra nội bộ trước đó được gia hạn.",
+      "options": [
+        "02 (hai) ngày làm việc trước khi kết thúc thời hạn kiểm tra nội bộ theo quyết định.",
+        "03 (ba) ngày làm việc trước khi kết thúc thời hạn kiểm tra nội bộ theo quyết định.",
+        "05 (năm) ngày làm việc trước khi kết thúc thời hạn kiểm tra nội bộ theo quyết định.",
+        "01 (một) ngày làm việc trước khi kết thúc thời hạn kiểm tra nội bộ theo quyết định."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Bản chất của hành vi \"Niêm phong tài liệu, vật chứng\" trong kiểm tra đột xuất là gì:",
+      "options": [
+        "Một hình thức kỷ luật đối với đơn vị được kiểm tra.",
+        "Biện pháp ngăn chặn khẩn cấp nhằm bảo vệ tính nguyên trạng của bằng chứng, tránh việc tẩu tán hoặc làm sai lệch hồ sơ.",
+        "Một thủ tục để Đoàn kiểm tra có thời gian đi nghỉ ngơi.",
+        "Để dọa cho đơn vị được kiểm tra phải sợ và khai báo trung thực."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 51,
+      "question": "Hết thời hạn quy định tại kết luận kiểm tra nội bộ mà đối tượng được kiểm tra chưa có báo cáo hoặc đã có báo cáo nhưng thực hiện chưa đầy đủ, hoặc không gửi kèm chứng từ, tài liệu chứng minh cho việc thực hiện thì Trưởng đoàn kiểm tra nội bộ ............. báo cáo Trưởng bộ phận thực hiện chức năng kiểm tra nội bộ trình Thủ trưởng cơ quan Thuế ra Kết luận kiểm tra nội bộ ký yêu cầu tổ chức, cá nhân được kiểm tra nội bộ thực hiện đầy đủ kết luận, kiến nghị, quyết định xử lý và gửi báo cáo đúng thời gian quy định.",
+      "options": [
+        "Trực tiếp",
+        "Dự thảo văn bản đôn đốc",
+        "Gửi email",
+        "Không đáp án nào đúng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Trường hợp nào Thủ trưởng cơ quan Thuế có thẩm quyền bãi bỏ cuộc kiểm tra nội bộ:",
+      "options": [
+        "Khi Trưởng đoàn kiểm tra xin nghỉ ốm.",
+        "Nội dung kiểm tra đã được cơ quan khác có thẩm quyền kết luận.",
+        "Cơ quan điều tra đang điều tra, khởi tố vụ án hình sự về cùng nội dung và thời kỳ kiểm tra nội bộ.",
+        "Đáp án B, C đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 53,
+      "question": "Cục trưởng Cục Thuế có quyền điều động, trưng tập công chức ở đâu để thực hiện kiểm tra nội bộ:",
+      "options": [
+        "Chỉ công chức tại Ban Kiểm tra.",
+        "Công chức toàn ngành Thuế trong phạm vi quản lý của Cục Thuế.",
+        "Công chức ngành Hải quan.",
+        "Công chức thuộc UBND tỉnh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 54,
+      "question": "Triển khai thực hiện kiểm tra nội bộ theo đúng quy định của pháp luật, của ngành về kiểm tra nội bộ và phải thực hiện kiểm tra theo đúng........ đã ghi trong quyết định kiểm tra nội bộ; theo dõi thực hiện kết luận kiểm tra và nhập dữ liệu vào ứng dụng kiểm tra nội bộ ngành thuế",
+      "options": [
+        "Thành phần đoàn.",
+        "Nội dung kiểm tra.",
+        "Phạm vi kiểm tra.",
+        "Nội dung, đối tượng, thời hạn."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 55,
+      "question": "Thủ trưởng cơ quan Thuế (người ra kết luận kiểm tra nội bộ) có trách nhiệm gửi kết luận kiểm tra nội bộ bằng đường ......... hoặc công bố kết luận kiểm tra nội bộ cho đơn vị, cá nhân được kiểm tra nội bộ. Trường hợp cần thiết có thể uỷ quyền cho người đại diện hợp pháp của mình công bố kết luận kiểm tra nội bộ. Việc công bố kết luận kiểm tra nội bộ phải được lập thành biên bản.",
+      "options": [
+        "Bưu chính có hồi báo.",
+        "Bưu chính.",
+        "Văn thư.",
+        "Thư điện tử."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 56,
+      "question": "Trong thời hạn 30 ngày kể từ ngày ban hành kết luận kiểm tra nội bộ hoặc văn bản chỉ đạo của người có thẩm quyền, Trưởng đoàn kiểm tra nội bộ có trách nhiệm hoàn chỉnh hoặc phân công thành viên đoàn kiểm tra nội bộ hoàn chỉnh sắp xếp, lập danh mục hồ sơ và bàn giao hồ sơ kiểm tra nội bộ cho bộ phận thực hiện chức năng kiểm tra nội bộ cùng cấp (người được giao nhiệm vụ lưu trữ) để thực hiện việc lưu trữ theo chế độ quy định. Trường hợp vì trở ngại khách quan thì thời gian bàn giao hồ sơ kiểm tra có thể kéo dài nhưng không quá ..........",
+      "options": [
+        "80 ngày.",
+        "100 ngày.",
+        "120 ngày.",
+        "150 ngày."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 57,
+      "question": "Mục đích của quy trình kiểm tra nội bộ là gì:",
+      "options": [
+        "Đảm bảo tính thống nhất, khách quan trong hoạt động kiểm tra nội bộ ngành Thuế.",
+        "Để thay thế cho quy trình thanh tra thuế doanh nghiệp.",
+        "Để thu thêm tiền phạt từ công chức.",
+        "Để báo cáo kết quả cho cơ quan Công an."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 58,
+      "question": "Trưởng đoàn kiểm tra nội bộ phải chịu trách nhiệm trước ai về việc thực hiện nhiệm vụ được giao:",
+      "options": [
+        "Trưởng phòng Kiểm tra.",
+        "Thủ trưởng cơ quan Thuế (Người ra quyết định kiểm tra).",
+        "Bộ trưởng Bộ Tài chính.",
+        "Không đáp án nào đúng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 59,
+      "question": "Báo cáo kết quả kiểm tra nội bộ và dự thảo kết luận kiểm tra nội bộ trình người ra quyết định kiểm tra nội bộ phải có ............ Ý kiến khác nhau giữa các thành viên Đoàn kiểm tra nội bộ với Trưởng đoàn về nội dung báo cáo kết quả kiểm tra nội bộ phải được phản ánh vào nội dung báo cáo kết quả kiểm tra nội bộ.",
+      "options": [
+        "Đầy đủ ý kiến tham gia bằng văn bản của các thành viên trong Đoàn kiểm tra nội bộ.",
+        "Đầy đủ chữ ký của tất cả các thành viên.",
+        "Đầy đủ dấu mộc.",
+        "Đủ số trang tối thiểu."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 60,
+      "question": "Thành phần Đoàn kiểm tra nội bộ tối thiểu phải có bao nhiêu người:",
+      "options": [
+        "01 người.",
+        "Ít nhất 02 người (Trưởng đoàn và thành viên).",
+        "Ít nhất 05 người.",
+        "Không quy định số lượng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 61,
+      "question": "Ai là người có thẩm quyền phê duyệt thay đổi, bổ sung thành viên Đoàn kiểm tra nội bộ:",
+      "options": [
+        "Trưởng đoàn kiểm tra nội bộ.",
+        "Người ra quyết định kiểm tra nội bộ.",
+        "Người giám sát đoàn kiểm tra nội bộ.",
+        "Thủ trưởng đơn vị được kiểm tra nội bộ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 62,
+      "question": "Văn bản nào là căn cứ pháp lý cao nhất để Đoàn kiểm tra thực hiện nhiệm vụ tại đơn vị:",
+      "options": [
+        "Giấy giới thiệu.",
+        "Quyết định kiểm tra nội bộ.",
+        "Nhật ký đoàn kiểm tra.",
+        "Công văn của đơn vị được kiểm tra."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 63,
+      "question": "Thời hạn một cuộc kiểm tra nội bộ thông thường (không bao gồm gia hạn) do Cục Thuế thực hiện là bao nhiêu ngày:",
+      "options": [
+        "Không quá 10 ngày làm việc.",
+        "Không quá 20 ngày làm việc.",
+        "Không quá 30 ngày làm việc.",
+        "Không quá 60 ngày"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 64,
+      "question": "Tại buổi công bố Quyết định kiểm tra, ai là người đọc toàn văn quyết định kiểm tra:",
+      "options": [
+        "Trưởng đoàn kiểm tra.",
+        "Thành viên đoàn kiểm tra.",
+        "Thủ trưởng đơn vị được kiểm tra.",
+        "Đại diện tổ chức Đảng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 65,
+      "question": "Trường hợp qua kiểm tra, đối chiếu phát hiện biên bản của các đoàn kiểm tra, quyết định xử lý của cơ quan Thuế không chính xác, không khách quan hoặc có tình tiết mới thì Đoàn kiểm tra nội bộ kiến nghị ........theo quy định tại Luật Quản lý thuế và văn bản hướng dẫn thi hành.",
+      "options": [
+        "Xử phạt bổ sung.",
+        "Lập phụ lục biên bản kiểm tra.",
+        "Thực hiện kiểm tra lại.",
+        "Giải trình, bổ sung thông tin, tài liệu."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 66,
+      "question": "Nhật ký đoàn kiểm tra nội bộ được ghi chép khi nào:",
+      "options": [
+        "Sau khi kết thúc cuộc kiểm tra.",
+        "Hàng ngày, kể từ khi có quyết định kiểm tra đến khi ban hành kết luận kiểm tra.",
+        "Chỉ khi có sai phạm phát sinh.",
+        "Khi Trưởng đoàn có yêu cầu."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 67,
+      "question": "Ai là người chịu trách nhiệm chính về tính chính xác, khách quan của Báo cáo kết quả kiểm tra nội bộ:",
+      "options": [
+        "Thành viên đoàn.",
+        "Trưởng đoàn kiểm tra nội bộ.",
+        "Người giám sát.",
+        "Người cung cấp tài liệu."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 68,
+      "question": "Việc niêm phong tài liệu của Đoàn kiểm tra nội bộ được thực hiện khi nào:",
+      "options": [
+        "Khi Đoàn kiểm tra đi ăn trưa.",
+        "Khi cần bảo đảm nguyên trạng tài liệu hoặc khi có dấu hiệu tẩu tán tài liệu.",
+        "Khi cuộc kiểm tra đã kết thúc.",
+        "Khi tài liệu bị hỏng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 69,
+      "question": "Khi phát hiện vi phạm có dấu hiệu tội phạm, Trưởng đoàn kiểm tra nội bộ phải báo cáo ai:",
+      "options": [
+        "Báo cáo cơ quan Công an ngay.",
+        "Báo cáo Người ra quyết định kiểm tra để xử lý theo quy định pháp luật.",
+        "Báo cáo Thủ trưởng đơn vị được kiểm tra.",
+        "Báo cáo Công đoàn ngành Thuế."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "Báo cáo kết quả kiểm tra nội bộ được gửi cho ai:",
+      "options": [
+        "Gửi cho đơn vị được kiểm tra.",
+        "Gửi cho Người ra quyết định kiểm tra nội bộ.",
+        "Gửi cho báo chí.",
+        "Gửi cho người khiếu nại."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 71,
+      "question": "Đoàn kiểm tra nội bộ không được tự ý ................. Trường hợp cần thiết phải được người ký quyết định kiểm tra nội bộ có quyết định bổ sung theo quy định của pháp luật",
+      "options": [
+        "Tự ý kéo dài thời gian kiểm tra.",
+        "Mở rộng nội dung, đối tượng và kéo dài thời gian kiểm tra.",
+        "Đề nghị đơn vị được kiểm tra cung cấp thông tin tài liệu.",
+        "Không đáp án nào đúng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "Quyền hạn của Trưởng đoàn kiểm tra nội bộ bao gồm quyền nào sau đây:",
+      "options": [
+        "Quyết định kỷ luật công chức vi phạm.",
+        "Yêu cầu đối tượng được kiểm tra cung cấp hồ sơ, tài liệu liên quan đến nội dung kiểm tra.",
+        "Thay đổi nội dung kiểm tra mà không cần báo cáo.",
+        "Miễn thuế cho người nộp thuế."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 73,
+      "question": "Người giám sát hoạt động của Đoàn kiểm tra nội bộ  có nhiệm vụ gì:",
+      "options": [
+        "Làm thay việc cho Trưởng đoàn.",
+        "Theo dõi, nắm bắt việc chấp hành pháp luật, quy tắc ứng xử của thành viên Đoàn.",
+        "Ký biên bản kiểm tra.",
+        "Trực tiếp kiểm tra hồ sơ thuế."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 74,
+      "question": "Nếu đơn vị được kiểm tra không ký biên bản kiểm tra nội bộ thì xử lý thế nào:",
+      "options": [
+        "Hủy bỏ cuộc kiểm tra.",
+        "Trưởng đoàn kiểm tra nội bộ lập biên bản nêu rõ lý do không ký biên bản và báo cáo người ra quyết định kiểm tra nội bộ.",
+        "Cưỡng chế đơn vị phải ký.",
+        "Biên bản mặc nhiên không có giá trị."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "Trong quá trình kiểm tra, Đoàn kiểm tra nội bộ có quyền yêu cầu đối tượng được kiểm tra cung cấp hồ sơ, tài liệu không:",
+      "options": [
+        "Không, chỉ được xem tại chỗ.",
+        "Có, và đối tượng được kiểm tra nội bộ phải cung cấp kịp thời, đầy đủ, chính xác.",
+        "Chỉ được yêu cầu nếu có lệnh của Công an.",
+        "Chỉ được yêu cầu sau khi kết thúc kiểm tra."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 76,
+      "question": "Công tác kiểm tra nội bộ bao gồm loại nào:",
+      "options": [
+        "Kiểm tra nội bộ theo kế hoạch năm và kiểm tra đột xuất.",
+        "Kế hoạch hàng tháng.",
+        "Kế hoạch quý.",
+        "Kế hoạch của doanh nghiệp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 77,
+      "question": "Căn cứ để xây dựng kế hoạch kiểm tra nội bộ hàng năm là gì:",
+      "options": [
+        "Theo chỉ định của Trưởng đoàn kiểm tra nội bộ.",
+        "Các thông tin từ báo chí, phản ánh qua đường dây nóng, từ các cơ quan bảo vệ pháp luật (nếu có),…và phân tích rủi ro trong quản lý thuế.",
+        "Theo yêu cầu của báo chí.",
+        "Theo số lượng công chức mới tuyển dụng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "Ai có quyền ký Quyết định gia hạn thời hạn kiểm tra nội bộ:",
+      "options": [
+        "Trưởng đoàn kiểm tra nội bộ.",
+        "Người ra quyết định kiểm tra nội bộ.",
+        "Người giám sát.",
+        "Thủ trưởng đơn vị được kiểm tra."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "Việc thu thập thông tin trước khi kiểm tra nội bộ nhằm mục đích gì:",
+      "options": [
+        "Để làm quen với đơn vị.",
+        "Để xác định trọng tâm, trọng điểm cần kiểm tra.",
+        "Để đơn vị có thời gian tẩu tán hồ sơ.",
+        "Để hoàn thiện báo cáo trước khi đi."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 80,
+      "question": "Căn cứ hành vi, mức độ vi phạm của công chức, đơn vị được kiểm tra nội bộ phải tiến hành xử lý kỷ luật theo quy định. Về thẩm quyền, trình tự và thủ tục xem xét trách nhiệm công chức thực hiện theo quy định của pháp luật về cán bộ, công chức, pháp luật về lao động và pháp luật có liên quan. Khi thực hiện cần phối hợp với ............................ để thực hiện đúng quy định.",
+      "options": [
+        "Bộ phận tổ chức cán bộ.",
+        "Bộ phận Văn thư lưu trữ.",
+        "Bộ phận kiểm tra thuế.",
+        "Cơ quan công an."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 81,
+      "question": "Chậm nhất là……………kể từ ngày nhận được báo cáo việc tổ chức, cá nhân được kiểm tra nội bộ thực hiện kết luận, Thủ trưởng cơ quan Thuế (người ký kết luận kiểm tra nội bộ) phải có ý kiến chỉ đạo chấp thuận hay không chấp thuận.",
+      "options": [
+        "15 ngày làm việc",
+        "10 ngày làm việc",
+        "05 ngày làm việc",
+        "03 ngày làm việc"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 82,
+      "question": "Mẫu biểu sử dụng trong kiểm tra nội bộ ngành Thuế do cơ quan nào quy định:",
+      "options": [
+        "Do Đoàn kiểm tra tự soạn.",
+        "Theo quy định tại các văn bản hướng dẫn của Cục Thuế.",
+        "Theo mẫu của doanh nghiệp.",
+        "Theo mẫu của văn phòng Chính phủ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Việc công khai Kết luận kiểm tra nội bộ được thực hiện bằng hình thức nào:",
+      "options": [
+        "Thông báo trên truyền hình.",
+        "Gửi văn bản cho đơn vị và các bộ phận liên quan, hoặc công khai tại cuộc họp.",
+        "Dán tại cổng cơ quan Thuế.",
+        "Không cần công khai."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 84,
+      "question": "Khi đối tượng kiểm tra có hành vi trì hoãn cung cấp hồ sơ, Trưởng đoàn kiểm tra nội bộ cần làm gì để đúng quy trình:",
+      "options": [
+        "Bỏ qua nội dung đó và ghi vào báo cáo là đơn vị không có hồ sơ.",
+        "Lập biên bản về việc chậm cung cấp tài liệu và báo cáo ngay với Người ra quyết định kiểm tra nội bộ để có biện pháp xử lý.",
+        "Tự ý vào kho hồ sơ của đơn vị để tìm kiếm tài liệu.",
+        "Yêu cầu đơn vị phải đình chỉ công tác của người giữ hồ sơ"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 85,
+      "question": "Đặc điểm nào sau đây thể hiện tính \"Khách quan\" của một báo cáo kết quả kiểm tra nội bộ:",
+      "options": [
+        "Báo cáo chỉ nêu lên những ưu điểm của đơn vị.",
+        "Mọi nhận định, đánh giá đều phải dựa trên bằng chứng, số liệu cụ thể và đối chiếu trực tiếp với quy định pháp luật.",
+        "Báo cáo thể hiện đúng ý chí cá nhân của Trưởng đoàn kiểm tra.",
+        "Báo cáo được viết theo đúng mẫu mà đơn vị được kiểm tra mong muốn."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 86,
+      "question": "Tại sao quy trình yêu cầu phải khai thác hệ thống cơ sở dữ liệu (TMS, TTR, TPR...) trước khi lập kế hoạch kiểm tra nội bộ:",
+      "options": [
+        "Để cán bộ kiểm tra làm quen với công nghệ thông tin",
+        "Để xác định đúng đối tượng rủi ro cao, đảm bảo tính khách quan và hiệu quả trong việc phân bổ nguồn lực kiểm tra",
+        "Vì quy định bắt buộc phải sử dụng hết các ứng dụng của ngành",
+        "Để thay thế hoàn toàn việc kiểm tra trực tiếp tại đơn vị"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 87,
+      "question": "Sự khác biệt cơ bản giữa \"Ngày\" và \"Ngày làm việc\" trong quy trình này được hiểu như thế nào:",
+      "options": [
+        "Hai thuật ngữ này có giá trị tương đương nhau trong mọi trường hợp.",
+        "“Ngày” là ngày liên tục kể cả ngày lễ, ngày nghỉ theo chế độ, “Ngày làm việc” là ngày làm việc không tính ngày lễ, ngày nghỉ theo chế độ.",
+        "Thực hiện theo quy định tại Quy chế Kiểm tra nội bộ tại cơ quan Thuế các cấp hiện hành.",
+        "Do Trưởng đoàn kiểm tra tự quy định tùy theo điều kiện thời tiết"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Ý nghĩa của việc xây dựng Đề cương kiểm tra nội bộ (Mẫu số 04/KTNB) trước khi tiến hành kiểm tra là gì:",
+      "options": [
+        "Để kéo dài thời gian chuẩn bị cuộc kiểm tra.",
+        "Giúp Đoàn kiểm tra nội bộ xác định rõ mục đích, phương pháp, nội dung trọng tâm và danh sách hồ sơ rủi ro cần kiểm tra, tránh dàn trải gây lãng phí.",
+        "Để đơn vị được kiểm tra biết trước và có phương án đối phó.",
+        "Đây là văn bản chỉ mang tính thủ tục hành chính không bắt buộc thực hiện."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Việc lập Nhật ký Đoàn kiểm tra nội bộ (Mẫu số 12/KTNB) nhằm mục đích kiểm soát nội dung nào:",
+      "options": [
+        "Chỉ để kiểm soát thời gian làm việc của các thành viên đoàn.",
+        "Để ghi nhận diễn biến công việc, ý kiến chỉ đạo của người ra quyết định kiểm tra nội bộ (nếu có), các vấn đề phát sinh và làm bằng chứng pháp lý về tính trung thực của cuộc kiểm tra.",
+        "Để đơn vị được kiểm tra biết đoàn đang làm gì mỗi ngày.",
+        "Để thay thế cho Báo cáo kết quả kiểm tra cuối cùng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "Tại sao quy trình kiểm tra nội bộ ngành thuế quy định việc công bố quyết định kiểm tra phải được lập thành biên bản (Mẫu số 13/KTNB):",
+      "options": [
+        "Để thông báo cho người nộp thuế biết cơ quan thuế đang bị kiểm tra.",
+        "Để làm cơ sở cho việc tính lương, phụ cấp cho đoàn kiểm tra.",
+        "Để xác lập thời điểm bắt đầu làm việc trực tiếp chính thức và ghi nhận sự hiện diện, thống nhất lịch làm việc giữa các bên liên quan.",
+        "Để đơn vị được kiểm tra có quyền từ chối không cho đoàn làm việc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 91,
+      "question": "Trong bước \"Hoàn chỉnh biên bản và thông qua biên bản tổng hợp kết quả kiểm tra nội bộ, mục đích của việc Trưởng đoàn phải thông báo cho thành viên đoàn biết về sự thay đổi giữa biên bản dự thảo và biên bản hoàn chỉnh là gì:",
+      "options": [
+        "Để thành viên đoàn đi nói cho đơn vị được kiểm tra biết.",
+        "Để đảm bảo tính thống nhất trong đoàn và Trưởng đoàn kiểm tra nội bộ chịu trách nhiệm về sự thay đổi so với ý kiến tập thể trước đó.",
+        "Để thành viên đoàn ký thay cho Trưởng đoàn.",
+        "Đây là yêu cầu không bắt buộc nếu Trưởng đoàn là cấp trên trực tiếp."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "Tại sao quy trình kiểm tra nội bộ ngành thuế yêu cầu nhập dữ liệu vào ứng dụng kiểm tra nội bộ theo từng bước phát sinh thay vì nhập một lần khi kết thúc cuộc kiểm tra:",
+      "options": [
+        "Để ứng dụng luôn trong trạng thái hoạt động.",
+        "Để cơ quan thuế cấp trên có thể giám sát tiến độ trực tuyến, đảm bảo tính đầy đủ, kịp thời và hạn chế việc sửa đổi số liệu sau khi cuộc kiểm tra kết thúc.",
+        "Để giảm tải băng thông cho hệ thống máy chủ của Cục Thuế.",
+        "Do bộ nhớ của ứng dụng không cho phép lưu giữ lượng dữ liệu lớn một lúc."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 93,
+      "question": "Việc chuyển hồ sơ vụ việc có dấu hiệu tội phạm sang cơ quan điều tra ngay khi phát hiện (không đợi kết thúc kiểm tra nội bộ) nhằm mục đích gì:",
+      "options": [
+        "Để đoàn kiểm tra nhanh chóng kết thúc công việc.",
+        "Để đảm bảo tính kịp thời trong đấu tranh phòng chống tội phạm, ngăn chặn việc tẩu tán tài sản hoặc tiêu hủy chứng cứ vi phạm.",
+        "Để chuyển trách nhiệm cho cơ quan công an xử lý thay.",
+        "Để gây áp lực buộc đơn vị được kiểm tra phải nộp thuế ngay."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 94,
+      "question": "Trong trường hợp có sự trùng lặp về đối tượng kiểm tra giữa kế hoạch kiểm tra nội bộ và kế hoạch của Kiểm toán Nhà nước, cơ quan Thuế xử lý như thế nào theo Điều 21 Quy chế kiểm tra nội bộ ngành thuế:",
+      "options": [
+        "Hủy bỏ ngay kế hoạch kiểm tra nội bộ để tránh phiền hà.",
+        "Giữ nguyên kế hoạch kiểm tra nội bộ nhưng chủ động rà soát, nắm thông tin để điều chỉnh thời gian phù hợp, tránh chồng chéo.",
+        "Yêu cầu Kiểm toán Nhà nước không thực hiện kiểm toán đơn vị đó.",
+        "Thực hiện song song cả hai đoàn để đối chiếu kết quả."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 95,
+      "question": "Theo Quy chế kiểm tra nội bộ ngành thuế, việc gia hạn thời gian kiểm tra nội bộ được thực hiện khi nào và tối đa bao nhiêu lần:",
+      "options": [
+        "Khi Trưởng đoàn thấy cần thiết, không giới hạn số lần gia hạn.",
+        "Khi phạm vi kiểm tra lớn hoặc nội dung phức tạp hoặc xác định cần thiết phải gia hạn  kiểm tra để xử lý nội dung vướng mắc có khả năng xảy ra khiếu nại; gia hạn không quá 01 lần.",
+        "Chỉ thực hiện khi đối tượng được kiểm tra có văn bản đề nghị gia hạn.",
+        "Khi có chỉ đạo của Cục trưởng; mỗi lần gia hạn tối đa 05 ngày."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 96,
+      "question": "Nhiệm vụ, quyền hạn của Trưởng ban Ban Kiểm tra trong hoạt động kiểm tra nội bộ là gì:",
+      "options": [
+        "Trưởng ban Ban Kiểm tra hoạt động độc lập, không chịu sự chỉ đạo của Cục trưởng.",
+        "Trưởng ban giúp Cục trưởng tổ chức thực hiện công tác kiểm tra và chịu trách nhiệm trước Cục trưởng về toàn bộ hoạt động của bộ phận thực hiện chức năng kiểm tra nội bộ do mình quản lý.",
+        "Trưởng ban có quyền ký thay Cục trưởng các văn bản quy phạm pháp luật về thuế.",
+        "Cục trưởng chỉ quản lý về mặt hành chính, không chỉ đạo chuyên môn kiểm tra."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 97,
+      "question": "Việc khảo sát, nắm tình hình trước khi ban hành quyết định kiểm tra nội bộ có đặc điểm gì quan trọng:",
+      "options": [
+        "Phải thông báo bằng văn bản trước 07 ngày cho đơn vị.",
+        "Chỉ yêu cầu báo cáo tình hình, số liệu chưa có trên cơ sở dữ liệu của ngành.",
+        "Phải có sự chứng kiến của chính quyền địa phương.",
+        "Đơn vị được khảo sát có quyền từ chối cung cấp mọi thông tin."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 98,
+      "question": "Trường hợp Trưởng đoàn kiểm tra nội bộ và các thành viên Đoàn kiểm tra có ý kiến khác nhau về nội dung dự thảo kết luận kiểm tra thì xử lý như thế nào theo Điều 28 Quy chế kiểm tra nội bộ ngành thuế:",
+      "options": [
+        "Lấy ý kiến theo đa số để quyết định nội dung.",
+        "Trưởng đoàn quyết định nội dung dự thảo và chịu trách nhiệm trước pháp luật, trước người ra quyết định kiểm tra nội bộ về quyết định của mình.",
+        "Dừng lập dự thảo để kiện toàn lại Đoàn kiểm tra.",
+        "Người ra quyết định kiểm tra sẽ trực tiếp lập dự thảo thay đoàn."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Tại sao Quy chế kiểm tra nội bộ ngành thuế quy định người có anh, chị, em ruột giữ chức vụ Thủ trưởng đơn vị được kiểm tra thì không được tham gia Đoàn kiểm tra nội bộ:",
+      "options": [
+        "Để tiết kiệm chi phí đi lại cho công chức.",
+        "Để đảm bảo tính khách quan, công minh và phòng chống xung đột lợi ích trong hoạt động kiểm tra.",
+        "Vì công chức đó không đủ năng lực chuyên môn.",
+        "Theo quy định về luân chuyển cán bộ của Bộ Tài chính."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 100,
+      "question": "Quyền \"Bảo lưu ý kiến trong biên bản kiểm tra nội bộ\" của đối tượng được kiểm tra theo Quy chế kiểm tra nội bộ ngành thuế có ý nghĩa gì:",
+      "options": [
+        "Cho phép đối tượng không cần thực hiện kết luận kiểm tra.",
+        "Ghi nhận chính kiến của đối tượng để người ra quyết định có cái nhìn đa chiều trước khi ban hành kết luận.",
+        "Là căn cứ để bãi bỏ ngay cuộc kiểm tra.",
+        "Làm cho biên bản kiểm tra không còn giá trị pháp lý."
+      ],
+      "answer": "B"
+    }
+  ]
+}

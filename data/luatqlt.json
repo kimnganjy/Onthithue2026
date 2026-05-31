@@ -1,0 +1,1106 @@
+{
+  "topic": "Luật QLT",
+  "total": 100,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Theo Luật Quản lý thuế hiện hành, đối với cá nhân, mã số thuế được cấp là dãy số nào sau đây:",
+      "options": [
+        "Dãy số 10 chữ số do Cơ quan thuế cấp ngẫu nhiên.",
+        "Số chứng minh nhân dân.",
+        "Mã số định danh cá nhân (Số thẻ Căn cước công dân).",
+        "Dãy số 13 chữ số."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "question": "[Điểm mới Luật số 56/2024] Công chức quản lý thuế chịu trách nhiệm về tính đầy đủ, hợp lệ của hồ sơ giải quyết thủ tục hành chính về thuế trong phạm vi nào:",
+      "options": [
+        "Chịu trách nhiệm tuyệt đối về mọi sai sót của hồ sơ.",
+        "Trong phạm vi hồ sơ, tài liệu, thông tin do người nộp thuế cung cấp và thông tin có trên cơ sở dữ liệu của CQT.",
+        "Chỉ chịu trách nhiệm khi có sự đồng ý của Thủ trưởng.",
+        "Trong phạm vi báo cáo kiểm toán."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "question": "Trong trường hợp người nộp thuế thực hiện hành vi vi phạm pháp luật về thuế do tuân thủ quyết định, văn bản hướng dẫn của cơ quan quản lý thuế thì:",
+      "options": [
+        "Được giảm 50% tiền phạt.",
+        "Vẫn bị xử phạt nhưng miễn tiền chậm nộp.",
+        "Không bị xử phạt vi phạm hành chính, không tính tiền chậm nộp.",
+        "Chỉ bị nhắc nhở."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "question": "Đồng tiền khai thuế, nộp thuế mặc định theo quy định của Luật Quản lý thuế là:",
+      "options": [
+        "Đồng Việt Nam hoặc Đô la Mỹ.",
+        "Đồng Việt Nam, trừ các trường hợp được nộp bằng ngoại tệ tự do chuyển đổi theo quy định.",
+        "Đồng tiền quốc gia trụ sở chính.",
+        "Bất kỳ ngoại tệ tự do chuyển đổi nào."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 5,
+      "question": "Giao dịch điện tử trong lĩnh vực thuế có giá trị pháp lý như:",
+      "options": [
+        "Chỉ tham khảo, phải nộp bản giấy.",
+        "Có giá trị nếu có công chứng.",
+        "Có giá trị như giao dịch bằng phương thức truyền thống (văn bản giấy).",
+        "Chỉ áp dụng cho DN lớn."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "question": "Thời hạn người nộp thuế phải thực hiện đăng ký thuế lần đầu là bao nhiêu ngày:",
+      "options": [
+        "10 ngày làm việc kể từ ngày được cấp Giấy phép.",
+        "10 ngày (tính cả ngày nghỉ).",
+        "15 ngày làm việc.",
+        "05 ngày làm việc."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "question": "Thời hạn giải quyết cấp Giấy chứng nhận đăng ký thuế đối với hồ sơ đầy đủ, hợp lệ là:",
+      "options": [
+        "01 ngày làm việc.",
+        "03 ngày làm việc.",
+        "05 ngày làm việc.",
+        "10 ngày làm việc."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "question": "Đối với loại thuế khai theo tháng, thời hạn nộp hồ sơ khai thuế chậm nhất là:",
+      "options": [
+        "Ngày 15 tháng tiếp theo.",
+        "Ngày 20 của tháng tiếp theo tháng phát sinh nghĩa vụ thuế.",
+        "Ngày cuối cùng của tháng tiếp theo.",
+        "Ngày 30 tháng tiếp theo."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "question": "Đối với loại thuế khai theo quý, thời hạn nộp hồ sơ khai thuế chậm nhất là:",
+      "options": [
+        "Ngày 20 tháng đầu quý sau.",
+        "Ngày 30 tháng đầu quý sau.",
+        "Ngày cuối cùng của tháng đầu của quý tiếp theo quý phát sinh nghĩa vụ thuế.",
+        "Ngày 15 tháng thứ hai."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 10,
+      "question": "Thời hạn nộp hồ sơ quyết toán thuế năm đối với doanh nghiệp chậm nhất là:",
+      "options": [
+        "Ngày cuối cùng của tháng thứ 3 kể từ ngày kết thúc năm dương lịch/tài chính.",
+        "Ngày 31 tháng 3 năm tiếp theo.",
+        "Ngày cuối cùng của tháng thứ 4.",
+        "Ngày thứ 90."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 11,
+      "question": "Thời hạn nộp hồ sơ quyết toán thuế TNCN của cá nhân trực tiếp quyết toán thuế là:",
+      "options": [
+        "Ngày cuối cùng của tháng thứ 3.",
+        "Chậm nhất là ngày cuối cùng của tháng thứ 4 kể từ ngày kết thúc năm dương lịch.",
+        "Ngày cuối cùng của tháng thứ 5.",
+        "Ngày 31 tháng 3."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 12,
+      "question": "Khai thuế theo từng lần phát sinh, thời hạn nộp hồ sơ chậm nhất là:",
+      "options": [
+        "Ngày thứ 10 kể từ ngày phát sinh nghĩa vụ thuế.",
+        "Ngày thứ 15.",
+        "Ngày thứ 20.",
+        "Ngày thứ 30."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 13,
+      "question": "[Điểm mới Luật số 56/2024] Tổ chức quản lý sàn giao dịch TMĐT có chức năng thanh toán có trách nhiệm gì đối với HKD, CNKD trên sàn là:",
+      "options": [
+        "Chỉ cung cấp thông tin.",
+        "Khấu trừ, khai thuế thay, nộp thuế thay cho hộ kinh doanh, cá nhân kinh doanh.",
+        "Đôn đốc tự nộp.",
+        "Không có trách nhiệm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 14,
+      "question": "Người nộp thuế được gia hạn nộp hồ sơ khai thuế trong trường hợp:",
+      "options": [
+        "Kế toán trưởng nghỉ việc.",
+        "Bị thiệt hại vật chất do thiên tai, thảm họa, dịch bệnh, hỏa hoạn, tai nạn bất ngờ.",
+        "Đang chuyển đổi loại hình.",
+        "Mạng nội bộ hỏng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 15,
+      "question": "[Điểm mới Luật số 56/2024] Người nộp thuế được khai bổ sung hồ sơ khai thuế khi phát hiện sai, sót trong thời hạn bao lâu:",
+      "options": [
+        "05 năm.",
+        "10 năm kể từ ngày hết thời hạn nộp hồ sơ khai thuế của kỳ tính thuế có sai, sót.",
+        "Vô thời hạn.",
+        "02 năm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 16,
+      "question": "[Điểm mới Luật số 56/2024] Sau khi CQT đã công bố quyết định kiểm tra tại trụ sở, nếu NNT khai bổ sung thì bị xử lý:",
+      "options": [
+        "Bị xử lý vi phạm hành chính về quản lý thuế.",
+        "Được miễn phạt, chỉ nộp chậm nộp.",
+        "Được giảm 50% phạt.",
+        "CQT trả lại hồ sơ."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 17,
+      "question": "Hồ sơ khai thuế nộp qua bưu điện thì ngày nộp được tính là ngày:",
+      "options": [
+        "Ngày CQT nhận được.",
+        "Ngày ghi trên dấu của tổ chức bưu chính nơi gửi.",
+        "Ngày lập hồ sơ.",
+        "Ngày gửi email báo."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 18,
+      "question": "Nguyên tắc cốt lõi trong giao dịch liên kết nhằm chống chuyển giá là:",
+      "options": [
+        "Bản chất quyết định hình thức.",
+        "Giá vốn.",
+        "Nguyên tắc giao dịch độc lập.",
+        "Phân bổ tỷ lệ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 19,
+      "question": "Doanh nghiệp có nhiều Chi nhánh ở các tỉnh khác nhau. Được cấp bao nhiêu MST 10 số:",
+      "options": [
+        "Được cấp 01 mã số thuế 10 số duy nhất cho Trụ sở chính.",
+        "Mỗi chi nhánh 1 mã 10 số.",
+        "Tùy hạch toán độc lập/phụ thuộc.",
+        "Tối đa 5 mã."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 20,
+      "question": "Đại lý thuế chịu trách nhiệm gì đối với hồ sơ khai thuế của NNT:",
+      "options": [
+        "Chịu trách nhiệm hoàn toàn.",
+        "Chịu trách nhiệm trong phạm vi hợp đồng cung cấp dịch vụ.",
+        "Chỉ chịu trách nhiệm hình thức.",
+        "Không chịu trách nhiệm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 21,
+      "question": "Theo Luật Quản lý thuế số 38/2019/QH14, Cơ quan nào quyết định thành lập Hội đồng tư vấn thuế cấp xã:",
+      "options": [
+        "Chi cục trưởng.",
+        "Chủ tịch UBND cấp tỉnh.",
+        "Chủ tịch UBND cấp huyện.",
+        "Chủ tịch UBND cấp xã."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 22,
+      "question": "Ngân hàng thương mại có trách nhiệm gì theo Điều 27:",
+      "options": [
+        "Khấu trừ nộp thay thuế TMĐT.",
+        "Phong tỏa tài khoản cưỡng chế.",
+        "Cung cấp thông tin giao dịch Cung cấp thông tin tài khoản theo yêu cầu cơ quan thuế.",
+        "Cả 3 phương án trên đều đúng."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 23,
+      "question": "Hành vi nào bị nghiêm cấm trong quản lý thuế:",
+      "options": [
+        "Nộp thuế trước hạn.",
+        "Khai bổ sung trước kiểm tra.",
+        "Cố ý kê khai sai; Thông đồng, bao che trốn thuế.",
+        "Ủy quyền Đại lý thuế."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 24,
+      "question": "Thời hạn nộp thuế đối với NNT tự tính thuế là:",
+      "options": [
+        "Ngày thứ 10 sau khi nộp tờ khai.",
+        "Chậm nhất là ngày cuối cùng của thời hạn nộp hồ sơ khai thuế.",
+        "Ngày thứ 30.",
+        "Tự thỏa thuận."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 25,
+      "question": "Nếu hạn chót nộp hồ sơ khai thuế trùng với ngày nghỉ (Lễ, Tết) thì:",
+      "options": [
+        "Hạn nộp hồ sơ khai thuế là ngày làm việc trước ngày nghỉ.",
+        "Hạn nộp hồ sơ khai thuế là ngày làm việc tiếp theo của ngày nghỉ đó.",
+        "Hạn nộp hồ sơ khai thuế vẫn tính đúng ngày nghỉ.",
+        "Cộng thêm 03 ngày."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 26,
+      "question": "Cơ quan quản lý thuế có quyền ấn định thuế trong trường hợp:",
+      "options": [
+        "Nộp tờ khai quá 10 ngày.",
+        "Không phản ánh hoặc phản ánh không đầy đủ, trung thực, chính xác số liệu trên sổ kế toán để xác định nghĩa vụ thuế.",
+        "Xin gia hạn.",
+        "Khai bổ sung sai sót nhỏ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 27,
+      "question": "Hành vi nào liên quan đến “Giao dịch liên kết” bị ấn định thuế sau đây:",
+      "options": [
+        "Không nộp BCTC hợp nhất.",
+        "Giao dịch giá thị trường.",
+        "Mua, bán không theo giá trị giao dịch thông thường trên thị trường để trốn thuế.",
+        "Không TTKDTM."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 28,
+      "question": "Cơ quan thuế xác định số thuế ấn định dựa trên cơ sở:",
+      "options": [
+        "Cảm tính của Trưởng đoàn.",
+        "Năm trước + 10%.",
+        "Cơ sở dữ liệu của cơ quan quản lý thuế và cơ sở dữ liệu thương mại.",
+        "Trung bình cộng của 03 DN."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 29,
+      "question": "Nếu người nộp thuế không đồng ý với số thuế ấn định thì quyền lợi là:",
+      "options": [
+        "Từ chối nộp chờ tòa án.",
+        "Vẫn phải nộp thuế, nhưng có quyền khiếu nại, khởi kiện.",
+        "Chỉ nộp 50%.",
+        "Yêu cầu đóng MST."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 30,
+      "question": "Người nộp thuế khi nộp thuế qua ngân hàng, ngày nộp thuế tính là ngày:",
+      "options": [
+        "Ngày CQT nhận báo có.",
+        "Ngày Kho bạc hạch toán.",
+        "Ngày ngân hàng trích tiền từ tài khoản của NNT và ghi nhận trên chứng từ nộp tiền thuế.",
+        "Ngày lập UNCD."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 31,
+      "question": "Doanh nghiệp nợ thuế quá hạn (chưa cưỡng chế), nợ phạt VPHC và nợ mới. Khi nộp tiền, hệ thống trừ khoản nào đầu tiên:",
+      "options": [
+        "Nợ mới.",
+        "Tiền nợ thuế quá hạn.",
+        "Doanh nghiệp tự chọn.",
+        "Phạt VPHC."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 32,
+      "question": "Mức tính tiền chậm nộp tiền thuế hiện nay là:",
+      "options": [
+        "0.05%/ngày.",
+        "0.03%/ngày tính trên số tiền thuế chậm nộp.",
+        "0.07%/ngày.",
+        "Lãi suất NHNN."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 33,
+      "question": "[Điểm mới Luật số 56/2024] Thời gian tính tiền chậm nộp được xác định chính xác là:",
+      "options": [
+        "Từ hạn nộp đến ngày nộp.",
+        "Từ ngày tiếp theo hạn nộp đến ngày nộp đủ.",
+        "Từ ngày tiếp theo ngày cuối cùng của thời hạn nộp thuế, thời hạn gia hạn nộp thuế.",
+        "Do CQT quyết định."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 34,
+      "question": "Người nộp thuế không bị tính chậm nộp trong trường hợp:",
+      "options": [
+        "Kinh doanh thua lỗ.",
+        "Khoản tiền thuế phát sinh từ nguồn NSNN nhưng chưa được NSNN thanh toán.",
+        "Chờ Ngân hàng giải ngân.",
+        "Kế toán nghỉ việc."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 35,
+      "question": "Khi người nộp thuế nộp thừa tiền thuế, CQT xử lý như thế nào:",
+      "options": [
+        "Hoàn tiền mặt ngay.",
+        "Chỉ bù trừ năm sau.",
+        "Bù trừ với nợ thuế, nợ phạt hoặc hoàn trả số tiền nộp thừa.",
+        "Sung công quỹ."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 36,
+      "question": "Trường hợp xin hoàn trả tiền nộp thừa, CQT phải giải quyết trong bao lâu:",
+      "options": [
+        "03 ngày.",
+        "06 ngày làm việc.",
+        "15 ngày.",
+        "30 ngày."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 37,
+      "question": "Tiền nộp thừa không được hoàn/bù trừ nếu thời gian nộp thừa đã qua bao lâu:",
+      "options": [
+        "03 năm.",
+        "05 năm.",
+        "Quá thời hạn 10 năm kể từ ngày nộp tiền vào NSNN mà NNT không bù trừ NSNN và không hoàn thuế.",
+        "Vô thời hạn."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 38,
+      "question": "Người nộp thuế được nộp dần tiền nợ thuế tối đa bao lâu theo quy định:",
+      "options": [
+        "06 tháng.",
+        "Không quá 12 tháng.",
+        "24 tháng.",
+        "Tùy tình hình tài chính."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 39,
+      "question": "Điều kiện bắt buộc để được nộp dần nợ thuế là:",
+      "options": [
+        "Có bảo lãnh của tổ chức tín dụng.",
+        "Đóng trước 50%.",
+        "Là doanh nghiệp nhà nước.",
+        "Miễn chậm nộp."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 40,
+      "question": "Người nộp thuế bị thiệt hại do thiên tai, dịch bệnh, được gia hạn nộp thuế tối đa là bao lâu kể từ ngày hết thời hạn nộp thuế:",
+      "options": [
+        "06 tháng.",
+        "01 năm.",
+        "Không quá 02 năm.",
+        "03 năm."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 41,
+      "question": "Người nộp thuế phải di dời cơ sở sản xuất kinh doanh theo yêu cầu của Nhà nước, được gia hạn nộp thuế là bao lâu kể từ ngày hết thời hạn nộp thuế:",
+      "options": [
+        "06 tháng.",
+        "Không quá 01 năm.",
+        "02 năm.",
+        "Vô thời hạn."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 42,
+      "question": "Cơ quan thuế giải quyết hồ sơ gia hạn nộp thuế trong thời gian bao lâu, kể từ ngày nhận đủ hồ sơ:",
+      "options": [
+        "03 ngày.",
+        "05 ngày.",
+        "10 ngày làm việc.",
+        "15 ngày."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 43,
+      "question": "[Điểm mới Luật số 56/2024] Đối tượng nào bị tạm hoãn xuất cảnh do nợ thuế?",
+      "options": [
+        "Kế toán trưởng.",
+        "Cổ đông 5%.",
+        "Người đại diện theo pháp luật của doanh nghiệp đang bị cưỡng chế thuế.",
+        "Vợ/chồng Giám đốc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 44,
+      "question": "[Điểm mới Luật số 56/2024] Để tránh cấm bay vì nợ nhỏ, Luật 56 bổ sung quy định là:",
+      "options": [
+        "Bỏ cấm Giám đốc.",
+        "Chỉ cấm người nước ngoài.",
+        "Chính phủ quy định ngưỡng số tiền thuế nợ và thời gian nợ để áp dụng tạm hoãn xuất cảnh.",
+        "Cấm đi nước không hiệp định."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 45,
+      "question": "Doanh nghiệp giải thể, ai là người chịu trách nhiệm hoàn thành nộp thuế:",
+      "options": [
+        "Quản tài viên.",
+        "Chủ sở hữu hoặc Hội đồng giải thể.",
+        "Sở Kế hoạch & Đầu tư (nay là Sở Tài chính).",
+        "Tòa án."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 46,
+      "question": "Công ty A chia thành 02 Công ty B và C. Nợ thuế của Công ty A, ai sẽ trả:",
+      "options": [
+        "Xóa nợ cho A.",
+        "Ngân sách Nhà nước gánh.",
+        "Doanh nghiệp mới (B và C) có trách nhiệm liên đới.",
+        "Chỉ B trả."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 47,
+      "question": "Cá nhân chết để lại tài sản. Nợ thuế sẽ được xử lý:",
+      "options": [
+        "Xóa toàn bộ.",
+        "Vợ/chồng trả bằng tiền riêng.",
+        "Người thừa kế nộp trong phạm vi di sản để lại.",
+        "Tịch thu di sản."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 48,
+      "question": "Cá nhân chết không có tài sản, nợ thuế sẽ được xử lý:",
+      "options": [
+        "Con cái trả thay.",
+        "Được Nhà nước xem xét xóa nợ.",
+        "Treo nợ vĩnh viễn.",
+        "Thành vay Ngân hàng."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 49,
+      "question": "Cơ quan thuế phân loại hồ sơ hoàn thuế thành mấy diện hồ sơ:",
+      "options": [
+        "Rủi ro cao/thấp.",
+        "02 diện: Hoàn trước - kiểm sau và Kiểm trước - hoàn sau.",
+        "03 diện.",
+        "Không phân loại."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 50,
+      "question": "Hồ sơ nào bị xếp vào diện “Kiểm tra trước, hoàn thuế sau”:",
+      "options": [
+        "Hoàn lần thứ 10.",
+        "Không vi phạm 05 năm.",
+        "Hồ sơ đề nghị hoàn thuế lần đầu.",
+        "Doanh nghiệp FDI vốn lớn."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 51,
+      "question": "Có hành vi trốn thuế trong bao lâu, thì hồ sơ đề nghị hoàn của người nộp thuế bị xếp vào diện “Kiểm tra trước, hoàn thuế sau”:",
+      "options": [
+        "01 năm.",
+        "Trong thời hạn 02 năm, kể từ thời điểm bị xử lý về hành vi trốn thuế.",
+        "05 năm.",
+        "Vĩnh viễn."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 52,
+      "question": "Thời hạn giải quyết hồ sơ thuộc diện “Hoàn thuế trước, kiểm tra sau” là:",
+      "options": [
+        "Chậm nhất 06 ngày làm việc.",
+        "15 ngày.",
+        "40 ngày.",
+        "Không quy định."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 53,
+      "question": "Thời hạn giải quyết hồ sơ thuộc diện “Kiểm tra trước, hoàn thuế sau” là:",
+      "options": [
+        "15 ngày làm việc.",
+        "30 ngày làm việc.",
+        "Chậm nhất 40 ngày kể từ ngày CQT có thông báo chấp nhận hồ sơ.",
+        "60 ngày làm việc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 54,
+      "question": "Trường hợp chậm hoàn thuế, do lỗi của cơ quan thuế thì xử lý như thế nào:",
+      "options": [
+        "Có văn bản xin lỗi người nộp thuế.",
+        "Phải trả tiền lãi với mức 0,03%/ngày tính trên số tiền phải hoàn trả và số ngày chậm hoàn trả.",
+        "Không bị xử lý.",
+        "Miễn thuế kỳ sau cho người nộp thuế có số thuế đề nghị hoàn."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 55,
+      "question": "Ý nghĩa của từ “khoanh nợ” là:",
+      "options": [
+        "Xóa nợ hoàn toàn.",
+        "Không tính tiền chậm nộp trong thời gian khoanh nợ.",
+        "Được vay vốn.",
+        "Miễn kiểm tra người nộp thuế."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 56,
+      "question": "Ai được xét khoanh nợ tiền thuế:",
+      "options": [
+        "Doanh nghiệp báo lỗ 03 năm liên tục.",
+        "Người nộp thuế có tổ chức các chuyến du lịch trong năm.",
+        "Cá nhân được pháp luật coi là đã chết, mất tích, mất năng lực hành vi dân sự.",
+        "Giám đốc đang bị ốm hoặc bệnh nặng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 57,
+      "question": "Đã áp dụng mọi biện pháp cưỡng chế mà không thu được, cần bao lâu để được xóa nợ:",
+      "options": [
+        "03 năm.",
+        "05 năm.",
+        "Quá 10 năm kể từ ngày hết hạn nộp, nhưng không có khả năng thu hồi.",
+        "15 năm."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 58,
+      "question": "Doanh nghiệp phá sản, thanh lý tài sản không đủ nộp thuế, sẽ bị xử lý:",
+      "options": [
+        "Giám đốc chịu toàn bộ.",
+        "Treo nợ vĩnh viễn.",
+        "Chuyển sang doanh nghiệp mới.",
+        "Được xóa nợ thuế."
+      ],
+      "answer": "D"
+    },
+    {
+      "id": 59,
+      "question": "Nợ từ 05 tỷ đến dưới 10 tỷ, ai có quyền xóa nợ:",
+      "options": [
+        "Chủ tịch UBND tỉnh.",
+        "Tổng cục trưởng Tổng cục Thuế / Hải quan (nay là Cục trưởng Cục Thuế/ Cục Hải quan).",
+        "Bộ trưởng Bộ Tài chính.",
+        "Thủ tướng Chính phủ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 60,
+      "question": "Nợ trên 15 tỷ đồng, ai có quyền xóa nợ:",
+      "options": [
+        "Tổng cục trưởng (Cục Thuế).",
+        "Bộ trưởng Bộ Tài chính.",
+        "Thủ tướng Chính phủ.",
+        "Quốc hội."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 61,
+      "question": "Hồ sơ xóa nợ phát hiện gian lận, sẽ được xử lý như thế nào:",
+      "options": [
+        "Giữ nguyên.",
+        "Phạt cảnh cáo.",
+        "Hủy quyết định xóa nợ, truy thu toàn bộ.",
+        "Tịch thu tài sản."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 62,
+      "question": "Ngân hàng cung cấp thông tin tài khoản cho cơ quan thuế trong thời hạn bao lâu khi có yêu cầu:",
+      "options": [
+        "03 ngày.",
+        "05 ngày.",
+        "10 ngày làm việc.",
+        "30 ngày."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 63,
+      "question": "Cơ quan thuế được công khai thông tin người nộp thuế khi:",
+      "options": [
+        "Trốn thuế, chây ỳ không nộp tiền thuế và các khoản thu khác đúng thời hạn; không thực hiện theo yêu cầu của cơ quan quản lý thuế theo quy định của pháp luật.",
+        "Chậm nộp hồ sơ thuế 01 ngày.",
+        "Khi đang khiếu nại, khởi kiện.",
+        "Nộp thuế đúng hạn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 64,
+      "question": "Đại lý thuế phải có tối thiểu bao nhiêu người được cấp chứng chỉ hành nghề dịch vụ làm thủ tục về thuế:",
+      "options": [
+        "01 người được cấp chứng chỉ.",
+        "02 người được cấp chứng chỉ, làm việc toàn thời gian tại doanh nghiệp.",
+        "02 người được cấp chứng chỉ.",
+        "03 người được cấp chứng chỉ."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 65,
+      "question": "Ai là người không được làm nhân viên đại lý thuế theo quy định:",
+      "options": [
+        "Người nghỉ hưu.",
+        "Kế toán tự do.",
+        "Công chức, viên chức đương nhiệm.",
+        "Cử nhân kinh tế."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 66,
+      "question": "Đại lý thuế thông đồng trốn thuế, ai là người phải chịu trách nhiệm:",
+      "options": [
+        "Chỉ người nộp thuế.",
+        "Chỉ đại lý thuế.",
+        "Cả người nộp thuế và đại lý thuế có liên đới.",
+        "Không có ai."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 67,
+      "question": "Thời gian đình chỉ hoạt động của đại lý thuế tối đa là:",
+      "options": [
+        "Không quá 90 ngày, kể từ ngày quyết định đình chỉ có hiệu lực.",
+        "Từ 06 tháng đến 12 tháng.",
+        "Chỉ thu hồi Giấy xác nhận đủ điều kiện kinh doanh dịch vụ.",
+        "Thu hồi Giấy xác nhận và vĩnh viễn không cấp lại."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 68,
+      "question": "Doanh nghiệp nợ quá hạn (không bỏ trốn), biện pháp cưỡng chế đầu tiên được thực hiện là:",
+      "options": [
+        "Kê biên nhà xưởng, tài sản.",
+        "Trích tiền từ tài khoản, phong tỏa tài khoản ngân hàng.",
+        "Ngừng sử dụng hóa đơn.",
+        "Rút giấy phép kinh doanh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 69,
+      "question": "Quyết định cưỡng chế bằng biện pháp trích tiền từ tài khoản, có hiệu lực thi hành là:",
+      "options": [
+        "10 ngày.",
+        "30 ngày kể từ ngày ban hành quyết định.",
+        "06 tháng.",
+        "01 năm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 70,
+      "question": "Khấu trừ tiền lương, bị cưỡng chế theo tỷ lệ bao nhiêu %:",
+      "options": [
+        "Không thấp hơn 10% và không quá 30% tổng lương/tháng.",
+        "50% tổng lương/tháng.",
+        "100% tổng lương/tháng.",
+        "5% tổng lương/tháng."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 71,
+      "question": "Tài sản nào sau đây không được kê biên cưỡng chế theo quy định:",
+      "options": [
+        "Ô tô giám đốc.",
+        "Thuốc chữa bệnh, lương thực thiết yếu.",
+        "Sổ tiết kiệm.",
+        "Cổ phiếu."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 72,
+      "question": "Biện pháp cưỡng chế ngừng sử dụng hóa đơn áp dụng khi nào:",
+      "options": [
+        "Chậm nộp hồ sơ thuế 01 ngày.",
+        "Chậm nộp tiền thuế 30 ngày, kể từ ngày hết thời hạn.",
+        "Khi không trích được tiền tài khoản, không trừ được lương.",
+        "Cuối cùng."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 73,
+      "question": "Theo Điều 110, nguyên tắc kiểm tra thuế tại trụ sở người nộp thuế là:",
+      "options": [
+        "Mỗi quý 01 lần.",
+        "Không quá 01 lần trong 01 năm đối với 01 người nộp thuế (trừ khi có vi phạm).",
+        "Không giới hạn số lần.",
+        "Chỉ khi có đơn tố cáo."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 74,
+      "question": "Thời hạn kiểm tra thuế tại trụ sở người nộp thuế, được quy định tối đa là bao nhiêu ngày:",
+      "options": [
+        "05 ngày làm việc.",
+        "10 ngày làm việc (có thể gia hạn 01 lần không quá 10 ngày).",
+        "30 ngày làm việc.",
+        "45 ngày làm việc."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 75,
+      "question": "Quyết định kiểm tra thuế tại trụ sở người nộp thuế phải được gửi cho người nộp thuế trong thời hạn bao nhiêu ngày làm việc, kể từ ngày ký:",
+      "options": [
+        "03 ngày.",
+        "02 ngày.",
+        "05  ngày.",
+        "07 ngày."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 76,
+      "question": "Cơ quan thuế được quyền tạm giữ tài liệu, tang vật liên quan đến hành vi trốn thuế khi:",
+      "options": [
+        "Khi bắt đầu mọi cuộc kiểm tra.",
+        "Khi cần ngăn chặn ngay hành vi tẩu tán, tiêu hủy tài liệu.",
+        "Khi NNT chậm nộp tờ khai.",
+        "Không có quyền này."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 77,
+      "question": "Phát hiện hành vi trốn thuế có dấu hiệu tội phạm hình sự, cơ quan thuế phải tiến hành:",
+      "options": [
+        "Tự khởi tố vụ án.",
+        "Chuyển ngay hồ sơ cho cơ quan tiến hành tố tụng (Công an).",
+        "Phạt hành chính gấp 05 lần.",
+        "Thu hồi giấy phép."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "Trình tự thực hiện 07 biện pháp cưỡng chế thuế theo quy định chung là:",
+      "options": [
+        "Tùy theo lựa chọn của cơ quan thuế.",
+        "Làm đồng loạt cùng lúc.",
+        "Thực hiện theo đúng thứ tự (biện pháp trước không hiệu quả mới dùng biện pháp sau).",
+        "Kê biên tài sản đầu tiên."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 79,
+      "question": "[Điểm mới Luật số 56/2024] Khi nào cơ quan thuế được phép lựa chọn áp dụng ngay biện pháp cưỡng chế phù hợp mà không cần theo thứ tự:",
+      "options": [
+        "Nợ thuế trên 01 tỷ.",
+        "Chậm nộp quá 01 năm.",
+        "Có hành vi phát tán tài sản hoặc bỏ trốn.",
+        "Doanh nghiệp FDI."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 80,
+      "question": "Biện pháp thu hồi giấy chứng nhận đăng ký doanh nghiệp thuộc trường hợp cưỡng chế nào sau đây:",
+      "options": [
+        "Đầu tiên.",
+        "Thứ 3.",
+        "Cuối cùng (trường hợp thứ 7).",
+        "Không có biện pháp này."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 81,
+      "question": "Thời hiện xử phạt đối với hành vi vi phạm thủ tục thuế (chậm nộp hồ sơ thuế) là bao nhiêu lâu, kể từ ngày thực hiện hành vi vi phạm:",
+      "options": [
+        "01 năm.",
+        "02 năm.",
+        "03 năm.",
+        "05 năm."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 82,
+      "question": "Thời hiệu xử phạt hành vi khai sai dẫn đến thiếu thuế hoặc trốn thuế là:",
+      "options": [
+        "02 năm.",
+        "05 năm.",
+        "10 năm.",
+        "Không quy định thời hạn."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 83,
+      "question": "Quá thời hiệu xử phạt vi phạm hành chính về thuế (05 năm) thì người nộp thuế không bị xử phạt, nhưng cơ quan thuế được quyền:",
+      "options": [
+        "Không được làm gì.",
+        "Phạt cảnh cáo",
+        "Truy thu đủ số tiền thuế thiếu, số tiền thuế trốn, số tiền thuế được miễn, giảm, hoàn và tính tiền chậm nộp trong thời hạn 10 năm trở về trước, kể từ ngày phát hiện hành vi vi phạm.",
+        "Thực hiện thủ tục đóng mã số thuế."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 84,
+      "question": "Nếu người nộp thuế khai sai, dẫn đến làm thiếu thuế, nhưng nộp tờ khai bổ sung và nộp đủ tiền thuế thiếu trước khi CQT kiểm tra thì bị xử lý:",
+      "options": [
+        "Phạt 20% số thuế thiếu.",
+        "Phạt trốn thuế.",
+        "Chỉ nộp tiền chậm nộp, không bị phạt vi phạm hành chính.",
+        "Bị truy tố."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 85,
+      "question": "Mức phạt tiền đối với hành vi khai sai dẫn đến thiếu số thuế phải nộp (khi bị CQT phát hiện) là:",
+      "options": [
+        "10% số thuế thiếu.",
+        "20% số tiền thuế khai thiếu.",
+        "50% số thuế thiếu.",
+        "Phạt từ 1 đến 3 lần số thuế thiếu."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 86,
+      "question": "Mức phạt tiền đối với hành vi trốn thuế (giấu doanh thu, mua bán hóa đơn giả) là:",
+      "options": [
+        "20%.",
+        "Từ 1 lần đến 3 lần số tiền thuế trốn.",
+        "Cố định 50 triệu/hành vi.",
+        "Tịch thu tài sản."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 87,
+      "question": "Người nộp thuế bị chậm nộp hồ sơ khai thuế do lỗi hệ thống mạng của CQT thì bị xử lý:",
+      "options": [
+        "Vẫn phạt bình thường.",
+        "Không bị xử phạt vi phạm hành chính.",
+        "Phạt 50% mức phạt theo quy định.",
+        "Đình chỉ kinh doanh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 88,
+      "question": "Khiếu nại Quyết định xử phạt của CQT, người nộp thuế có phải nộp tiền phạt trong lúc chờ giải quyết hay không:",
+      "options": [
+        "Không phải nộp.",
+        "Vẫn phải nộp đủ tiền thuế, tiền phạt theo thời hạn quy định.",
+        "Nộp 50%.",
+        "Do Tòa án quyết định."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 89,
+      "question": "Nếu người nộp thuế thắng kiện, CQT bị tòa án tuyên thu sai tiền thuế thì CQT sẽ phải làm gì:",
+      "options": [
+        "Xin lỗi.",
+        "Hoàn trả tiền thu sai và trả thêm tiền lãi 0.03%/ngày.",
+        "Chỉ hoàn tiền gốc.",
+        "Trừ vào thuế năm sau."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 90,
+      "question": "Ngân hàng thương mại không trích tiền nợ thuế từ tài khoản của người nộp thuế theo Lệnh cưỡng chế sẽ bị phạt:",
+      "options": [
+        "Phạt 10 triệu.",
+        "Phạt tiền tương ứng với số tiền không trích chuyển.",
+        "Khởi kiện và yêu cầu rút giấy phép Ngân hàng.",
+        "Cảnh cáo."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 91,
+      "question": "Điều khoản chuyển tiếp đối với tiền nợ thuế phát sinh trước khi Luật mới có hiệu lực thì áp dụng:",
+      "options": [
+        "Bắt buộc luật mới.",
+        "Áp dụng luật tại thời điểm phát sinh (trừ khi luật mới nhẹ hơn).",
+        "Xóa nợ.",
+        "Nhân đôi tiền phạt."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 92,
+      "question": "Luật 56/2024/QH15 sửa đổi Luật Quản lý thuế số 38/2019/QH14 có hiệu lực thi hành từ ngày:",
+      "options": [
+        "29/11/2024.",
+        "01/01/2025.",
+        "01/07/2025.",
+        "03/05/2026."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 93,
+      "question": "Tổ chức nào không thuộc quyền cưỡng chế của cơ quan thuế:",
+      "options": [
+        "Ngân hàng.",
+        "Hải quan.",
+        "Tòa án nhân dân.",
+        "Kho bạc."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 94,
+      "question": "Ai là người ban hành Quyết định Cưỡng chế nợ thuế:",
+      "options": [
+        "Chủ tịch UBND.",
+        "Thủ trưởng cơ quan quản lý thuế.",
+        "Bộ trưởng Bộ Tài chính.",
+        "Công an."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 95,
+      "question": "Việc thu tiền từ bên thứ ba (khách hàng đang nợ tiền của người nộp thuế) là biện pháp cưỡng chế thứ mấy được áp dụng:",
+      "options": [
+        "Đầu tiên (thứ nhất).",
+        "Thứ hai.",
+        "Thứ sáu.",
+        "Cuối cùng (thứ 7)."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 96,
+      "question": "Hành vi nào sau đây không bị coi là trốn thuế:",
+      "options": [
+        "Bỏ ngoài sổ sách doanh thu.",
+        "Sử dụng hóa đơn bất hợp pháp.",
+        "Hạch toán nhầm luật dẫn đến sai số thuế (có hóa đơn đầy đủ).",
+        "Không nộp tờ khai thuế."
+      ],
+      "answer": "C"
+    },
+    {
+      "id": 97,
+      "question": "Thời gian tối đa để gia hạn 01 cuộc kiểm tra thuế tại trụ sở NNT là:",
+      "options": [
+        "10 ngày làm việc.",
+        "Không quá 30 ngày làm việc.",
+        "60 ngày làm việc.",
+        "Không có quyền được gia hạn."
+      ],
+      "answer": "A"
+    },
+    {
+      "id": 98,
+      "question": "Cơ quan nào có thẩm quyền gia hạn nộp thuế trong trường hợp người nộp thuế bị thiệt hại do thiên tai, dịch bệnh:",
+      "options": [
+        "Cục trưởng Cục Thuế.",
+        "Thủ trưởng cơ quan quản lý thuế trực tiếp.",
+        "Bộ trưởng Bộ Tài chính.",
+        "Chủ tịch UBND cấp tỉnh."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 99,
+      "question": "Hồ sơ hoàn thuế có thể được nộp thông qua hình thức:",
+      "options": [
+        "Chỉ được nộp trực tuyến qua Cổng thông tin điện tử.",
+        "Nộp điện tử, nộp trực tiếp tại cơ quan thuế hoặc gửi qua bưu chính.",
+        "Chỉ nộp trực tiếp tại Bộ phận một cửa.",
+        "Bắt buộc phải thông qua Đại lý thuế."
+      ],
+      "answer": "B"
+    },
+    {
+      "id": 100,
+      "question": "Tổ chức chi trả thu nhập (Công ty) quyết toán thuế TNCN thay cho người lao động, thì hạn nộp hồ sơ chậm nhất là:",
+      "options": [
+        "Ngày cuối cùng của tháng thứ 3 kể từ ngày kết thúc năm dương lịch.",
+        "Ngày cuối cùng của tháng thứ 4 kể từ ngày kết thúc năm dương lịch.",
+        "Tự do thỏa thuận với cơ quan thuế.",
+        "Tự do thỏa thuận với người lao động."
+      ],
+      "answer": "A"
+    }
+  ]
+}

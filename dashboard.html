@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Dashboard</title>
+
+<style>
+body{background:#0f172a;color:#fff;font-family:Arial;}
+.container{max-width:1000px;margin:auto;padding:20px;}
+.card{background:#111827;padding:15px;margin:10px 0;border-radius:10px;}
+.badge{background:#334155;padding:5px 10px;border-radius:20px;}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>📊 Dashboard</h1>
+
+<h2>🏆 Ranking</h2>
+<div id="ranking"></div>
+
+<h2>📚 Theo chủ đề</h2>
+<div id="topic"></div>
+
+<h2>📚 Lịch sử</h2>
+<div id="history"></div>
+
+<h2>🧠 Review</h2>
+<div id="review"></div>
+
+</div>
+
+<script>
+
+let history=JSON.parse(localStorage.getItem("history"))||[];
+
+/* RANKING */
+function renderRanking(){
+
+let users={};
+
+history.forEach(h=>{
+
+let key=h.user+" - "+h.workplace;
+
+if(!users[key])users[key]={t:0,s:0};
+
+users[key].t++;
+users[key].s+=+h.percent;
+
+});
+
+let arr=Object.entries(users).map(([n,v])=>({
+name:n,
+avg:v.s/v.t
+})).sort((a,b)=>b.avg-a.avg);
+
+let html="";
+
+arr.forEach((u,i)=>{
+
+html+=`
+<div class="card">
+<b>#${i+1} ${u.name}</b>
+<span class="badge">${u.avg.toFixed(2)}%</span>
+</div>
+`;
+});
+
+document.getElementById("ranking").innerHTML=html;
+}
+
+/* TOPIC */
+function renderTopic(){
+
+let map={};
+
+history.forEach(h=>{
+if(!h.topics)return;
+
+for(let t in h.topics){
+if(!map[t])map[t]={c:0,t:0};
+
+map[t].c+=h.topics[t].correct;
+map[t].t+=h.topics[t].correct+h.topics[t].wrong;
+}
+});
+
+let html="";
+
+for(let t in map){
+
+let p=(map[t].c/map[t].t)*100;
+
+html+=`
+<div class="card">
+<h3>${t}</h3>
+<p>${map[t].c}/${map[t].t}</p>
+<p>${p.toFixed(2)}%</p>
+</div>
+`;
+}
+
+document.getElementById("topic").innerHTML=html;
+}
+
+/* HISTORY */
+function renderHistory(){
+
+let html="";
+
+history.slice().reverse().forEach(h=>{
+
+html+=`
+<div class="card">
+
+<h3>${h.user} - ${h.workplace}</h3>
+
+<p>✔ ${h.correct} | ❌ ${h.wrong}</p>
+<p>${h.percent}%</p>
+
+</div>
+`;
+});
+
+document.getElementById("history").innerHTML=html;
+}
+
+/* REVIEW */
+function renderReview(){
+
+if(!history.length)return;
+
+let last=history.at(-1);
+
+let html="";
+
+last.review.forEach((q,i)=>{
+
+html+=`
+<div class="card">
+
+<p>${q.question}</p>
+<p style="color:${q.isCorrect?'green':'red'}">
+${q.isCorrect?"Đúng":"Sai"}
+</p>
+
+<p>Đáp án: ${q.correctAnswer}</p>
+<p>Chọn: ${q.userAnswer}</p>
+
+</div>
+`;
+});
+
+document.getElementById("review").innerHTML=html;
+}
+
+renderRanking();
+renderTopic();
+renderHistory();
+renderReview();
+
+</script>
+
+</body>
+</html>
