@@ -395,6 +395,8 @@ function submitQuiz() {
     `;
 
     renderReview();
+    renderWrongStats();
+    
     if (wrongQuestionsCurrentTest.length > 0) {
 
         document.getElementById(
