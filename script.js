@@ -13,6 +13,11 @@ let userAnswers = {};
 
 let wrongQuestionsCurrentTest = [];
 
+let wrongStats =
+    JSON.parse(
+        localStorage.getItem("wrongStats")
+    ) || {};
+
 let timer;
 let timeLeft = 0;
 
@@ -294,6 +299,27 @@ function submitQuiz() {
             wrong++;
             wrongQuestionsCurrentTest.push(q);
 
+            const key =
+                q.topic + "_" + q.id;
+
+            if (!wrongStats[key]) {
+
+               wrongStats[key] = {
+
+                   id: q.id,
+
+                   topic: q.topic,
+
+                   question: q.question,
+
+                   answer: q.answer,
+
+                   count: 0
+                };
+            }
+
+            wrongStats[key].count++;
+
         }
 
     });
@@ -304,6 +330,11 @@ function submitQuiz() {
     localStorage.setItem(
         "wrongQuestionsCurrentTest",
         JSON.stringify(wrongQuestionsCurrentTest)
+    );
+
+    localStorage.setItem(
+        "wrongStats",
+        JSON.stringify(wrongStats)
     );
 
     // ============================
@@ -364,6 +395,18 @@ function submitQuiz() {
     `;
 
     renderReview();
+    if (wrongQuestionsCurrentTest.length > 0) {
+
+        document.getElementById(
+            "retryWrongBtn"
+        ).style.display = "inline-block";
+
+        document.getElementById(
+            "retryWrongBtn"
+        ).innerHTML =
+            `🔥 Làm lại ${wrongQuestionsCurrentTest.length} câu sai`;
+
+}
 
 }
 
@@ -453,6 +496,66 @@ function renderReview() {
 
 }
 
+function renderWrongStats() {
+    const panel =
+        document.getElementById(
+            "wrongStatsPanel"
+        );
+    const data =
+        JSON.parse(
+            localStorage.getItem(
+                "wrongStats"
+            )
+        ) || {};
+    const arr =
+        Object.values(data);
+    arr.sort(
+        (a, b) =>
+        b.count - a.count
+    );
+    let html = `
+        <h2>
+            🔥 Các câu sai thường gặp
+        </h2>
+    `;
+    if (arr.length === 0) {
+
+        html += `
+            <p>
+                Chưa có dữ liệu.
+            </p>
+        `;
+    } else {
+        arr.forEach((item, index) => {
+
+            html += `
+            <div class="review-item">
+                <h4>
+                    ${index + 1}.
+                    (Sai ${item.count} lần)
+                </h4>
+                <p>
+                    <b>Chủ đề:</b>
+                    ${item.topic}
+                </p>
+                <p>
+                    ${item.question}
+                </p>
+                <p
+                    style="
+                        color:green;
+                        font-weight:bold;
+                    "
+                >
+                    Đáp án đúng:
+                    ${item.answer}
+                </p>
+            </div>
+            `;
+        });
+    }
+    panel.innerHTML = html;
+}
 // ================================
 // EVENT
 // ================================
