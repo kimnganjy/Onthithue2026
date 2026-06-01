@@ -27,6 +27,20 @@ let wrongQuestionBank =
 let timer;
 let timeLeft = 0;
 
+localStorage.setItem(
+    "userName",
+    document.getElementById(
+        "userName"
+    ).value
+);
+
+localStorage.setItem(
+    "userOffice",
+    document.getElementById(
+        "userOffice"
+    ).value
+);
+
 // ================================
 // THÊM: thời gian làm bài
 // ================================
@@ -342,7 +356,7 @@ function submitQuiz() {
     );
 
     localStorage.setItem(
-        "wrongQuestionBank",
+        getUserKey(),
         JSON.stringify(wrongQuestionBank)
     );
 
@@ -737,6 +751,14 @@ document
 });
 
 updateWrongButton();
+
+document.getElementById("userName").value =
+    localStorage.getItem("userName")
+    || "";
+
+document.getElementById("userOffice").value =
+    localStorage.getItem("userOffice")
+    || "";
 
 startBtn.addEventListener("click", startQuiz);
 submitBtn.addEventListener("click", submitQuiz);
