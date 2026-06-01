@@ -20,7 +20,8 @@ let wrongStats =
 
 let wrongQuestionBank =
     JSON.parse(
-        localStorage.getItem("wrongQuestionBank")
+        localStorage.getItem(
+            getUserKey()
     ) || {};
 
 let timer;
@@ -153,6 +154,24 @@ async function startQuiz() {
 // ================================
 // RENDER QUESTIONS
 // ================================
+function getUserKey() {
+    const userName =
+        document
+        .getElementById("userName")
+        ?.value
+        ?.trim();
+    if (!userName) {
+        alert(
+            "Vui lòng nhập họ tên"
+        );
+        return null;
+    }
+    return (
+        "wrongQuestionBank_" +
+        userName
+    );
+}
+
 function renderQuestions() {
     questionsDiv.innerHTML = "";
     selectedQuestions.forEach((q, index) => {
@@ -588,7 +607,7 @@ function updateWrongButton() {
         Object.keys(
             JSON.parse(
                 localStorage.getItem(
-                    "wrongQuestionBank"
+                    getUserKey()
                 )
             ) || {}
         ).length;
@@ -615,7 +634,7 @@ document
         Object.values(
             JSON.parse(
                 localStorage.getItem(
-                        "wrongQuestionBank"
+                    getUserKey()
                 )
             ) || {}
         );
@@ -681,7 +700,7 @@ document
         Object.values(
             JSON.parse(
                 localStorage.getItem(
-                    "wrongQuestionBank"
+                    getUserKey()
                 )
             ) || {}
         );
@@ -716,6 +735,8 @@ document
     );
 
 });
+
+updateWrongButton();
 
 startBtn.addEventListener("click", startQuiz);
 submitBtn.addEventListener("click", submitQuiz);
