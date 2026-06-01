@@ -269,6 +269,7 @@ function submitQuiz() {
                    id: q.id,
                    topic: q.topic,
                    question: q.question,
+                   options: q.options,
                    answer: q.answer,
                    count: 0
                 };
@@ -431,7 +432,7 @@ function renderReview() {
                 }
             </h4>
 
-            <p><b>Chủ đề:</b> ${q.topic}</p>
+            <h4><b>Chủ đề:</b> ${q.topic}</h4>
 
             <p style="margin-top:10px;">
                 ${q.question}
@@ -482,32 +483,51 @@ function renderWrongStats() {
         `;
     } else {
         arr.forEach((item, index) => {
+            let optionsHtml = "";
+            item.options.forEach((opt, i) => {
+                const letter =
+                    String.fromCharCode(65 + i);
+                const cls =
+                    letter === item.answer
+                        ? "correct"
+                        : "";
+                optionsHtml += `
+                    <div
+                        class="${cls}"
+                        style="
+                            padding:8px;
+                            margin:5px 0;
+                        "
+                    >
+                        <b>${letter}.</b>
+                        ${opt}
+                    </div>
+                `;
+            });
 
-            html += `
-            <div class="review-item">
-                <h4>
-                    ${index + 1}.
-                    (Sai ${item.count} lần)
-                </h4>
-                <p>
-                    <b>Chủ đề:</b>
-                    ${item.topic}
-                </p>
-                <p>
-                    ${item.question}
-                </p>
-                <p
-                    style="
-                        color:green;
-                        font-weight:bold;
-                    "
-                >
-                    Đáp án đúng:
-                    ${item.answer}
-                </p>
+    html += `
+        <div class="review-item">
+            <h4>
+                Câu ${item.id}
+                <span class="badge-wrong">
+                    Sai ${item.count} lần
+                </span>
+            </h4>
+            <h4>
+                <b>Chủ đề:</b>
+                ${item.topic}
+            </h4>
+            <p style="margin-top:10px;">
+                ${item.question}
+            </p>
+            ${optionsHtml}
+            <div class="answer-box">
+                Đáp án đúng:
+                ${item.answer}
             </div>
-            `;
-        });
+        </div>
+    `;
+});
     }
     panel.innerHTML = html;
 }
