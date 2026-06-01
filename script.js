@@ -1,5 +1,5 @@
 /****************************
- * STORAGE HELPER
+ * STORAGE
  ****************************/
 const Storage = {
     get(key, fallback = null) {
@@ -20,49 +20,26 @@ const Storage = {
 };
 
 /****************************
- * STATE (GLOBAL CLEAN)
+ * STATE
  ****************************/
 const State = {
     selectedQuestions: [],
     userAnswers: {},
-    wrongCurrent: [],
     wrongStats: Storage.get("wrongStats", {}),
-    wrongBank: {},
     startTime: null,
     timer: null,
     timeLeft: 0
 };
 
 /****************************
- * DOM ELEMENTS
+ * DOM
  ****************************/
-const startBtn = document.getElementById("startBtn");
-const submitBtn = document.getElementById("submitBtn");
-
 const setupDiv = document.getElementById("setup");
 const quizContainer = document.getElementById("quizContainer");
 const resultContainer = document.getElementById("resultContainer");
 
 const questionsDiv = document.getElementById("questions");
 const timerDiv = document.getElementById("timer");
-
-/****************************
- * TOPIC FILES
- ****************************/
-const TOPIC_FILES = [
-    "congchuccongvu",
-    "hkd_cnkd",
-    "luatqlt",
-    "kekhaiktt",
-    "khieunaitocao",
-    "pcthamnhung",
-    "quychektnb",
-    "quytrinhktra",
-    "thuegtgt",
-    "thuetndn",
-    "thuetncn",
-    "xuphatvphc"
-];
 
 /****************************
  * USER KEY
@@ -77,7 +54,7 @@ function getUserKey() {
 }
 
 /****************************
- * UTILS
+ * UTIL
  ****************************/
 function shuffle(array) {
     const arr = [...array];
@@ -168,44 +145,33 @@ function collectAnswers() {
  * START QUIZ
  ****************************/
 async function startQuiz() {
-    const checkedTopics = document.querySelectorAll(
+    const checked = document.querySelectorAll(
         '.topics input[type="checkbox"]:checked'
     );
 
-    if (!checkedTopics.length) {
-        alert("Vui lòng chọn ít nhất 1 chủ đề");
+    if (!checked.length) {
+        alert("Chọn ít nhất 1 topic");
         return;
     }
 
     const questionCount = document.getElementById("questionCount").value;
 
-    let allQuestions = [];
+    let all = [];
 
-    for (const topic of checkedTopics) {
-        const data = await loadTopic(topic.value);
-
-        allQuestions.push(
-            ...data.questions.map(q => ({
-                ...q,
-                topic: data.topic
-            }))
-        );
+    for (const t of checked) {
+        const data = await loadTopic(t.value);
+        all.push(...data.questions.map(q => ({
+            ...q,
+            topic: data.topic
+        })));
     }
 
-    if (
-        questionCount !== "full" &&
-        allQuestions.length < Number(questionCount)
-    ) {
-        alert("Không đủ câu hỏi");
-        return;
-    }
-
-    const shuffled = shuffle(allQuestions);
+    shuffle(all);
 
     State.selectedQuestions =
         questionCount === "full"
-            ? shuffled
-            : shuffled.slice(0, Number(questionCount));
+            ? all
+            : all.slice(0, Number(questionCount));
 
     setupDiv.style.display = "none";
     quizContainer.style.display = "block";
@@ -230,53 +196,43 @@ function submitQuiz() {
 
     collectAnswers();
 
-    const wrongKey = getUserKey();
-    if (!wrongKey) return;
+    const key = getUserKey();
+    if (!key) return;
 
-    let wrongBank = Storage.get(wrongKey, {});
+    let wrongBank = Storage.get(key, {});
 
     let correct = 0;
     let wrong = 0;
 
-    State.wrongCurrent = [];
-
-    State.selectedQuestions.forEach((q, index) => {
-        const ans = State.userAnswers[index];
-        const key = `${q.topic}_${q.id}`;
+    State.selectedQuestions.forEach((q, i) => {
+        const ans = State.userAnswers[i];
+        const k = `${q.topic}_${q.id}`;
 
         if (ans === q.answer) {
             correct++;
-            delete wrongBank[key];
+            delete wrongBank[k];
         } else {
             wrong++;
-            State.wrongCurrent.push(q);
 
-            State.wrongStats[key] ??= {
-                ...q,
-                count: 0
-            };
+            State.wrongStats[k] ??= { ...q, count: 0 };
+            State.wrongStats[k].count++;
 
-            State.wrongStats[key].count++;
-
-            wrongBank[key] = q;
+            wrongBank[k] = q;
         }
     });
 
     Storage.set("wrongStats", State.wrongStats);
-    Storage.set(wrongKey, wrongBank);
+    Storage.set(key, wrongBank);
 
-    const timeSpent = Math.floor((Date.now() - State.startTime) / 1000);
+    const spent = Math.floor((Date.now() - State.startTime) / 1000);
 
     quizContainer.style.display = "none";
     resultContainer.style.display = "block";
 
     document.getElementById("score").innerHTML = `
-        <div class="result-summary">
-            <p>📌 Tổng: <b>${State.selectedQuestions.length}</b></p>
-            <p>✅ Đúng: <b>${correct}</b></p>
-            <p>❌ Sai: <b>${wrong}</b></p>
-            <p>⏱ Thời gian: <b>${timeSpent}s</b></p>
-        </div>
+        <p>Đúng: ${correct}</p>
+        <p>Sai: ${wrong}</p>
+        <p>Thời gian: ${spent}s</p>
     `;
 
     renderReview();
@@ -290,20 +246,20 @@ function renderReview() {
     const review = document.getElementById("review");
     review.innerHTML = "";
 
-    State.selectedQuestions.forEach((q, index) => {
-        const userAnswer = State.userAnswers[index];
+    State.selectedQuestions.forEach((q, i) => {
+        const userAnswer = State.userAnswers[i];
         const isCorrect = userAnswer === q.answer;
 
-        let optionsHtml = "";
+        let options = "";
 
-        q.options.forEach((opt, i) => {
-            const letter = String.fromCharCode(65 + i);
+        q.options.forEach((opt, idx) => {
+            const letter = String.fromCharCode(65 + idx);
 
             let cls = "";
             if (letter === q.answer) cls = "correct";
             if (userAnswer === letter && letter !== q.answer) cls = "wrong";
 
-            optionsHtml += `
+            options += `
                 <div class="${cls}" style="padding:8px;margin:5px 0;">
                     <b>${letter}.</b> ${opt}
                 </div>
@@ -313,7 +269,7 @@ function renderReview() {
         review.innerHTML += `
             <div class="review-item">
                 <h4>
-                    Câu ${index + 1}
+                    Câu ${i + 1}
                     ${isCorrect
                         ? '<span class="badge-correct">Đúng</span>'
                         : '<span class="badge-wrong">Sai</span>'
@@ -322,10 +278,10 @@ function renderReview() {
 
                 <p>${q.question}</p>
 
-                ${optionsHtml}
+                ${options}
 
                 <div class="answer-box">
-                    Đáp án đúng: ${q.answer}
+                    Đáp án: ${q.answer}
                 </div>
             </div>
         `;
@@ -343,15 +299,14 @@ function renderWrongStats() {
     let html = `<h2>🔥 Câu sai thường gặp</h2>`;
 
     if (!arr.length) {
-        html += `<p>Chưa có dữ liệu</p>`;
-        panel.innerHTML = html;
+        panel.innerHTML = html + "<p>Chưa có dữ liệu</p>";
         return;
     }
 
     arr.forEach(item => {
         html += `
             <div class="review-item">
-                <h4>⚡ ${item.id} <span class="badge-wrong">Sai ${item.count}</span></h4>
+                <h4>⚡ ${item.id} - Sai ${item.count}</h4>
                 <p>${item.question}</p>
                 <div class="answer-box">Đáp án: ${item.answer}</div>
             </div>
@@ -362,16 +317,76 @@ function renderWrongStats() {
 }
 
 /****************************
- * EVENTS
+ * EVENT SYSTEM (FIX 100%)
  ****************************/
-startBtn.addEventListener("click", startQuiz);
-submitBtn.addEventListener("click", submitQuiz);
+document.addEventListener("click", (e) => {
+    const id = e.target?.id;
 
-/****************************
- * INIT USER DATA
- ****************************/
-document.getElementById("userName").value =
-    localStorage.getItem("userName") || "";
+    switch (id) {
 
-document.getElementById("userOffice").value =
-    localStorage.getItem("userOffice") || "";
+        case "startBtn":
+            startQuiz();
+            break;
+
+        case "submitBtn":
+            submitQuiz();
+            break;
+
+        case "reviewWrongBtn": {
+            const key = getUserKey();
+            if (!key) return;
+
+            const arr = Object.values(Storage.get(key, {}));
+
+            if (!arr.length) {
+                alert("Chưa có câu sai nào.");
+                return;
+            }
+
+            State.selectedQuestions = arr;
+
+            setupDiv.style.display = "none";
+            resultContainer.style.display = "none";
+            quizContainer.style.display = "block";
+
+            renderQuestions();
+
+            State.startTime = Date.now();
+
+            startTimer(Math.max(5, arr.length));
+            break;
+        }
+
+        case "retryWrongBtn": {
+            const key = getUserKey();
+            if (!key) return;
+
+            const arr = Object.values(Storage.get(key, {}));
+
+            if (!arr.length) {
+                alert("Không có câu sai.");
+                return;
+            }
+
+            State.selectedQuestions = arr;
+
+            resultContainer.style.display = "none";
+            setupDiv.style.display = "none";
+            quizContainer.style.display = "block";
+
+            renderQuestions();
+
+            State.startTime = Date.now();
+
+            startTimer(Math.max(5, arr.length));
+            break;
+        }
+
+        case "clearWrongStatsBtn":
+            if (confirm("Xóa thống kê?")) {
+                Storage.remove("wrongStats");
+                renderWrongStats();
+            }
+            break;
+    }
+});
