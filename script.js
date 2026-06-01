@@ -508,9 +508,9 @@ function renderWrongStats() {
     html += `
         <div class="review-item">
             <h4>
-                Câu ${item.id}
+                ⚡Câu ${item.id}
                 <span class="badge-wrong">
-                    Sai ${item.count} lần
+                    ❌ Sai ${item.count} lần
                 </span>
             </h4>
             <h4>
