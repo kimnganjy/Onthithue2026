@@ -258,7 +258,9 @@ function submitQuiz() {
         } else {
 
             wrong++;
-            wrongQuestionsCurrentTest.push(q);
+            wrongQuestionsCurrentTest.push({
+                ...q
+            });
 
             const key =
                 q.topic + "_" + q.id;
