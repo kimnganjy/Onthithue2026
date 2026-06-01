@@ -204,6 +204,7 @@
       "id": 19,
       "question": "Trách nhiệm của cơ quan, tổ chức, đơn vị trong phòng, chống tham nhũng bao gồm:",
       "options": [
+        "Thực hiện các biện pháp phòng ngừa tham nhũng.",
         "Kịp thời phát hiện, xử lý theo thẩm quyền và phối hợp với cơ quan nhà nước có thẩm quyền trong việc xử lý tham nhũng.",
         "Bảo vệ quyền và lợi ích hợp pháp của người phản ánh, tố cáo tham nhũng.",
         "Tất cả các phương án trên."
@@ -238,6 +239,7 @@
       "options": [
         "Công bố tại cuộc họp của cơ quan, tổ chức, đơn vị.",
         "Niêm yết tại trụ sở làm việc.",
+        "Thông báo bằng văn bản đến cơ quan, tổ chức, đơn vị, cá nhân có liên quan. ",
         "Tất cả các hình thức trên."
       ],
       "answer": "D"
@@ -432,6 +434,7 @@
       "id": 40,
       "question": "Các hành vi tham nhũng trong khu vực ngoài nhà nước áp dụng đối với công ty đại chúng, tổ chức tín dụng bao gồm:",
       "options": [
+        "Tham ô tài sản.",
         "Nhận hối lộ.",
         "Đưa hối lộ, môi giới hối lộ để giải quyết công việc của doanh nghiệp, tổ chức mình vì vụ lợi.",
         "Tất cả các phương án trên."
@@ -839,11 +842,25 @@
         "Là khi hai công chức thuế tranh giành một vị trí thăng tiến.",
         "Là tình huống mà lợi ích của người có chức vụ, quyền hạn hoặc người thân của họ tác động hoặc có khả năng tác động không đúng đến việc thực hiện nhiệm vụ, công vụ.",
         "Là khi doanh nghiệp nợ thuế và cơ quan thuế cưỡng chế tài khoản.",
-        "Là sự bất đồng ý kiến giữa lãnh đạo và nhân viên về kế hoạch thu thuế.",
+        "Là sự bất đồng ý kiến giữa lãnh đạo và nhân viên về kế hoạch thu thuế."
+       ],
+      "answer": "B"
+    },
+    {
+      "id": 78,
+      "question": "Tại sao báo chí có quyền yêu cầu cơ quan thuế cung cấp thông tin về các vụ việc tham nhũng:",
+      "options": [       
         "Để báo chí có tin bài gây sốt (scandal).",
         "Để thực hiện vai trò giám sát xã hội, phản biện và tuyên truyền, giúp công chúng cùng tham gia đấu tranh chống tham nhũng.",
         "Để báo chí thay mặt Tòa án tuyên bố người có tội.",
-        "Để báo chí được ưu tiên trong việc thu nộp thuế.",
+        "Để báo chí được ưu tiên trong việc thu nộp thuế."
+       ],
+      "answer": "B"
+    },
+    {
+      "id": 79,
+      "question": "Việc tạm đình chỉ công tác đối với người bị nghi ngờ tham nhũng có phải là hình thức kỷ luật không:",
+      "options": [       
         "Đúng, đây là hình thức kỷ luật nặng nhất.",
         "Không, đây chỉ là biện pháp ngăn chặn tạm thời để đảm bảo quá trình xác minh, làm rõ sự việc diễn ra khách quan.",
         "Đúng, vì người đó bị mất uy tín trước cơ quan.",
