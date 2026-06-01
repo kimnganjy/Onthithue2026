@@ -145,88 +145,56 @@ async function startQuiz() {
     // ============================
     startTime = Date.now();
 }
-
 // ================================
 // RENDER QUESTIONS
 // ================================
 function renderQuestions() {
-
     questionsDiv.innerHTML = "";
-
     selectedQuestions.forEach((q, index) => {
-
         const div =
             document.createElement("div");
-
         div.className = "question";
-
         div.innerHTML = `
-
             <h3>
                 Câu ${index + 1}. ${q.question}
             </h3>
-
             ${q.options.map((opt, i) => {
-
                 const letter =
                     String.fromCharCode(65 + i);
-
                 return `
-
                     <div class="option">
-
                         <label>
-
                             <input
                                 type="radio"
                                 name="q${index}"
                                 value="${letter}"
                             >
-
                             <b>${letter}.</b>
                             ${opt}
-
                         </label>
-
                     </div>
-
                 `;
-
             }).join("")}
-
         `;
-
         questionsDiv.appendChild(div);
-
     });
 }
-
 // ================================
 // TIMER
 // ================================
 function startTimer(minutes) {
-
     timeLeft = minutes * 60;
-
     updateTimer();
-
     timer =
         setInterval(() => {
-
             timeLeft--;
-
             updateTimer();
-
             if (timeLeft <= 0) {
-
                 clearInterval(timer);
-
                 alert(
                     "Đã hết thời gian. Bạn vẫn có thể nộp bài."
                 );
-
             }
-
         }, 1000);
 }
 
@@ -251,24 +219,17 @@ function updateTimer() {
 // COLLECT ANSWERS
 // ================================
 function collectAnswers() {
-
     userAnswers = {};
-
     selectedQuestions.forEach((q, index) => {
-
         const selected =
             document.querySelector(
                 `input[name="q${index}"]:checked`
             );
-
         if (selected) {
-
             userAnswers[index] =
                 selected.value;
         }
-
     });
-
 }
 
 // ================================
@@ -305,23 +266,15 @@ function submitQuiz() {
             if (!wrongStats[key]) {
 
                wrongStats[key] = {
-
                    id: q.id,
-
                    topic: q.topic,
-
                    question: q.question,
-
                    answer: q.answer,
-
                    count: 0
                 };
             }
-
             wrongStats[key].count++;
-
         }
-
     });
 
     const percent =
@@ -561,5 +514,28 @@ function renderWrongStats() {
 // ================================
 // EVENT
 // ================================
+document
+.getElementById(
+    "clearWrongStatsBtn"
+)
+?.addEventListener(
+    "click",
+    () => {
+
+        if (
+            confirm(
+                "Xóa toàn bộ thống kê câu sai?"
+            )
+        ) {
+
+            localStorage.removeItem(
+                "wrongStats"
+            );
+
+            renderWrongStats();
+        }
+    }
+);
+
 startBtn.addEventListener("click", startQuiz);
 submitBtn.addEventListener("click", submitQuiz);
