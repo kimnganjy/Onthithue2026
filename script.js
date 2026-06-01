@@ -550,6 +550,47 @@ function renderWrongStats() {
 // EVENT
 // ================================
 document
+.getElementById("retryWrongBtn")
+?.addEventListener("click", () => {
+
+    const wrongQuestions =
+        JSON.parse(
+            localStorage.getItem(
+                "wrongQuestionsCurrentTest"
+            )
+        ) || [];
+
+    if (wrongQuestions.length === 0) {
+
+        alert(
+            "Không có câu sai để làm lại."
+        );
+
+        return;
+    }
+
+    selectedQuestions =
+        wrongQuestions;
+
+    resultContainer.style.display =
+        "none";
+
+    quizContainer.style.display =
+        "block";
+
+    renderQuestions();
+
+    startTime = Date.now();
+
+    startTimer(
+        Math.max(
+            5,
+            wrongQuestions.length
+        )
+    );
+});
+
+document
 .getElementById(
     "clearWrongStatsBtn"
 )
