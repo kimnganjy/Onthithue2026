@@ -484,26 +484,41 @@ function renderWrongStats() {
     } else {
         arr.forEach((item, index) => {
             let optionsHtml = "";
-            item.options.forEach((opt, i) => {
-                const letter =
-                    String.fromCharCode(65 + i);
-                const cls =
-                    letter === item.answer
-                        ? "correct"
-                        : "";
-                optionsHtml += `
-                    <div
-                        class="${cls}"
-                        style="
-                            padding:8px;
-                            margin:5px 0;
-                        "
-                    >
-                        <b>${letter}.</b>
-                        ${opt}
-                    </div>
-                `;
-            });
+
+            if (item.options && Array.isArray(item.options)) {
+
+                item.options.forEach((opt, i) => {
+
+                    const letter =
+                        String.fromCharCode(65 + i);
+
+                    const cls =
+                        letter === item.answer
+                            ? "correct"
+                            : "";
+
+                    optionsHtml += `
+                        <div
+                            class="${cls}"
+                            style="
+                                padding:8px;
+                                margin:5px 0;
+                            "
+                        >
+                            <b>${letter}.</b>
+                            ${opt}
+                        </div>
+                    `;
+                });
+
+} else {
+
+    optionsHtml = `
+        <div class="answer-box">
+            Đáp án đúng: ${item.answer}
+        </div>
+    `;
+}
 
     html += `
         <div class="review-item">
