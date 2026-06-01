@@ -11,6 +11,8 @@ const timerDiv = document.getElementById("timer");
 let selectedQuestions = [];
 let userAnswers = {};
 
+let wrongQuestionsCurrentTest = [];
+
 let timer;
 let timeLeft = 0;
 
@@ -276,6 +278,8 @@ function submitQuiz() {
     let correct = 0;
     let wrong = 0;
 
+    wrongQuestionsCurrentTest = [];
+
     selectedQuestions.forEach((q, index) => {
 
         const answer =
@@ -288,6 +292,7 @@ function submitQuiz() {
         } else {
 
             wrong++;
+            wrongQuestionsCurrentTest.push(q);
 
         }
 
@@ -295,6 +300,11 @@ function submitQuiz() {
 
     const percent =
         (correct / selectedQuestions.length) * 100;
+
+    localStorage.setItem(
+        "wrongQuestionsCurrentTest",
+        JSON.stringify(wrongQuestionsCurrentTest)
+    );
 
     // ============================
     // THỜI GIAN HOÀN THÀNH
