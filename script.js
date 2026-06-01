@@ -582,6 +582,28 @@ function renderWrongStats() {
     }
     panel.innerHTML = html;
 }
+function updateWrongButton() {
+
+    const count =
+        Object.keys(
+            JSON.parse(
+                localStorage.getItem(
+                    "wrongQuestionBank"
+                )
+            ) || {}
+        ).length;
+
+    const btn =
+        document.getElementById(
+            "reviewWrongBtn"
+        );
+
+    if (!btn) return;
+
+    btn.innerHTML =
+        `🔥 Ôn tập câu sai (${count})`;
+}
+
 // ================================
 // EVENT
 // ================================
@@ -650,6 +672,50 @@ document
         }
     }
 );
+
+document
+.getElementById("reviewWrongBtn")
+?.addEventListener("click", () => {
+
+    const wrongQuestions =
+        Object.values(
+            JSON.parse(
+                localStorage.getItem(
+                    "wrongQuestionBank"
+                )
+            ) || {}
+        );
+
+    if (wrongQuestions.length === 0) {
+
+        alert(
+            "Chưa có câu sai nào để ôn tập."
+        );
+
+        return;
+    }
+
+    selectedQuestions =
+        wrongQuestions;
+
+    setupDiv.style.display =
+        "none";
+
+    quizContainer.style.display =
+        "block";
+
+    renderQuestions();
+
+    startTime = Date.now();
+
+    startTimer(
+        Math.max(
+            5,
+            wrongQuestions.length
+        )
+    );
+
+});
 
 startBtn.addEventListener("click", startQuiz);
 submitBtn.addEventListener("click", submitQuiz);
