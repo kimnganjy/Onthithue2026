@@ -1,10 +1,11 @@
 /****************************
- * STORAGE
+ * STORAGE SAFE
  ****************************/
 const Storage = {
-    get(key, fallback = null) {
+    get(key, fallback = {}) {
         try {
-            return JSON.parse(localStorage.getItem(key)) ?? fallback;
+            const data = localStorage.getItem(key);
+            return data ? JSON.parse(data) : fallback;
         } catch {
             return fallback;
         }
@@ -32,7 +33,7 @@ const State = {
 };
 
 /****************************
- * DOM
+ * DOM ROOTS
  ****************************/
 const setupDiv = document.getElementById("setup");
 const quizContainer = document.getElementById("quizContainer");
@@ -42,15 +43,18 @@ const questionsDiv = document.getElementById("questions");
 const timerDiv = document.getElementById("timer");
 
 /****************************
- * USER KEY
+ * USER KEY (FIX QUAN TRỌNG)
  ****************************/
 function getUserKey() {
     const name = document.getElementById("userName")?.value?.trim();
+
     if (!name) {
-        alert("Vui lòng nhập họ tên");
+        alert("Vui lòng nhập họ tên trước khi sử dụng chức năng này");
         return null;
     }
-    return "wrongQuestionBank_" + name;
+
+    // FIX: chuẩn hóa key tránh lệch dữ liệu
+    return "wrongQuestionBank_" + name.trim().toLowerCase();
 }
 
 /****************************
@@ -104,6 +108,8 @@ function startTimer(minutes) {
     State.timeLeft = minutes * 60;
     updateTimer();
 
+    clearInterval(State.timer);
+
     State.timer = setInterval(() => {
         State.timeLeft--;
         updateTimer();
@@ -150,16 +156,18 @@ async function startQuiz() {
     );
 
     if (!checked.length) {
-        alert("Chọn ít nhất 1 topic");
+        alert("Chọn ít nhất 1 chủ đề");
         return;
     }
 
-    const questionCount = document.getElementById("questionCount").value;
+    const questionCount =
+        document.getElementById("questionCount").value;
 
     let all = [];
 
     for (const t of checked) {
         const data = await loadTopic(t.value);
+
         all.push(...data.questions.map(q => ({
             ...q,
             topic: data.topic
@@ -189,7 +197,7 @@ async function startQuiz() {
 }
 
 /****************************
- * SUBMIT QUIZ
+ * SUBMIT QUIZ (FIX SAVE DATA)
  ****************************/
 function submitQuiz() {
     clearInterval(State.timer);
@@ -204,6 +212,8 @@ function submitQuiz() {
     let correct = 0;
     let wrong = 0;
 
+    const wrongCurrent = [];
+
     State.selectedQuestions.forEach((q, i) => {
         const ans = State.userAnswers[i];
         const k = `${q.topic}_${q.id}`;
@@ -213,6 +223,7 @@ function submitQuiz() {
             delete wrongBank[k];
         } else {
             wrong++;
+            wrongCurrent.push(q);
 
             State.wrongStats[k] ??= { ...q, count: 0 };
             State.wrongStats[k].count++;
@@ -224,7 +235,11 @@ function submitQuiz() {
     Storage.set("wrongStats", State.wrongStats);
     Storage.set(key, wrongBank);
 
-    const spent = Math.floor((Date.now() - State.startTime) / 1000);
+    // 🔥 FIX QUAN TRỌNG: lưu lại current wrong
+    State.wrongCurrent = wrongCurrent;
+
+    const spent =
+        Math.floor((Date.now() - State.startTime) / 1000);
 
     quizContainer.style.display = "none";
     resultContainer.style.display = "block";
@@ -237,6 +252,16 @@ function submitQuiz() {
 
     renderReview();
     renderWrongStats();
+
+    // 🔥 FIX HIỆN NÚT LÀM LẠI CÂU SAI
+    const retryBtn = document.getElementById("retryWrongBtn");
+    if (retryBtn) {
+        retryBtn.style.display =
+            wrongCurrent.length > 0 ? "inline-block" : "none";
+
+        retryBtn.innerHTML =
+            `🔥 Làm lại ${wrongCurrent.length} câu sai`;
+    }
 }
 
 /****************************
@@ -268,21 +293,10 @@ function renderReview() {
 
         review.innerHTML += `
             <div class="review-item">
-                <h4>
-                    Câu ${i + 1}
-                    ${isCorrect
-                        ? '<span class="badge-correct">Đúng</span>'
-                        : '<span class="badge-wrong">Sai</span>'
-                    }
-                </h4>
-
+                <h4>Câu ${i + 1}</h4>
                 <p>${q.question}</p>
-
                 ${options}
-
-                <div class="answer-box">
-                    Đáp án: ${q.answer}
-                </div>
+                <div class="answer-box">Đáp án: ${q.answer}</div>
             </div>
         `;
     });
@@ -294,7 +308,9 @@ function renderReview() {
 function renderWrongStats() {
     const panel = document.getElementById("wrongStatsPanel");
     const data = Storage.get("wrongStats", {});
-    const arr = Object.values(data).sort((a, b) => b.count - a.count);
+
+    const arr = Object.values(data)
+        .sort((a, b) => b.count - a.count);
 
     let html = `<h2>🔥 Câu sai thường gặp</h2>`;
 
@@ -306,7 +322,7 @@ function renderWrongStats() {
     arr.forEach(item => {
         html += `
             <div class="review-item">
-                <h4>⚡ ${item.id} - Sai ${item.count}</h4>
+                <h4>⚡ Sai ${item.count} lần</h4>
                 <p>${item.question}</p>
                 <div class="answer-box">Đáp án: ${item.answer}</div>
             </div>
@@ -317,7 +333,7 @@ function renderWrongStats() {
 }
 
 /****************************
- * EVENT SYSTEM (FIX 100%)
+ * EVENT SYSTEM (PRO FIX)
  ****************************/
 document.addEventListener("click", (e) => {
     const id = e.target?.id;
@@ -336,10 +352,11 @@ document.addEventListener("click", (e) => {
             const key = getUserKey();
             if (!key) return;
 
-            const arr = Object.values(Storage.get(key, {}));
+            const arr =
+                Object.values(Storage.get(key, {}));
 
             if (!arr.length) {
-                alert("Chưa có câu sai nào.");
+                alert("Chưa có câu sai nào để ôn tập.");
                 return;
             }
 
@@ -352,7 +369,6 @@ document.addEventListener("click", (e) => {
             renderQuestions();
 
             State.startTime = Date.now();
-
             startTimer(Math.max(5, arr.length));
             break;
         }
@@ -361,7 +377,8 @@ document.addEventListener("click", (e) => {
             const key = getUserKey();
             if (!key) return;
 
-            const arr = Object.values(Storage.get(key, {}));
+            const arr =
+                Object.values(Storage.get(key, {}));
 
             if (!arr.length) {
                 alert("Không có câu sai.");
@@ -370,14 +387,13 @@ document.addEventListener("click", (e) => {
 
             State.selectedQuestions = arr;
 
-            resultContainer.style.display = "none";
             setupDiv.style.display = "none";
+            resultContainer.style.display = "none";
             quizContainer.style.display = "block";
 
             renderQuestions();
 
             State.startTime = Date.now();
-
             startTimer(Math.max(5, arr.length));
             break;
         }
