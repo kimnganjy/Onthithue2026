@@ -79,9 +79,7 @@ async function startQuiz() {
     }
 
     const questionCount =
-        parseInt(
-            document.getElementById("questionCount").value
-        );
+        document.getElementById("questionCount").value;
 
     let allQuestions = [];
 
@@ -101,7 +99,10 @@ async function startQuiz() {
         allQuestions.push(...questions);
     }
 
-    if (allQuestions.length < questionCount) {
+    if (
+        questionCount !== "full" &&
+        allQuestions.length < Number(questionCount)
+    ) {
 
         alert("Tổng số câu hỏi không đủ.");
 
@@ -110,15 +111,27 @@ async function startQuiz() {
 
     shuffle(allQuestions);
 
-    selectedQuestions =
-        allQuestions.slice(0, questionCount);
+    if (questionCount === "full") {
+
+        selectedQuestions = allQuestions;
+
+    } else {
+
+        selectedQuestions =
+            allQuestions.slice(0, Number(questionCount));
+    }
 
     setupDiv.style.display = "none";
     quizContainer.style.display = "block";
 
     renderQuestions();
 
-    startTimer(questionCount);
+    const timerMinutes =
+    questionCount === "full"
+        ? Math.ceil(selectedQuestions.length / 2)
+        : Number(questionCount);
+
+    startTimer(timerMinutes);
 
     // ============================
     // GHI THỜI GIAN BẮT ĐẦU
