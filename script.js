@@ -18,6 +18,11 @@ let wrongStats =
         localStorage.getItem("wrongStats")
     ) || {};
 
+let wrongQuestionBank =
+    JSON.parse(
+        localStorage.getItem("wrongQuestionBank")
+    ) || {};
+
 let timer;
 let timeLeft = 0;
 
@@ -251,32 +256,56 @@ function submitQuiz() {
         const answer =
             userAnswers[index];
 
-        if (answer === q.answer) {
+        const key =
+            q.topic + "_" + q.id;
+
+            if (answer === q.answer) {
 
             correct++;
+
+            // nếu trước đây từng sai
+            // thì làm đúng sẽ xóa khỏi ngân hàng sai
+
+            if (wrongQuestionBank[key]) {
+
+                delete wrongQuestionBank[key];
+            }
 
         } else {
 
             wrong++;
+
             wrongQuestionsCurrentTest.push({
                 ...q
             });
 
-            const key =
-                q.topic + "_" + q.id;
+            // thống kê số lần sai
 
             if (!wrongStats[key]) {
 
-               wrongStats[key] = {
-                   id: q.id,
-                   topic: q.topic,
-                   question: q.question,
-                   options: q.options,
-                   answer: q.answer,
-                   count: 0
+                wrongStats[key] = {
+
+                    id: q.id,
+                    topic: q.topic,
+                    question: q.question,
+                    options: q.options,
+                    answer: q.answer,
+                    count: 0
                 };
             }
+
             wrongStats[key].count++;
+
+            // thêm vào ngân hàng câu sai
+
+            wrongQuestionBank[key] = {
+
+                id: q.id,
+                topic: q.topic,
+                question: q.question,
+                options: q.options,
+                answer: q.answer
+            };
         }
     });
 
@@ -291,6 +320,11 @@ function submitQuiz() {
     localStorage.setItem(
         "wrongStats",
         JSON.stringify(wrongStats)
+    );
+
+    localStorage.setItem(
+        "wrongQuestionBank",
+        JSON.stringify(wrongQuestionBank)
     );
 
     // ============================
@@ -556,11 +590,13 @@ document
 ?.addEventListener("click", () => {
 
     const wrongQuestions =
-        JSON.parse(
-            localStorage.getItem(
-                "wrongQuestionsCurrentTest"
-            )
-        ) || [];
+        Object.values(
+            JSON.parse(
+                localStorage.getItem(
+                        "wrongQuestionBank"
+                )
+            ) || {}
+        );
 
     if (wrongQuestions.length === 0) {
 
